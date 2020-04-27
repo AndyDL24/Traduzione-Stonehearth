@@ -1,3 +1,4 @@
+<img src = maxresdefault.jpg><br><br>
 # Traduzione-Stonehearth
 Traduzione in italiano del videogioco di Stonehearth
 Per aggiungere il file purtroppo va fatto direttamente da me perche serve steam,
