@@ -6537,10 +6537,10 @@
                         "dialog_nodes": {
                           "simple_message": {
                             "bulletin_message": {
-                              "00": "Sasha returns, followed by your dispatched citizens and a massive, sparkling bow balanced atop a skittering golem.<br><br>\"I have returned, not only with your citizens, but with a completed Crystalline Arbalest, built to the specifications of my ancestors. I... hope it works.\"<br><br>\"Signal your readiness by deploying it, and I'll instruct you in its usage.\""
+                              "00": "Sasha ritorna, seguito dai tuoi cittadini spediti e un arco massiccio e scintillante in equilibrio su un golem sospeso.<br><br>\"Sono tornato, non solo con i tuoi cittadini, ma con un Completo Arbalest Cristallino, costruito secondo le specifiche dei miei antenati. Spero che funzioni.\"<br><br>\"Segnala la tua prontezza distribuendola e ti darò istruzioni sul suo utilizzo.\""
                             },
-                            "bulletin_title": "A Titanic Undertaking",
-                            "choice_000": "Wow, good work!"
+                            "bulletin_title": "Un'impresa titanica",
+                            "choice_000": "Wow, buon lavoro!"
                           }
                         }
                       }
@@ -6550,63 +6550,63 @@
                         "dialog_nodes": {
                           "simple_message": {
                             "bulletin_message": {
-                              "00": "The Rabbit Geomancer brought some Hearthbloom, Hearth Essence, and raw materials along with them, to help start their new aboveground practice."
+                              "00": "Il geomante Coniglio ha portato con sé un po' di fiori del cuore, essenza del focolare e materie prime, per aiutare a iniziare la loro nuova pratica fuori terra."
                             },
-                            "bulletin_title": "A Geomancer's Things!",
-                            "dialog_title": "A Geomancer's Things!",
+                            "bulletin_title": "Le cose di un geomante!",
+                            "dialog_title": "Le cose di un geomante!",
                             "choice_000": "OK"
                           }
                         }
                       }
                     },
                     "57_grant_bun_geomancer": {
-                      "notification_title": "A Rabbit Geomancy Master joins your town!"
+                      "notification_title": "Un maestro di geomanzia Coniglio si unisce alla tua città!"
                     },
                     "50_titan_weapon_quest": {
-                      "title": "A Titanic Undertaking",
-                      "dialog_title": "A Titanic Undertaking",
-                      "text": "Choose a Mason (Lv4), Blacksmith (Lv4), plus any two other citizens to help Clan Amberstone"
+                      "title": "Un'impresa titanica",
+                      "dialog_title": "Un'impresa titanica",
+                      "text": "Scegli un muratore (Lv4), un fabbro (Lv4) e altri due cittadini per aiutare il Clan Amberstone"
                     }
                   },
                   "40_recipe_sharing": {
                     "40_grant_recipes_mason": {
-                      "bulletin_title": "Amberstone Mason recipes unlocked!"
+                      "bulletin_title": "Ricette per muratore di Amberstone sbloccate!"
                     },
                     "40_grant_recipes_weaver": {
-                      "bulletin_title": "Amberstone Weaver recipes unlocked!"
+                      "bulletin_title": "Ricette del tessitore di Amberstone sbloccate!"
                     },
                     "40_recipe_sharing_intro": {
                       "dialog_tree_info": {
                         "dialog_nodes": {
                           "accept": {
                             "bulletin_message": {
-                              "00": "\"Splendid! I think even a novice Mason and Weaver would work just fine, so long as they're receptive to teaching. It shouldn't take more than two days.\""
+                              "00": "\"Splendido! Penso che anche un muratore e un tessitore alle prime armi funzionerebbero bene, purché recettivi all'insegnamento. Non dovrebbero volerci più di due giorni.\""
                             },
                             "bulletin_title": "Lapine Style",
-                            "choice_000": "Let's see who to send..."
+                            "choice_000": "Vediamo chi inviare..."
                           },
                           "reject2": {
                             "bulletin_message": {
-                              "00": "\"Hum. Well, I suppose maybe I still have much to learn about human aesthetics after all...\""
+                              "00": "\"Hum. Beh, suppongo che forse ho ancora molto da imparare sull'estetica umana dopo tutto...\""
                             },
                             "bulletin_title": "Lapine Style",
-                            "choice_000": "Thanks for visiting, though!"
+                            "choice_000": "Grazie per la visita, però!"
                           },
                           "msg1": {
                             "bulletin_message": {
-                              "00": "\"Kind greetings, human friends! I was struck by an idea after watching your crafters at work - how would you like to send a Mason and a Weaver down to our warren for a few days, to learn our various crafting recipes and techniques?\""
+                              "00": "\"Saluti gentili, amici umani! Mi ha colpito l'idea dopo aver visto i vostri artigiani al lavoro vi piacerebbe mandare un muratore e un tessitore nei nostri guerrieri per alcuni giorni, per imparare le nostre varie ricette e tecniche di fabbricazione?\""
                             },
                             "bulletin_title": "Lapine Style",
-                            "choice_000": "Sounds great!",
-                            "choice_001": "[Decline] Hm. Nah."
+                            "choice_000": "Sembra fantastico!",
+                            "choice_001": "[Rifiuta] Hm. Nah."
                           },
                           "reject": {
                             "bulletin_message": {
-                              "00": "\"Oh. I thought it was a clever idea, myself.\"<br><br>\"Are you certain? <i>I'll not offer again</i>, you see.\""
+                              "00": "\"Oh. Ho pensato che fosse un'idea intelligente.\"<br><br>\"Sei sicuro? <i>Non te lo offrirò di nuovo</i>.\""
                             },
                             "bulletin_title": "Lapine Style",
-                            "choice_000": "Nah, not a fan of your style",
-                            "choice_001": "[Back] Wait, I changed my mind!"
+                            "choice_000": "No, non sono un fan del tuo stile",
+                            "choice_001": "[Indietro] Aspetta, ho cambiato idea!"
                           }
                         }
                       }
@@ -6616,11 +6616,11 @@
                         "dialog_nodes": {
                           "msg1": {
                             "bulletin_message": {
-                              "00": "Your venturing Mason and Weaver have returned, with knowledge of all sorts of Rabbit recipes!<br><br>\"I must say, your citizens shared tales of the poh-yoh paht-pai with us. I simply must try it sometime...\""
+                              "00": "Il tuo avventuroso muratore e tessitore sono tornati, con la conoscenza di ogni sorta di ricetta del coniglio!<br><br>\"Devo dire che i tuoi cittadini hanno condiviso con noi storie sul poh-yoh paht-pai. Devo semplicemente provarlo qualche volta...\""
                             },
                             "bulletin_title": "Lapine Style",
                             "dialog_title": "Lapine Style",
-                            "choice_000": "It's good to have them back - thank you!"
+                            "choice_000": "È bello riaverli indietro - grazie!"
                           }
                         }
                       }
@@ -6628,7 +6628,7 @@
                     "40_recipe_sharing_quest": {
                       "title": "Lapine Style",
                       "dialog_title": "Lapine Style",
-                      "text": "Select a Mason and Weaver (Levels 1+) to go learn Amberstone recipes"
+                      "text": "Seleziona un muratore e un tessitore (livelli 1+) per imparare le ricette di Amberstone"
                     }
                   }
                 }
@@ -6638,8 +6638,8 @@
           "entities": {
             "amberstone_statue": {
               "amberstone_statue_ghost": {
-                "display_name": "Amberstone Rabbit Statue",
-                "description": "A beautifully carved Amberstone rabbit statue."
+                "display_name": "Statua del coniglio di Amberstone",
+                "description": "Una statua di coniglio di Amberstone splendidamente scolpita."
               }
             }
           }
@@ -6654,112 +6654,112 @@
                       "dialog_nodes": {
                         "msg2": {
                           "bulletin_message": {
-                            "000": "Upon reaching a point near the banner, the three masked individuals stop.  Everything about them is strange.  Their faces are completely covered by their masks, their heads covered in hoods, their hands covered in gloves, their feet [so small!] are sheathed in the tiniest of boots.  The material of their garments seems to be of some otherworldly origin, shining in the sun and blowing in the breeze.  And - most notably - they each have a beautiful golden necklace set with a massive sapphire."
+                            "000": "Al raggiungimento di un punto vicino allo stendardo, i tre individui mascherati si fermano. Tutto in loro è strano. I loro volti sono completamente coperti dalle loro maschere, le loro teste coperte da cappucci, le mani coperte da guanti, i loro piedi [così piccoli!] Sono avvolti nel più piccolo degli stivali. Il materiale delle loro vesti sembra essere di qualche origine ultraterrena, che brilla al sole e soffia nella brezza. E - in particolare - ognuno di essi ha una bellissima collana d'oro incastonata con un enorme zaffiro."
                           },
-                          "bulletin_title": "The figures stop at the banner",
-                          "dialog_title": "The figures stop at the banner",
-                          "choice_000": "Who are you?",
-                          "choice_001": "[skip] We have met before..."
+                          "bulletin_title": "Le figure si fermano allo stendardo",
+                          "dialog_title": "Le figure si fermano allo stendardo",
+                          "choice_000": "Tu chi sei?",
+                          "choice_001": "[salta] Ci siamo incontrati prima..."
                         },
                         "msg3": {
                           "bulletin_message": {
-                            "000": "The masked figures look about them, inspecting buildings and garments.  They seem as interested in our clothing as we are of theirs.  The smallest one reaches out as though to touch one of our boots, but the tallest one makes a quick hissing noise which forces the little one to straighten back up."
+                            "000": "Le figure mascherate si guardano intorno, ispezionando edifici e indumenti. Sembrano interessati al nostro abbigliamento come loro. Il più piccolo allunga la mano come per toccare uno dei nostri stivali, ma il più alto emette un rapido sibilo che costringe il piccolo a raddrizzarsi."
                           },
-                          "bulletin_title": "The figures look about them",
-                          "dialog_title": "The figures look about them",
+                          "bulletin_title": "Le figure si guardano attorno",
+                          "dialog_title": "Le figure si guardano attorno",
                           "choice_000": "(Hehe.)"
                         },
                         "msg8": {
                           "bulletin_message": {
-                            "000": "Emma reaches under her robes and withdraws a beautiful golden scepter with a magical fire as it’s ornament:<p><i>'Of Hestia, the Light.  As gift, we bring.  Nothing in return, we request...  Understanding perhaps, friendship one day?'</i></p>"
+                            "000": "Emma si infila sotto le vesti e ritira uno splendido scettro d'oro con un fuoco magico mentre è ornamento: <p><i>'Di Estia, la Luce. Come regalo, portiamo. Nulla in cambio, chiediamo... Riesci a capire, per un'amicizia magari un giorno?\"</i></p>"
                           },
-                          "bulletin_title": "The Light of Hestia",
-                          "dialog_title": "The Light of Hestia",
-                          "choice_000": "Thank you for this wondrous gift!"
+                          "bulletin_title": "La luce di Estia",
+                          "dialog_title": "La luce di Estia",
+                          "choice_000": "Grazie per questo meraviglioso regalo!"
                         },
                         "msg7": {
                           "bulletin_message": {
-                            "000": "Dylan places an arm onto Lily’s shoulder to calm and silence her, then addresses the crowd himself:<p><i>'In need, many.  Of Hestia, heirs travel.  Masks, we don, in self-abnegation. The darkness to push, the Light we bring.  Through sacrifice and oblation, our worth to lead we prove.  To those without power, a hand of support we offer.'</i></p>"
+                            "000": "Dylan mette un braccio sulla spalla di Lily per calmarla e zittirla, quindi si rivolge alla folla: <p><i>'Nel bisogno, molti. Di Estia, gli eredi viaggiano. Maschere, indossiamo, in abnegazione. L'oscurità da spingere, la Luce che portiamo. Attraverso il sacrificio e l'oblazione, dimostriamo il nostro valore da guidare. A quelli senza potere, offriamo una mano di supporto.\"</i></p>"
                           },
-                          "bulletin_title": "Prince Dylan calms Lily down",
-                          "dialog_title": "Prince Dylan calms Lily down",
-                          "choice_000": "The Light?",
-                          "choice_001": "A hand of support?"
+                          "bulletin_title": "Il principe Dylan calma Lily",
+                          "dialog_title": "Il principe Dylan calma Lily",
+                          "choice_000": "La luce?",
+                          "choice_001": "Una mano di supporto?"
                         },
                         "greet_lily": {
                           "bulletin_message": {
-                            "000": "The smallest figure raises their hands above their head and then bows deeply.  As they move, their mysterious cloth flows and trails behind in motion.  Their voice sounds more similar to squeaking gears than that of a voice we are used to, and is slightly muffled from behind the mask:<p><i>'Lily.  Of Hestia, Princess, Painter [giggle], Healer, Archer.'</i></p>"
+                            "000": "La figura più piccola alza le mani sopra la testa e poi si inchina profondamente. Mentre si muovono, il loro misterioso tessuto scorre e si trascina dietro in movimento. La loro voce suona più simile agli ingranaggi cigolanti di quella a cui siamo abituati, ed è leggermente ovattata da dietro la maschera: <p><i>'Lily. Di Estia, Principessa, Pittore [risatina], Guaritore, Arciere.'</i></p>"
                           },
-                          "bulletin_title": "Introductions: The smallest",
-                          "dialog_title": "Introductions: The smallest",
-                          "choice_000": "A pleasure to meet you Princess Lily."
+                          "bulletin_title": "Introduzione: il più piccolo",
+                          "dialog_title": "Introduzione: il più piccolo",
+                          "choice_000": "È un piacere conoscerti, Principessa Lily."
                         },
                         "greet_dylan": {
                           "bulletin_message": {
-                            "000": "The middle sized figure then raises their hands similarly and bows.  This figure’s movements are more quick and snappy, and the cloth appears to be trying to catch up to the limbs movement before it.  There is a sense of wild strength behind these movements, and again the voice is not as expected - this time even more shrill and cracking occasionally:<p><i>'Dylan.  Of Hestia, Prince, Poet, Smith, Warrior.'</i></p>"
+                            "000": "La figura di medie dimensioni quindi solleva le mani in modo simile e si inchina. I movimenti di questa figura sono più rapidi e scattanti, e sembra che il tessuto stia cercando di raggiungere il movimento degli arti prima di esso. C'è un senso di forza selvaggia dietro questi movimenti, e di nuovo la voce non è come previsto - questa volta ancora più acuta e crepitante di tanto in tanto: <p><i>'Dylan. Di Estia, Principe, Poeta, Smith, Guerriero.\"</i></p>"
                           },
-                          "bulletin_title": "Introductions: The middle",
-                          "dialog_title": "Introductions: The middle",
-                          "choice_000": "Greetings Prince Dylan."
+                          "bulletin_title": "Introduzione: il medio",
+                          "dialog_title": "Introduzione: il medio",
+                          "choice_000": "Saluti Principe Dylan."
                         },
                         "rejection": {
                           "bulletin_message": {
-                            "000": "After forceful motions and the brandishing of weapons, the three masked peoples turn and move off in another direction."
+                            "000": "Dopo movimenti energici e il marchio delle armi, le tre persone mascherate si voltano e si allontanano in un'altra direzione."
                           },
-                          "bulletin_title": "The people move off",
-                          "dialog_title": "The people move off",
-                          "choice_000": "Maybe they will return someday?"
+                          "bulletin_title": "Le persone si allontanano",
+                          "dialog_title": "Le persone si allontanano",
+                          "choice_000": "Forse torneranno un giorno?"
                         },
                         "msg1": {
                           "bulletin_message": {
-                            "000": "They seem peaceful, greeting anyone who comes close with a strange but simple motion: spreading their hands open wide in a circle, then clasping them together as they bow their heads."
+                            "000": "Sembrano pacifici, salutando chiunque si avvicini con un movimento strano ma semplice: allargando le mani spalancate in un cerchio, quindi stringendole insieme mentre chinano la testa."
                           },
-                          "bulletin_title": "A group of three masked people calmly make their way towards the banner",
-                          "dialog_title": "3 Masked figures arrive",
-                          "choice_000": "Peaceful travelers?  Welcome!",
-                          "choice_001": "You may not enter!"
+                          "bulletin_title": "Un gruppo di tre persone mascherate si dirige con calma verso lo stendardo",
+                          "dialog_title": "Arrivano 3 figure mascherate",
+                          "choice_000": "Viaggiatori tranquilli? Benvenuti!",
+                          "choice_001": "Non puoi entrare!"
                         },
                         "msg4": {
                           "bulletin_message": {
-                            "000": "The tallest figure takes a step forward and begins to speak.  They make a large flourish of greetings with their arms, seeming to encompass all those hearthlings who are nearby, and then speaks - their voice soft and a few octaves higher than their size suggested.<p><i>'Disciples of Monkey, Greetings!  Of Hestia we travel.  From royalty our lineage.  We introduce, please.'</i></p>"
+                            "000": "La figura più alta fa un passo avanti e inizia a parlare. Fanno un grande gesto di saluti con le braccia, sembrando abbracciare tutti quei cittadini che si trovano nelle vicinanze, e poi parla: la loro voce è morbida e alcune ottave più alte delle loro dimensioni suggerite. <p><i>'Discepoli di scimmia, Saluti ! Di Estia siamo. Dalla regalità la nostra discendenza. Vi presentiamo.\"</i></p>"
                           },
-                          "bulletin_title": "The tallest figure begins to speak",
-                          "dialog_title": "The tallest figure begins to speak",
-                          "choice_000": "By all means..."
+                          "bulletin_title": "La figura più alta inizia a parlare",
+                          "dialog_title": "La figura più alta inizia a parlare",
+                          "choice_000": "Con ogni mezzo..."
                         },
                         "msg5": {
                           "bulletin_message": {
-                            "000": "While Emma speaks, she takes a moment to look into the eyes of each person gathered around her:<p><i>'For our great journey, we trek under the stars.  Of great abundance, darkness and pain we find.  Found as before, royals of Hestia declared.  In need, many...'</i></p>"
+                            "000": "Mentre Emma parla, si prende un momento per guardare negli occhi di ogni persona raccolta intorno a lei: <p><i>'Per il nostro grande viaggio, camminiamo sotto le stelle. Di grande abbondanza, oscurità e dolore troviamo. Trovato come prima, dichiararono i reali di Estia. Nel bisogno, molti...'</i></p>"
                           },
-                          "bulletin_title": "Princess Emma continues",
-                          "dialog_title": "Princess Emma continues",
+                          "bulletin_title": "La principessa Emma continua",
+                          "dialog_title": "La principessa Emma continua",
                           "choice_000": " ... "
                         },
                         "msg6": {
                           "bulletin_message": {
-                            "000": "Lily quickly steps forward, unable to contain the emotion bubbling out from behind her mask:<p><i>'Many!  Bruised and beaten, many your kind!  As well Goblin, Orc!  Bandage and salve, many wounds!  Of great pain also, Turtle Lizard - so cute!  [giggle] To keep Lily wanted, Dylan denied.  Before release, nursed to good health.  Waddled away, SO cute!  To heal Lily finds...'</i></p>"
+                            "000": "Lily avanza rapidamente, incapace di contenere l'emozione che spunta da dietro la sua maschera: <p><i>'Molti! Lividi e picchiati, molti del tuo genere! Anche Goblin, Orchi! Bendaggio e unguento, molte ferite! Di grande dolore anche, la lucertola di tartaruga - così carina! [ridacchia] Per mantenere Lily desiderata, negò Dylan. Prima del rilascio, nutrito per una buona salute. Waddled away, COSÌ carino! Per guarire Lily trova... '</i></p>"
                           },
-                          "bulletin_title": "Princess Lilly interrupts",
-                          "dialog_title": "Princess Lilly interrupts",
-                          "choice_000": "Oh my...",
-                          "choice_001": "You’re quite a spit-fire aren’t you?"
+                          "bulletin_title": "La principessa Lilly lo interrompe",
+                          "dialog_title": "La principessa Lilly lo interrompe",
+                          "choice_000": "Oh mio...",
+                          "choice_001": "Sei un vero sputafuoco vero?"
                         },
                         "met_before": {
                           "bulletin_message": {
-                            "000": "<i>Ah, as well Emma remembers.  In need, many still.  The darkness to push... the Light will you take?</i>"
+                            "000": "<i>Ah, anche Emma ricorda. Nel bisogno, molti ancora. L'oscurità per spingere ... la Luce prenderai? </i>"
                           },
-                          "bulletin_title": "Emma steps foward",
-                          "dialog_title": "Emma steps foward",
-                          "choice_000": "Yes, thank you!"
+                          "bulletin_title": "Emma fa un passo avanti",
+                          "dialog_title": "Emma fa un passo avanti",
+                          "choice_000": "Si Grazie!"
                         },
                         "greet_emma": {
                           "bulletin_message": {
-                            "000": "The tallest figure repeats the gesture, bowing impossibly low.  Though largest, this figure moves with the most grace.  The cloth rippling smoothly behind their limbs as though it were flowing through water:<p><i>'Emma.  Of Hestia, Princess, Eldest Heir, Diplomat, Weaver, Lancer.'</i></p>"
+                            "000": "La figura più alta ripete il gesto, inchinandosi incredibilmente bassa. Anche se più grande, questa figura si muove con la massima grazia. La stoffa che si increspa dolcemente dietro gli arti come se stesse scorrendo attraverso l'acqua: <p><i>'Emma. Di Hestia, Princess, Eldest Heir, Diplomat, Weaver, Lancer.'</i></p>"
                           },
-                          "bulletin_title": "Introductions: The tallest",
-                          "dialog_title": "Introductions: The tallest",
-                          "choice_000": "Greetings Princess Emma.",
-                          "choice_001": "All of you are welcome to our town."
+                          "bulletin_title": "Introduzioni: la più alta",
+                          "dialog_title": "Introduzioni: la più alta",
+                          "choice_000": "Saluti principessa Emma.",
+                          "choice_001": "Siete tutti benvenuti nella nostra città."
                         }
                       }
                     }
@@ -6769,11 +6769,11 @@
                       "dialog_nodes": {
                         "msg1": {
                           "bulletin_message": {
-                            "000": "Having completed their task the three then walk off into the wilderness, presumably to find the next community in need.  What an interesting people..."
+                            "000": "Dopo aver completato il loro compito, i tre poi se ne vanno nel deserto, presumibilmente per trovare la prossima comunità bisognosa. Che gente interessante..."
                           },
-                          "bulletin_title": "The Hestians depart",
-                          "dialog_title": "The Hestians depart",
-                          "choice_000": "Hopefully they remain safe in their travels."
+                          "bulletin_title": "Gli Estensi partono",
+                          "dialog_title": "Gli Estensi partono",
+                          "choice_000": "Speriamo che rimangano al sicuro nei loro viaggi."
                         }
                       }
                     }
@@ -6783,20 +6783,20 @@
                       "dialog_nodes": {
                         "msg2": {
                           "bulletin_message": {
-                            "000": "Lily begins bouncing in excitement:<p><i>'Yes, oh!  Bruised and beaten are your people?!  Help I can, to heal Lily finds great joy!'</i></p>With a large flowing gesture of approval from Emma, Lily rushes around the village to tend to any wounds she finds - large or small alike."
+                            "000": "Lily inizia a rimbalzare per l'eccitazione: <p><i>'Sì, oh! Contusi e picchiati sono i tuoi ?! Aiuto che posso, per guarire Lily trova una grande gioia!'</i></p> Con un grande gesto fluente di approvazione da parte di Emma, Lily si precipita nel villaggio per prendersi cura di tutte le ferite che trova - grandi o piccole simili."
                           },
-                          "bulletin_title": "Lily bounces in excitement",
-                          "dialog_title": "Lily bounces in excitement",
-                          "choice_000": "Thank you very much!"
+                          "bulletin_title": "Lily rimbalza per l'eccitazione",
+                          "dialog_title": "Lily rimbalza per l'eccitazione",
+                          "choice_000": "Grazie mille!"
                         },
                         "msg1": {
                           "bulletin_message": {
-                            "000": "Emma places the scepter on the ground and slowly backs away, her garments flowing behind her.  After a moment she looks around at the different faces of the crowd:<p><i>'Of great curiosity, we are.  Stay for a while, to converse and learn, may we?'</i></p>"
+                            "000": "Emma mette lo scettro a terra e indietreggia lentamente, le sue vesti scorrono dietro di lei. Dopo un momento si guarda intorno ai diversi volti della folla: <p><i>'Di grande curiosità, lo siamo. Rimanere per un po ', per conversare e imparare, vero?'</i></p>"
                           },
-                          "bulletin_title": "Emma sets down the scepter",
-                          "dialog_title": "Emma sets down the scepter",
-                          "choice_000": "Stay as long as you like!",
-                          "choice_001": "One of you said you’re a healer?"
+                          "bulletin_title": "Emma mette giù lo scettro",
+                          "dialog_title": "Emma mette giù lo scettro",
+                          "choice_000": "Resta quanto vuoi!",
+                          "choice_001": "Uno di voi ha detto di essere un guaritore?"
                         }
                       }
                     }
@@ -6806,11 +6806,11 @@
                       "dialog_nodes": {
                         "msg1": {
                           "bulletin_message": {
-                            "000": "With one final flourish, Emma turns to face away from the town, Dylan and Lily do the same. With her back turned, Lily speaks:<p><i>'Our journey, continue we must [giggle].  To more in need, the light we bring.'</i></p>"
+                            "000": "Con un'ultima fioritura, Emma si gira a guardare lontano dalla città, Dylan e Lily fanno lo stesso. Con le spalle girate, Lily parla: <p><i>'Il nostro viaggio, continua, dobbiamo [ridacchiare]. Per i più bisognosi, la luce che portiamo.\"</i></p>"
                           },
-                          "bulletin_title": "The three figures gather",
-                          "dialog_title": "The three figures gather",
-                          "choice_000": "Good luck on your journey!"
+                          "bulletin_title": "Le tre figure si riuniscono",
+                          "dialog_title": "Le tre figure si riuniscono",
+                          "choice_000": "Buona fortuna per il tuo viaggio!"
                         }
                       }
                     }
@@ -6830,31 +6830,31 @@
                       "dialog_nodes": {
                         "information": {
                           "bulletin_message": {
-                            "000": "I am a spirit, from a time and people long past. I have lingered here for countless ages, guarding that which was most precious to us. But my power has waned, and now it has come under siege - please, lend me your assistance!"
+                            "000": "Sono uno spirito, di un tempo e di persone lontane. Ho indugiato qui per innumerevoli epoche, a guardia di ciò che era più prezioso per noi. Ma il mio potere è scemato e ora è caduto sotto assedio - per favore, prestami la tua assistenza!"
                           },
-                          "bulletin_title": "The voice coalesces into a figure",
+                          "bulletin_title": "La voce si fonde in una figura",
                           "dialog_title": "Flox Icedragon",
-                          "choice_000": "What's in it for us?",
-                          "choice_001": "Under siege?"
+                          "choice_000": "Noi cosa ci guadagniamo?",
+                          "choice_001": "sotto assedio?"
                         },
                         "msg1": {
                           "bulletin_message": {
-                            "000": "Please, help me!  My castle has come under siege by undead minions of evil!"
+                            "000": "Vi prego, aiutatemi!  Il mio castello è stato assediato da servi non morti del male!"
                           },
-                          "bulletin_title": "A voice whispers at the edges of your mind",
-                          "dialog_title": "A Ghostly Voice",
-                          "choice_000": "Who? What?",
-                          "choice_001": "Where? How?",
-                          "choice_002": "We're on our way!"
+                          "bulletin_title": "Una voce sussurra alla tua mente",
+                          "dialog_title": "Una voce spettrale",
+                          "choice_000": "Chi? Cosa?",
+                          "choice_001": "Dove? Come?",
+                          "choice_002": "Stiamo arrivando!"
                         },
                         "theres_no_time_to_explain": {
                           "bulletin_message": {
-                            "000": "There's no time! The undead claw at my gates, and I have no strength left to defend the trove once they make it through! I beg of you, help!"
+                            "000": "Non c'è tempo! L'artiglio dei non morti è alle mie porte, e non mi resta più la forza di difendere il guerriero una volta superato! Ti prego, aiuto!"
                           },
-                          "bulletin_title": "The dragonborn king presence is overbearing",
+                          "bulletin_title": "La presenza del re Dragonborn è prepotente",
                           "dialog_title": "Flox Icedragon",
-                          "choice_000": "Yeah.. ok..",
-                          "choice_001": "We will send help!"
+                          "choice_000": "Sì, ok..",
+                          "choice_001": "Ti invieremo aiuto!"
                         }
                       }
                     }
@@ -6864,50 +6864,50 @@
                       "dialog_nodes": {
                         "information_howlong": {
                           "bulletin_message": {
-                            "000": "It has been many cycles.. too many. My family line lives no longer, and my body failed me long ago. My soul has been of the dragon's watch long enough to see many races born and die.  Yours has been of great interest, Children of Monkey, as my vigil comes to an end."
+                            "000": "Sono stati molti ... troppi. La mia linea familiare non vive più e il mio corpo mi ha deluso molto tempo fa. La mia anima è stata l'orologio del drago abbastanza a lungo da vedere nascere e morire molte razze. Il tuo è stato di grande interesse, Figlio di Scimmia, mentre la mia veglia volge al termine."
                           },
-                          "bulletin_title": "The dragonborn king sighs and sags visibly",
+                          "bulletin_title": "Il re Dragonborn sospira e si abbassa visibilmente",
                           "dialog_title": "Flox Icedragon",
-                          "choice_000": "What were you protecting?",
-                          "choice_001": "Who are you?",
-                          "choice_002": "Comes to an end?"
+                          "choice_000": "Cosa stavi proteggendo?",
+                          "choice_001": "Tu chi sei?",
+                          "choice_002": "Giunge al termine"
                         },
                         "msg1": {
                           "bulletin_message": {
-                            "000": "Thank you for coming to my rescue. I have long guarded this site, but I can no longer raise my sword or shield in its defense."
+                            "000": "Grazie per essere venuto in mio soccorso. Ho da tempo custodito questo sito, ma non posso più sollevare la mia spada o scudo in sua difesa."
                           },
-                          "bulletin_title": "The voice speaks once again",
+                          "bulletin_title": "La voce parla ancora",
                           "dialog_title": "Flox Icedragon",
-                          "choice_000": "Who are you?",
-                          "choice_001": "What were you protecting?",
-                          "choice_002": "How long have you been here?"
+                          "choice_000": "Tu chi sei?",
+                          "choice_001": "Cosa stavi proteggendo?",
+                          "choice_002": "Quanto tempo sei stato qui?"
                         },
                         "information_who": {
                           "bulletin_message": {
-                            "000": "My name is Flox, of the Icedragon lineage. I was King, once, of the Dragonborn peoples, who ruled this land in an age long past."
+                            "000": "Mi chiamo Flox, della stirpe Icedragon. Una volta ero il re dei popoli Dragonborn, che governava questa terra da un tempo."
                           },
-                          "bulletin_title": "The dragonborn king smiles",
+                          "bulletin_title": "Il re Dragonborn sorride",
                           "dialog_title": "Flox Icedragon",
-                          "choice_000": "What are you doing here?",
-                          "choice_001": "How long have you been here?"
+                          "choice_000": "Cosa stai facendo qui?",
+                          "choice_001": "Quanto tempo sei stato qui?"
                         },
                         "hatch_and_attach": {
                           "bulletin_message": {
-                            "000": "I am fading fast, but I have given the last of my spirit to this egg of the Great Dragon, so that the dragonling inside may finally hatch out into this world. I have known you for little time, Children of Monkey, but I trust you will aid this young welp as you have aided me. May you carry yourselves with strength and compassion, as the Dragonborn once did."
+                            "000": "Sto svanendo velocemente, ma ho dato l'ultimo del mio spirito a questo uovo del Grande Drago, in modo che il dragone dentro possa finalmente schiudersi in questo mondo. Ti conosco da poco, figlio di scimmia, ma confido che aiuterai questo giovane guerriero come mi hai aiutato. Possa portarti con forza e compassione, come faceva una volta il Dragonborn."
                           },
-                          "bulletin_title": "The Dragonborn King breathes softly into the egg in front of him",
+                          "bulletin_title": "Il re Dragonborn respira dolcemente nell'uovo di fronte a lui",
                           "dialog_title": "Flox Icedragon",
-                          "choice_000": "We will honor you, King. May you be at peace."
+                          "choice_000": "Ti onoreremo, Re. Possa tu essere in pace."
                         },
                         "information_what": {
                           "bulletin_message": {
-                            "000": "It is a King's duty to protect the Great Dragon's lineage - a duty that endures even through death.  My spirit has kept this place hidden, veiled from sense and sight, for as long as it could.  I see now that I can maintain my vigil no longer, and that the Dragon's lineage is at risk."
+                            "000": "È dovere del Re proteggere la stirpe del Grande Drago, un dovere che dura anche attraverso la morte.  Il mio spirito ha tenuto questo posto nascosto, velato dal senso e dalla vista, per tutto il tempo che ha potuto.  Ora capisco che non posso più vegliare e che la stirpe del Drago è a rischio."
                           },
-                          "bulletin_title": "The dragonborn king straightens his back in pride",
+                          "bulletin_title": "Il re Dragonborn raddrizza la schiena per orgoglio",
                           "dialog_title": "Flox Icedragon",
-                          "choice_000": "How can we help with the lineage thing?",
-                          "choice_001": "Who are you?",
-                          "choice_002": "How long have you been here?"
+                          "choice_000": "Come possiamo aiutarti con la storia dell'ascendenza?",
+                          "choice_001": "Chi sei?",
+                          "choice_002": "Da quanto tempo sei qui?"
                         }
                       }
                     }
@@ -6917,11 +6917,11 @@
                       "dialog_nodes": {
                         "msg1": {
                           "bulletin_message": {
-                            "000": "I can stand no longer. The trove has fallen, and with it the last light of my people. I was a fool to stay silent so long..."
+                            "000": "Non posso più stare in piedi. La truppa è caduta e con essa l'ultima luce della mia gente. Sono stato uno sciocco a tacere così a lungo..."
                           },
-                          "bulletin_title": "The voice returns, seemingly with great effort",
-                          "dialog_title": "A Ghostly Voice",
-                          "choice_000": "We're sorry..."
+                          "bulletin_title": "La voce ritorna, apparentemente con grande sforzo",
+                          "dialog_title": "Una voce spettrale",
+                          "choice_000": "Ci dispiace..."
                         }
                       }
                     }
@@ -6929,7 +6929,7 @@
                   "spawn_enemy_entities": {
                     "mission": {
                       "sighted_bulletin": {
-                        "title": "The Undead! Protect the gate!"
+                        "title": "I non morti! Proteggi il cancello!"
                       }
                     }
                   }
@@ -6946,48 +6946,48 @@
       "buff_duration_minutes": "[str(minutes)]m",
       "carrying": {
         "carrying_buff": {
-          "display_name": "So Heavy!",
-          "description": "Carrying heavy things naturally causes people to move more slowly"
+          "display_name": "Così pesante!",
+          "description": "Trasportare cose pesanti fa sì che le persone si muovano più lentamente"
         }
       },
       "combat_basics": {
-        "display_name": "Basic Combat Training",
-        "description": "Increased courage through hours of combat training"
+        "display_name": "Addestramento al combattimento di base",
+        "description": "Maggiore coraggio attraverso ore di addestramento al combattimento"
       },
       "defender": {
         "defender_buff": {
-          "display_name": "Defender",
-          "description": "Increased courage and muscle!"
+          "display_name": "Difensore",
+          "description": "Maggiore coraggio e muscoli!"
         }
       },
       "devoted": {
         "devoted_buff": {
-          "display_name": "Devoted",
-          "description": "Speed Increased by 20"
+          "display_name": "Devoto",
+          "description": "Velocità aumentata di 20"
         }
       },
       "groggy": {
         "groggy_buff": {
-          "display_name": "Groggy",
-          "description": "A hard night's sleep on the ground lowers speed by 25%. A bed would be much better!"
+          "display_name": "Intontito",
+          "description": "Una dura notte di sonno a terra riduce la velocità del 25%. Un letto sarebbe molto meglio!"
         }
       },
       "shepherding": {
         "compassionate_shepherd_buff": {
-          "display_name": "Cared For",
-          "description": "Taken care of by a compassionate shepherd. This animal will produce more resources and offspring."
+          "display_name": "Curato da",
+          "description": "Curata da un pastore compassionevole. Questo animale produrrà più risorse e progenie."
         },
         "shepherding_speed_bonus": {
-          "display_name": "Herd Speed Increase",
-          "description": "The shepherd is now more adept at getting the flock to walk a tiny bit faster."
+          "display_name": "Aumento della velocità della mandria",
+          "description": "Il pastore è ora più abile nel far camminare il gregge un po 'più velocemente."
         },
         "stenched_shepherd_buff": {
-          "display_name": "Stenched",
-          "description": "Animals can smell that this shepherd has slaughtered something recently. This shepherd won't be able to find new wild animals until the stench fades."
+          "display_name": "Puzzolente",
+          "description": "Gli animali possono sentire che questo pastore ha macellato qualcosa di recente. Questo pastore non sarà in grado di trovare nuovi animali selvatici fino a quando la puzza svanisce."
         },
         "shepherding_solitary": {
-          "display_name": "Social Need Decreased",
-          "description": "The shepherd is at peace in nature, and desires conversation less often."
+          "display_name": "Il bisogno sociale è diminuito",
+          "description": "Il pastore è in pace nella natura, e desidera conversare meno spesso."
         }
       },
       "sleeping": {
@@ -7438,197 +7438,197 @@
           "#958455": "Cereali",
           "#332B1F": "Cacao",
           "#4E442F": "Punga",
-          "#979492": "Dark Mountain Mist",
-          "#592E18": "Baker's Chocolate",
+          "#979492": "Nebbia di montagna scura",
+          "#592E18": "Cioccolato cotto",
           "#B5A37B": "Pavlova",
-          "#B0AB9F": "Cloudy",
-          "#8E8260": "Granite Green",
+          "#B0AB9F": "Nuvoloso",
+          "#8E8260": "Granito Verde",
           "#302118": "Bistre",
-          "#575E67": "Shuttle Grey",
-          "#604B42": "Cork",
-          "#172F4A": "Regal Blue",
+          "#575E67": "Grigio Shuttle",
+          "#604B42": "Sughero",
+          "#172F4A": "Blu regale",
           "#806B27": "Pesto",
-          "#2C3339": "Gunmetal",
+          "#2C3339": "Canna di fucile",
           "#5A3D2D": "Cioccolato",
-          "#D0B884": "Winter Hazel",
-          "#412B1F": "Morocco Brown",
-          "#542929": "Light Volcano",
+          "#D0B884": "Nocciola invernale",
+          "#412B1F": "Marocco marrone",
+          "#542929": "Vulcano chiaro",
           "#403521": "Clinker",
           "#A59F8B": "Napa",
-          "#86764A": "Shadow",
-          "#65573A": "Tobacco Brown",
-          "#C0BBA7": "Light Ash",
-          "#786322": "Yukon Gold",
-          "#6E5B21": "Antique Brass",
-          "#69534A": "Dark Congo Brown",
-          "#A59465": "Sandal",
+          "#86764A": "Ombra",
+          "#65573A": "Tabacco Marrone",
+          "#C0BBA7": "Cenere chiaro",
+          "#786322": "Yukon Oro",
+          "#6E5B21": "Ottone antico",
+          "#69534A": "Marrone scuro congo",
+          "#A59465": "Sandalo",
           "#A69C7F": "Hillary",
-          "#464D53": "Tuna",
-          "#7A452A": "Copper Canyon",
-          "#3B1919": "Rustic Red",
-          "#244E7D": "Bahama Blue",
-          "#DCCAA3": "Raffia",
-          "#9B8F6D": "Pale Oyster",
-          "#A19D97": "Mountain Mist",
+          "#464D53": "Tonno",
+          "#7A452A": "Rame Canyon",
+          "#3B1919": "Rosso rustico",
+          "#244E7D": "Bahama blu",
+          "#DCCAA3": "Rafia",
+          "#9B8F6D": "Ostrica pallida",
+          "#A19D97": "Nebbia di montagna",
           "#C1A975": "Ecru",
-          "#676D74": "Mid Grey",
-          "#4E555C": "Trout",
+          "#676D74": "Grigio medio",
+          "#4E555C": "Trota",
           "#864E31": "Korma",
-          "#644F46": "Congo Brown",
-          "#97775E": "Roserock",
-          "#A7855A": "Fawn",
-          "#9E7F56": "Coffee Cake",
-          "#927923": "Lemon Ginger"
+          "#644F46": "Marrone Congo",
+          "#97775E": "Rose Rosa",
+          "#A7855A": "Cerbiatto",
+          "#9E7F56": "Torta al caffè",
+          "#927923": "Zenzero al limone"
         },
         "patterns": {
-          "peaked_roof_oak_leaf": "A wooden roof made up of shades of Oak Leaf",
-          "peaked_roof_robin": "A wooden roof made up of shades of Robin",
-          "peaked_roof_peach": "A wooden roof made up of shades of Peach",
-          "peaked_roof_peach_fancy": "A wooden roof made up of punga, and shades of Peach",
-          "slat_roof_sage": "A roof made of Sage colored clay, and Cocoa Brown wood",
-          "slat_roof_oasis": "A roof made of Oasis colored clay, and Cocoa Brown wood",
-          "slat_roof_prickly_pear": "A roof made of Prickly Pear colored clay, and Cocoa Brown wood",
-          "clay_wall_sage": "A pattern of shades of Sage",
-          "clay_wall_prickly_pear": "A pattern made up of shades of Prickly Pear",
-          "clay_wall_oasis": "A pattern made up of shades of Oasis",
-          "gold_clay_wall": "A Pattern of Pavlova, Raffia, Winter Hazel, and Ecru",
-          "tan_clay_wall": "A pattern of Roserock, Coffee Cake, and Fawn",
-          "wooden_wall": "A Pattern of Punga, and Tobacco Brown",
-          "red_clay_slat_roof": "A roof made of Korma colored clay and Cocoa Brown wood",
-          "cobblestone": "A Pattern of Hillary, Granite Green, and Pale Oyster",
-          "thatch_peaked_roof": "A roof made of Pesto, Lemon Ginger, Yukon Gold, and Antique Brass colored wood",
-          "red_slate_peaked_roof": "A roof made of Light Volcano, Volcano, and Rustic Red colored stone",
-          "gray_clay_wall": "A Pattern of Light Mountain Mist, Mountain Mist, Dark Mountain Mist, and Cloudy",
-          "golden_clay_slat_roof": "A roof made of Raffia colored clay and Cocoa Brown wood",
-          "castle_roof": "A roof made of Tuna, Shuttle Grey, and Mid Grey colored stone",
-          "plastered_wall": "A Pattern of Napa, and Ash",
-          "blue_slate_peaked_roof": "A roof made of Bahama Blue, Regal Blue, and Dark Regal Blue colored stone",
-          "brick_tiled": "A Pattern of Congo Brown, Dark Congo Brown, and Cork",
-          "wooden_peaked_roof": "A roof made of Cioccolato, Bistre, and Morocco Brown colored wood",
-          "cobblestone_wall": "A Pattern of Tuna, and Trout",
-          "slate_blue_checkered": "A Pattern of Shuttle Grey, and Mid Grey",
-          "clay_slat_roof": "A roof made of Light Ash colored clay and Cocoa Brown wood",
-          "wood_dark_diagonal": "A Pattern of Muesli and Sandal",
-          "red_clay_wall": "A Pattern of Baker's Chocolate, and New Amber",
-          "red_clay_peaked_roof": "A peaked roof made of Baker's Chocolate and New Amber colored clay with Bistre colored wood"
+          "peaked_roof_oak_leaf": "Un tetto in legno composto da tonalità di foglie di quercia",
+          "peaked_roof_robin": "Un tetto in legno composto da sfumature di pettirosso",
+          "peaked_roof_peach": "Un tetto in legno composto da sfumature di pesca",
+          "peaked_roof_peach_fancy": "Un tetto in legno composto dal color punga e sfumature di pesca",
+          "slat_roof_sage": "Un tetto in argilla color salvia e legno color cacao",
+          "slat_roof_oasis": "Un tetto in argilla color oasi e legno color cacao",
+          "slat_roof_prickly_pear": "Un tetto in argilla color fico d'india e legno color cacao",
+          "clay_wall_sage": "Un modello di sfumature di salvia",
+          "clay_wall_prickly_pear": "Un modello composto da sfumature di fico d'india",
+          "clay_wall_oasis": "Un modello fatto di sfumature del color oasi",
+          "gold_clay_wall": "Un modello di color pavlova, rafia, nocciola invernale ed ecru",
+          "tan_clay_wall": "Un modello di color rose rosa, torta al caffè e cerbiatto",
+          "wooden_wall": "Un modello di color punga e tabacco marrone",
+          "red_clay_slat_roof": "Un tetto in argilla color korma e legno color cacao",
+          "cobblestone": "Un modello di color hillary, granito verde e pallido ostrica",
+          "thatch_peaked_roof": "Un tetto in color pesto, zenzero limone, yukon oro e legno color ottone antico",
+          "red_slate_peaked_roof": "Un tetto fatto di color vulcano chiaro, vulcano, e pietra rustica di colore rosso",
+          "gray_clay_wall": "Un modello di color nebbia leggera di montagna, nebbia di montagna, nebbia di montagna scura e nuvoloso",
+          "golden_clay_slat_roof": "Un tetto in argilla di color rafia e legno color cacao",
+          "castle_roof": "Un tetto fatto di color tonno, grigio navette e pietra di colore grigio medio",
+          "plastered_wall": "Un modello di color napa e cenere",
+          "blue_slate_peaked_roof": "Un tetto in pietra di colore bahama blu, blu regale e blu scuro regale",
+          "brick_tiled": "Un modello di color marrone congo, marrone scuro congo e sughero",
+          "wooden_peaked_roof": "Un tetto in legno color cioccolato, bistre e marrone marocco",
+          "cobblestone_wall": "Un modello di color tonno e trota",
+          "slate_blue_checkered": "Un modello di colore grigio navetta e grigio medio",
+          "clay_slat_roof": "Un tetto in argilla color cenere chiaro e legno color cacao",
+          "wood_dark_diagonal": "Un modello di color cereali e sandalo",
+          "red_clay_wall": "Un modello di color cioccolato cotto e una nuova ambra",
+          "red_clay_peaked_roof": "Un tetto a punta realizzato con il color cioccolato cotto e nuova, argilla color ambra e legno di colore bistre"
         }
       }
     },
     "commands": {
       "build_workshop": {
-        "display_name": "Build Workshop",
-        "description": "Create a place for productivity!"
+        "display_name": "Costruire un laboratorio",
+        "description": "Crea un posto per la produttività!"
       },
       "chop_tree": {
-        "display_name": "Harvest",
-        "description": "Harvest for lumber, or just to get it out of the way."
+        "display_name": "Raccogliere",
+        "description": "Raccogli per la legna o semplicemente per toglierlo di mezzo."
       },
       "destroy_entity": {
-        "display_name": "Destroy",
-        "description": "Irrevocably remove this item from the world!"
+        "display_name": "Distruggere",
+        "description": "Rimuovi irrevocabilmente questo oggetto dal mondo!"
       },
       "harvest_berries": {
-        "display_name": "Gather Berries",
-        "description": "This bush produces berries that can be gathered to feed your settlers.",
-        "disabled_description": "The berries on this bush aren't ripe yet!"
+        "display_name": "Raccogli le bacche",
+        "description": "Questo cespuglio produce bacche che possono essere raccolte per nutrire i tuoi cittadini.",
+        "disabled_description": "Le bacche di questo cespuglio non sono ancora mature!"
       },
       "harvest_planted": {
-        "display_name": "Harvest",
-        "description": "Reap whatever's available."
+        "display_name": "Raccogliere",
+        "description": "Raccogli tutto ciò che è disponibile."
       },
       "loot_item": {
-        "display_name": "Loot item",
-        "description": "Claim this item for your town."
+        "display_name": "Bottino",
+        "description": "Richiedi questo articolo per la tua città."
       },
       "move_item": {
-        "display_name": "Move item",
-        "description": "Move this thing somewhere else in the world.",
-        "disabled_description": "This item is in use. Try moving it later."
+        "display_name": "Sposta oggetto",
+        "description": "Sposta questa cosa da qualche altra parte nel mondo.",
+        "disabled_description": "Questo articolo è in uso. Prova a spostarlo più tardi."
       },
       "open_character_sheet": {
-        "display_name": "Character Sheet",
-        "description": "Get a closer look at this hearthling"
+        "display_name": "Scheda personaggio",
+        "description": "Dai un'occhiata più da vicino a questo cittadino"
       },
       "open_loot": {
-        "display_name": "Loot",
-        "description": "Open this loot container to claim its contents."
+        "display_name": "Bottino",
+        "description": "Apri questo bottino per rivendicarne il contenuto."
       },
       "place_item": {
-        "display_name": "Place item",
-        "description": "Place this item in the world."
+        "display_name": "Posiziona l'oggetto",
+        "description": "Posiziona questo oggetto nel mondo."
       },
       "plant_crop": {
         "plant_corn": {
-          "display_name": "Plant Corn!",
-          "description": "Edible Gold."
+          "display_name": "Pianta il mais!",
+          "description": "Oro commestibile."
         },
-        "display_name": "Plant a crop!",
-        "description": "Plant something in this square.",
+        "display_name": "Pianta un raccolto!",
+        "description": "Pianta qualcosa in questa zona.",
         "plant_turnip": {
-          "display_name": "Plant a Turnip!",
-          "description": "Plant a turnip in this square."
+          "display_name": "Pianta una rapa!",
+          "description": "Pianta una rapa in questa zona."
         }
       },
       "promote_to_job": {
-        "display_name": "Change Jobs",
-        "description": "Give this hearthling a new job."
+        "display_name": "Cambiare lavori",
+        "description": "Dai a questo cittadino un nuovo lavoro."
       },
       "change_working_for": {
-        "display_name": "Change Working For",
-        "description": "Change which town this citizen is working for."
+        "display_name": "Cambia lavoro per",
+        "description": "Cambia la città per cui lavora questo cittadino."
       },
       "raze_crop": {
-        "display_name": "Clear Ground",
-        "description": "Clear or harvest the contents of this plot."
+        "display_name": "Terreno libero",
+        "description": "Pulire o raccogliere il contenuto di questo lotto."
       },
       "release_pet": {
-        "display_name": "Release Pet",
-        "description": "Tell this pet you don't want it anymore."
+        "display_name": "Libera animale",
+        "description": "Dì a questo animale che non lo vuoi più."
       },
       "remove_ladder": {
-        "display_name": "Remove",
-        "description": "Remove this ladder."
+        "display_name": "Rimuovere",
+        "description": "Rimuovi questa scala."
       },
       "restore_terrain": {
-        "display_name": "Restore Terrain",
-        "description": "Restore the terrain to its original state."
+        "display_name": "Ripristina terreno",
+        "description": "Riporta il terreno al suo stato originale."
       },
       "show_workshop": {
-        "display_name": "Workshop",
-        "description": "Your crafter uses the workshop to construct useful items for your settlement.",
-        "disabled_description": "Your crafter uses the workshop to construct useful items for your settlement. Before you can craft you need to assign a crafter to this workshop."
+        "display_name": "Laboratorio",
+        "description": "Il tuo artigiano usa il laboratorio per costruire oggetti utili per il tuo insediamento.",
+        "disabled_description": "Il tuo artigiano usa il laboratorio per costruire oggetti utili per il tuo insediamento. Prima di poter fabbricare è necessario assegnare un artigiano a questo laboratorio."
       },
       "show_workshop_from_crafter": {
-        "display_name": "Workshop",
-        "description": "Your crafter uses the workshop to construct useful items for your settlement.",
-        "disabled_description": "Your crafter uses the workshop to construct useful items for your settlement. Before you can craft you need to assign a crafter to this workshop."
+        "display_name": "Laboratorio",
+        "description": "Il tuo artigiano usa il laboratorio per costruire oggetti utili per il tuo insediamento.",
+        "disabled_description": "Il tuo artigiano usa il laboratorio per costruire oggetti utili per il tuo insediamento. Prima di poter fabbricare è necessario assegnare un artigiano a questo laboratorio."
       },
       "slaughter": {
-        "display_name": "Harvest for Meat",
-        "description": "Have your shepherd harvest this animal for its meat.",
-        "disabled_description": "This animal is so malnourished that it has no meat. It's just skin and bones."
+        "display_name": "Raccolto per carne",
+        "description": "Chiedi al tuo pastore di raccogliere questo animale per la sua carne.",
+        "disabled_description": "Questo animale è così malnutrito che non ha carne. È solo pelle e ossa."
       },
       "spawn_glory_wave": {
-        "display_name": "Summon Enemy Wave",
-        "description": "Summon the next wave of enemies to claim more glory.",
-        "disabled_description": "No more enemies are knocking down your door just yet.",
-        "glory_level_achieved_bulletin": "Glory level [str(i18n_data.glory_level)] achieved!"
+        "display_name": "Evoca ondate nemiche",
+        "description": "Evoca la prossima ondata di nemici per ottenere più gloria.",
+        "disabled_description": "Nessun altro nemico sta ancora abbattendo la tua porta.",
+        "glory_level_achieved_bulletin": "Livello di gloria [str(i18n_data.glory_level)] raggiunto!"
       },
       "undeploy_item": {
-        "display_name": "Undeploy",
-        "description": "Undeploy this item and return it to a stockpile.",
-        "disabled_description": "This item is in use. Try undeploying it later."
+        "display_name": "Annulla distribuzione",
+        "description": "Annulla la distribuzione di questo articolo e restituiscilo a una scorta.",
+        "disabled_description": "Questo articolo è in uso. Prova a dislocare in seguito."
       },
       "undeploy_golem": {
-        "display_name": "Undeploy Golem",
-        "description": "Deactivate this golem and return it to a stockpile.",
-        "disabled_description": "Cannot deactivate at this time."
+        "display_name": "Non distribuire Golem",
+        "description": "Disattiva questo golem e riportalo in una scorta.",
+        "disabled_description": "Impossibile disattivare in questo momento."
       },
       "unit_control": {
         "abilities": {
           "snare_trap": {
-            "display_name": "Snare Trap",
-            "description": "Spring a weighted net to capture small game like rabbits and squirrels."
+            "display_name": "Trappola",
+            "description": "Piazzare una rete ponderata per catturare piccolo animali come conigli e scoiattoli."
           }
         },
         "move_unit": {
