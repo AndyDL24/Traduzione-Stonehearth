@@ -7632,161 +7632,161 @@
           }
         },
         "move_unit": {
-          "display_name": "Move",
-          "description": "Tell this character to move somewhere else"
+          "display_name": "Muovi",
+          "description": "Di 'a questo personaggio di spostarsi altrove"
         },
         "unload_inventory": {
-          "display_name": "Unload Bags",
-          "description": "Return to town and deposit the contents of your bags."
+          "display_name": "Scaricare i sacchi",
+          "description": "Ritorna in città e deposita il contenuto dei tuoi bagagli."
         }
       },
       "plant_tree": {
-        "display_name": "Plant Tree",
-        "description": "Plant this tree in some dirt."
+        "display_name": "Piantare alberi",
+        "description": "Pianta questo albero in un po 'di terra."
       },
       "use_consumable": {
-        "display_name": "Use",
-        "description": "Use this consumable item to buff every hearthling in town. This will destroy the item."
+        "display_name": "Uso",
+        "description": "Usa questo oggetto di consumo per lucidare tutti i cittadini in città. Questo distruggerà l'oggetto."
       },
       "use_seeds": {
-        "display_name": "Use",
-        "description": "Use these seeds to teach your farmers to grow a new crop. This will destroy the item."
+        "display_name": "Uso",
+        "description": "Usa questi semi per insegnare ai tuoi agricoltori a coltivare un nuovo raccolto. Questo distruggerà l'oggetto."
       },
       "edit_party": {
-        "display_name": "Edit Party",
-        "description": "Add and remove members from this party."
+        "display_name": "Modifica gruppo",
+        "description": "Aggiungi e rimuovi membri da questa gruppo."
       },
       "cancel_marker": {
-        "display_name": "Cancel Marker",
-        "description": "Cancels the combat orders for this marker"
+        "display_name": "Annulla indicatore",
+        "description": "Annulla gli ordini di combattimento per questo segnalino"
       },
       "select_owner": {
-        "display_name": "Select Members",
-        "description": "Selects the members following this order"
+        "display_name": "Seleziona membri",
+        "description": "Seleziona i membri seguendo questo ordine"
       },
       "call_trader": {
-        "display_name": "Call Merchant",
-        "description": "Call a trader to this stall",
-        "disabled_description": "A trader has already visited this stall recently. Try again later."
+        "display_name": "Chiama il commerciante",
+        "description": "Chiama un commerciante a questa bancarella",
+        "disabled_description": "Un commerciante ha già visitato questa bancarella di recente. Riprovare più tardi."
       },
       "show_shop": {
-        "display_name": "Show Shop",
-        "description": "Buy and sell goods"
+        "display_name": "Mostra negozio",
+        "description": "Compra e vendi merci"
       },
       "archer_arrows": {
         "default_arrows": {
-          "display_name": "Using Default Arrows",
-          "description": "Using normal arrows. Click to swap to a different arrow type"
+          "display_name": "Utilizzo delle frecce predefinite",
+          "description": "Usa le normali frecce. Fai clic per passare a un diverso tipo di freccia"
         },
         "slow_arrows": {
-          "display_name": "Using Spiky Arrows",
-          "description": "Currently using spiky arrows, which slows enemy movement speed. Click to swap between arrow types."
+          "display_name": "Usa le frecce appuntite",
+          "description": "Attualmente utilizza frecce appuntite, che rallentano la velocità di movimento del nemico. Fare clic per passare da un tipo di freccia all'altro."
         },
         "fire_arrows": {
-          "display_name": "Using Fire Arrows",
-          "description": "Currently using fire arrows, which have a chance to set fire to enemies, dealing additional damage over time. Click to swap between arrow types."
+          "display_name": "Usa le frecce di fuoco",
+          "description": "Attualmente utilizza le frecce di fuoco, che hanno la possibilità di dare fuoco ai nemici, infliggendo ulteriori danni nel tempo. Fare clic per passare da un tipo di freccia all'altro."
         }
       },
       "combat": {
         "move": {
-          "display_name": "Move Marker",
-          "description": "Move to this location without attacking"
+          "display_name": "Sposta marcatore",
+          "description": "Sposta in questa posizione senza attaccare"
         },
         "attack_move": {
-          "display_name": "Attack Move Marker",
-          "description": "Attack anything near this location"
+          "display_name": "Indicatore della mossa di attacco",
+          "description": "Attacca qualsiasi cosa vicino a questa posizione"
         },
         "defend_location": {
-          "display_name": "Defend Marker",
-          "description": "Defend this location"
+          "display_name": "Segnalino di difesa",
+          "description": "Difendi questa posizione"
         }
       },
       "change_owner": {
-        "display_name": "Assign Owner",
-        "description": "Assign this object to a new owner"
+        "display_name": "Assegna proprietario",
+        "description": "Assegna questo oggetto a un nuovo proprietario"
       },
       "destroy_item": {
-        "display_name": "Cancel Placement",
-        "description": "Remove this placement task"
+        "display_name": "Annulla posizionamento",
+        "description": "Rimuovi questa attività di posizionamento"
       },
       "toggle_lock": {
-        "display_name": "Toggle Lock",
-        "description": "Lock or unlock this door"
+        "display_name": "Attiva/disattiva blocco",
+        "description": "Blocca o sblocca questa porta"
       },
       "rescue": {
-        "display_name": "Rescue",
-        "description": "Tells the town's people to try to rescue this hearthling"
+        "display_name": "Salvare",
+        "description": "Dice alla gente della città di provare a salvare questo cittadino"
       },
       "abandon_glory_wave": {
-        "display_name": "Give Up!",
-        "description": "De-spawn the current enemy wave, without gaining any glory.",
-        "disabled_description": "No challenge enemies around right now."
+        "display_name": "Abbandonare!",
+        "description": "Elimina l'attuale ondata nemica, senza guadagnare gloria.",
+        "disabled_description": "Nessuna sfida per i nemici in questo momento."
       },
       "summon_titan": {
-        "display_name": "Awaken Titan",
-        "description": "Rouse the Titan from its slumber",
-        "disabled_description": "The Titan slumbers no longer"
+        "display_name": "Risveglia Titano",
+        "description": "Risveglia il Titano dal suo sonno",
+        "disabled_description": "Il Titano non sonnecchia più"
       },
       "fire_titan_slayer": {
-        "display_name": "Fire!!",
-        "description": "Commence Attack on Titan",
-        "disabled_description": "Needs time to recharge."
+        "display_name": "Fuoco!!",
+        "description": "Inizia l'attacco al Titano",
+        "disabled_description": "Ha bisogno di tempo per ricaricare."
       }
     },
     "personality": {
       "carpenter_promote": {
         "promote_carpenter": {
-          "text": "On Hearing the Call of the Saw:",
+          "text": "Sentendo la chiamata della sega:",
           "logs": {
             "lovable_rogue": {
-              "000": "You want me to be the carpenter? Can I... sell the stuff I make? Or is this communal property?"
+              "000": "Vuoi che sia io il falegname? Posso... vendere la roba che faccio? O questa è proprietà comune?"
             },
             "diligent_sweetheart": {
-              "000": "Me? You want me to be the carpenter? Ok, I'll do my best!"
+              "000": "Io? Vuoi che io sia il falegname? Ok, farò del mio meglio!"
             },
             "psychopathic_misanthrope": {
-              "000": "The Saw? Where some people see a tool, I see a serrated weapon. Saw, you are my new best friend."
+              "000": "La sega? Dove alcune persone vedono uno strumento, Vedo un'arma seghettata. Sega, tu sei il mio nuovo migliore amico."
             },
             "insufferable_academic": {
-              "000": "I shall endeavor to bring the music of the cubes to our furniture."
+              "000": "Tenterò di portare la musica dei cubi nei nostri mobili."
             },
             "hopeless_optimist": {
-              "000": "Me, Carpenter? YES!! I've always wanted to make miniature chairs!!!"
+              "000": "Io, falegname? SI!! Ho sempre voluto realizzare sedie in miniatura!!!"
             },
             "beleaguered_leader": {
-              "000": "It is my turn to wield the saw. Too bad mom always said I was bad with power."
+              "000": "È il mio turno di maneggiare la sega. Peccato che la mamma abbia sempre detto che ero cattivo con il potere."
             }
           }
         }
       },
       "chopping_wood": {
         "chopping_logs": {
-          "text": "On Chopping Wood:",
+          "text": "Sul tagliare la legna:",
           "logs": {
             "beleaguered_leader": {
-              "000": "Today, we're chopping trees for wood. I'm already sick of the wood jokes.",
-              "001": "Timbeerrrrr!!! I could get used to saying that.",
-              "002": "The gang's keeping track of who's chopped down the most trees. It's me but in the time it would take to correct their math I'd rather just add another tree to my total.",
-              "003": "Thought I saw a hornet's nest while we were logging. Luckily, everyone got out of the way in time.",
-              "004": "Wood: our eternal taskmaster. Got to keep our eye on the goal.",
-              "005": "Everyone chop together! Chop! Chop! Chop! Yes, hurry too!",
-              "006": "Ok gang, breaktime's over. Back to chopping!",
-              "007": "Every time I swing this axe, I visualize my dream house and exactly how I'm going to build it. Side effect of all this chopping: the floorplan's getting smaller.",
-              "008": "Falling wood! Run, people! RUN!",
+              "000": "Oggi, stiamo tagliando alberi per il legno. Sono già stufo delle battute sul legno.",
+              "001": "Legname!!! Potrei abituarmi a dirlo.",
+              "002": "La banda sta tenendo traccia di chi ha abbattuto più alberi. Sono io, ma nel tempo che ci vuole per correggere la loro matematica preferisco aggiungere un altro albero al mio totale.",
+              "003": "Ho pensato di aver visto un nido di calabroni mentre stavamo registrando. Per fortuna, tutti si sono tolti di mezzo in tempo.",
+              "004": "Legno: il nostro eterno sorvegliante. Dobbiamo tenere d'occhio l'obiettivo.",
+              "005": "Tutti tagliano insieme! Taglia! Taglia! Taglia! Sì, sbrigati anche tu!",
+              "006": "Ok banda, la pausa è finita. Tornate a tagliare!",
+              "007": "Ogni volta che faccio oscillare questa ascia, visualizzo la casa dei miei sogni ed esattamente come la costruirò. Effetto collaterale di tutto questo taglio: la planimetria si sta riducendo.",
+              "008": "Sta cadendo del legno! Correte, gente! CORRETE!",
               "teacher": {
-                "000": "Attacked more trees today. By [str(entry.teacher)] there's a lot of trees out here."
+                "000": "Oggi ho abbattuto più alberi. Di [str(entry.teacher)] ci sono molti alberi qui fuori."
               }
             },
             "lovable_rogue": {
-              "000": "Step 1: Chop wood. Step 2: ???. Step 3: Profit!! Hm. Still working on step 2.",
-              "001": "I would be more excited to chop trees if they had a discernible anatomy. Or if I could get combat advantage! Or if they could be flanked. Or if they even just had facing, so I could backstab! Not that I ever heard of anyone felling a tree with a backstab.",
-              "002": "My hands are getting rough from all this chopping.",
-              "003": "Top reason chopping trees is fun: perfecting the swing of the axe. May be useful one day!",
-              "004": "Top reason carrying wood is fun: can't think of one.",
-              "005": "I wonder how much I could sell this wood for back home. ...Nothing, probably.",
-              "006": "I wonder if I could get out of chopping wood by pretending to have a splinter? Oh right, it wouldn't be pretending.",
-              "007": "Ow! Blister! Why am I doing this to myself? An at-will employment contract is pretty much beside the point when you're OUT IN THE MIDDLE OF NOWHERE.",
-              "008": "Splinters! Everywhere! Ok, calming breath. Calming breath. Anyone got tweezers?"
+              "000": "Passaggio 1: tagliare la legna. Passo 2: ???. Step 3: Profitto !! Hm. Sto ancora lavorando al passaggio 2.",
+              "001": "Sarei più entusiasta di tagliare gli alberi se avessero un'anatomia riconoscibile. O se potessi ottenere un vantaggio in combattimento! O se potessero essere affiancati. O se avessero anche solo di fronte, così avrei potuto pugnalare! Non che abbia mai sentito parlare di qualcuno che ha abbattuto un albero con un pugnale.",
+              "002": "Le mie mani si stanno irruvidendo per tutto questo tagliare.",
+              "003": "Il motivo principale per cui tagliare gli alberi è divertente: perfezionare l'oscillazione dell'ascia. Potrebbe essere utile un giorno!",
+              "004": "Il motivo principale per cui trasportare il legno è divertente: non riesco a pensare a uno.",
+              "005": "Mi chiedo quanto potrei vendere questo legno per casa. ...Niente, probabilmente.",
+              "006": "Mi chiedo se potrei uscire dal tagliare la legna fingendo di avere una scheggia? Oh giusto, non sarebbe fingere.",
+              "007": "Ahi! Vescica! Perché sto facendo questo a me stesso? Un contratto di lavoro a volontà è praticamente accanto al punto quando sei fuori nel bel mezzo del nulla.",
+              "008": "Schegge! Ovunque! Ok, respiro calmante. Alito calmante. Qualcuno ha una pinzetta?"
             },
             "psychopathic_misanthrope": {
               "000": "Heeeaaaahhhhrrrghhh!!!",
