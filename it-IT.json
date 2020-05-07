@@ -1386,11 +1386,11 @@
         "level_requirement_needed": "Richiede un",
         "level_requirement_level": "di livello",
         "too_many_symbol": "molti",
-        "requirements_unmet_general": "Requisiti del mestiere non soddisfatti!",
-        "queue_anyway": "Ordine di coda comunque",
+        "requirements_unmet_general": "Requisiti non soddisfatti!",
+        "queue_anyway": "Inserisci nella coda comunque",
         "recipe_tab": "Ricette",
         "orders_tab": "Ordini",
-        "missing_ingredients": "Ingredienti mancanti:",
+        "missing_ingredients": "Ingredienti mancanti: ",
         "tooltip_appeal_stat": "Attrazione",
         "tooltip_net_worth_stat": "Valore dell'oro",
         "tooltip_effort_stat": "Sforzo (tempo di creazione)",
@@ -1562,7 +1562,7 @@
           "030": "tosare le pecore...",
           "031": "cervello che cola...",
           "032": "frugando tra le galline...",
-          "033": "cattura gocce di pioggia..."
+          "033": "catturando gocce di pioggia..."
         },
         "tips": {
           "000": "Se i tuoi lavoratori rimangono bloccati in una miniera, puoi costruire una scala per farli uscire!",
@@ -1588,7 +1588,7 @@
           "020": "I cacciatori possono piazzare trappole nelle montagne e nel deserto, ma ci sono meno creature lì.",
           "021": "Puoi disattivare il lavoro di un'unità di combattimento nel pannello Cittadini per costringerli a riposarsi dai combattimenti.",
           "022": "Lo scarto da miniera produce occasionalmente argilla e pietra.",
-          "023": "Si possono effettivamente vedere le vene del'oro nel fianco delle montagne.",
+          "023": "Si possono effettivamente vedere le vene dell'oro nel fianco delle montagne.",
           "024": "Hai bisogno di una fonte di cibo di partenza? Sposta Berry Bushes o Prickly Pear Cacti più vicino alla tua città.",
           "025": "Dopo aver sconfitto il comandante dei Goblin, puoi rivendicare le pecore come le tue.",
           "026": "Ai tuoi cittadini non piace stare troppo a lungo negli spazi angusti.",
@@ -7786,113 +7786,113 @@
               "005": "Mi chiedo quanto potrei vendere questo legno per casa. ...Niente, probabilmente.",
               "006": "Mi chiedo se potrei uscire dal tagliare la legna fingendo di avere una scheggia? Oh giusto, non sarebbe fingere.",
               "007": "Ahi! Vescica! Perché sto facendo questo a me stesso? Un contratto di lavoro a volontà è praticamente accanto al punto quando sei fuori nel bel mezzo del nulla.",
-              "008": "Schegge! Ovunque! Ok, respiro calmante. Alito calmante. Qualcuno ha una pinzetta?"
+              "008": "Schegge! Ovunque! Ok, Calmati. Respira. Qualcuno ha una pinzetta?"
             },
             "psychopathic_misanthrope": {
               "000": "Heeeaaaahhhhrrrghhh!!!",
               "001": "Raaaarrrrrrghhhhh!",
-              "002": "Spork those trees, you know? Just spork them all!",
-              "003": "I've chopped about a billion trees today. Call me axe murderer!!!",
-              "004": "People say I have deep-seated aggression problems, but nobody complains about all the wood I produce",
-              "005": "Is anyone else chopping these trees? It it just me?",
-              "006": "Glad I'm doing something so physical. Sitting and knitting all day would drive me crazy."
+              "002": "Taglia quegli alberi, sai come? Basta tagliali tutti!",
+              "003": "Oggi ho tagliato circa un miliardo di alberi. Chiamami ascia assassino!!!",
+              "004": "La gente dice che ho profondi problemi di aggressione, ma nessuno si lamenta di tutto il legno che produco",
+              "005": "Qualcun altro sta tagliando questi alberi? Sono solo io?",
+              "006": "Sono contento che sto facendo qualcosa di così fisico. Stare seduto e lavorare a maglia tutto il giorno mi farebbe impazzire."
             },
             "hopeless_optimist": {
-              "000": "Chop chop chop! If you say it over and over, it's almost like a song!",
-              "001": "Chopping wood builds muscles! Note to self: see if anyone's noticed.",
-              "002": "We're sorry Mr. Tree, but we have to cut you down so we can live inside of you. But we won't ever forget that we're warm and safe thanks to your sacrifice.",
-              "003": "There's something really satisfying about cutting down something so much bigger than me!",
-              "004": "I'm Paul Revere! I mean, Bunyon!",
-              "005": "How much wood would a woodchuck chuck, if a woodchuck could chuck wood? Well if my name were Woodchuck, the answer would be: lots! Note to self: find out later what a woodchuck looks like.",
-              "006": "Lumber lumber lumber, must be lumber, in a woodman's world. Ah-aaaa, all the things I could do, if I had a little lumber, it's a woodman's worrrllld. Ahhh-AAAAAIIEEE---FALLING TREEEE!!!!!",
-              "007": "I hear I'm not supposed to sing anymore when I'm chopping trees. Whatever!",
-              "008": " Oh no! Mr. Squirrel! I'm so sorry. I didn't mean to cut down your house. Tell you what--move in with me! Nuts are on the house. Oh. I probably shouldn't have mentioned the house..."
+              "000": "Taglia Taglia Taglia! Se lo dici ripetutamente, è quasi come una canzone!",
+              "001": "Tagliare il legno costruisce i muscoli! Nota per se stessi: vedere se qualcuno se ne è accorto.",
+              "002": "Ci dispiace signor Albero, ma dobbiamo tagliarti in modo da poter vivere dentro di te. Ma non dimenticheremo mai che siamo al caldo e al sicuro grazie al tuo sacrificio.",
+              "003": "C'è qualcosa di veramente soddisfacente nel ridurre qualcosa di molto più grande di me!",
+              "004": "Sono Paul Revere! Voglio dire, Gonfiore!",
+              "005": "Quanta legna farebbe una marmotta, se una marmotta potesse mandrinare la legna? Beh, se il mio nome fosse Marmotta, la risposta sarebbe: un sacco! Nota a sé: scoprire più tardi che aspetto ha una marmotta.",
+              "006": "Legname legname, deve essere legname, nel mondo di un contadino. Ah-aaaa, tutte le cose che potrei fare, se avessi un po' di legname, è il mondo di un contadino. Ahhh-AAAAAIIEEE - ALBERO IN CADUTA!!!!!",
+              "007": "Ho sentito che non dovrei più cantare mentre taglio gli alberi. Vabbe'!",
+              "008": "Oh no! Mr. Squirrel! Sono così dispiaciuto. Non intendevo abbattere la tua casa. Ti dico cosa, vieni con me! Le noci sono in casa. Oh. Probabilmente non avrei dovuto menzionare la casa ..."
             },
             "insufferable_academic": {
-              "000": "This is an appalling underutilization of my keen mental faculties.",
-              "001": "If I never see another axe again it will be too soon.",
-              "002": "This might almost be worth the effort if only the lumber were destined for a paper mill.",
-              "003": "Is there no one else who could engage in such menial labor?",
-              "004": "I have perfected a mathematically ideal chopping motion. Alas, there are no peer-reviewed journals here in which I might publish my findings.",
-              "005": "I cannot help but feel the necessity to mention the alarming rate at which we are deforesting the entire region... What? No, of course I'm not trying to avoid lumber duties!"
+              "000": "Questa è una spaventosa sottoutilizzazione delle mie acute facoltà mentali.",
+              "001": "Se non rivedrò mai più un'ascia, sarà troppo presto.",
+              "002": "Questo potrebbe quasi valere la pena se solo il legname fosse destinato a una cartiera.",
+              "003": "Non c'è nessun altro che potrebbe impegnarsi in tale lavoro umile?",
+              "004": "Ho perfezionato un movimento di taglio matematicamente ideale. Ahimè, non ci sono riviste qui in cui potrei pubblicare le mie scoperte.",
+              "005": "Non posso fare a meno di sentire la necessità di menzionare il tasso allarmante con cui stiamo deforestando l'intera regione ... Cosa? No, ovviamente non sto cercando di evitare i miei compiti!"
             },
             "diligent_sweetheart": {
-              "000": "I guess I can learn to chop down trees if that's what needs to be done.",
-              "001": "I'm going to put a little splinter beside the campfire for every tree I've cut down, separated by day. That way I can tell if I'm getting better at it!",
-              "002": "I hope people think callouses on the palms of the hands are attractive.",
-              "003": "I hear suffering builds character!",
-              "004": "Chopping is kind of soothing, if you just don't worry too much about the tree falling on you.",
-              "005": "I hope we're not disturbing anyone's home. Imagine what it would be like to have your home cut down around you to use to make someone else's home!",
-              "006": "I hope trees don't have nerves. This would hurt a lot if they did. If they're screaming for us to stop, it must be on a different frequency.",
-              "007": "I was holding my axe today and I realized I could do some real harm if I ever used it on a person, instead of on a tree."
+              "000": "Immagino di poter imparare a abbattere alberi se è quello che bisogna fare.",
+              "001": "Metterò una piccola scheggia accanto al fuoco per ogni albero che ho abbattuto, separato di un giorno. In questo modo posso dire se sto migliorando!",
+              "002": "Spero che la gente pensi che i calli sul palmo delle mani siano attraenti.",
+              "003": "Sento che la sofferenza crea carattere!",
+              "004": "Tagliare è un po' rilassante, se non ti preoccupi troppo dell'albero che cade su di te.",
+              "005": "Spero di non disturbare la casa di nessuno. Immagina come sarebbe avere la tua casa abbattuta intorno a te da usare per rendere la casa di qualcun altro!",
+              "006": "Spero che gli alberi non abbiano i nervi. Ciò farebbe molto male se lo facessero. Se stanno urlando che ci fermiamo, deve essere su una frequenza diversa.",
+              "007": "Oggi tenevo in mano la mia ascia e mi sono reso conto che avrei potuto fare del male se l'avessi mai usato su una persona, anziché su un albero."
             }
           }
         }
       },
       "combat": {
         "hurt_badly": {
-          "text": "On Serious Injury:",
+          "text": "In caso di lesioni gravi:",
           "logs": {
             "generic": {
-              "000": "Ow! That really hurt!",
-              "001": "I'm in danger!",
-              "002": "Pain!",
-              "003": "Hurts! Must... keep going!",
-              "004": "Things are looking bad!",
-              "005": "Can't take much more of this!",
-              "006": "My life's starting to flash before my eyes.",
-              "007": "Should I be worried?",
-              "008": "I should have written my mom more letters.",
-              "009": "If I get out of this alive, I'm going to write Grandma and tell her I love her.",
-              "010": "I could use some help here!",
-              "011": "Need to keep going!!!",
-              "012": "Raagh, take that!",
-              "013": "If I'm going down you're coming with me!",
-              "014": "For my friends! For my village!",
-              "015": "I make my last stand here!"
+              "000": "Ahi! Mi ha fatto davvero male!",
+              "001": "Sono in pericolo!",
+              "002": "Dolore!",
+              "003": "Fa male! Devo ...andare avanti!",
+              "004": "Le cose stanno andando male!",
+              "005": "Non posso prenderne molto di più!",
+              "006": "La mia vita sta iniziando a passare davanti ai miei occhi.",
+              "007": "Dovrei essere preoccupato?",
+              "008": "Avrei dovuto scrivere più lettere a mia madre.",
+              "009": "Se esco vivo, scriverò alla nonna e le dirò che la amo.",
+              "010": "Mi servirebbe una mano!",
+              "011": "Devi continuare ad andare!!!",
+              "012": "Raagh, prendi questo!",
+              "013": "Se devo scendere, tu vieni con me!",
+              "014": "Per i miei amici! Per il mio villaggio!",
+              "015": "Faccio la mia ultima resistenza qui!"
             }
           }
         },
         "peaceful_day": {
-          "text": "On Tranquility",
+          "text": "Sulla Tranquillità",
           "logs": {
             "generic": {
-              "000": "Feels good to be alive!",
-              "001": "Another awesome day in town.",
-              "002": "Peaceful!",
-              "003": "This seems like a pretty sheltered spot.",
-              "004": "I was amazingly productive today!",
-              "005": "Nothing much to do today but enjoy life!",
-              "006": "Nature sure is beautiful!",
-              "007": "It's great being here with friends and family.",
-              "008": "Settling here was a great idea.",
-              "009": "Feeling happy with a good day's work!",
-              "010": "This really feels like a spot where we can build something great.",
-              "011": "Uninterrupted bliss! I love days like this.",
-              "012": "24 hours of pure tranquility.",
-              "013": "A whole day without a single existential threat! Amazing!"
+              "000": "È bello essere vivi!",
+              "001": "Un'altra fantastica giornata in città.",
+              "002": "Tranquillo!",
+              "003": "Sembra un posto piuttosto riparato.",
+              "004": "Sono stato incredibilmente produttivo oggi!",
+              "005": "Non c'è molto da fare oggi se non godersi la vita!",
+              "006": "La natura è bellissima!",
+              "007": "È bello essere qui con amici e familiari.",
+              "008": "Sistemarsi qui è stata un'ottima idea.",
+              "009": "Sentirsi felici con una buona giornata di lavoro!",
+              "010": "Sentirsi felici con una buona giornata di lavoro!",
+              "011": "Beatitudine ininterrotta! Amo giorni come questo.",
+              "012": "24 ore di pura tranquillità.",
+              "013": "Un giorno intero senza una singola minaccia esistenziale! Incredibile!"
             }
           }
         },
         "villager_death": {
-          "text": "On Mortality:",
+          "text": "Sulla mortalità:",
           "logs": {
             "generic": {
               "dead_friend_and_teacher": {
-                "000": "[str(entry.teacher)] keep you safe, [name(entry.dead_friend)]."
+                "000": "[str(entry.teacher)] ti tiene al sicuro, [name(entry.dead_friend)]."
               },
               "dead_friend": {
                 "000": "[name(entry.dead_friend)]? [name(entry.dead_friend)]!!!",
-                "001": "[name(entry.dead_friend)]? Nothing will ever be the same without you.",
+                "001": "[name(entry.dead_friend)]? Niente sarà più lo stesso senza di te.",
                 "002": "[name(entry.dead_friend)]!!! Nooooooo!!!",
-                "003": "Goodbye, [name(entry.dead_friend)]. I hope we meet again someday.",
-                "004": "[name(entry.dead_friend)]? But... what will I tell your dad, when I next write home?",
-                "005": "We can't let [name(entry.dead_friend)]'s death be in vain, people!",
-                "006": "Goodbye, [name(entry.dead_friend)]. We'll miss you.",
-                "007": "Don't worry, [name(entry.dead_friend)]. We'll avenge you!",
-                "008": "I can't believe [name(entry.dead_friend)] is really gone.",
-                "009": "[name(entry.dead_friend)]? Gone? Suddenly this whole thing seems like it wasn't worth it, somehow.",
-                "010": "Gee, now I really wish I hadn't talked [name(entry.dead_friend)] into this adventure.",
+                "003": "Addio, [name(entry.dead_friend)]. Spero che ci incontreremo di nuovo un giorno.",
+                "004": "[name(entry.dead_friend)]? Ma... cosa dirò a tuo padre, quando scriverò la prossima volta?",
+                "005": "Non possiamo lasciare che la morte di [name(entry.dead_friend)] sia vana, gente!",
+                "006": "Addio, [name(entry.dead_friend)]. Ci mancherai.",
+                "007": "Non ti preoccupare, [name(entry.dead_friend)]. Ti vendicheremo!",
+                "008": "Non riesco a credere che [name(entry.dead_friend)] sia davvero sparito.",
+                "009": "[name(entry.dead_friend)]? Andato? All'improvviso tutta questa cosa sembra non valerne la pena, in qualche modo.",
+                "010": "Accidenti, ora vorrei davvero non aver parlato [name(entry.dead_friend)] in questa avventura.",
                 "011": "[name(entry.dead_friend)]!!"
               }
             }
@@ -7901,48 +7901,48 @@
         "generic_panic": {
           "logs": {
             "diligent_sweetheart": {
-              "000": "Oh no! Monsters!",
-              "001": "Everyone, save yourselves!",
-              "002": "AAAGH! MONSTERS!!!",
-              "003": "AAAA! Please don't hurt us!!!",
-              "004": "If I can't see it, maybe it can't see me?",
+              "000": "Oh no! Mostri!",
+              "001": "Salvatevi!",
+              "002": "AAAGH! MOSTRI!!!",
+              "003": "AAAA! Per favore, non farci del male!!!",
+              "004": "Se non riesco a vederlo, forse non può vedermi?",
               "teacher": {
-                "000": "[str(entry.teacher)] SAVE US!!!"
+                "000": "[str(entry.teacher)] SALVACI!!!"
               }
             },
             "insufferable_academic": {
-              "000": "Expeditious Retreat! Expeditious Retreat!!!",
-              "001": "When in doubt, PANIC!!!",
-              "002": "Keep Calm and AIEEEEE!",
-              "003": "::wails silently::",
-              "004": "Fiends of nightmare stay away!",
-              "005": "Terror bad for blood pressure!!!",
-              "006": "Cardiac arrest incoming!!!",
-              "007": "Brain... paralyzed...!",
-              "008": "Help! Heeeeeelllpp!!!"
+              "000": "Ritiratevi! Ritiratevi presto!!!",
+              "001": "In caso di dubbio, PANICO!!!",
+              "002": "Mantieni la calma e AIEEEEE!",
+              "003": "::geme silenziosamente::",
+              "004": "I demoni dell'incubo stanno alla larga!",
+              "005": "Terrore cattivo per la pressione sanguigna!!!",
+              "006": "Arresto cardiaco in arrivo!!!",
+              "007": "Cervello... paralizzato...!",
+              "008": "Aiuto! Aiuuuuutoooooo!!!"
             },
             "belaguered_leader": {
-              "000": "Tactical retreat! Tactical retreat!!!",
-              "001": "Everyone make for the hills!",
-              "002": "Drop everything and move, people!!!",
-              "003": "They're too strong for us! Scatter, everyone!!",
-              "004": "Run purposefully towards the exits!!!"
+              "000": "Ritiro tattico! Ritiro tattico!!!",
+              "001": "Tutti pronti per le colline!",
+              "002": "Mollate tutto e muovetevi, gente!!!",
+              "003": "Sono troppo forti per noi!",
+              "004": "Correte verso le uscite!!!"
             },
             "generic": {
-              "000": "Scared out of my gourd now!!!",
+              "000": "Spaventato dalla mia zucca ora!!!",
               "001": "Aauuugh!!!",
-              "002": "Nightmare things!!!",
-              "003": "Must run awaaaaaayyyy!!!!",
-              "004": "::cries in terror::"
+              "002": "Cose da incubo!!!",
+              "003": "Deve scappare viiiiiiaaaaaaaa!!!!",
+              "004": "::grida di terrore::"
             },
             "hopeless_optimist": {
-              "000": "Aaagh! It looks so mean!!!!",
-              "001": "I can't see you!! I can't see you!!!",
-              "002": "Monsters!!!!!",
-              "003": "Auugh! Can't we just be friends??",
-              "004": "Running away so tomorrow can be another daaaaaayyy!!!",
-              "005": "Run, run, run away from the scary monsters!!!",
-              "006": "I don't think it wants to be frieeendss!!!"
+              "000": "Aaagh! Sembra così cattivo!!!!",
+              "001": "Non riesco a vederti!! Non riesco a vederti!!!",
+              "002": "Mostri!!!!!",
+              "003": "Auugh! Non possiamo semplicemente essere amici?",
+              "004": "Scappo così domani può essere un altro giorno!!!",
+              "005": "Scappa, scappa, scappa dai mostri spaventosi!!!",
+              "006": "Non credo che voglia esserci amico!!!"
             },
             "psychopathic_misanthrope": {
               "000": "RRAAAAGGGHH!!",
@@ -7951,43 +7951,43 @@
               "003": "AIEEEEE!!!"
             },
             "lovable_rogue": {
-              "000": "Grab the goods and head for the hills!",
-              "001": "Please, I don't want to die!",
-              "002": "I have so many more things I need to do!!!!",
-              "003": "I can't die here!!!",
-              "004": "Must... escape!!!",
-              "005": "Every villager for themselves!!!"
+              "000": "Prendete la merce e dirigetevi verso le colline!",
+              "001": "Ti prego, non voglio morire!",
+              "002": "Ho così tante altre cose che devo fare!!!!",
+              "003": "Non posso morire qui!!!",
+              "004": "Deve... scappare!!!",
+              "005": "Ogni abitante del villaggio per se stesso!!!"
             }
           }
         }
       },
       "dreams": {
         "dreams": {
-          "text": "On Dreaming:",
+          "text": "Su Sognare:",
           "logs": {
             "insufferable_academic": {
-              "000": "I wonder if anyone else has the dream where their clothes trail their bodies by several feet? Lucky for me, I always seem to have on my trusty pair of shiny knickers.",
-              "001": "Last night I dreamed I stood before a class of attentive raccoons. They took notes on the nature of reality. Afterwards, we had a stirring debate.",
-              "002": "According to the formulae in my dreams, determinism is a myth. Time to get breakfast.",
-              "003": "I dreamed of times present, past and future. My consciousness expanded to fill the universe. I was all, everything was me.",
-              "004": "I dreamed I was the trees in the forest, the water in the lake, and the wind in the air.",
-              "005": "I dreamed I was immortal, without beginning or end.",
-              "006": "I dreamed I was between light and dark, space and time."
+              "000": "Mi chiedo se qualcun altro ha il sogno in cui i loro vestiti trascinano i loro corpi di diversi piedi? Fortunatamente per me, mi sembra sempre di avere su il mio fidato paio di mutande lucenti.",
+              "001": "Ieri sera ho sognato di stare davanti a una classe di procioni attenti. Hanno preso appunti sulla natura della realtà. Successivamente, abbiamo avuto un acceso dibattito.",
+              "002": "Secondo le formule dei miei sogni, il determinismo è un mito. È ora di fare colazione.",
+              "003": "Ho sognato tempi presenti, passati e futuri. La mia coscienza si è espansa per riempire l'universo. Ero tutto, tutto ero io.",
+              "004": "Ho sognato di essere gli alberi nella foresta, l'acqua nel lago e il vento nell'aria.",
+              "005": "Ho sognato di essere immortale, senza inizio né fine.",
+              "006": "Ho sognato di essere tra luce e buio, spazio e tempo."
             },
             "lovable_rogue": {
-              "000": "This morning, I woke up certain that wolves had stolen all the sheep. Need to build walls! Thicker walls!",
-              "001": "I dreamed of a mine full of gold.",
-              "002": "I had a dream where, of all things, a crocodile, stole all our food. Then he took it to a boat and stayed there",
-              "003": "In my dream last night, I turned everything--and everyone--I touched, into gold. Oops.",
-              "004": "I dreamed that I ate all our food supplies. Best try to avoid doing that today.",
+              "000": "Stamattina mi sono svegliato certo che i lupi avevano rubato tutte le pecore. Devi costruire muri! Pareti più spesse!",
+              "001": "Ho sognato una miniera piena d'oro.",
+              "002": "Ho fatto un sogno in cui, tra tutte le cose, un coccodrillo, rubava tutto il nostro cibo. Quindi lo portò su una barca e vi rimase",
+              "003": "Nel sogno della scorsa notte ho trasformato tutto e tutti quelli che ho toccato, in oro. Ops.",
+              "004": "Ho sognato di aver mangiato tutte le nostre provviste di cibo. Meglio cercare di evitare di farlo oggi.",
               "teacher": {
-                "000": "I had the dream about fragile ladders again. I wish I knew what was at the top. I'm sure [str(entry.teacher)] is trying to tell me something."
+                "000": "Ho fatto di nuovo il sogno di fragili scale. Vorrei sapere cosa c'era in cima. Sono sicuro che [str(entry.teacher)] sta cercando di dirmi qualcosa."
               }
             },
             "hopeless_optimist": {
-              "000": "Wolves! All night I dreamed I was being chased by wolves!",
-              "001": "Rabbits! All night I dreamed I was being chased by rabbits!",
-              "002": "I love dreams about flying. Tonight I flew by soft clouds and over dense trees. Watch out, birds!",
+              "000": "Lupi! Per tutta la notte ho sognato di essere inseguito dai lupi!",
+              "001": "Conigli! Per tutta la notte ho sognato di essere inseguito dai conigli!",
+              "002": "Adoro sognare di volare. Stanotte ho volato su nuvole morbide e alberi densi. Attenzione, uccelli!",
               "003": "I dreamed I was a goblin. Don't tell anyone, but stealing from the town was a lot of fun! (Does that make me a bad person?)",
               "004": "I dreamed I was cooking soup for everyone but I ran out of salt. Salt's a rock, right? Can you substitute rocks for salt? ",
               "005": "I dreamt a little bird alighted upon my shoulder and told me that today was going to be a great day. I can't wait!",
@@ -9095,94 +9095,94 @@
             },
             "ate_item_quality_excellent": {
               "display_name": "Pasto ottimamente preparato",
-              "tooltip": "Il mio recente [str (foodname)] è stato <font color='#ce71d2'>Eccellente!</font> Era davvero qualcosa!"
+              "tooltip": "Il mio recente [str(foodname)] è stato <font color='#ce71d2'>Eccellente!</font> Era davvero qualcosa!"
             },
             "ate_item_quality_masterwork": {
               "display_name": "Pasto magistralmente preparato!",
-              "tooltip": "Ho appena mangiato un <font color='#E3AC53'>magistralmente</font> preparato di [str(nome food)]! Non sapevo che potesse avere un sapore così buono!"
+              "tooltip": "Ho appena mangiato un <font color='#E3AC53'>magistralmente</font> preparato di [str(foodname)]! Non sapevo che potesse avere un sapore così buono!"
             }
           },
           "values": {
             "ate_cooked": {
               "display_name": "Il mio pasto è stato cucinato",
-              "tooltip": "I always enjoy the 'warm belly' feeling after a nice prepared meal."
+              "tooltip": "Mi piace sempre la sensazione di 'pancia calda' dopo un buon pasto preparato."
             }
           }
         },
         "amberstone": {
           "borrow_crafter": {
             "helped_out": {
-              "display_name": "Visit with the Rabbits",
-              "tooltip": "Wow, the Amberstone warren was amazing! I feel so honored to have helped them out."
+              "display_name": "Visita con i conigli",
+              "tooltip": "Wow, la tana di Amberstone era incredibile! Mi sento così onorato di averli aiutati."
             }
           }
         },
         "titan": {
           "roots": {
             "harvested_bramble": {
-              "display_name": "Chopped down Dark Bramble",
-              "tooltip": "Feels good to do my part, taking an axe to this Titan's corrupt undergrowth!"
+              "display_name": "Abbattuto rovo scuro",
+              "tooltip": "È bello fare la mia parte, prendendo un'ascia per il sottobosco corrotto di questo Titano!"
             },
             "harvested_root": {
-              "display_name": "Chopped down a Root of Evil",
-              "tooltip": "That's one step closer to kicking this Titan out for good!"
+              "display_name": "Abbattuta una Radice del Male",
+              "tooltip": "Questo è un passo avanti verso il calcio d'inizio di questo Titano!"
             }
           },
           "victory": {
             "titan_victory": {
-              "display_name": "Titan Vanquished!",
-              "tooltip": "We did it! The air seems cleaner now, and I don't feel like there's always something watching me..."
+              "display_name": "Titano sconfitto!",
+              "tooltip": "Ce l'abbiamo fatta! L'aria adesso sembra più pulita e non mi sembra che ci sia sempre qualcosa che mi guarda..."
             }
           },
           "peace": {
             "no_more_titan": {
-              "display_name": "Titan-Free Homestead!",
-              "tooltip": "It feels nice to live in a place without an ancient darkness lurking below it for once!"
+              "display_name": "Fattoria senza titani!",
+              "tooltip": "È bello vivere in un posto senza un'antica oscurità in agguato per una volta!"
             }
           }
         },
         "town": {
           "founding": {
             "pioneering_spirit": {
-              "display_name": "Pioneering Spirit",
-              "tooltip": "We've left our home to build a new one. We will make it better than before!"
+              "display_name": "Spirito pionieristico",
+              "tooltip": "Abbiamo lasciato la nostra casa per costruirne una nuova. Lo faremo meglio di prima!"
             },
             "settling_in": {
-              "display_name": "Settling In",
-              "tooltip": "I'm starting to feel at home, but there's work yet to be done."
+              "display_name": "Stabilirsi",
+              "tooltip": "Sto iniziando a sentirmi a casa, ma c'è ancora del lavoro da fare."
             }
           },
           "township": {
             "level_2": {
-              "display_name": "Township Celebration",
-              "tooltip": "We've been recognized as a fully fledged settlement!  Our work is starting to pay off."
+              "display_name": "Celebrazione della cittadina",
+              "tooltip": "Siamo stati riconosciuti come un insediamento a tutti gli effetti! Il nostro lavoro sta iniziando a ripagare."
             }
           },
           "safety": {
             "lack_of_safety": {
-              "display_name": "Lack of safety",
-              "tooltip": "Without some form of city guard, I just don't feel at ease in this wilderness."
+              "display_name": "Mancanza di sicurezza",
+              "tooltip": "Senza una qualche forma di guardia cittadina, non mi sento a mio agio in questo deserto."
             }
           },
           "theft": {
             "petty_theft": {
-              "display_name": "Theft",
-              "tooltip": "Someone stole something from our supplies! We need better defenses."
+              "display_name": "Furto",
+              "tooltip": "Qualcuno ha rubato qualcosa dalle nostre forniture! Abbiamo bisogno di migliori difese."
             }
           },
           "progression": {
             "values": {
               "outpost": {
-                "display_name": "Established an outpost",
-                "tooltip": "We've just established an Outpost! Time to get working on it!"
+                "display_name": "Stabilito un avamposto",
+                "tooltip": "Abbiamo appena creato un avamposto! È ora di lavorarci su!"
               },
               "settlement": {
-                "display_name": "Established a settlement",
-                "tooltip": "Our outpost is now a fully-fledged Settlement! Hurrah!"
+                "display_name": "Stabilito un accordo",
+                "tooltip": "Il nostro avamposto è ora un insediamento a tutti gli effetti! Evviva!"
               },
               "town": {
-                "display_name": "Township Celebration",
-                "tooltip": "We've been recognized as a Town! Our work is starting to pay off!"
+                "display_name": "Celebrazione della cittadina",
+                "tooltip": "Siamo stati riconosciuti come una città! Il nostro lavoro sta iniziando a ripagare!"
               }
             }
           }
@@ -9190,119 +9190,119 @@
         "sleepiness": {
           "values": {
             "tired": {
-              "display_name": "Tired",
-              "tooltip": "It's been awhile since I've slept."
+              "display_name": "Stanco",
+              "tooltip": "È passato un po' di tempo da quando ho dormito."
             },
             "exhausted": {
-              "display_name": "Exhausted",
-              "tooltip": "It feels like forever since I've slept.. I can barely keep my eyes open."
+              "display_name": "Esausto",
+              "tooltip": "Mi sembra un'eternità da quando ho dormito ... Riesco a malapena a tenere gli occhi aperti."
             },
             "fatigued": {
-              "display_name": "Fatigued",
-              "tooltip": "I've been on my feet for too long. I really need some time to sleep."
+              "display_name": "Affaticato",
+              "tooltip": "Sono in piedi da troppo tempo. Ho davvero bisogno di un po' di tempo per dormire."
             }
           }
         },
         "combat": {
           "values": {
             "panicked": {
-              "display_name": "Feared for my life",
-              "tooltip": "I'm not proud of how I acted when the monsters came, but it's all I could think to do."
+              "display_name": "Temuto per la mia vita",
+              "tooltip": "Non sono orgoglioso di come mi sono comportato quando sono arrivati i mostri, ma è tutto ciò che ho potuto pensare di fare."
             }
           }
         },
         "traits": {
           "values": {
             "misses_pet": {
-              "display_name": "Misses Companion",
-              "tooltip": "Although it's been awhile since they died, I still catch myself sometimes looking for my pet, [str(pet_name)]."
+              "display_name": "Manca il compagno",
+              "tooltip": "Anche se è passato un po 'di tempo da quando sono morti, a volte mi sorprendo a cercare il mio animale domestico, [str(pet_name)]."
             },
             "plant_lover": {
-              "display_name": "Plant Lover",
-              "tooltip": "Every time I interact with plants I feel a bit calmer."
+              "display_name": "Amante delle piante",
+              "tooltip": "Ogni volta che interagisco con le piante mi sento un po' più tranquillo."
             },
             "fruitful_labors": {
-              "display_name": "Fruitful Labors",
-              "tooltip": "It always feels good to make something with one's own hands. It helps clear my mind."
+              "display_name": "Fatiche fruttuose",
+              "tooltip": "È sempre bello fare qualcosa con le proprie mani. Mi aiuta a schiarirmi le idee."
             },
             "idle_hands": {
-              "display_name": "Idle Hands",
-              "tooltip": "I've not made anything in awhile and feel like a layabout. Isn't there something I can craft?"
+              "display_name": "Mani in mano",
+              "tooltip": "Non ho fatto nulla da un po' e sento come un fannullone. Non c'è qualcosa che posso creare?"
             },
             "protected_the_town": {
-              "display_name": "Protected the Town",
-              "tooltip": "We fended off a group of nasties recently, it really got my blood pumping!"
+              "display_name": "Protetta la città",
+              "tooltip": "Di recente abbiamo respinto un gruppo di cattivi, mi ha davvero fatto pompare il sangue!"
             },
             "loves_their_job": {
-              "display_name": "Loves Their Job",
-              "tooltip": "This is the perfect job for me! I love what I do day to day."
+              "display_name": "Ama il loro lavoro",
+              "tooltip": "Questo è il lavoro perfetto per me! Adoro quello che faccio ogni giorno."
             },
             "inspired": {
-              "display_name": "Inspired",
-              "tooltip": "[str(target_name)] is in quite good spirits today. They're really pleasant to be around!"
+              "display_name": "ispirato",
+              "tooltip": "[str(target_name)] è di buon umore oggi. Sono davvero piacevoli essere in giro!"
             },
             "discouraged": {
-              "display_name": "Discouraged",
-              "tooltip": "Sheesh, [str(target_name)] is no fun when they're in a bad mood."
+              "display_name": "Soraggiato",
+              "tooltip": "Sheesh, [str(target_name)] non è divertente quando sono di cattivo umore."
             },
             "deeper_understanding": {
-              "display_name": "A deeper understanding",
-              "tooltip": "[str(target_name)] really has his priorities straight."
+              "display_name": "Una comprensione più profonda",
+              "tooltip": "[str(target_name)] ha davvero le sue priorità diritte."
             },
             "pluviophile": {
-              "display_name": "I love rain!",
-              "tooltip": "It's my favorite weather today!"
+              "display_name": "Amo la pioggia!",
+              "tooltip": "Oggi è il mio tempo preferito!"
             },
             "storm_chaser": {
-              "display_name": "It's storming!",
-              "tooltip": "It's my favorite weather today!"
+              "display_name": "È una tempesta di neve!",
+              "tooltip": "Oggi è il mio tempo preferito!"
             }
           },
           "gregarious": {
             "values": {
               "lonely": {
-                "display_name": "Lonely",
-                "tooltip": "It's been awhile since I've talked to anyone. I really need to get some stuff off my chest."
+                "display_name": "Solitario",
+                "tooltip": "È da un po 'che non parlo con nessuno. Ho davvero bisogno di togliermi un po' di roba dal petto."
               },
               "enjoys_company": {
-                "display_name": "Enjoying company",
-                "tooltip": "It's always great to spend some time with my fellow town members."
+                "display_name": "Godersi la compagnia",
+                "tooltip": "È sempre bello passare un po' di tempo con i miei compagni di città."
               }
             }
           },
           "loner": {
             "values": {
               "annoyed_with_others": {
-                "display_name": "Annoyed with others",
-                "tooltip": "Why do these people keep talking to me? It keeps distracting me from what's important."
+                "display_name": "Infastidito con gli altri",
+                "tooltip": "Perché queste persone continuano a parlare con me? Mi distoglie da ciò che è importante."
               },
               "alone_with_thoughts": {
-                "display_name": "Alone with my own thoughts",
-                "tooltip": "Being away from others has given me the time to reflect and clear my mind."
+                "display_name": "Solo con i miei pensieri",
+                "tooltip": "Stare lontano dagli altri mi ha dato il tempo di riflettere e chiarire la mia mente."
               }
             }
           },
           "empathetic": {
             "values": {
               "everyone_worse_off": {
-                "display_name": "Everyone seems worse off",
-                "tooltip": "Seeing everyone else in worse spirits just brings me down."
+                "display_name": "Tutti sembrano tristi",
+                "tooltip": "Vedere tutti gli altri di cattivo umore mi fa deprimere."
               },
               "everyone_happier": {
-                "display_name": "Everyone seems happier",
-                "tooltip": "Everyone else seems to be in a better mood than me. Maybe I should look at things differently."
+                "display_name": "Tutti sembrano più felici",
+                "tooltip": "Tutti gli altri sembrano essere in un umore migliore del mio. Forse dovrei guardare le cose in modo diverso."
               }
             }
           },
           "goat": {
             "values": {
               "ate_not_bad_food": {
-                "display_name": "Mmm, not bad",
-                "tooltip": "My [str(foodname)] today was a little tasty, but didn't seem that different from what I normally eat."
+                "display_name": "Mmm, non è male",
+                "tooltip": "Il mio [str(foodname)] oggi era un po' gustoso, ma non sembrava così diverso da quello che mangio normalmente."
               },
               "ate_some_food": {
-                "display_name": "Ate some food",
-                "tooltip": "I had some [str(foodname)] today. It was alright, but I don't see what the big deal is."
+                "display_name": "Abbiamo mangiato del cibo",
+                "tooltip": "Ho avuto alcuni [str(foodname)] oggi. Andava bene, ma non vedo quale sia il grosso problema."
               }
             }
           }
@@ -9310,55 +9310,55 @@
         "violence": {
           "values": {
             "townmember_died": {
-              "display_name": "A townmember has died",
-              "tooltip": "A fellow townmember has died. If only we had been more watchful!"
+              "display_name": "Un membro della città è morto",
+              "tooltip": "Un compagno di città è morto. Se solo fossimo stati più attenti!"
             },
             "pet_died": {
-              "display_name": "My pet died",
-              "tooltip": "My poor [str(pet_name)] passed away recently. I'll miss them quite a bit."
+              "display_name": "Il mio animale domestico è morto",
+              "tooltip": "Il mio povero [str(pet_name)] è morto di recente. Mi mancherà un bel po'."
             },
             "saved_from_mortal_wounds": {
-              "display_name": "Saved from mortal wounds",
-              "tooltip": "I would have died back there were it not for those around me! I'm grateful for this second chance."
+              "display_name": "Salvato da ferite mortali",
+              "tooltip": "Sarei morto laggiù se non fosse stato per quelli intorno a me! Sono grato per questa seconda possibilità."
             }
           }
         },
         "job": {
           "values": {
             "gained_a_level": {
-              "display_name": "Improved my skills",
-              "tooltip": "I've been at this job long enough to gain a new insight! I can feel myself becoming better at my work."
+              "display_name": "Migliorate le mie capacità",
+              "tooltip": "Sono stato in questo lavoro abbastanza a lungo per ottenere una nuova visione! Sento che sto migliorando nel mio lavoro."
             }
           }
         },
         "social": {
           "values": {
             "unpleasant_talk": {
-              "display_name": "Had an unpleasant talk",
-              "tooltip": "I can't believe [str(target_name)] said that!"
+              "display_name": "Ha avuto un discorso spiacevole",
+              "tooltip": "Non posso credere che [str(target_name)] l'abbia detto!"
             },
             "great_talk": {
-              "display_name": "Had a great talk",
-              "tooltip": "Talking with [str(target_name)] today was really nice."
+              "display_name": "Ho avuto una bella chiacchierata",
+              "tooltip": "Parlare con [str(target_name)] oggi è stato davvero bello."
             },
             "great_joke": {
-              "display_name": "Heard a great joke",
-              "tooltip": "Hahaha, just thinking of the joke [str(target_name)] told makes me crack up!"
+              "display_name": "Ho sentito una bella battuta",
+              "tooltip": "Hahaha, al solo pensiero della battuta di [str(target_name)] mi fa scoppiare dal ridere!"
             },
             "tough_crowd": {
-              "display_name": "Tough crowd",
-              "tooltip": "[str(target_name)] didn't laugh at my joke. Was it really that bad?"
+              "display_name": "Pubblico difficile",
+              "tooltip": "[str(target_name)] non ho riso della mia battuta. È stato davvero così male?"
             }
           },
           "animal": {
             "values": {
               "nuzzled": {
-                "display_name": "Nuzzled",
-                "tooltip": "Awww, my pet [str(target_name)] always manages to cheer me up."
+                "display_name": "Accarezzare",
+                "tooltip": "Awww, il mio animale domestico [str(target_name)] riesce sempre a tirarmi su di morale."
               },
               "booped": {
-                "display_name": "Booped",
-                "tooltip": "A cute [str(species)] booped me today. It made me feel warm and fuzzy inside."
+                "display_name": "Cinguettato",
+                "tooltip": "Un simpatico [str(species)] mi ha cinguettato oggi. Mi ha fatto sentire calmo e tranquillo."
               }
             }
           }
@@ -9366,31 +9366,31 @@
         "appeal": {
           "thresholds": {
             "horrendous": {
-              "display_name": "Horrid Aesthetics",
-              "tooltip": "Everywhere I look I see something terrible!"
+              "display_name": "Estetica orribile",
+              "tooltip": "Ovunque guardo vedo qualcosa di terribile!"
             },
             "beautiful": {
-              "display_name": "Beautiful Aesthetics",
-              "tooltip": "The decor around here is really great. A lot of hard work must have gone into making it look this nice."
+              "display_name": "Bella estetica",
+              "tooltip": "L'arredamento qui è davvero eccezionale. Un sacco di duro lavoro deve essere andato a farlo sembrare così bello."
             },
             "neutral": {
-              "display_name": "Neutral Aesthetics"
+              "display_name": "Estetica neutra"
             },
             "ugly": {
-              "display_name": "Ugly Aesthetics",
-              "tooltip": "Sheesh, it's really ugly around here. We definitely can make this look better!"
+              "display_name": "Brutta estetica",
+              "tooltip": "Sheesh, è davvero brutto qui. Possiamo sicuramente migliorare l'aspetto!"
             },
             "awe_inspiring": {
-              "display_name": "Awe-Inspiring Aesthetics",
-              "tooltip": "This place... it's... beautiful..."
+              "display_name": "Estetica impressionante",
+              "tooltip": "Questo posto... è ...bellissimo..."
             },
             "pleasing": {
-              "display_name": "Pleasing Aesthetics",
-              "tooltip": "It's pretty nice looking around here."
+              "display_name": "Estetica piacevole",
+              "tooltip": "È carino guardarsi intorno."
             },
             "breathtaking": {
-              "display_name": "Breath-Taking Aesthetics",
-              "tooltip": "Wow, everywhere I look is gorgeous! The attention to detail is amazing!"
+              "display_name": "Estetica mozzafiato",
+              "tooltip": "Caspita, ovunque guardi è stupendo! L'attenzione ai dettagli è sorprendente!"
             }
           }
         },
