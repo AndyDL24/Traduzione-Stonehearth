@@ -8102,58 +8102,58 @@
               "088": "Ho fatto il sogno più folle! C'era un uomo, che era in grado di sollevare il magma dalla terra! Non è possibile, giusto!?",
               "089": "Ho fatto un sogno in cui tutto era fatto di carta e legno! Abbiamo dovuto usare i bastoncini per sostenerci.",
               "090": "Ho fatto un sogno in cui una pecora mi ha morso e mi ha trasformato in una pecora! Ma potrei ancora parlare. Era strano.",
-              "091": "I had a dream in which I was tiny, and a portly man said he was going to &quot;Boil em, mash em, stick em in a stew!&quot; Although I awoke before anything else could happen, I assumed he was talking about me.",
-              "092": "I dreamed about catching a giant fish! From a puddle!",
-              "093": "I had a dream where the tree I was chopping transformed into a giant and attacked me!",
-              "094": "I had a dream where I was bullying a poyo and then a swarm of poyo's started attacking me! ... I am now a changed Hearthling",
-              "095": "I had a dream, in which I was peacefully dosing off. The version of myself in that dream was also having a dream about me peacefully dosing off. This went on and on until I woke up.",
-              "096": "I had a dream where I ate so much food I literally transformed into a planet.",
+              "091": "Ho fatto un sogno in cui ero piccolo, e un uomo corpulento ha detto che stava per &quot;bollirli, schiacciarli, infilarli in uno stufato!&quot; Anche se mi sono svegliato prima che potesse succedere qualcos'altro, ho pensato che stesse parlando di me.",
+              "092": "Ho sognato di catturare un pesce gigante! Da una pozzanghera!",
+              "093": "Ho fatto un sogno in cui l'albero che stavo tagliando si è trasformato in un gigante e mi ha attaccato!",
+              "094": "Ho fatto un sogno in cui facevo il prepotente con un pollo e poi uno sciame di polli ha iniziato ad attaccarmi! ... Ora sono un cittadino cambiato",
+              "095": "Ho fatto un sogno, in cui mi stavo tranquillamente dosando. La versione di me stesso in quel sogno stava anche avendo un sogno su di me che si dosasse pacificamente. Continuò così finché non mi svegliai.",
+              "096": "Ho fatto un sogno in cui ho mangiato così tanto cibo che ho letteralmente trasformato in un pianeta.",
               "teacher": {
-                "000": "I dreamed I came upon [str(entry.teacher)] herding rabbits towards a cave.",
-                "001": "I had a dream that [str(entry.teacher)] spoke to me through a plushie toy rabbit?! I think I need to stop eating these berries."
+                "000": "Ho sognato di essermi imbattuto in [str(entry.teacher)] mandando conigli verso una grotta.",
+                "001": "Ho fatto un sogno che [str(entry.teacher)] mi abbia parlato attraverso un coniglio di peluche ?! Penso di dover smettere di mangiare queste bacche."
               }
             },
             "beleaguered_leader": {
-              "000": "Last night I counted sheep to get to sleep, and when I woke up, I realized that all night my dreams were about counting sheep. Joy.",
-              "001": "I had a dream where I saw myself standing in some kind of sun-god robes on a pyramid. I had a thousand hearthlings as subjects, but they were all screaming and throwing radishes at me.",
-              "002": "I dreamed that me and my friends lived to build a mighty empire of our own!",
-              "003": "I dreamed that I pushed an immense boulder up a hill. When I reached the top of the hill I watched the boulder roll back down to the bottom. I then started pushing the boulder back up the hill. This happened all night long...",
-              "004": "I had a horrible dream! I had a dream, where there were 6 other people, and we were all stuck in the- oh, wait.... that wasn't a dream.",
+              "000": "Ieri sera ho contato le pecore per addormentarmi e quando mi sono svegliato mi sono reso conto che per tutta la notte i miei sogni riguardavano il conteggio delle pecore. Gioia.",
+              "001": "Ho fatto un sogno in cui mi vedevo in piedi in una specie di tunica del dio del sole su una piramide. Avevo mille cittadini come soggetti, ma tutti urlavano e lanciavano ravanelli contro di me.",
+              "002": "Ho sognato che io e i miei amici vivevamo per costruire un nostro potente impero!",
+              "003": "Ho sognato di aver spinto un masso immenso su una collina. Quando ho raggiunto la cima della collina ho visto il masso rotolare giù verso il basso. Ho quindi iniziato a spingere il masso su per la collina. Questo è successo tutta la notte...",
+              "004": "Ho fatto un sogno orribile! Ho fatto un sogno, dove c'erano altre 6 persone, ed eravamo tutti bloccati nel... oh, aspetta... non era un sogno.",
               "teacher_dreams": {
-                "000": "First, I dreamed that the trees grew arms and legs and began to sing. Then, [str(entry.teacher)] asked me to sing in front of a large audience."
+                "000": "Innanzitutto, ho sognato che gli alberi crescevano braccia e gambe e ho iniziato a cantare. Quindi, [str(entry.teacher)] mi ha chiesto di cantare di fronte a un vasto pubblico."
               }
             }
           }
         },
         "sleep_in_bed": {
-          "text": "On Beds:",
+          "text": "Sui letti:",
           "logs": {
             "generic": {
-              "000": "It feels good to have my own bed.",
-              "001": "Sleeping in a bed is a ton cooler than sleeping on the floor!",
-              "002": "Beds are the best invention since regulation log sizes.",
-              "003": "I'm never going to get tired of sleeping in a bed.",
-              "004": "Yes! This bed is mine! M-I-N-E!",
-              "005": "Being in my bed makes me feel so sheltered and cozy.",
-              "006": "Home is where your bed is."
+              "000": "È bello avere il mio letto.",
+              "001": "Dormire in un letto è molto più fresco di dormire sul pavimento!",
+              "002": "I letti sono la migliore invenzione dopo le dimensioni del registro di regolazione.",
+              "003": "Non mi stancherò mai di dormire in un letto.",
+              "004": "Sì! Questo letto è mio! IL MIO!",
+              "005": "Stare nel mio letto mi fa sentire così al riparo e accogliente.",
+              "006": "La casa è dove si trova il tuo letto."
             }
           }
         },
         "sleep_on_ground": {
-          "text": "On the Cold, Hard Earth:",
+          "text": "Sulla terra, fredda e dura:",
           "logs": {
             "generic": {
-              "000": "Sleeping on the ground makes me super sore.",
-              "001": "I think there was a rock in my shoulder all night.",
-              "002": "Rattlesnakes! What if I wake up covered in rattlesnakes?!",
-              "003": "I wish I could sleep in a real bed.",
-              "004": "Any kind of bed would be better than sleeping on the ground",
-              "005": "I really, really wish I had a bed to call my own.",
-              "006": "I was too exhausted to find a proper bed, and now I'm really paying for it. Ow.",
-              "007": "Slept on the ground again. Neck super sore. Everything looks slanted.",
-              "008": "I counted beds to go to sleep. BEDS!",
+              "000": "Dormire per terra mi fa molto male.",
+              "001": "Penso che ci sia stato un sasso nella spalla per tutta la notte.",
+              "002": "I serpenti a sonagli! E se mi svegliassi coperto di serpenti a sonagli?!",
+              "003": "Vorrei poter dormire in un vero letto.",
+              "004": "Qualsiasi tipo di letto sarebbe meglio che dormire a terra",
+              "005": "Vorrei davvero avere un letto per chiamare il mio.",
+              "006": "Ero troppo sfinito per trovare un letto adeguato, e ora lo sto davvero pagando. Ow.",
+              "007": "Dormito di nuovo a terra. Mal di collo super. Tutto sembra inclinato.",
+              "008": "Ho contato i letti per andare a dormire. LETTI!",
               "teacher": {
-                "000": "Though [str(entry.teacher)] slept on the ground during their pilgrimage, I wish I didn't have to."
+                "000": "Sebbene [str(entry.teacher)] abbia dormito per terra durante il loro pellegrinaggio, vorrei non doverlo fare."
               }
             }
           }
@@ -8161,29 +8161,29 @@
       },
       "eating_berries": {
         "eating_berries": {
-          "text": "On Eating Berries:",
+          "text": "Sul mangiare bacche:",
           "logs": {
             "psychopathic_misanthrope": {
-              "000": "Huh. These berries are actually kind of growing on me. They've got that fresh, non-manured taste.",
-              "001": "I'm not sure. These berries me feel kind of... light inside. I don't like where this is going.",
-              "002": "Now I know why hippies are vegetarian. Screw this."
+              "000": "Huh. Queste bacche in realtà stanno crescendo su di me. Hanno quel gusto fresco e non concimato.",
+              "001": "Non ne sono sicuro. Queste bacche mi fanno sentire un po'... leggere dentro. Non mi piace dove sta andando.",
+              "002": "Ora so perché gli hippy sono vegetariani. Al diavolo questo."
             },
             "insufferable_academic": {
-              "000": "Dark colored berries are full of antioxidants. Which are good for you."
+              "000": "Le bacche di colore scuro sono piene di antiossidanti. Che sono buoni per te."
             },
             "hopeless_optimist": {
-              "000": "Wow! I get to eat all the fresh berries I want! I'll never go hungry again!",
-              "001": "I love how they make my mouth blue. And my tongue. And my insides. And--",
-              "002": "Every berry tastes a little different. Like snowflakes, but for the mouth!",
-              "003": "I'm getting really good at telling which berries are the crunchiest."
+              "000": "Wow! Posso mangiare tutte le bacche fresche che voglio! Non avrò mai più fame!",
+              "001": "Adoro come mi rendono la bocca blu. E la mia lingua. E i miei interni. E--",
+              "002": "Ogni bacca ha un sapore un po' diverso. Come fiocchi di neve, ma per la bocca!",
+              "003": "Sto diventando davvero bravo a dire quali bacche sono le più croccanti."
             },
             "beleaguered_leader": {
-              "000": "Mmm, berries! Part of a healthy, regular diet.",
-              "001": "Berries again! Which is good, because they're healthy for you.",
-              "002": "Berries! They taste better than starving.",
-              "003": "Have you eaten your berries today? I know I've eaten mine!",
-              "004": "I wonder what's for dinner? I know--BERRIES!",
-              "005": "Everyone's been pretty good about eating so many berries. I try to set a good example."
+              "000": "Mmm, bacche! Parte di una dieta sana e regolare.",
+              "001": "Di nuovo bacche! Il che è buono, perché sono salutari per te.",
+              "002": "Frutti di bosco! Hanno un sapore migliore della fame.",
+              "003": "Hai mangiato le tue bacche oggi? So di aver mangiato il mio!",
+              "004": "Mi chiedo cosa c'è per cena? Lo so - BACCHE!",
+              "005": "Tutti sono stati abbastanza bravi a mangiare così tante bacche. Provo a dare il buon esempio."
             },
             "lovable_rogue": {
               "000": "I should really stop trying to sneak these berries into my pockets. If I keep it up somebody might notice the large purple stains in my pants.",
