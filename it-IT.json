@@ -8186,126 +8186,126 @@
               "005": "Tutti sono stati abbastanza bravi a mangiare così tante bacche. Provo a dare il buon esempio."
             },
             "lovable_rogue": {
-              "000": "I should really stop trying to sneak these berries into my pockets. If I keep it up somebody might notice the large purple stains in my pants.",
+              "000": "Dovrei davvero smettere di provare a infilarmi queste bacche nelle tasche. Se continuo così qualcuno potrebbe notare le grandi macchie viola nei miei pantaloni.",
               "teacher": {
-                "000": "In theory, you can ferment fruit, right? By *[str(entry.teacher)]* I miss fermented drinks."
+                "000": "In teoria, puoi fermentare la frutta, giusto? Di *[str(entry.teacher)]* Mi mancano le bevande fermentate.."
               }
             },
             "diligent_sweetheart": {
-              "000": "Mmm, berries! You never got fresh fruit in the city.",
-              "001": "If we could just build an iron stove, I could make a pie. Well, if I also had butter. And flour. And sugar.",
-              "002": "My figure is looking great!"
+              "000": "Mmm, bacche! Non hai mai avuto frutta fresca in città.",
+              "001": "Se solo potessimo costruire una stufa di ferro, potrei fare una torta. Bene, se avessi anche il burro. E farina. E zucchero",
+              "002": "La mia figura sta benissimo!"
             }
           }
         }
       },
       "eating_similar_foods": {
         "flavor_fatigue": {
-          "text": "On Eating the Same Thing Repeatedly:",
+          "text": "Nel mangiare ripetutamente la stessa cosa:",
           "logs": {
             "generic": {
-              "000": "Another [str(entry.recent_food)]? Joy.",
-              "001": "If I eat one more [str(entry.recent_food)] I might throw up.",
-              "002": "Wish I had something else to eat other than this [str(entry.recent_food)]."
+              "000": "Un altro [str(entry.recent_food)]? Gioia.",
+              "001": "Se mangio un altro [str(entry.recent_food)] potrei vomitare.",
+              "002": "Vorrei avere qualcos'altro da mangiare diverso da questo [str(entry.recent_food)]."
             },
             "insufferable_academic": {
-              "000": "[str(entry.recent_food)] again? If only people could be nourished by knowledge alone.",
-              "001": "A surprising amount of digestion does not seem to happen on a one-food diet."
+              "000": "[str(entry.recent_food)] di nuovo? Se solo le persone potessero essere nutrite solo dalla conoscenza.",
+              "001": "Una sorprendente quantità di digestione non sembra accadere con una dieta a cibo unico."
             },
             "beleaguered_leader": {
-              "000": "Another [str(entry.recent_food)]? Joy.",
-              "001": "Better chug this [str(entry.recent_food)] down; got to set a good example.",
-              "002": "[str(entry.recent_food)] definitely tastes better than starving, but...",
-              "003": "[str(entry.recent_food)] again? I can feel the revolt coming."
+              "000": "Un altro [str(entry.recent_food)]? Gioia.",
+              "001": "Meglio ridurlo [str(entry.recent_food)]; devo dare il buon esempio.",
+              "002": "[str(entry.recent_food)] ha sicuramente un sapore migliore della fame, ma...",
+              "003": "[str(entry.recent_food)] di nuovo? Sento arrivare la rivolta."
             },
             "psychopathic_misanthrope": {
-              "000": "There's nothing to eat but [str(entry.recent_food)]? 10 days till I kill someone for their meat.",
-              "001": "I've eaten so much of this food I can taste it in my sleep.",
-              "002": "If I have to eat one more [str(entry.recent_food)] I swear I will start to foam at the mouth."
+              "000": "Non c'è altro da mangiare se non [str(entry.recent_food)]? 10 giorni prima che uccida qualcuno per la sua carne.",
+              "001": "Ho mangiato così tanto di questo cibo che posso assaggiarlo nel sonno.",
+              "002": "Se devo mangiare ancora uno [str(entry.recent_food)] giuro che inizierò a schiumare alla bocca."
             },
             "diligent_sweetheart": {
-              "000": "More [str(entry.recent_food)]? Maybe we can dry some of it to eat later?",
-              "001": "I don't mean to complain, but all I've eaten recently is food like this [str(entry.recent_food)]. It's starting to hurt my mouth.",
-              "002": "[str(entry.recent_food)]! Must... keep... chewing....!"
+              "000": "Altro [str(entry.recent_food)]? Forse possiamo asciugarne un po 'per mangiarlo più tardi?",
+              "001": "Non intendo lamentarmi, ma tutto quello che ho mangiato di recente è cibo come questo [str(entry.recent_food)]. Sta iniziando a farmi male alla bocca.",
+              "002": "[str(entry.recent_food)]! Devo... continuare... a masticare....!"
             },
             "hopeless_optimist": {
-              "000": "Maybe if I eat enough of this food, I'll turn into it!",
-              "001": "[str(entry.recent_food)] again? My jaws hurt.",
-              "002": "It's okay, tongue! Just pretend you can't taste the [str(entry.recent_food)]."
+              "000": "Forse se mangio abbastanza di questo cibo, lo trasformerò!",
+              "001": "[str(entry.recent_food)]  di nuovo? Mi fanno male le mascelle.",
+              "002": "Va bene, lingua! Fai solo finta di non poter assaggiare il [str(entry.recent_food)]."
             },
             "lovable_rogue": {
-              "000": "[str(entry.recent_food)]. Great.",
-              "001": "[str(entry.recent_food)]? I miss steak.",
-              "002": "The market value for [str(entry.recent_food)] is essentially zero right now."
+              "000": "[str(entry.recent_food)]. Grande.",
+              "001": "[str(entry.recent_food)]? Mi manca la bistecca.",
+              "002": "Il valore di mercato per [str(entry.recent_food)] è essenzialmente zero in questo momento."
             }
           }
         },
         "different_food": {
-          "text": "On Eating Something Different:",
+          "text": "Sul mangiare qualcosa di diverso:",
           "logs": {
             "generic": {
-              "000": "Mmm, I love diversity in my diet.",
-              "001": "Eating [str(entry.recent_food)] was a nice change of pace.",
-              "002": "Having different things at mealtimes really synergizes the flavors!",
-              "003": "[str(entry.recent_food)] tastes better when I haven't had it for a while.",
+              "000": "Mmm, adoro la diversità nella mia dieta.",
+              "001": "Mangiare [str(entry.recent_food)]  è stato un bel cambio di ritmo.",
+              "002": "Avere cose diverse durante i pasti sinergizza davvero i sapori!",
+              "003": "[str(entry.recent_food)] ha un sapore migliore quando non ce l'ho da un po'.",
               "teacher": {
-                "000": "Praise [str(entry.teacher)]! Diversity in food makes me happy."
+                "000": "Elogio [str(entry.teacher)]! La diversità nel cibo mi rende felice."
               }
             }
           }
         },
         "super_nutritious_food": {
-          "text": "On Eating Really Healthy:",
+          "text": "Per mangiare davvero sano:",
           "logs": {
             "lovable_rogue": {
-              "000": "Wow, who knew [str(entry.recent_food)] was so incredibly slimming?",
-              "001": "This [str(entry.recent_food)] is the best thing I've eaten in a long time.",
-              "002": "I bet there's a market for food this good. Unless I should keep it all to myself?",
+              "000": "Wow, chi sapeva che [str(entry.recent_food)] era incredibilmente dimagrante?",
+              "001": "Questo [str(entry.recent_food)] è la cosa migliore che abbia mangiato da molto tempo.",
+              "002": "Scommetto che c'è un mercato per il cibo così buono. A meno che non dovrei tenere tutto per me?",
               "teacher": {
-                "000": "This was an amazing [str(entry.recent_food)]. Praise [str(entry.teacher)] and the Church of Plenty!"
+                "000": "Questo è stato un fantastico [str(entry.recent_food)]. Lodate [str(entry.teacher)] e la chiesa dell'abbondanza!"
               }
             },
             "hopeless_optimist": {
-              "000": "Wow! I feel great!",
-              "001": "We need to make more food like this [str(entry.recent_food)] so everyone can eat some!",
-              "002": "Grow grow grow, grow more of this [str(entry.recent_food)]."
+              "000": "Wow! Mi sento benissimo!",
+              "001": "Dobbiamo fare più cibo come questo [str(entry.recent_food)] in modo che tutti possano mangiarne un po'!",
+              "002": "Crescere crescere crescere, crescere di più di questo [str(entry.recent_food)]."
             },
             "beleaguered_leader": {
-              "000": "Wow. Who'd have guessed that [str(entry.recent_food)] was a superfood?",
-              "001": "That was a surprisingly satisfying [str(entry.recent_food)].",
-              "002": "That [str(entry.recent_food)] was so good I should really prioritize eating more of it.",
-              "003": "Arr! Now I feel like a superhero!"
+              "000": "Wow. Chi avrebbe mai immaginato che [str(entry.recent_food)] fosse un super cibo?",
+              "001": "[str(entry.recent_food)]è stato sorprendentemente soddisfacente.",
+              "002": "Che [str(entry.recent_food)] sia stato così buono che dovrei davvero dare la priorità a mangiarne di più.",
+              "003": "Arr! Ora mi sento un supereroe!"
             },
             "generic": {
-              "000": "Wow! That [str(entry.recent_food)] made me feel super healthy!",
-              "001": "That [str(entry.recent_food)] was surprisingly satisfying!",
-              "002": "[str(entry.recent_food)]? Super filling!",
-              "003": "This [str(entry.recent_food)] is going to fuel today's great works!"
+              "000": "Wow! Quel [str(entry.recent_food)] mi ha fatto sentire molto sano!",
+              "001": "Quel [str(entry.recent_food)] è stato sorprendentemente soddisfacente!",
+              "002": "[str(entry.recent_food)]? Super riempimento!",
+              "003": "Questo [str(entry.recent_food)] alimenterà le grandi opere di oggi!"
             }
           }
         }
       },
       "eat_once_per_day": {
         "eat_once_daily": {
-          "text": "On Eating:",
+          "text": "Sul mangiare:",
           "logs": {
             "generic": {
-              "000": "Food! The [str(entry.recent_food)] tastes surprisingly good today.",
-              "001": "Never really valued food like this [str(entry.recent_food)] till we moved out here.",
-              "002": "Being fed is much, much, much cooler than being hungry.",
-              "003": "Oh boy! [str(entry.recent_food)]. Tastes good in the tummy.",
+              "000": "Cibo! Il [str(entry.recent_food)] ha un sapore sorprendentemente buono oggi.",
+              "001": "Non abbiamo mai valutato il cibo come questo [str(entry.recent_food)] fino a quando non ci siamo trasferiti qui.",
+              "002": "Essere nutriti è molto, molto, molto più bello dell'essere affamati.",
+              "003": "Oh ragazzi! [str(entry.recent_food)]. Ha un buon sapore nella pancia.",
               "with_reaction": {
-                "000": "Dear Diary. Today I'm eating: [str(entry.recent_food)]. Mmm!",
-                "001": "Dear Diary. Today I'm eating: [str(entry.recent_food)]. Food is good.",
-                "002": "Dear Diary. Today I'm eating: [str(entry.recent_food)]. Wooo!",
-                "003": "Dear Diary. Today I'm eating: [str(entry.recent_food)]. Happiness.",
-                "004": "Dear Diary. Today I'm eating: [str(entry.recent_food)]. Joy.",
-                "005": "Dear Diary. Today I'm eating: [str(entry.recent_food)]. Oh boy!",
-                "006": "Dear Diary. Today I'm eating: [str(entry.recent_food)]. Delicious",
-                "007": "Dear Diary. Today I'm eating: [str(entry.recent_food)]. Better than starving!"
+                "000": "Caro diario. Oggi sto mangiando: [str(entry.recent_food)]. Mmm!",
+                "001": "Caro diario. Oggi sto mangiando: [str(entry.recent_food)]. Il cibo è buono.",
+                "002": "Caro diario. Oggi sto mangiando: [str(entry.recent_food)]. Wooo!",
+                "003": "Caro diario. Oggi sto mangiando: [str(entry.recent_food)]. Felicità.",
+                "004": "Caro diario. Oggi sto mangiando: [str(entry.recent_food)]. Gioia.",
+                "005": "Caro diario. Oggi sto mangiando: [str(entry.recent_food)]. Oh ragazzi!",
+                "006": "Caro diario. Oggi sto mangiando: [str(entry.recent_food)]. Delizioso",
+                "007": "Caro diario. Oggi sto mangiando: [str(entry.recent_food)]. Meglio che morire di fame!"
               },
               "teacher": {
-                "000": "[str(entry.teacher)], thank you for this [str(entry.recent_food)]."
+                "000": "[str(entry.teacher)], grazie per questo [str(entry.recent_food)]."
               }
             }
           }
@@ -8313,29 +8313,29 @@
       },
       "embarking": {
         "embarking": {
-          "text": "On Arriving:",
+          "text": "In arrivo:",
           "logs": {
             "insufferable_academic": {
-              "000": "Three days have passed since I had a decent philosophical conversation. Trying not to panic. Failing. Trying to keep it in. Succeeding. Mostly."
+              "000": "Sono trascorsi tre giorni da quando ho avuto una discreta conversazione filosofica. Cercando di non farsi prendere dal panico. In mancanza. Cercando di tenerlo dentro. Riuscendo. Soprattutto."
             },
             "beleaguered_leader": {
-              "000": "Everyone seems to have gotten here OK! Well... almost everyone..."
+              "000": "Sembra che tutti siano arrivati qui OK! Beh ... quasi tutti ..."
             },
             "diligent_sweetheart": {
-              "000": "Wow! This is a lot of great outdoors. Well, time to form strong relationships and build community!"
+              "000": "Wow! Questo è molto bello all'aria aperta. Bene, è tempo di stabilire relazioni forti e costruire comunità!"
             },
             "lovable_rogue": {
-              "000": "Well, here we are, I guess. A million miles away from civilization. Great.",
-              "001": "Mom was right. We're all going to get eaten by bears."
+              "000": "Bene, eccoci qui, immagino. A un milione di miglia di distanza dalla civiltà. Grande.",
+              "001": "La mamma aveva ragione. Verremo tutti mangiati dagli orsi."
             },
             "hopeless_optimist": {
-              "000": "I'm so psyched to be here, I could polka with joy!!!",
-              "001": "I'm so psyched to be here, I could yowl with joy!!!",
-              "002": "I'm so psyched to be here, I could cartwheel with joy!!!",
-              "003": "I'm so psyched to be here, I could dance with joy!!!",
-              "004": "I'm so psyched to be here, I could jump with joy!!!",
-              "005": "I'm so psyched to be here, I could skip with joy!!!",
-              "006": "I'm so psyched to be here, I could backflip with joy!!!"
+              "000": "Sono così entusiasta di essere qui, potrei ballare la polka di gioia !!!",
+              "001": "Sono così entusiasta di essere qui, potrei urlare di gioia !!!",
+              "002": "Sono così entusiasta di essere qui, ho potuto girare di gioia !!!",
+              "003": "Sono così entusiasta di essere qui, potrei ballare di gioia !!!",
+              "004": "Sono così entusiasta di essere qui, potrei saltare di gioia !!!",
+              "005": "Sono così entusiasta di essere qui, potrei zompare di gioia !!!",
+              "006": "Sono così entusiasta di essere qui, potrei tornare indietro con gioia !!!"
             },
             "psychopathic_misanthrope": {
               "000": "At the time, wilderness seemed better than jailtime, but I'm starting to wonder.",
