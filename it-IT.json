@@ -8114,7 +8114,7 @@
               }
             },
             "beleaguered_leader": {
-              "000": "Ieri sera ho contato le pecore per addormentarmi e quando mi sono svegliato mi sono reso conto che per tutta la notte i miei sogni riguardavano il conteggio delle pecore. Gioia.",
+              "000": "Ieri sera ho contato le pecore per addormentarmi e quando mi sono svegliato mi sono reso conto che per tutta la notte i miei sogni riguardavano il conteggio delle pecore.",
               "001": "Ho fatto un sogno in cui mi vedevo in piedi in una specie di tunica del dio del sole su una piramide. Avevo mille cittadini come soggetti, ma tutti urlavano e lanciavano ravanelli contro di me.",
               "002": "Ho sognato che io e i miei amici vivevamo per costruire un nostro potente impero!",
               "003": "Ho sognato di aver spinto un masso immenso su una collina. Quando ho raggiunto la cima della collina ho visto il masso rotolare giù verso il basso. Ho quindi iniziato a spingere il masso su per la collina. Questo è successo tutta la notte...",
@@ -8204,7 +8204,7 @@
           "text": "Nel mangiare ripetutamente la stessa cosa:",
           "logs": {
             "generic": {
-              "000": "Un altro [str(entry.recent_food)]? Gioia.",
+              "000": "Un altro [str(entry.recent_food)]?",
               "001": "Se mangio un altro [str(entry.recent_food)] potrei vomitare.",
               "002": "Vorrei avere qualcos'altro da mangiare diverso da questo [str(entry.recent_food)]."
             },
@@ -8213,7 +8213,7 @@
               "001": "Una sorprendente quantità di digestione non sembra accadere con una dieta a cibo unico."
             },
             "beleaguered_leader": {
-              "000": "Un altro [str(entry.recent_food)]? Gioia.",
+              "000": "Un altro [str(entry.recent_food)]?",
               "001": "Meglio ridurlo [str(entry.recent_food)]; devo dare il buon esempio.",
               "002": "[str(entry.recent_food)] ha sicuramente un sapore migliore della fame, ma...",
               "003": "[str(entry.recent_food)] di nuovo? Sento arrivare la rivolta."
@@ -8338,237 +8338,237 @@
               "006": "Sono così entusiasta di essere qui, potrei tornare indietro con gioia !!!"
             },
             "psychopathic_misanthrope": {
-              "000": "At the time, wilderness seemed better than jailtime, but I'm starting to wonder.",
-              "001": "Walk a thousand miles to get away from people and... there are still people. Spork."
+              "000": "All'epoca, la natura selvaggia sembrava migliore del carcere, ma sto iniziando a chiedermi.",
+              "001": "Cammina per mille miglia per allontanarti dalla gente e... ci sono ancora persone."
             }
           }
         }
       },
       "gathering_supplies": {
         "gathering_supplies": {
-          "text": "On Gathering:",
+          "text": "Sulla raccolta:",
           "logs": {
             "generic": {
-              "000": "Whoa. [str(entry.gather_target)]. Here goes!",
-              "001": "Yup. Today I'll be gathering a [str(entry.gather_target)]! Good stuff to have on hand.",
-              "002": "Yup. Time to get a [str(entry.gather_target)]! Here goes!",
-              "003": "Whoa. Another [str(entry.gather_target)]! Yaaay?",
+              "000": "Whoa. [str(entry.gather_target)]. Ecco qui!",
+              "001": "Sì. Oggi raccoglierò un [str(entry.gather_target)]! Roba buona da avere a portata di mano.",
+              "002": "Sì. È ora di ottenere un [str(entry.gather_target)]! Ecco qui!",
+              "003": "Whoa. Un altro [str(entry.gather_target)]! Yaaay?",
               "004": "Uh huh. [str(entry.gather_target)].  ",
-              "005": "Uh huh. Another [str(entry.gather_target)]!  ",
-              "006": "Whoa. Today I'll be gathering a [str(entry.gather_target)]! I guess I'll try not to make a mess.",
-              "007": "Ok! Another [str(entry.gather_target)]! I guess I'll try not to make a mess.",
-              "008": "Ok! Time to get a [str(entry.gather_target)]! Here goes!",
-              "009": "Ok! Time to get a [str(entry.gather_target)]! Here goes!",
-              "010": "Yup. Another [str(entry.gather_target)]!  ",
-              "011": "Uh huh. [str(entry.gather_target)]. Here goes!",
-              "012": "Uh huh. Another [str(entry.gather_target)]!  ",
-              "013": "Ok! Today I'll be gathering a [str(entry.gather_target)]! Here goes!",
-              "014": "Ok! [str(entry.gather_target)]. I guess I'll try not to make a mess.",
-              "015": "Uh huh. [str(entry.gather_target)]. Off to work!",
-              "016": "Yup. [str(entry.gather_target)].  ",
-              "017": "Yup. Time to get a [str(entry.gather_target)]! Off to work!",
-              "018": "Whoa. Today I'll be gathering a [str(entry.gather_target)]! Yaaay?",
-              "019": "Ok! [str(entry.gather_target)]. Good stuff to have on hand.",
-              "020": "Uh huh. Today I'll be gathering a [str(entry.gather_target)]! Yaaay!",
-              "021": "Yup. Another [str(entry.gather_target)]! Good stuff to have on hand.",
-              "022": "Yup. Time to get a [str(entry.gather_target)]! I guess I'll try not to make a mess.",
-              "023": "Uh huh. Today I'll be gathering a [str(entry.gather_target)]! Yaaay?",
-              "024": "Yup. Today I'll be gathering a [str(entry.gather_target)]! Yaaay?",
-              "025": "Uh huh. Time to get a [str(entry.gather_target)]!  ",
-              "026": "Uh huh. Today I'll be gathering a [str(entry.gather_target)]! Off to work!",
-              "027": "Ok! Today I'll be gathering a [str(entry.gather_target)]! Here goes!",
-              "028": "Uh huh. Time to get a [str(entry.gather_target)]! Good stuff to have on hand.",
+              "005": "Uh huh. Un altro [str(entry.gather_target)]!  ",
+              "006": "Whoa. Oggi raccoglierò un [str(entry.gather_target)]]! Immagino che proverò a non fare casino.",
+              "007": "Ok! Un altro [str(entry.gather_target)]! Immagino che proverò a non fare casino.",
+              "008": "Ok! È ora di ottenere un [str(entry.gather_target)]! Ecco qui!",
+              "009": "Ok! È ora di ottenere un [str(entry.gather_target)]! Ecco qui!",
+              "010": "Sì. Un altro [str(entry.gather_target)]!  ",
+              "011": "Uh huh. [str(entry.gather_target)]. Ecco qui!",
+              "012": "Uh huh. Un altro [str(entry.gather_target)]!  ",
+              "013": "Ok! Oggi raccoglierò un [str(entry.gather_target)]! Ecco qui!",
+              "014": "Ok! [str(entry.gather_target)].  Immagino che proverò a non fare casino.",
+              "015": "Uh huh. [str(entry.gather_target)]. Via al lavoro!",
+              "016": "Si. [str(entry.gather_target)].  ",
+              "017": "Sì. È ora di ottenere un [str(entry.gather_target)]! Via al lavoro!",
+              "018": "Whoa. Oggi raccoglierò un [str(entry.gather_target)]! Yaaay?",
+              "019": "Ok! [str(entry.gather_target)]. Roba buona da avere a portata di mano.",
+              "020": "Uh Huh. Oggi raccoglierò un [str(entry.gather_target)]! Yaaay!",
+              "021": "Sì. Un altro [str(entry.gather_target)]! Roba buona da avere a portata di mano.",
+              "022": "Sì. È ora di ottenere un [str(entry.gather_target)]! Immagino che proverò a non fare casino.",
+              "023": "Uh Huh. Oggi raccoglierò un [str(entry.gather_target)]! Yaaay?",
+              "024": "Sì. Oggi raccoglierò un [str(entry.gather_target)]! Yaaay?",
+              "025": "Uh Huh. È ora di ottenere un [str(entry.gather_target)]!  ",
+              "026": "Uh Huh. Oggi raccoglierò un [str(entry.gather_target)]! Via al lavoro!",
+              "027": "Ok! Oggi raccoglierò un [str(entry.gather_target)]! Ecco qui!",
+              "028": "Uh Huh. È ora di ottenere un [str(entry.gather_target)]! Roba buona da avere a portata di mano.",
               "029": "Whoa. [str(entry.gather_target)]. Yaaay!",
-              "030": "Uh huh. Another [str(entry.gather_target)]! I guess I'll try not to make a mess.",
-              "031": "Ok! Today I'll be gathering a [str(entry.gather_target)]! Here goes!",
-              "032": "Uh huh. Today I'll be gathering a [str(entry.gather_target)]! Here goes!"
+              "030": "Uh Huh. Un altro [str(entry.gather_target)]! Immagino che proverò a non fare casino.",
+              "031": "Ok! Oggi raccoglierò un [str(entry.gather_target)]! Ecco qui!",
+              "032": "Uh Huh. Oggi raccoglierò un [str(entry.gather_target)]! Ecco qui!"
             },
             "hopeless_optimist": {
-              "000": "Oooh! [str(entry.gather_target)]. Who wouldn't love this?",
-              "001": "Oooh! Another [str(entry.gather_target)]! Everyone look!",
-              "002": "Oooh! Another [str(entry.gather_target)]! Forward!",
-              "003": "Oooh! Time to get a [str(entry.gather_target)]! Everyone look!",
-              "004": "Oooh! Time to get a [str(entry.gather_target)]! Forward!",
-              "005": "Oooh! Time to get a [str(entry.gather_target)]! Who wouldn't love this?",
-              "006": "Oooh! Today I'll be gathering a [str(entry.gather_target)]! Everyone look!",
-              "007": "Oooh! Today I'll be gathering a [str(entry.gather_target)]! Forward!",
-              "008": "So excited!! [str(entry.gather_target)]. Who wouldn't love this?",
-              "009": "So excited!! Another [str(entry.gather_target)]! Everyone look!",
-              "010": "So excited!! Another [str(entry.gather_target)]! Forward!",
-              "011": "So excited!! Another [str(entry.gather_target)]! Who wouldn't love this?",
-              "012": "So excited!! Time to get a [str(entry.gather_target)]! Everyone look!",
-              "013": "So excited!! Time to get a [str(entry.gather_target)]! Forward!",
-              "014": "Woo!!! [str(entry.gather_target)]. Everyone look!",
-              "015": "Woo!!! [str(entry.gather_target)]. Who wouldn't love this?",
-              "016": "Woo!!! Another [str(entry.gather_target)]! Forward!",
-              "017": "Woo!!! Another [str(entry.gather_target)]! Who wouldn't love this?",
-              "018": "Woo!!! Time to get a [str(entry.gather_target)]! Everyone look!",
-              "019": "Woo!!! Time to get a [str(entry.gather_target)]! Forward!",
-              "020": "Woo!!! Today I'll be gathering a [str(entry.gather_target)]! Everyone look!",
-              "021": "Woo!!! Today I'll be gathering a [str(entry.gather_target)]! Who wouldn't love this?"
+              "000": "Oooh! [str(entry.gather_target)]. Chi non vorrebbe questo?",
+              "001": "Oooh! Another [str(entry.gather_target)]! Guardate!",
+              "002": "Oooh! Un altro [str(entry.gather_target)]! Seguitemi!",
+              "003": "Oooh! È ora di ottenere un [str(entry.gather_target)]! Guardate!",
+              "004": "Oooh! È ora di ottenere un [str(entry.gather_target)]! Seguitemi!",
+              "005": "Oooh! È ora di ottenere un [str(entry.gather_target)]! Chi non vorrebbe questo?",
+              "006": "Oooh! Oggi raccoglierò un [str(entry.gather_target)]! Guardate!",
+              "007": "Oooh! Oggi raccoglierò un [str(entry.gather_target)]! Seguitemi!",
+              "008": "Così eccitato!! [str(entry.gather_target)]. Chi non vorrebbe questo?",
+              "009": "Così eccitato!! Un altro [str(entry.gather_target)]! Guardate!",
+              "010": "Così eccitato!! Un altro [str(entry.gather_target)]! Seguitemi!",
+              "011": "Così eccitato!! Un altro [str(entry.gather_target)]! Chi non vorrebbe questo?",
+              "012": "Così eccitato!! È ora di ottenere un [str(entry.gather_target)]! Guardate!",
+              "013": "Così eccitato!! È ora di ottenere un [str(entry.gather_target)]! Seguitemi!",
+              "014": "Woo!!! [str(entry.gather_target)]. Guardate!",
+              "015": "Woo!!! [str(entry.gather_target)]. Chi non vorrebbe questo?",
+              "016": "Woo!!! Un altro [str(entry.gather_target)]! Seguitemi!",
+              "017": "Woo!!! Un altro [str(entry.gather_target)]! Chi non vorrebbe questo?",
+              "018": "Woo!!! È ora di ottenere un [str(entry.gather_target)]! Guardate!",
+              "019": "Woo!!! È ora di ottenere un [str(entry.gather_target)]! Seguitemi!",
+              "020": "Woo!!! Oggi raccoglierò un [str(entry.gather_target)]! Guardate!",
+              "021": "Woo!!! Oggi raccoglierò un [str(entry.gather_target)]! Chi non vorrebbe questo?"
             },
             "beleaguered_leader": {
-              "000": "Taking one for the team... Another [str(entry.gather_target)]! Remember: I chose to be here.",
-              "001": "Leading the charge: [str(entry.gather_target)]. Joy.",
-              "002": "Gear up, everyone! Another [str(entry.gather_target)]! Time to get to work!",
-              "003": "Gear up, everyone! Another [str(entry.gather_target)]! Remember: I chose to be here.",
-              "004": "Leading the charge: Today I'll be gathering a [str(entry.gather_target)]! Time to get to work!",
-              "005": "Taking one for the team... Time to get a [str(entry.gather_target)]! Remember: I chose to be here.",
-              "006": "Taking one for the team... Today I'll be gathering a [str(entry.gather_target)]! Time to get to work!",
-              "007": "Taking one for the team... Another [str(entry.gather_target)]! Remember: I chose to be here.",
-              "008": "Leading the charge: Another [str(entry.gather_target)]! Hi ho!",
-              "009": "Leading the charge: Time to get a [str(entry.gather_target)]! Hi ho!",
-              "010": "Leading the charge: Another [str(entry.gather_target)]! Joy.",
-              "011": "Taking one for the team... Time to get a [str(entry.gather_target)]! Remember: I chose to be here.",
-              "012": "Gear up, everyone! Today I'll be gathering a [str(entry.gather_target)]! Hi ho!",
-              "013": "Listen up, everyone! Another [str(entry.gather_target)]! Time to get to work!",
-              "014": "Leading the charge: Another [str(entry.gather_target)]! Time to get to work!",
-              "015": "Leading the charge: Time to get a [str(entry.gather_target)]! Remember: I chose to be here.",
-              "016": "Gear up, everyone! Another [str(entry.gather_target)]! Hi ho!",
-              "017": "Gear up, everyone! Today I'll be gathering a [str(entry.gather_target)]! Time to get to work!",
-              "018": "Taking one for the team... Another [str(entry.gather_target)]! Joy.",
-              "019": "Gear up, everyone! Another [str(entry.gather_target)]! Hi ho!",
-              "020": "Taking one for the team... Today I'll be gathering a [str(entry.gather_target)]! Remember: I chose to be here.",
-              "021": "Leading the charge: Today I'll be gathering a [str(entry.gather_target)]! Joy.",
-              "022": "Listen up, everyone! Time to get a [str(entry.gather_target)]! Joy.",
-              "023": "Leading the charge: Time to get a [str(entry.gather_target)]! Time to get to work!",
-              "024": "Gear up, everyone! Another [str(entry.gather_target)]! Hi ho!",
-              "025": "Leading the charge: [str(entry.gather_target)]. Joy.",
-              "026": "Listen up, everyone! [str(entry.gather_target)]. Joy.",
-              "027": "Listen up, everyone! Time to get a [str(entry.gather_target)]! Joy.",
-              "028": "Taking one for the team... Another [str(entry.gather_target)]! Joy.",
-              "029": "Leading the charge: Today I'll be gathering a [str(entry.gather_target)]! Remember: I chose to be here.",
-              "030": "Leading the charge: Another [str(entry.gather_target)]! Remember: I chose to be here.",
-              "031": "Leading the charge: Time to get a [str(entry.gather_target)]! Joy.",
-              "032": "Taking one for the team... Time to get a [str(entry.gather_target)]! Time to get to work!"
+              "000": "Prenderne uno per la squadra... Un altro [str(entry.gather_target)]! Ricorda: ho scelto di essere qui.",
+              "001": "A capo della carica: [str(entry.gather_target)].",
+              "002": "Preparatevi! Un altro [str(entry.gather_target)]! È ora di mettersi al lavoro!",
+              "003": "Preparatevi! Un altro [str(entry.gather_target)]! Ricorda: ho scelto di essere qui.",
+              "004": "A capo della carica: oggi raccoglierò un [str(entry.gather_target)]! È ora di mettersi al lavoro!",
+              "005": "Prendendo uno per la squadra... È tempo di ottenere un [str(entry.gather_target)]! Ricorda: ho scelto di essere qui.",
+              "006": "Prendendone uno per la squadra ... Oggi raccoglierò un [str(entry.gather_target)]!  È ora di mettersi al lavoro!",
+              "007": "Prenderne uno per la squadra... Un altro [str(entry.gather_target)]! Ricorda: ho scelto di essere qui.",
+              "008": "A capo della carica: Un altro [str(entry.gather_target)]! Hi ho!",
+              "009": "A capo della carica: è tempo di ottenere un [str(entry.gather_target)]! Hi ho!",
+              "010": "A capo della carica: un altro [str(entry.gather_target)]!",
+              "011": "Prendendo uno per la squadra... È tempo di ottenere un [str(entry.gather_target)]! Ricorda: ho scelto di essere qui.",
+              "012": "Preparatevi! Oggi raccoglierò un [str(entry.gather_target)]! Hi ho!",
+              "013": "Ascoltate! Un altro  [str(entry.gather_target)]! È ora di mettersi al lavoro!",
+              "014": "A capo della carica: Un altro [str(entry.gather_target)]! È ora di mettersi al lavoro!",
+              "015": "A capo della carica: è tempo di ottenere un [str(entry.gather_target)]! Ricorda: ho scelto di essere qui.",
+              "016": "Preparatevi! Un altro [str(entry.gather_target)]! Hi ho!",
+              "017": "Preparatevi! Oggi raccoglierò un [str(entry.gather_target)]! È ora di mettersi al lavoro!",
+              "018": "Prenderne uno per la squadra... Un altro [str(entry.gather_target)]!",
+              "019": "Preparatevi! Un altro [str(entry.gather_target)]! Hi ho!",
+              "020": "Prendendone uno per la squadra... Oggi raccoglierò un [str(entry.gather_target)]! Ricorda: ho scelto di essere qui.",
+              "021": "A capo della carica: oggi raccoglierò un [str(entry.gather_target)]!",
+              "022": "Ascoltate! È ora di ottenere un [str(entry.gather_target)]!",
+              "023": "A capo della carica: è tempo di ottenere un [str(entry.gather_target)]! È ora di mettersi al lavoro!",
+              "024": "Preparatevi! Un altro [str(entry.gather_target)]! Hi ho!",
+              "025": "A capo della carica: [str(entry.gather_target)].",
+              "026": "Ascoltatemi [str(entry.gather_target)].",
+              "027": "Ascoltate! È ora di ottenere un [str(entry.gather_target)]!",
+              "028": "Prenderne uno per la squadra... Un altro [str(entry.gather_target)]!",
+              "029": "A capo della carica: oggi raccoglierò un [str(entry.gather_target)]! Ricorda: ho scelto di essere qui.",
+              "030": "A capo della carica: Un altro [str(entry.gather_target)]! Ricorda: ho scelto di essere qui.",
+              "031": "A capo della carica: è tempo di ottenere un [str(entry.gather_target)]!",
+              "032": "Prendendo uno per la squadra... È tempo di ottenere un [str(entry.gather_target)]! È ora di mettersi al lavoro!"
             }
           }
         }
       },
       "no_food_all_day": {
         "foodless": {
-          "text": "On Having No Food:",
+          "text": "Non avere cibo:",
           "logs": {
             "insufferable_academic": {
-              "000": "Fasting for a day merely offers an opportunity to observe the wailings of my monkey mind.",
-              "001": "A day without food is an excellent way to sharpen the mind.",
-              "002": "According to my research, people need to consume at least twenty four units of energy each day to maintain proper function."
+              "000": "Il digiuno per un giorno offre semplicemente l'opportunità di osservare i lamenti della mia mente da scimmia.",
+              "001": "Una giornata senza cibo è un modo eccellente per affinare la mente.",
+              "002": "Secondo la mia ricerca, le persone hanno bisogno di consumare almeno ventiquattro unità di energia ogni giorno per mantenere il corretto funzionamento."
             },
             "hopeless_optimist": {
-              "000": "Wow, I went a whole 24 hours without food!",
-              "001": "No food by midnight? Maybe I can drink moonlight.",
-              "002": "So hungry... maybe tomorrow we'll find more berries."
+              "000": "Caspita, sono rimasta per 24 ore senza cibo!",
+              "001": "Nessun cibo entro la mezzanotte? Forse posso bere al chiaro di luna.",
+              "002": "Così affamato... forse domani troveremo più bacche."
             },
             "beleaguered_leader": {
-              "000": "It's just 24 hours without food. Don't panic.",
-              "001": "Hunger is good for discipline.",
-              "002": "I'm going to dream about food tonight.",
-              "003": "A whole day without food? Mustn't complain; got to set a good example."
+              "000": "Sono solo 24 ore senza cibo. Non fatevi prendere dal panico.",
+              "001": "La fame fa bene alla disciplina.",
+              "002": "Stasera vado a sognare il cibo.",
+              "003": "Un' intera giornata senza cibo? Non possiamo lamentarci; devo dare il buon esempio."
             },
             "psychopathic_misanthrope": {
-              "000": "A whole day without food? My stomach is going to start eating itself.",
-              "001": "Went a whole day without eating a single thing. Tomorrow, my 'friends' had better watch out.",
-              "002": "I may not have eaten all day today, but I'm still a badass.",
-              "003": "No food in camp today, huh? Maybe I can find something in the forest to kill tomorrow."
+              "000": "Un'intera giornata senza cibo? Il mio stomaco inizierà a mangiare da solo.",
+              "001": "Passò un'intera giornata senza mangiare una sola cosa. Domani, i miei \"amici\" farebbero meglio a stare attenti.",
+              "002": "Potrei non aver mangiato tutto il giorno oggi, ma sono ancora un duro.",
+              "003": "Nessun cibo al campo oggi, eh? Forse posso trovare qualcosa nella foresta da uccidere domani."
             },
             "generic": {
-              "000": "A whole day without food? ::sigh::",
-              "001": "I wish I had something to eat.",
-              "002": "Going a who day without food makes me so, so sad."
+              "000": "Un'intera giornata senza cibo? ::sigh::",
+              "001": "Vorrei avere qualcosa da mangiare.",
+              "002": "Andare un giorno senza cibo mi rende così, così triste."
             },
             "diligent_sweetheart": {
-              "000": "It's okay, I don't need to eat every day.",
-              "001": "By the precepts of the Church of Plenty, we should eat at least once a day.",
+              "000": "Va bene, non ho bisogno di mangiare tutti i giorni.",
+              "001": "Secondo i precetti della Chiesa dell'Abbondanza, dovremmo mangiare almeno una volta al giorno.",
               "teacher": {
-                "000": "A day without food? At home we used to go a whole week for the festival of [str(entry.teacher)]!"
+                "000": "Una giornata senza cibo? A casa andavamo una settimana intera per il festival di [str(entry.teacher)]!"
               }
             },
             "lovable_rogue": {
-              "000": "24 hours without food? I'm sure I could find an opportunity here, if I weren't so hungry.",
-              "001": "Nobody's eaten in a while. I could make a killing if I just had one of mom's apple pies.",
-              "002": "Going without food for a whole day is surprisingly hard."
+              "000": "24 ore senza cibo? Sono sicuro che potrei trovare un'opportunità qui, se non fossi così affamato.",
+              "001": "Nessuno ha mangiato per un po'. Potrei uccidere se avessi una delle torte di mele di mamma.",
+              "002": "Andare senza cibo per un'intera giornata è sorprendentemente difficile."
             }
           }
         }
       },
       "starving": {
         "starving": {
-          "text": "On Starvation:",
+          "text": "Sulla fame:",
           "logs": {
             "beleaguered_leader": {
-              "000": "I don't know how long we can last without food.",
-              "001": "Has anyone found any animals to eat yet?",
-              "002": "Keep on the lookout for berry bushes, or something!",
-              "003": "Got... to... keep... going....",
-              "004": "I have to stop dreaming about food every night."
+              "000": "Non so per quanto tempo possiamo resistere senza cibo.",
+              "001": "Qualcuno ha ancora trovato degli animali da mangiare?",
+              "002": "Fai attenzione ai cespugli di bacche o qualcosa del genere!",
+              "003": "Devo... continuare... ad andare...",
+              "004": "Devo smettere di sognare cibo ogni sera."
             },
             "psychopathic_misanthrope": {
-              "000": "Is there anyone around here I can eat?",
-              "001": "I need to kill something small and furry.",
-              "002": "I hate eating moss.",
-              "003": "Cannibalism. It's what's for dinner."
+              "000": "C'è qualcuno qui intorno che posso mangiare?",
+              "001": "Devo uccidere qualcosa di piccolo e peloso.",
+              "002": "Odio mangiare il muschio.",
+              "003": "Cannibalismo. È per cena."
             },
             "diligent_sweetheart": {
-              "000": "I'm so hungry... Step 1: Learn carpentry!",
-              "001": "It's okay, I didn't really need to eat today.",
-              "002": "I wish I could bake a cheesecake.",
-              "003": "If we huddle around the fire at night, that's almost as good as eating, right?",
-              "004": "I really don't want to die here.",
+              "000": "Ho tanta fame... Step 1: Impara la carpenteria!",
+              "001": "Va bene, non avevo davvero bisogno di mangiare oggi.",
+              "002": "Vorrei poter cuocere una cheesecake.",
+              "003": "Se ci rannicchiamo intorno al fuoco di notte, è quasi buono come mangiare, giusto?",
+              "004": "Non voglio davvero morire qui.",
               "teacher": {
-                "000": "[str(entry.teacher)], even if I don't make it, keep my friends safe, okay?"
+                "000": "[str(entry.teacher)], anche se non ce la faccio, mantieni i miei amici al sicuro, ok?"
               }
             },
             "lovable_rogue": {
-              "000": "In retrospect, I really should have hoarded those berries.",
-              "001": "It's a pity you can't eat silver and gold.",
-              "002": "That wood is starting to look like chocolate...",
+              "000": "In retrospettiva, avrei davvero dovuto accumulare quelle bacche.",
+              "001": "È un peccato non poter mangiare argento e oro.",
+              "002": "Quel legno inizia a sembrare cioccolato...",
               "teacher": {
-                "000": "As [str(entry.teacher)] is my witness, I will never go hungry again!"
+                "000": "Poiché [str(entry.teacher)] è il mio testimone, non avrò mai più fame!"
               }
             },
             "insufferable_academic": {
-              "000": "Hunger is merely a state of mind.",
-              "001": "To be, or not to be, that is the question...",
-              "002": "The needs of the stomach are merely a distraction from the pursuits of the mind.",
-              "003": "Mind... over... matter!",
-              "004": "I refuse to allow my vast intellect to succumb to base starvation!",
-              "005": "According to my research, people need to consume at least twenty four units of energy each day to maintain proper function."
+              "000": "La fame è semplicemente uno stato d'animo.",
+              "001": "Essere o non essere, questa è la domanda...",
+              "002": "I bisogni dello stomaco sono semplicemente una distrazione dalle attività della mente.",
+              "003": "Mente... oltre... importa!",
+              "004": "Mi rifiuto di permettere al mio vasto intelletto di soccombere alla fame di base!",
+              "005": "Secondo la mia ricerca, le persone hanno bisogno di consumare almeno ventiquattro unità di energia ogni giorno per mantenere il corretto funzionamento."
             },
             "hopeless_optimist": {
-              "000": "Oh, great! Another day without food... That's exactly that little push I needed for starting my diet!",
-              "001": "Hunger really sharpens the colors in the world!",
-              "002": "I think there's a hole in my stomach.",
-              "003": "Am I invisible yet?"
+              "000": "Oh grande! Un altro giorno senza cibo ... È esattamente quella piccola spinta di cui avevo bisogno per iniziare la mia dieta!",
+              "001": "La fame rende davvero più nitidi i colori del mondo!",
+              "002": "Penso che ci sia un buco nello stomaco.",
+              "003": "Sono ancora invisibile?"
             },
             "generic": {
-              "000": "I'm so hungry it hurts.",
-              "001": "If I could just get some food, maybe my stomach would feel better.",
-              "002": "I don't know how much longer I can go without food."
+              "000": "Ho tanta fame che fa male.",
+              "001": "Se solo potessi prendere del cibo, forse il mio stomaco starebbe meglio.",
+              "002": "Non so per quanto ancora posso andare senza cibo."
             }
           }
         }
       },
       "weaver_promote": {
         "promote_weaver": {
-          "text": "On Spindles:",
+          "text": "Sui fusi:",
           "logs": {
             "psychopathic_misanthrope": {
-              "000": "You want me to be the weaver? Everything I know about weaving: jab the pointy end into the other person. This should be interesting."
+              "000": "Vuoi che io sia il tessitore? Tutto quello che so sulla tessitura: colpisci l'estremità appuntita nell'altra persona. Questo dovrebbe essere interessante."
             },
             "hopeless_optimist": {
-              "000": "Woo! Now that I'm the weaver, I live to make comfy beds for everyone!"
+              "000": "Corteggiare! Ora che sono il tessitore, vivo per fare letti comodi per tutti!"
             },
             "insufferable_academic": {
-              "000": "There is a meditative grace in fine knotwork. Stare, my friends, stare until your souls belong to meeeeee."
+              "000": "C'è una grazia meditativa nel lavoro a maglia fine. Stare, amici miei, fissate finché le vostre anime non mi appartengono."
             },
             "beleaguered_leader": {
-              "000": "I don't know... I always expected a more epic role in life. Well, this will probably be good for my blood pressure."
+              "000": "Non lo so... mi aspettavo sempre un ruolo più epico nella vita. Bene, questo probabilmente farà bene alla mia pressione sanguigna."
             },
             "lovable_rogue": {
-              "000": "Hmm... if a spider is a weaver, is a weaver like a spider? Everyone shall sleep safe in my webs. ...Was that too creepy?"
+              "000": "Hmm... se un ragno è un tessitore, un tessitore è come un ragno? Tutti dormiranno al sicuro nelle mie reti. ...Era troppo inquietante?"
             },
             "diligent_sweetheart": {
-              "000": "Oh! First thing's first--time to make everyone a new winter scarf!"
+              "000": "Oh! La prima cosa è la prima volta: trasformare tutti in una nuova sciarpa invernale!"
             }
           }
         }
@@ -8576,20 +8576,20 @@
     },
     "prototypes": {
       "party": {
-        "display_name": "Party",
+        "display_name": "Gruppo",
         "display_names": {
-          "party_1": "Party No.1",
-          "party_2": "Party No.2",
-          "party_3": "Party No.3",
-          "party_4": "Party No.4"
+          "party_1": "Gruppo No.1",
+          "party_2": "Gruppo No.2",
+          "party_3": "Gruppo No.3",
+          "party_4": "Gruppo No.4"
         },
-        "description": "Organizes troops into groups for combat"
+        "description": "Organizza le truppe in gruppi per il combattimento"
       }
     },
     "shops": {
       "basic_resource_shop": {
-        "name": "Basic Resource Shop",
-        "title": "Basic Resource Shop"
+        "name": "Negozio di risorse di base",
+        "title": "Negozio di risorse di base"
       }
     },
     "monster_tuning": {
@@ -8597,46 +8597,46 @@
         "wolf_tank": {
           "kobold_wolf": {
             "display_name": "Kobold Wolf",
-            "description": "A Fearsome Wolf!"
+            "description": "Un lupo spaventoso!"
           }
         }
       },
       "orcs": {
         "warchief_boss": {
-          "display_name": "Warchief Oghar Norwind",
-          "description": "She's the boss."
+          "display_name": "Guerriero Oghar Norwind",
+          "description": "Lei è il capo."
         }
       },
       "forest": {
         "insane_alligator": {
-          "description": "Smaller varanuses tend to flock around them."
+          "description": "Varani più piccoli tendono ad affollarsi attorno a loro."
         },
         "zilla": {
-          "description": "Beware Zilla!"
+          "description": "Attenti a Zilla!"
         },
         "giant_stoneling": {
-          "display_name": "Giant Stoneling",
-          "description": "Not quite a pebble anymore!"
+          "display_name": "Pietra gigante",
+          "description": "Non è più un ciottolo!"
         }
       },
       "corruption": {
         "thief": {
-          "display_name": "Corrupt Crawler",
-          "description": "Small, but ravenous."
+          "display_name": "Crawler corrotto",
+          "description": "Piccolo, ma famelico."
         },
         "wolf": {
-          "display_name": "Corrupted Beast",
-          "description": "Maybe a wolf, once..."
+          "display_name": "Bestia Corrotta",
+          "description": "Forse un lupo, una volta..."
         },
         "zilla": {
-          "display_name": "Titan Wyrm",
-          "description": "Evil. Hungry."
+          "display_name": "Viverna titanica",
+          "description": "Il male. Affamato."
         }
       },
       "undead": {
         "skeleton_giants": {
-          "display_name": "Giant Skeleton",
-          "description": "The rattling of their massive bones is enough to make anyone tremble!"
+          "display_name": "Scheletro gigante",
+          "description": "Il tintinnio delle loro enormi ossa è sufficiente a far tremare chiunque!"
         }
       }
     },
@@ -8644,10 +8644,10 @@
       "building_templates_index": {
         "template_tabs": {
           "ascendancy": {
-            "display_name": "Ascendancy",
+            "display_name": "Ascendente",
             "categories": {
-              "camp": "Camp Templates",
-              "town": "Town Templates"
+              "camp": "Modelli di campo",
+              "town": "Modelli di città"
             }
           },
           "custom": {
@@ -8658,29 +8658,29 @@
       "building_templates": {
         "tier2": {
           "black_forest_inn": {
-            "display_name": "Black Forest Inn"
+            "display_name": "Locanda della foresta nera"
           },
           "corner_house": {
-            "display_name": "Corner House"
+            "display_name": "Casa d'angolo"
           },
           "cozy_townhouse": {
-            "display_name": "Cozy Townhouse"
+            "display_name": "Casa a schiera accogliente"
           },
           "tall_townhouse": {
-            "display_name": "Tall Townhouse"
+            "display_name": "Casa a schiera alta"
           },
           "tavern": {
-            "display_name": "Tavern"
+            "display_name": "Taverna"
           }
         },
         "carpenter_house": {
-          "display_name": "Carpenter House"
+          "display_name": "Casa del carpentiere"
         },
         "blacksmith_house": {
-          "display_name": "Blacksmith House"
+          "display_name": "Casa del fabbro"
         },
         "weaver_house": {
-          "display_name": "Weaver House"
+          "display_name": "Casa del tessitore"
         }
       }
     },
@@ -8690,24 +8690,24 @@
           "ui_steps": {
             "set1": {
               "step003": {
-                "title": "Click the Carpenter's Workshop"
+                "title": "Fai clic sul laboratorio del carpentiere"
               },
               "step002": {
-                "title": "Open the Carpenter's Craft Menu"
+                "title": "Apri il menu creazione del carpentiere"
               },
               "step005": {
-                "title": "Click X to close this window"
+                "title": "Fai clic su X per chiudere questa finestra"
               },
               "step004": {
-                "title": "Click the Craft button to craft the workshop"
+                "title": "Fai clic sul pulsante Crea per creare il laboratorio"
               },
               "step001": {
-                "title": "Open the workshop menu",
-                "description": "Use this menu to manage the various crafting workshops of your citizens. "
+                "title": "Apri il menu di laboratorio",
+                "description": "Usa questo menu per gestire i vari laboratori artigianali dei tuoi cittadini."
               },
               "step000": {
-                "title": "Set Up a Workbench",
-                "description": "Our carpenter needs a crafting station in order to craft items for the town. Let's make a workbench!"
+                "title": "Imposta un banco da lavoro",
+                "description": "Il nostro falegname ha bisogno di una stazione di lavorazione per fabbricare oggetti per la città. Facciamo un banco da lavoro!"
               }
             }
           }
@@ -8716,32 +8716,32 @@
           "ui_steps": {
             "set1": {
               "step001": {
-                "title": "Open the Build Menu",
-                "description": "Use this menu to build structures and place items in your town."
+                "title": "Apri il menu di creazione",
+                "description": "Usa questo menu per costruire strutture e posizionare oggetti nella tua città."
               },
               "step000": {
-                "title": "Place the Carpenter's Workbench",
-                "description": "Now that we've crafted the workbench, we need to place it in town for the Carpenter to use."
+                "title": "Posiziona il banco da lavoro del carpentiere",
+                "description": "Ora che abbiamo realizzato il banco da lavoro, dobbiamo metterlo in città per il carpentiere."
               },
               "step003": {
-                "title": "Click the Carpenter's Workshop item",
-                "description": "Select the workshop and click to place it somewhere in town."
+                "title": "Fai clic sull'elemento di laboratorio del falegname",
+                "description": "Seleziona il laboratorio e fai clic per posizionarlo da qualche parte in città."
               },
               "step002": {
-                "title": "Open the Place Item pane"
+                "title": "Apri il riquadro Posiziona elemento"
               }
             },
             "set2": {
               "step000": {
-                "title": "Congratulations!",
-                "description": "We've got resources, a place to store goods, and a way to craft items. We're well on our way to getting this settlement off the ground!"
+                "title": "Congratulazioni!",
+                "description": "Abbiamo risorse, un posto per conservare le merci e un modo per fabbricare oggetti. Siamo sulla buona strada per far decollare questo insediamento!"
               }
             }
           }
         },
         "harvest_logs": {
           "scenario_data": {
-            "declined_text": "I don't need a tutorial -- I know what to do!"
+            "declined_text": "Non ho bisogno di un tutorial: so cosa fare!"
           }
         }
       }
@@ -9397,202 +9397,202 @@
         "appeal_crafting": {
           "values": {
             "breathtaking": {
-              "display_name": "Breath-Taking Workshop",
-              "tooltip": "I love crafting in my workshop; it's so well decorated!"
+              "display_name": "Laboratorio mozzafiato",
+              "tooltip": "Adoro creare nel mio laboratorio; è così ben decorato!"
             },
             "pleasing": {
-              "display_name": "Pleasant Workshop",
-              "tooltip": "A well-maintained work space brightens my mood."
+              "display_name": "Laboratorio piacevole",
+              "tooltip": "Uno spazio di lavoro ben curato illumina il mio umore."
             },
             "beautiful": {
-              "display_name": "Beautiful Workshop",
-              "tooltip": "The area around my workbench is looking good, everything is in its place."
+              "display_name": "Bellissimo laboratorio",
+              "tooltip": "L'area intorno al mio banco di lavoro è bella, tutto è al suo posto."
             },
             "ugly": {
-              "display_name": "Unkempt Workshop",
-              "tooltip": "It's frustrating that my work space is so grungy."
+              "display_name": "Laboratorio sgangherato",
+              "tooltip": "È frustrante che il mio spazio di lavoro sia così sgangherato."
             },
             "awe_inspiring": {
-              "display_name": "Awe-Inspiring Workshop",
-              "tooltip": "My workshop looks so amazing! It's an inspiration!"
+              "display_name": "Laboratorio maestoso",
+              "tooltip": "Il mio laboratorio sembra così fantastico! È un'ispirazione!"
             }
           }
         },
         "appeal_bedroom": {
           "values": {
             "pleasing": {
-              "display_name": "Pleasant Bedroom",
-              "tooltip": "Where I slept last night was pretty nice."
+              "display_name": "Camera da letto piacevole",
+              "tooltip": "Dove ho dormito la scorsa notte è stato molto carino."
             },
             "beautiful": {
-              "display_name": "Beautiful Bedroom",
-              "tooltip": "My bedroom is really shaping up; I like it!"
+              "display_name": "Bella camera da letto",
+              "tooltip": "La mia camera da letto si sta davvero dando forma; Mi piace!"
             },
             "breathtaking": {
-              "display_name": "Breath-Taking Bedroom",
-              "tooltip": "I love sleeping in such a wonderful bedroom!"
+              "display_name": "Camera da letto mozzafiato",
+              "tooltip": "Adoro dormire in una camera da letto così meravigliosa!"
             },
             "awe_inspiring": {
-              "display_name": "Awe-Inspiring Bedroom",
-              "tooltip": "When I went to bed last night, I felt like royalty."
+              "display_name": "Camera da letto impressionante",
+              "tooltip": "Quando sono andato a letto ieri sera, mi sentivo come un re."
             }
           }
         },
         "appeal_dining": {
           "values": {
             "beautiful": {
-              "display_name": "Beautiful Dining",
-              "tooltip": "I was happy to eat in such an attractive spot!"
+              "display_name": "Bella sala da pranzo",
+              "tooltip": "Sono stato felice di mangiare in un posto così attraente!"
             },
             "breathtaking": {
-              "display_name": "Breath-Taking Dining",
-              "tooltip": "Someone really spent some effort decorating our dining room!"
+              "display_name": "Sala da pranzo mozzafiato",
+              "tooltip": "Qualcuno ha davvero speso qualche sforzo per decorare la nostra sala da pranzo!"
             },
             "awe_inspiring": {
-              "display_name": "Awe-Inspiring Dining",
-              "tooltip": "The decor was so great, dinner was a feast for both my eyes and my stomach!"
+              "display_name": "Sala da pranzo di grande ispirazione",
+              "tooltip": "L'arredamento è stato fantastico, la cena è stata una festa sia per i miei occhi che per il mio stomaco!"
             },
             "pleasing": {
-              "display_name": "Pleasant Dining",
-              "tooltip": "It was nice to eat my meal in a comfortable space."
+              "display_name": "Sala da pranzo piacevole",
+              "tooltip": "È stato bello mangiare il mio pasto in uno spazio confortevole."
             },
             "ugly": {
-              "display_name": "Dreary Dining",
-              "tooltip": "The ugly surroundings made it difficult to enjoy my last meal."
+              "display_name": "Sala da pranzo squallida",
+              "tooltip": "I brutti dintorni mi hanno reso difficile godersi il mio ultimo pasto."
             }
           }
         },
         "weather": {
           "values": {
             "windy_positive": {
-              "display_name": "Enjoying the breeze",
-              "tooltip": "The breeze is caressing my skin."
+              "display_name": "Godendo la brezza",
+              "tooltip": "La brezza mi sta accarezzando la pelle."
             },
             "blizzard_negative": {
-              "display_name": "Hail knocking at my door",
-              "tooltip": "Oh, the weather outside is frightful!"
+              "display_name": "Salve bussando alla mia porta",
+              "tooltip": "Oh, il tempo fuori è spaventoso!"
             },
             "thunderstorm_negative": {
-              "display_name": "Scary thunder and lightning",
-              "tooltip": "That lightning bolt almost hit me!"
+              "display_name": "Tuoni e lampi spaventosi",
+              "tooltip": "Quel fulmine mi ha quasi colpito!"
             },
             "sunny_positive": {
-              "display_name": "Sunny weather",
-              "tooltip": "Endless sunshine, warmth, and blue skies."
+              "display_name": "Tempo soleggiato",
+              "tooltip": "Sole infinito, calore e cieli blu."
             },
             "cloudy_positive": {
-              "display_name": "Fluffy clouds above my head",
-              "tooltip": "Overcast skies: perfect for lazing around on the porch."
+              "display_name": "Soffici nuvole sopra la mia testa",
+              "tooltip": "Cieli nuvolosi: perfetti per oziare sotto il portico."
             },
             "sunny_negative": {
-              "display_name": "The sun's too bright",
-              "tooltip": "I have to shield my eyes just to walk outside. And don't get me started on the sunburn!"
+              "display_name": "Il sole è troppo luminoso",
+              "tooltip": "Devo proteggere i miei occhi solo per uscire. E non farmi iniziare con le scottature solari!"
             },
             "thunderstorm_positive": {
-              "display_name": "Stormy weather",
-              "tooltip": "It's so exciting to hear the thunder rolling in!"
+              "display_name": "Clima tempestoso",
+              "tooltip": "È così eccitante sentire il tuono che arriva!"
             },
             "windy_negative": {
-              "display_name": "It's awful windy",
-              "tooltip": "The wind outside is biting at my skin."
+              "display_name": "È tremendamente ventoso",
+              "tooltip": "Il vento fuori mi sta mordendo la pelle."
             },
             "blizzard_positive": {
-              "display_name": "That's what I call weather",
-              "tooltip": "That fierce blizzard outside makes this a day to remember!"
+              "display_name": "Questo è quello che chiamo tempo",
+              "tooltip": "Questo è quello che chiamo tempo"
             },
             "rain_positive": {
-              "display_name": "It's raining...",
-              "tooltip": "The drip, drip, drip of the raindrops is soothing all my worries!"
+              "display_name": "Piove...",
+              "tooltip": "Il gocciolamento, il gocciolamento, il gocciolamento delle gocce di pioggia sono calmanti per tutte le mie preoccupazioni!"
             },
             "cloudy_negative": {
-              "display_name": "Gloomy clouds",
-              "tooltip": "I miss sunshine."
+              "display_name": "Nuvole cupe",
+              "tooltip": "Mi manca il sole."
             },
             "rain_negative": {
-              "display_name": "Pesky drizzle",
-              "tooltip": "I almost stepped in a puddle. Now my feet are cold."
+              "display_name": "Pioggerella fastidiosa",
+              "tooltip": "Ho quasi fatto un passo in una pozzanghera. Adesso ho i piedi freddi."
             },
             "lucky": {
-              "display_name": "Lucky day",
-              "tooltip": "Something good is going to happen today. I just feel it!"
+              "display_name": "Giorno fortunato",
+              "tooltip": "Qualcosa di buono succederà oggi. Lo sento e basta!"
             },
             "snow_negative": {
-              "display_name": "Cold, cold day",
-              "tooltip": "Brrr! I can barely feel my toes."
+              "display_name": "Giornata fredda, fredda",
+              "tooltip": "Brrr! Riesco a malapena a sentire le dita dei piedi."
             },
             "sandstorm_negative": {
-              "display_name": "Sandstorm!",
-              "tooltip": "The sands are blowing across the landscape. Hide your poyos! Hide your sheep!"
+              "display_name": "Tempesta di sabbia!",
+              "tooltip": "Le sabbie stanno soffiando attraverso il paesaggio. Nascondi i tuoi polli! Nascondi le tue pecore!"
             },
             "snow_positive": {
-              "display_name": "It's snowing...",
-              "tooltip": "The world is hushed and white with snow."
+              "display_name": "Sta nevicando...",
+              "tooltip": "Il mondo è silenzioso e bianco di neve."
             },
             "foggy_negative": {
-              "display_name": "Spooky fog",
-              "tooltip": "Was that a goblin skulking around in the fog?"
+              "display_name": "Nebbia spettrale",
+              "tooltip": "Era un folletto che si trascinava nella nebbia?"
             },
             "foggy_positive": {
-              "display_name": "Mysterious mist",
-              "tooltip": "I wonder what wonders lie beneath that mysterious mist."
+              "display_name": "Nebbia misteriosa",
+              "tooltip": "Mi chiedo quali meraviglie ci siano sotto quella misteriosa nebbia."
             },
             "sandstorm_positive": {
-              "display_name": "Sandstorm",
-              "tooltip": "The sands always come to test our fortitude... Mine is unwavering."
+              "display_name": "Tempesta di sabbia",
+              "tooltip": "Le sabbie vengono sempre per mettere alla prova la nostra fortezza... Il mio è incrollabile."
             },
             "titanstorm_negative": {
-              "display_name": "The End Times are Upon Us!",
-              "tooltip": "The Titan's gonna destroy everything! Run for your lives!"
+              "display_name": "I tempi della fine sono alle porte!",
+              "tooltip": "Il Titano distruggerà tutto! Correre per la vostra vita!"
             },
             "titanstorm_positive": {
-              "display_name": "We Can Do This!",
-              "tooltip": "We're stronger than some 'Titan'! The evil monster's big, and it's scary, but I believe in our town!!"
+              "display_name": "Possiamo farlo!",
+              "tooltip": "Siamo più forti di alcuni \"Titani\"! Il mostro malvagio è grande ed è spaventoso, ma credo nella nostra città !!"
             },
             "sandy_negative": {
-              "display_name": "So Dusty!",
-              "tooltip": "Oh no... I have sand and dust everywere!  It's in my eyes!"
+              "display_name": "Così polveroso!",
+              "tooltip": "Oh no ... ho sempre sabbia e polvere! È nei miei occhi!"
             },
             "snow_sunny_positive": {
-              "display_name": "Winter wonderland!",
-              "tooltip": "The snow is glistening from the winter sun."
+              "display_name": "Il paese delle meraviglie invernale!",
+              "tooltip": "La neve brilla dal sole invernale."
             },
             "rain_sunny_positive": {
-              "display_name": "It's raining...",
-              "tooltip": "The sun is shimmering through the rain drops..."
+              "display_name": "Piove...",
+              "tooltip": "Il sole splende attraverso le gocce di pioggia ..."
             },
             "snow_sunny_negative": {
-              "display_name": "Too cold and bright!",
-              "tooltip": "I am freezing! And the sunshine reflecting off the snow too is bright!"
+              "display_name": "Troppo freddo e luminoso!",
+              "tooltip": "Sto congelando! E anche il sole che si riflette sulla neve è luminoso!"
             },
             "rain_sunny_negative": {
-              "display_name": "Ruined day.",
-              "tooltip": "This would have been a perfect day, if not for the rain."
+              "display_name": "Giornata rovinata.",
+              "tooltip": "Sarebbe stata una giornata perfetta, se non fosse per la pioggia."
             },
             "sandy_positive": {
-              "display_name": "Dusty",
-              "tooltip": "The dust storms remind us of the cycle of life..."
+              "display_name": "Polveroso",
+              "tooltip": "Le tempeste di polvere ci ricordano il ciclo della vita..."
             }
           }
         },
         "debug": {
           "values": {
             "super_happy": {
-              "display_name": "DEBUG: Super Happy"
+              "display_name": "DEBUG: Super felice"
             },
             "super_sad": {
-              "display_name": "DEBUG: Super Sad"
+              "display_name": "DEBUG: Super triste"
             }
           }
         },
         "kitties": {
           "values": {
             "koda": {
-              "display_name": "Pleasant Haunting",
-              "tooltip": "An adorable little ghost kitten wanted some scritches!"
+              "display_name": "Piacevole inquietante",
+              "tooltip": "Un adorabile gattino fantasma voleva dei graffi!"
             },
             "jacko": {
-              "display_name": "Ferocious Ghost",
-              "tooltip": "I saw a spectral panther!  It protected the town from danger!"
+              "display_name": "Fantasma Feroce",
+              "tooltip": "Ho visto una pantera spettrale! Ha protetto la città dal pericolo!"
             }
           }
         }
@@ -9601,149 +9601,149 @@
     "hotkeys": {
       "keys": {
         "ui_character": {
-          "display_name": "Character Sheet"
+          "display_name": "Scheda del personaggio"
         },
         "fight_move": {
-          "display_name": "Move to Location"
+          "display_name": "Sposta in posizione"
         },
         "fight_attack": {
-          "display_name": "Attack Move"
+          "display_name": "Mossa d'attacco"
         },
         "fight_defend": {
-          "display_name": "Defend Location"
+          "display_name": "Difendi posizione"
         },
         "fight_cancelOrders": {
-          "display_name": "Cancel Combat Order"
+          "display_name": "Annulla l'ordine di combattimento"
         },
         "ui_move_place_item": {
-          "display_name": "Move/Place Item"
+          "display_name": "Sposta/Posiziona oggetto"
         },
         "build_roof": {
-          "display_name": "Roof Tool"
+          "display_name": "Strumento da tetto"
         },
         "build_slab": {
-          "display_name": "Slab Tool"
+          "display_name": "Strumento lastra"
         },
         "build_erase": {
-          "display_name": "Erase Tool"
+          "display_name": "Strumento Cancella"
         },
         "build_wall": {
-          "display_name": "Wall Tool"
+          "display_name": "Strumento da parete"
         },
         "build_floor_grow": {
-          "display_name": "Floor Tool"
+          "display_name": "Strumento da pavimento"
         },
         "build_decoration": {
-          "display_name": "Decorations Tab"
+          "display_name": "Scheda Decorazioni"
         },
         "build_furniture": {
-          "display_name": "Furniture Tab"
+          "display_name": "Scheda Mobili"
         },
         "build_stair": {
-          "display_name": "Stair Tool"
+          "display_name": "Strumento per scale"
         },
         "build_window": {
-          "display_name": "Window Tab"
+          "display_name": "Scheda finestra"
         },
         "build_floor": {
-          "display_name": "Foundation Tool"
+          "display_name": "Strumento di fondamenta"
         },
         "build_road": {
-          "display_name": "Road Tool"
+          "display_name": "Strumento strada"
         },
         "build_door": {
-          "display_name": "Door Tab"
+          "display_name": "Scheda porta"
         },
         "build_wall_grow": {
-          "display_name": "Wall Tool"
+          "display_name": "Strumento da parete"
         },
         "ui_notification_popup": {
-          "display_name": "Open Notification Popup"
+          "display_name": "Apri popup di notifica"
         },
         "ui_multiplayer_chat": {
-          "display_name": "Open Chat"
+          "display_name": "Apri chat"
         },
         "ui_undeploy_item": {
-          "display_name": "Undeploy Item"
+          "display_name": "Annulla la distribuzione dell'articolo"
         },
         "ui_building_redo": {
-          "display_name": "Redo"
+          "display_name": "Pronto"
         },
         "ui_building_undo": {
-          "display_name": "Undo"
+          "display_name": "Distruggere"
         },
         "ui_building_move_support": {
-          "display_name": "Move Supported Structures"
+          "display_name": "Sposta strutture supportate"
         },
         "ui_toggle_selection": {
-          "display_name": "Add to Selection"
+          "display_name": "Aggiungi alla selezione"
         },
         "build_pointer": {
-          "display_name": "Pointer Tool"
+          "display_name": "Strumento puntatore"
         },
         "build_roofDropWalls": {
-          "display_name": "Roof Drop Walls"
+          "display_name": "Pareti a caduta sul tetto"
         },
         "build_blocksRadio": {
-          "display_name": "Set Visibility to Block"
+          "display_name": "Imposta Visibilità su Blocca"
         },
         "build_wallRadio": {
-          "display_name": "Set Visibility to Wall"
+          "display_name": "Imposta Visibilità su Muro"
         },
         "build_hole": {
-          "display_name": "Hole Tool"
+          "display_name": "Strumento per fori"
         },
         "build_splitwall": {
-          "display_name": "Split Walls Tool"
+          "display_name": "Strumento Dividi muri"
         },
         "build_roofBack": {
-          "display_name": "Roof Back"
+          "display_name": "Tetto posteriore"
         },
         "build_roofRadio": {
-          "display_name": "Set Visibility to Roof"
+          "display_name": "Imposta Visibilità su Tetto"
         },
         "build_fence": {
-          "display_name": "Fence Tool"
+          "display_name": "Strumento di recinzione"
         },
         "build_roofFront": {
-          "display_name": "Roof Front"
+          "display_name": "Tetto anteriore"
         },
         "build_visup": {
-          "display_name": "Building Vis Up"
+          "display_name": "Costruzione di fronte sopra"
         },
         "build_blocks": {
-          "display_name": "Blocks Tool"
+          "display_name": "Strumento di blocchi"
         },
         "build_stairs": {
-          "display_name": "Stair Tool"
+          "display_name": "Strumento per scale"
         },
         "build_visdown": {
-          "display_name": "Biulding Vis Down"
+          "display_name": "Costruzione di fronte sotto"
         },
         "build_roofLeft": {
-          "display_name": "Roof Left"
+          "display_name": "Tetto sinistro"
         },
         "build_paint": {
-          "display_name": "Paint Tool"
+          "display_name": "Strumento di disegno"
         },
         "build_room": {
-          "display_name": "Room Tool"
+          "display_name": "Strumento stanza"
         },
         "build_wallRadioCycle": {
-          "display_name": "Cycle Wall Visibility Normal"
+          "display_name": "Visibilità della parete ciclica normale"
         },
         "build_roofRight": {
-          "display_name": "Roof Right"
+          "display_name": "Tetto a destra"
         }
       }
     },
     "weather": {
       "windy": {
-        "display_name": "Windy",
-        "description": "Howling winds and roaring gales sweep the lands."
+        "display_name": "Ventoso",
+        "description": "Venti ululanti e galanti ruggiti spazzano le terre."
       },
       "thunderstorm": {
-        "display_name": "Thunderstorm",
+        "display_name": "Temporale",
         "description": "Thunder rolled... It rolled a six.<ul><li>Plant growth speed is slightly increased.</li><li>Vision radius is reduced.</li><li>Unsheltered hearthlings sometimes get hit by lightning.</li><li>The ground and trees sometimes get hit by lightning.</li></ul>"
       },
       "sunny": {
@@ -19560,40 +19560,40 @@
           "ui_steps": {
             "set1": {
               "step001": {
-                "title": "Click the Zones button",
-                "description": "Zones define what happens where in your town"
+                "title": "Fai clic sul pulsante Zone",
+                "description": "Le zone definiscono cosa succede nella tua città"
               },
               "step000": {
-                "title": "We've harvested some wood",
-                "description": "Now we need someplace to store it"
+                "title": "Abbiamo raccolto un po' di legna",
+                "description": "Ora abbiamo bisogno di un posto per conservarlo"
               },
               "step003": {
-                "title": "Click the check to confirm",
-                "description": "Use the filters to determine what type of items you want to go into the stockpile"
+                "title": "Fai clic sul segno di spunta per confermare",
+                "description": "Utilizza i filtri per determinare quale tipo di elementi vuoi inserire nella scorta"
               },
               "step002": {
-                "title": "Click the Create Stockpile button",
-                "description": "Hearthlings store your items in stockpiles"
+                "title": "Fai clic sul pulsante Crea Scorta",
+                "description": "i cittadini conservano i tuoi articoli in scorte"
               }
             }
           }
         },
         "harvest_logs": {
           "scenario_data": {
-            "message": "If we're going to get this town off the ground, we'll need wood, and lots of it! Chop down some nearby trees to get logs.",
-            "completed_message": "Congratulations! We've got some wood resources now. Logs and other natural resources can be used to construct buildings and craft items. They're the first building blocks for advancing your town.",
-            "title": "Initial Supplies",
-            "resource_display_name": "Wooden logs"
+            "message": "Se riusciremo a far decollare questa città, avremo bisogno di legna e molta! Abbatti alcuni alberi vicini per ottenere tronchi.",
+            "completed_message": "Congratulazioni! Abbiamo alcune risorse di legno ora. Tronchi e altre risorse naturali possono essere utilizzati per costruire edifici e oggetti artigianali. Sono i primi mattoni per far avanzare la vostra città.",
+            "title": "Forniture iniziali",
+            "resource_display_name": "Tronchi di legno"
           },
           "ui_steps": {
             "set1": {
               "step001": {
-                "title": "Click the Gather button",
-                "description": "Use the gather button to chop down trees"
+                "title": "Fai clic sul pulsante Raccogli",
+                "description": "Usa il pulsante di raccolta per abbattere alberi"
               },
               "step000": {
-                "title": "Click the Harvest menu button",
-                "description": "Use the Harvest menu to gather resources from the world"
+                "title": "Fai clic sul pulsante del menu Raccogli",
+                "description": "Utilizza il menu Raccogli per raccogliere risorse dal mondo"
               }
             }
           }
@@ -19602,10 +19602,10 @@
           "ui_steps": {
             "set1": {
               "step006": {
-                "title": "Click stamper to approve the promotion"
+                "title": "Fai clic su stamper per approvare la promozione"
               },
               "step005": {
-                "title": "Click the Carpenter job button."
+                "title": "Fare clic sul pulsante Lavoro carpentiere."
               },
               "step004": {
                 "title": "Click Change Jobs to promote this hearthling to a different job"
