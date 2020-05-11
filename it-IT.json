@@ -9703,7 +9703,7 @@
           "display_name": "Imposta Visibilità su Tetto"
         },
         "build_fence": {
-          "display_name": "Strumento di recinzione"
+          "display_name": "Strumento per recinzioni"
         },
         "build_roofFront": {
           "display_name": "Tetto anteriore"
@@ -9744,105 +9744,105 @@
       },
       "thunderstorm": {
         "display_name": "Temporale",
-        "description": "Thunder rolled... It rolled a six.<ul><li>Plant growth speed is slightly increased.</li><li>Vision radius is reduced.</li><li>Unsheltered hearthlings sometimes get hit by lightning.</li><li>The ground and trees sometimes get hit by lightning.</li></ul>"
+        "description": "Tuonò... Tuonò per sei volte.<ul><li>La velocità di crescita delle piante è leggermente aumentata.</li><li>Il raggio di visione è ridotto.</li><li>I cittadini non riparati a volte vengono colpiti da un fulmine.</li><li>Il terreno e gli alberi a volte vengono colpiti da un fulmine.</li></ul>"
       },
       "sunny": {
-        "display_name": "Sunny",
-        "description": "Yet another day of endless sunshine and blue skies."
+        "display_name": "Soleggiato",
+        "description": "Ancora un altro giorno di sole infinito e cieli blu."
       },
       "snow": {
-        "display_name": "Snow",
-        "description": "Cold, frost, and sunshine: day of wonder! Why are you, friend, still deep in slumber?<ul><li>Plant growth speed is reduced.</li><li>Vision radius is slightly reduced.</li><li>Unsheltered hearthlings are too cold to work as effectively.</li><li>Unsheltered pasture animals are hurt by the cold.</li></ul>",
+        "display_name": "Neve",
+        "description": "Freddo, gelo e sole: giorno meraviglioso! Perché, amico, sei ancora profondamente addormentato?<ul><li>La velocità di crescita delle piante è ridotta.</li><li>Il raggio di visione è leggermente ridotto.</li><li>I cittadini non protetti sentiranno freddo per lavorare efficacemente.</li><li>Gli animali da pascolo non protetti sono feriti dal freddo.</li></ul>",
         "snow_sunny": {
-          "display_name": "Sunny Snow",
-          "description": "What a beautiful winter wonderland it is today!<ul><li>Plant growth speed is reduced.</li><li>Vision radius is only slightly reduced.</li><li>Unsheltered hearthlings are too cold to work as effectively.</li><li>Unsheltered pasture animals are hurt by the cold.</li></ul>"
+          "display_name": "Neve soleggiata",
+          "description": "Che meraviglioso giorno invernale oggi!<ul><li>La velocità di crescita delle piante è ridotta.</li><li>Il raggio di visione è solo leggermente ridotto.</li><li>I cittadini non riparati sentiranno freddo per lavorare efficacemente.</li><li>Gli animali da pascolo non protetti sono feriti dal freddo.</li></ul>"
         }
       },
       "sandstorm": {
-        "display_name": "Sandstorm",
-        "description": "Cover your eyes. Cover your ears. In fact, just stay inside.<ul><li>Unsheltered hearthlings are too hot to work as effectively.</li><li>Vision radius is slightly reduced.</li><li>Clouds of sand pass across the landscape, destroying crops and hurting everyone.</li></ul>",
+        "display_name": "Tempesta di sabbia",
+        "description": "Copriti gli occhi. Copriti le orecchie. In realtà, resta all'interno. <ul> <li> I cittadini non riparati sentono cald per lavorare in modo efficace.</li><li>Il raggio di visione è leggermente ridotto.</li><li>Nuvole di sabbia attraversano il paesaggio , distruggendo i raccolti e ferendo tutti.</li></ul>",
         "sandy_day": {
-          "display_name": "Dusty",
-          "description": "There is sand and dust... everywhere!<ul><li>Unsheltered hearthlings are too hot to work as effectively.</li><li>Vision radius is only slightly reduced.</li></ul>"
+          "display_name": "Polveroso",
+          "description": "C'è sabbia e polvere... ovunque!<ul><li>I cittadini non protetti sentono troppo caldo per lavorare in modo efficace.</li><li>Il raggio di visione è solo leggermente ridotto.</li></ul>"
         }
       },
       "rain": {
-        "display_name": "Rain",
-        "description": "Water! Water from the skies!<ul><li>Plant growth speed is slightly increased.</li><li>Vision radius is slightly reduced.</li></ul>",
+        "display_name": "Pioggia",
+        "description": "Acqua! Acqua dai cieli!<ul><li>La velocità di crescita delle piante è leggermente aumentata.</li><li>Il raggio di visione è leggermente ridotto.</li></ul>",
         "rain_sunny": {
-          "display_name": "Partial Showers",
-          "description": "Its raining, but the sun is peaking out!<ul><li>Plant growth speed is increased.</li><li>Vision radius is only slightly reduced.</li></ul>"
+          "display_name": "Docce parziali",
+          "description": "Piove, ma il sole sta raggiungendo il picco!<ul><li>La velocità di crescita delle piante è aumentata.</li><li>Il raggio di visione è solo leggermente ridotto.</li></ul>"
         }
       },
       "lucky": {
-        "display_name": "Lucky Day",
-        "description": "Today, everything is just a tiny bit better.<ul><li>Hearthlings find all their ailments healed, as if by magic.</li><li>Hearthlings are slightly luckier in everything they do.</li><li>A mysterious rainbow sometimes appears.</li></ul>",
+        "display_name": "Giorno fortunato",
+        "description": "Oggi, tutto è solo leggermente migliore. <ul> <li> i cittadini trovano guariti tutti i loro problemi, come per magia.</li><li>I cittadini sono leggermente più fortunati in tutto ciò che fanno.</li><li>A volte appare un arcobaleno misterioso.</li></ul>",
         "pot_of_gold": {
-          "display_name": "Pot of Gold",
-          "description": "Today's your lucky day!"
+          "display_name": "Pentola d'oro",
+          "description": "Oggi è il tuo giorno fortunato!"
         }
       },
       "foggy": {
-        "display_name": "Foggy",
-        "description": "A cover of fog crawls across the landscape, hiding untold mysteries.<ul><li>Undead monsters come out of hiding under the cover of the fog.</li><li>Vision radius is greatly reduced.</li></ul>"
+        "display_name": "Nebbioso",
+        "description": "Una copertura di nebbia scivola attraverso il paesaggio, nascondendo misteri incalcolabili.<ul><li>I mostri non morti escono dal nascondiglio sotto la copertura della nebbia.</li><li>Il raggio visivo è notevolmente ridotto.</li></ul>"
       },
       "cloudy": {
-        "display_name": "Cloudy",
-        "description": "Overcast skies, perfect for lazing around on the porch."
+        "display_name": "Nuvoloso",
+        "description": "Cieli nuvolosi, perfetti per oziare sotto il portico."
       },
       "blizzard": {
-        "display_name": "Blizzard",
-        "description": "Wind, and snow, and hail, oh my!<ul><li>Plant growth speed is greatly reduced.</li><li>Vision radius is greatly reduced.</li><li>Unsheltered hearthlings are too cold to work as effectively.</li><li>Unsheltered pasture animals are hurt by the cold.</li></ul>"
+        "display_name": "Bufera di neve",
+        "description": "Vento, neve e grandine, oddio!<ul><li>La velocità di crescita delle piante è notevolmente ridotta.</li><li>Il raggio di visione è notevolmente ridotto.</li><li>I cittadini non protetti sentono troppo freddo per lavorare in modo efficace.</li><li>Gli animali da pascolo non protetti sono feriti dal freddo.</li></ul>"
       },
       "titanstorm": {
-        "display_name": "Titan's Shadow",
-        "description": "It's garying outside, everybody! Chop tentacles on sight.",
+        "display_name": "L'ombra di Titano",
+        "description": "Fuori sta cambiando. Tagliate i tentacoli a vista.",
         "titan_titles": {
-          "1": "[str(self.stonehearth:unit_info.custom_name)], Destroyer of Cubes",
-          "2": "[str(self.stonehearth:unit_info.custom_name)] the Not-To-Be-Trifled-With",
-          "3": "Rancorous [str(self.stonehearth:unit_info.custom_name)]",
-          "4": "[str(self.stonehearth:unit_info.custom_name)], All-Consumer",
-          "5": "[str(self.stonehearth:unit_info.custom_name)], Whisperer",
-          "6": "Unknowable [str(self.stonehearth:unit_info.custom_name)]",
-          "7": "[str(self.stonehearth:unit_info.custom_name)], the Annihilator",
-          "8": "Despoiled [str(self.stonehearth:unit_info.custom_name)]",
-          "9": "[str(self.stonehearth:unit_info.custom_name)] the Abhorrent",
-          "10": "[str(self.stonehearth:unit_info.custom_name)] the Unforgiven",
-          "11": "[str(self.stonehearth:unit_info.custom_name)], Wretched Being",
-          "12": "Sinister [str(self.stonehearth:unit_info.custom_name)]",
-          "13": "Calamity [str(self.stonehearth:unit_info.custom_name)]",
-          "14": "[str(self.stonehearth:unit_info.custom_name)], the Disastrous",
-          "15": "Malevolent [str(self.stonehearth:unit_info.custom_name)]",
-          "16": "[str(self.stonehearth:unit_info.custom_name)], Wickedness",
-          "17": "[str(self.stonehearth:unit_info.custom_name)], the Null Reference",
-          "18": "[str(self.stonehearth:unit_info.custom_name)], the Beckoned",
-          "19": "[str(self.stonehearth:unit_info.custom_name)], the Antagonist",
-          "20": "[str(self.stonehearth:unit_info.custom_name)] of the Sphere",
-          "21": "[str(self.stonehearth:unit_info.custom_name)] the Terror Horn",
-          "22": "[str(self.stonehearth:unit_info.custom_name)], Scourge of the Lone Tree",
-          "23": "[str(self.stonehearth:unit_info.custom_name)] the Cheeky",
-          "24": "[str(self.stonehearth:unit_info.custom_name)] the Demented",
-          "25": "[str(self.stonehearth:unit_info.custom_name)] the Desolator",
-          "26": "[str(self.stonehearth:unit_info.custom_name)], Lord of Fracas and Cacophony",
-          "27": "[str(self.stonehearth:unit_info.custom_name)] the Cubesmith",
-          "28": "[str(self.stonehearth:unit_info.custom_name)], Lurking Shadow"
+          "1": "[str(self.stonehearth:unit_info.custom_name)], Distruttore di cubi",
+          "2": "[str(self.stonehearth:unit_info.custom_name)] non si deve tentare",
+          "3": "Rancoroso [str(self.stonehearth:unit_info.custom_name)]",
+          "4": "[str(self.stonehearth:unit_info.custom_name)], per tutti i consumatori",
+          "5": "[str(self.stonehearth:unit_info.custom_name)], Sussurratore",
+          "6": "Inconoscibile [str(self.stonehearth:unit_info.custom_name)]",
+          "7": "[str(self.stonehearth:unit_info.custom_name)], L'annietatore",
+          "8": "Depredato [str(self.stonehearth:unit_info.custom_name)]",
+          "9": "[str(self.stonehearth:unit_info.custom_name)] Il ripugnante",
+          "10": "[str(self.stonehearth:unit_info.custom_name)] Gli spietati",
+          "11": "[str(self.stonehearth:unit_info.custom_name)], Essere miserabile",
+          "12": "Sinistro [str(self.stonehearth:unit_info.custom_name)]",
+          "13": "Calamità [str(self.stonehearth:unit_info.custom_name)]",
+          "14": "[str(self.stonehearth:unit_info.custom_name)], Disastroso",
+          "15": "Malvagio [str(self.stonehearth:unit_info.custom_name)]",
+          "16": "[str(self.stonehearth:unit_info.custom_name)], Malvagità",
+          "17": "[str(self.stonehearth:unit_info.custom_name)], La nullità",
+          "18": "[str(self.stonehearth:unit_info.custom_name)], Il cenno",
+          "19": "[str(self.stonehearth:unit_info.custom_name)], Lantagonista",
+          "20": "[str(self.stonehearth:unit_info.custom_name)] Della sfera",
+          "21": "[str(self.stonehearth:unit_info.custom_name)] Il corno del terrore",
+          "22": "[str(self.stonehearth:unit_info.custom_name)], Flagello dell'Albero Solitario",
+          "23": "[str(self.stonehearth:unit_info.custom_name)] Lo sfacciato",
+          "24": "[str(self.stonehearth:unit_info.custom_name)] Il demente",
+          "25": "[str(self.stonehearth:unit_info.custom_name)] Il desolatore",
+          "26": "[str(self.stonehearth:unit_info.custom_name)], Signore delle Risse e della Discordia",
+          "27": "[str(self.stonehearth:unit_info.custom_name)] Il fabbro",
+          "28": "[str(self.stonehearth:unit_info.custom_name)], Ombra in agguato"
         }
       },
       "test_weather": {
-        "display_name": "Test weather",
-        "description": "A weather that can't affect tests"
+        "display_name": "Prova il tempo",
+        "description": "Un tempo che non può influire sui test"
       }
     },
     "trapping": {
       "all_trappable_animals": {
         "trappable_animals": {
           "bugs": {
-            "name": "Bug",
-            "description": "Bugs produce bug meat, used by the cook, and chitin, used in some armor recipes"
+            "name": "Insetto",
+            "description": "Gli insetti producono carne di insetto, usato dal cuoco, e chitina, utilizzato in alcune ricette armatura"
           },
           "critters": {
-            "name": "Small Animal",
-            "description": "Small animals produce jerky and pelts"
+            "name": "Piccoli animali",
+            "description": "Piccoli animali producono carne essiccata e pelli"
           }
         }
       }
@@ -9852,1556 +9852,1556 @@
     "armor": {
       "knights_shield": {
         "shield_talisman": {
-          "display_name": "Knight's Shield",
-          "description": "Required to promote a hearthling to a knight"
+          "display_name": "Scudo del cavaliere",
+          "description": "Richiesto per promuovere un caloroso benvenuto a un cavaliere"
         },
-        "display_name": "Knight's Shield",
-        "description": "For defending one's allies"
+        "display_name": "Scudo del cavaliere",
+        "description": "Per difendere i propri alleati"
       },
       "iron_shield": {
-        "display_name": "Heavy Iron Shield",
-        "description": "Ooof. Heavy.",
+        "display_name": "Scudo di ferro pesante",
+        "description": "Ooof. Pesante.",
         "iron_shield_iconic": {
-          "display_name": "Heavy Iron Shield",
-          "description": "Ooof. Heavy."
+          "display_name": "Scudo di ferro pesante",
+          "description": "Ooof. Pesante."
         }
       },
       "bronze_breastplate": {
-        "display_name": "Bronze Breastplate",
-        "description": "Armor",
+        "display_name": "Pettorale in bronzo",
+        "description": "Armatura",
         "bronze_breastplate_iconic": {
-          "display_name": "Bronze Breastplate",
-          "description": "Armor"
+          "display_name": "Pettorale in bronzo",
+          "description": "Armatura"
         }
       },
       "cloth_padded_vest": {
-        "display_name": "Padded Vest",
-        "description": "Provides light protection in a fight.",
+        "display_name": "Gilet imbottito",
+        "description": "Fornisce una protezione leggera in combattimento.",
         "cloth_padded_vest_iconic": {
-          "display_name": "Padded Vest",
-          "description": "Provides light protection in a fight. Every little bit helps!"
+          "display_name": "Gilet imbottito",
+          "description": "Fornisce una protezione leggera in combattimento. Ogni piccolo aiuto!"
         }
       },
       "iron_mail": {
-        "display_name": "Iron Mail",
-        "description": "A full suit of iron armor",
+        "display_name": "Maglia in ferro",
+        "description": "Un completo di armatura di ferro",
         "iron_mail_iconic": {
-          "display_name": "Iron Mail",
-          "description": "A full suit of iron armor"
+          "display_name": "Maglia in ferro",
+          "description": "Un completo di armatura di ferro"
         }
       },
       "leather_vest": {
-        "display_name": "Thick Leather Vest",
-        "description": "Hardened leather provides sturdy protection.",
+        "display_name": "Gilet in pelle spessa",
+        "description": "La pelle indurita offre una protezione robusta.",
         "leather_vest_iconic": {
-          "display_name": "Thick Leather Vest",
-          "description": "Hardened leather provides study protection."
+          "display_name": "Gilet in pelle spessa",
+          "description": "La pelle indurita offre una protezione robusta."
         }
       },
       "steel_mail": {
-        "display_name": "Full Platemail",
-        "description": "A full suit of steel armor",
+        "display_name": "Maglia in ferro completa",
+        "description": "Un completo di armatura d'acciaio",
         "steel_mail_iconic": {
-          "display_name": "Full Platemail",
-          "description": "A full suit of steel armor"
+          "display_name": "Maglia in ferro completa",
+          "description": "Un completo di armatura d'acciaio"
         }
       },
       "studded_leather_helmet": {
-        "display_name": "Studded Leather Helmet",
-        "description": "Protects your head"
+        "display_name": "Elmetto in pelle con borchie",
+        "description": "Protegge la testa"
       },
       "wooden_shield": {
-        "display_name": "Rough Wooden Buckler",
-        "description": "Crude and basic",
+        "display_name": "Scudo di legno grezzo",
+        "description": "Grezzo e di base",
         "wooden_shield_iconic": {
-          "display_name": "Rough Wooden Buckler",
-          "description": "Crude and basic"
+          "display_name": "Scudo di legno grezzo",
+          "description": "Grezzo e di base"
         }
       },
       "bronze_circlet": {
-        "display_name": "Bronze Circlet",
-        "description": "Protection for your head",
+        "display_name": "Cerchietto di bronzo",
+        "description": "Protezione per la testa",
         "bronze_circlet_iconic": {
-          "display_name": "Bronze Circlet",
-          "description": "Protection for your head"
+          "display_name": "Cerchietto di bronzo",
+          "description": "Protezione per la testa"
         }
       },
       "bronze_shield": {
-        "display_name": "Bronze Shield",
-        "description": "Useful for blocking attacks",
+        "display_name": "Scudo di bronzo",
+        "description": "Utile per bloccare gli attacchi",
         "bronze_shield_iconic": {
-          "display_name": "Bronze Shield",
-          "description": "Useful for blocking attacks"
+          "display_name": "Scudo di bronzo",
+          "description": "Utile per bloccare gli attacchi"
         }
       },
       "iron_coif": {
-        "display_name": "Iron Coif",
-        "description": "Protection for your head",
+        "display_name": "Cuffia in ferro",
+        "description": "Protezione per la testa",
         "iron_coif_iconic": {
-          "display_name": "Iron Coif",
-          "description": "Protection for your head"
+          "display_name": "Cuffia in ferro",
+          "description": "Protezione per la testa"
         }
       },
       "leather_helmet": {
-        "display_name": "Leather Skull Cap",
-        "description": "Protection for your head",
+        "display_name": "Capricapo in pelle",
+        "description": "Protezione per la testa",
         "leather_helmet_iconic": {
-          "display_name": "Leather Skull Cap",
-          "description": "Protection for your head"
+          "display_name": "Capricapo in pelle",
+          "description": "Protezione per la testa"
         }
       },
       "steel_helmet": {
-        "display_name": "Plate Helm",
-        "description": "Protection for your head",
+        "display_name": "Elmetto a piastre",
+        "description": "Protezione per la testa",
         "steel_helmet_iconic": {
-          "display_name": "Steel Helmet",
-          "description": "Protection for your head"
+          "display_name": "Elmetto d'acciaio",
+          "description": "Protezione per la testa"
         }
       },
       "steel_shield": {
-        "display_name": "Steel Shield",
-        "description": "A sturdy shield made from steel"
+        "display_name": "Scudo d'acciaio",
+        "description": "Uno scudo robusto in acciaio"
       },
       "iron_helm": {
-        "display_name": "Iron Helm",
-        "description": "Protection for your head"
+        "display_name": "Elmo di ferro",
+        "description": "Protezione per la testa"
       },
       "iron_circlet": {
-        "display_name": "Iron Circlet",
-        "description": "Medium head protection"
+        "display_name": "Cerchietto di ferro",
+        "description": "Protezione media per la testa"
       },
       "steel_circlet": {
-        "display_name": "Steel Circlet",
-        "description": "Light weight and strong protection for one's head"
+        "display_name": "Cerchietto d'acciaio",
+        "description": "Leggero e forte protezione per la testa"
       },
       "simple_quiver": {
-        "display_name": "Spiky Quiver",
-        "description": "A light quiver of slowing arrows"
+        "display_name": "Faretra appuntita",
+        "description": "Un leggera feretra con frecce lente"
       },
       "fire_quiver": {
-        "display_name": "Fire Quiver",
-        "description": "Sets enemies on fire, dealing damage over time"
+        "display_name": "Feretra di fuoco",
+        "description": "Dà fuoco ai nemici, infliggendo danni nel tempo"
       },
       "cracked_wooden_buckler": {
-        "display_name": "Cracked Wooden Buckler",
-        "description": "Has withstood many battles"
+        "display_name": "Scudo di legno incrinato",
+        "description": "Ha resistito a molte battaglie"
       },
       "square_cracked_wooden_buckler": {
-        "display_name": "Square wooden buckler",
-        "description": "Watch out for those corners!"
+        "display_name": "Scudo spigoloso di legno",
+        "description": "Fai attenzione a quegli spigoli!"
       },
       "silver_mail": {
-        "display_name": "Silver Mail",
-        "description": "The best armor... for now.",
+        "display_name": "Maglia d'argento",
+        "description": "La migliore armatura... per ora.",
         "silver_mail_iconic": {
-          "display_name": "Silver Mail",
-          "description": "The best armor... for now."
+          "display_name": "Maglia d'argento",
+          "description": "La migliore armatura... per ora."
         }
       },
       "silver_helmet": {
-        "display_name": "Silver Helmet",
-        "description": "Quintessentially heroic",
+        "display_name": "Elmetto d'argento",
+        "description": "Assolutamente eroico",
         "silver_helmet_iconic": {
-          "display_name": "Silver Helmet",
-          "description": "Quintessentially heroic"
+          "display_name": "Elmetto d'argento",
+          "description": "Assolutamente eroico"
         }
       },
       "cloth_padded_helmet": {
-        "display_name": "Cloth Padded Helmet",
-        "description": "Extra padding for your noggin",
+        "display_name": "Elmetto imbottito in tessuto",
+        "description": "Imbottitura extra per la tua zucca",
         "cloth_padded_helmet_iconic": {
-          "display_name": "Cloth Padded Helmet",
-          "description": "Extra padding for your noggin"
+          "display_name": "Elmetto imbottito in tessuto",
+          "description": "Imbottitura extra per la tua zucca"
         }
       },
       "bronze_helm": {
-        "display_name": "Bronze Helm",
-        "description": "Pretty and protective"
+        "display_name": "Elmetto di bronzo",
+        "description": "Carino e protettivo"
       },
       "shield_valor": {
-        "display_name": "Giant's Shield",
-        "description": "Proudest shield in the Ascendancy",
+        "display_name": "Scudo del gigante",
+        "description": "Orgoglioso scudo nell'Ascendenza",
         "shield_valor_iconic": {
-          "display_name": "Giant's Shield",
-          "description": "Proudest shield in the Ascendancy"
+          "display_name": "Scudo del gigante",
+          "description": "Orgoglioso scudo nell'Ascendenza"
         }
       },
       "circlet_valor": {
-        "display_name": "Shining Circlet",
-        "description": "Squarest circlet in the Ascendancy"
+        "display_name": "Cerchietto splendente",
+        "description": "Cerchietto forgiato dall'Ascendenza"
       }
     },
     "boulders": {
       "large_boulder": {
         "large_boulder_1": {
-          "display_name": "Huge Boulder",
-          "description": "Harvestable for stone"
+          "display_name": "Enorme masso",
+          "description": "Fonte di pietra"
         },
         "large_boulder_2": {
-          "display_name": "Huge Boulder",
-          "description": "Harvestable for stone"
+          "display_name": "Enorme masso",
+          "description": "Fonte di pietra"
         },
         "large_arctic_boulder_1": {
-          "display_name": "Huge Boulder",
-          "description": "Harvestable for stone"
+          "display_name": "Enorme masso",
+          "description": "Fonte di pietra"
         },
         "large_arctic_boulder_2": {
-          "display_name": "Huge Boulder",
-          "description": "Harvestable for stone"
+          "display_name": "Enorme masso",
+          "description": "Fonte di pietra"
         }
       },
       "medium_boulder": {
         "medium_boulder_1": {
-          "display_name": "Medium Boulder",
-          "description": "Harvestable for stone"
+          "display_name": "Masso medio",
+          "description": "Fonte di pietra"
         },
         "medium_boulder_2": {
-          "display_name": "Medium Boulder",
-          "description": "Harvestable for stone"
+          "display_name": "Masso medio",
+          "description": "Fonte di pietra"
         },
         "medium_boulder_3": {
-          "display_name": "Medium Boulder",
-          "description": "Harvestable for stone"
+          "display_name": "Masso medio",
+          "description": "Fonte di pietra"
         },
         "medium_arctic_boulder_1": {
-          "display_name": "Medium Boulder",
-          "description": "Harvestable for stone"
+          "display_name": "Masso medio",
+          "description": "Fonte di pietra"
         },
         "medium_arctic_boulder_2": {
-          "display_name": "Medium Boulder",
-          "description": "Harvestable for stone"
+          "display_name": "Masso medio",
+          "description": "Fonte di pietra"
         },
         "medium_arctic_boulder_3": {
-          "display_name": "Medium Boulder",
-          "description": "Harvestable for stone"
+          "display_name": "Masso medio",
+          "description": "Raccoglibile per pietra"
         }
       },
       "small_boulder": {
-        "display_name": "Small Boulder",
-        "description": "Harvestable for stone"
+        "display_name": "Piccolo masso",
+        "description": "Fonte di pietra"
       },
       "small_arctic_boulder": {
-        "display_name": "Small Boulder",
-        "description": "Harvestable for stone"
+        "display_name": "Piccolo masso",
+        "description": "Fonte di pietra"
       }
     },
     "construction": {
       "clay_bricks": {
-        "display_name": "Clay Bricks",
-        "description": "Used for clay structures."
+        "display_name": "Mattoni di argilla",
+        "description": "Utilizzato per strutture in argilla."
       },
       "cobblestone_fence": {
         "cobblestone_fence_ghost": {
-          "display_name": "Cobblestone Fence",
-          "description": "A rustic, sturdy wall segment."
+          "display_name": "Recinzione in ciottoli",
+          "description": "Un segmento di parete rustico e robusto."
         }
       },
       "cobblestone_fence_gate": {
         "cobblestone_fence_gate_ghost": {
-          "display_name": "Cobblestone Fence Gate",
-          "description": "Its thick stone walls grant a sense of security."
+          "display_name": "Cancello per recinzione di ciottoli",
+          "description": "I suoi spessi muri in pietra garantiscono un senso di sicurezza."
         }
       },
       "picket_fence": {
         "picket_fence_ghost": {
-          "display_name": "Picket Fence",
-          "description": "If it's not white, is our life unfulfilled?"
+          "display_name": "Recinzione",
+          "description": "Se non è bianco, la nostra vita è insoddisfatta?"
         }
       },
       "picket_fence_gate": {
         "picket_fence_gate_ghost": {
-          "display_name": "Picket Fence Gate",
-          "description": "Don't like your neighbors? Don't install."
+          "display_name": "Cancello per recinzione",
+          "description": "Non ti piacciono i tuoi vicini? Non installare."
         }
       },
       "stockpile": {
-        "display_name": "Stockpile",
-        "description": "For storing things"
+        "display_name": "Scorta",
+        "description": "Per conservare le cose"
       },
       "wooden_diamond_window": {
         "wooden_diamond_window_ghost": {
-          "display_name": "Diamond Window Frame",
-          "description": "So much for privacy..."
+          "display_name": "Cornice della finestra in diamante",
+          "description": "Tanto per la privacy..."
         }
       },
       "wooden_door": {
         "wooden_door_ghost": {
-          "display_name": "Wooden Door",
-          "description": "Privacy at last!"
+          "display_name": "Porta di legno",
+          "description": "Finalmente la privacy!"
         }
       },
       "wooden_door_2": {
         "wooden_door_2_ghost": {
-          "display_name": "Reinforced Wooden Door",
-          "description": "Sturdier than your average door."
+          "display_name": "Porta in legno rinforzata",
+          "description": "Più robusto della tua porta media."
         }
       },
       "wooden_tunnel_door": {
-        "display_name": "Wooden Tunnel Door",
-        "description": "Useful for blocking off tunnels"
+        "display_name": "Porta per tunnel in legno",
+        "description": "Utile per bloccare i tunnel"
       },
       "wooden_double_door": {
         "wooden_double_door_ghost": {
-          "display_name": "Wooden Double Door",
-          "description": "A larger door. It makes quite an impression."
+          "display_name": "Doppia porta di legno",
+          "description": "Una porta più grande. Fa abbastanza impressione."
         }
       },
       "amberstone_window": {
         "amberstone_window_ghost": {
-          "display_name": "Burrow Window",
-          "description": "Lets the fresh air in"
+          "display_name": "Finestra della tana",
+          "description": "Lascia entrare l'aria fresca"
         }
       },
       "wooden_window_frame": {
         "wooden_window_frame_ghost": {
-          "display_name": "Wooden Window Frame",
-          "description": "So much for privacy..."
+          "display_name": "Cornice della finestra in legno",
+          "description": "Tanto per la privacy..."
         }
       },
       "wooden_window_frame_tall": {
         "wooden_window_frame_tall_ghost": {
-          "display_name": "Tall Window Frame",
-          "description": "Extra height adds an air of elegance"
+          "display_name": "Cornice per finestra alta",
+          "description": "L'altezza extra aggiunge un'aria di eleganza"
         }
       },
       "wooden_window_frame_wide": {
         "wooden_window_frame_wide_ghost": {
-          "display_name": "Wide Window Frame",
-          "description": "It's a panoramic view!"
+          "display_name": "Cornice per finestra larga",
+          "description": "È una vista panoramica!"
         }
       },
       "golden_clay_doorframe": {
         "golden_clay_doorframe_ghost": {
-          "display_name": "Golden Clay Doorframe",
-          "description": "Matches a golden clay exterior wall"
+          "display_name": "Cornice in argilla dorata",
+          "description": "Abbina un muro esterno di argilla dorata"
         }
       },
       "red_clay_door": {
         "red_clay_door_ghost": {
-          "display_name": "Red Clay Door",
-          "description": "Keeps the indoors cool"
+          "display_name": "Porta di argilla rossa",
+          "description": "Mantiene fresco l'interno"
         }
       },
       "red_clay_window_frame": {
         "red_clay_window_frame_ghost": {
-          "display_name": "Red Clay Window Frame",
-          "description": "Let's the sun in."
+          "display_name": "Cornice della finestra di argilla rossa",
+          "description": "Facciamo entrare il sole."
         }
       },
       "blue_clay_door": {
         "blue_clay_door_ghost": {
-          "display_name": "Blue Clay Door",
-          "description": "Blue like a dream of ocean"
+          "display_name": "Porta di argilla blu",
+          "description": "Blu come un sogno sull'oceano"
         }
       },
       "green_clay_door": {
         "green_clay_door_ghost": {
-          "display_name": "Green Clay Door",
-          "description": "Colored to match the desert"
+          "display_name": "Porta di argilla verde",
+          "description": "Colorato per abbinarlo al deserto"
         }
       },
       "blue_clay_window_frame": {
         "blue_clay_window_frame_ghost": {
-          "display_name": "Blue Clay Window Frame",
-          "description": "Lets in the desert air."
+          "display_name": "Cornice della finestra di argilla blu",
+          "description": "Lascia entrare dell'aria del deserto."
         }
       },
       "green_clay_window_frame": {
         "green_clay_window_frame_ghost": {
-          "display_name": "Green Clay Window Frame",
-          "description": "Lets in the soft desert air."
+          "display_name": "Cornice della finestra di argilla verde",
+          "description": "Lascia entrare della dolce aria del deserto."
         }
       },
       "latticed_clay_window_frame": {
         "latticed_clay_window_frame_ghost": {
-          "display_name": "Red Latticed Window",
-          "description": "The lattice still lets the good air in."
+          "display_name": "Finestra reticolare rossa",
+          "description": "Il reticolo lascia ancora entrare l'aria buona."
         }
       },
       "stone_tunnel_door": {
         "stone_tunnel_door_ghost": {
-          "display_name": "Stone Tunnel Door",
-          "description": "Useful for sealing off mine tunnels."
+          "display_name": "Porta del tunnel di pietra",
+          "description": "Utile per sigillare i tunnel delle miniere."
         }
       },
       "amberstone_tunnel_door": {
         "amberstone_tunnel_door_ghost": {
-          "display_name": "Burrow Door",
-          "description": "Seals and protects underground dwellings"
+          "display_name": "Porta della tana",
+          "description": "Sigilla e protegge le abitazioni sotterranee"
         }
       },
       "clay_tunnel_door": {
         "clay_tunnel_door_ghost": {
-          "display_name": "Clay Tunnel Door",
-          "description": "Useful for sealing off mine tunnels"
+          "display_name": "Porta del tunnel di argilla",
+          "description": "Utile per sigillare i tunnel delle miniere"
         }
       },
       "iron_door": {
         "iron_door_ghost": {
-          "display_name": "Ironclad Door",
-          "description": "Studier than wooden or stone doors"
+          "display_name": "Porta di ferro",
+          "description": "Più studiato di porte in legno o pietra"
         }
       },
       "bronze_portcullis": {
         "bronze_portcullis_ghost": {
-          "display_name": "Bronze Portcullis",
-          "description": "Useful for fortifying town entrypoints."
+          "display_name": "Saracinesca di bronzo",
+          "description": "Utile per fortificare gli ingressi della città."
         }
       },
       "wooden_door_fine": {
         "wooden_door_fine_ghost": {
-          "display_name": "Fine Wooden Door",
-          "description": "Privacy at last!"
+          "display_name": "Porta in legno pregiato",
+          "description": "Finalmente la privacy!"
         }
       },
       "wooden_door_2_fine": {
         "wooden_door_2_fine_ghost": {
-          "description": "Sturdier than your average door, and such a sweet pattern too.",
-          "display_name": "Fine Reinforced Wooden Door"
+          "description": "Più robusto della tua porta media, e anche un modello così bello.",
+          "display_name": "Porta in legno rinforzato fine"
         }
       },
       "wooden_double_door_fine": {
         "wooden_double_door_fine_ghost": {
-          "display_name": "Fine Wooden Double Door",
-          "description": "A larger door with some extra style. All your friends will be envious."
+          "display_name": "Doppia porta in legno pregiato",
+          "description": "Una porta più grande con un po' di stile in più. Tutti i tuoi amici saranno invidiosi."
         }
       },
       "wooden_window_frame_fine": {
         "wooden_window_frame_fine_ghost": {
-          "display_name": "Fine Wooden Window Frame",
-          "description": "So much for privacy..."
+          "display_name": "Cornice della finestra in legno pregiato",
+          "description": "Tanto per la privacy..."
         }
       },
       "wooden_window_frame_tall_fine": {
         "wooden_window_frame_tall_fine_ghost": {
-          "display_name": "Fine Tall Window Frame",
-          "description": "Extra height adds an air of elegance"
+          "display_name": "Cornice per finestra alta e fine",
+          "description": "L'altezza extra aggiunge un'aria di eleganza"
         }
       },
       "wooden_window_frame_wide_fine": {
         "wooden_window_frame_wide_fine_ghost": {
-          "display_name": "Fine Wide Window Frame",
-          "description": "It's a panoramic view!"
+          "display_name": "Cornice per finestra larga fine",
+          "description": "È una vista panoramica!"
         }
       },
       "wooden_diamond_window_fine": {
         "wooden_diamond_window_fine_ghost": {
-          "display_name": "Fine Diamond Window Frame",
-          "description": "So much for privacy..."
+          "display_name": "Cornice della finestra in diamante fine",
+          "description": "Tanto per la privacy..."
         }
       },
       "picket_fence_fine": {
         "picket_fence_fine_ghost": {
-          "display_name": "Fine Picket Fence",
-          "description": "If it's not white, is our life unfulfilled?"
+          "display_name": "Recinzione fine",
+          "description": "Se non è bianco, la nostra vita è insoddisfatta?"
         }
       },
       "picket_fence_gate_fine": {
         "picket_fence_gate_fine_ghost": {
-          "display_name": "Fine Picket Fence Gate",
-          "description": "Don't like your neighbors? Don't install."
+          "display_name": "Cancello per recinzione fine",
+          "description": "Non ti piacciono i tuoi vicini? Non installare"
         }
       },
       "wooden_tunnel_door_fine": {
-        "display_name": "Fine Wooden Tunnel Door",
-        "description": "Useful for blocking off tunnels"
+        "display_name": "Porta del tunnel in legno pregiato",
+        "description": "Utile per bloccare i tunnel"
       },
       "blue_latticed_window": {
         "blue_latticed_window_ghost": {
-          "display_name": "Blue Latticed Window",
-          "description": "A soothing blue latticed window"
+          "display_name": "Finestra reticolare blu",
+          "description": "Una finestra reticolare blu rilassante"
         }
       },
       "green_latticed_window": {
         "green_latticed_window_ghost": {
-          "display_name": "Green Latticed Window",
-          "description": "The latticed window you know and love, now in green!"
+          "display_name": "Finestra reticolare verde",
+          "description": "La finestra reticolare che conosci e ami, ora in verde!"
         }
       },
       "tan_clay_window_frame": {
         "tan_clay_window_frame_ghost": {
-          "display_name": "Tan Clay Window Frame",
-          "description": "Lets the sun in"
+          "display_name": "Cornice della finestra in argilla marrone chiaro",
+          "description": "Fa entrare il sole"
         }
       },
       "tan_latticed_window": {
         "tan_latticed_window_ghost": {
-          "display_name": "Tan Latticed Window",
-          "description": "The latticed window you know and love, in tan"
+          "display_name": "Finestra reticolare marrone chiaro",
+          "description": "La finestra reticolare che conosci e ami, in marrone chiaro"
         }
       },
       "tall_clay_window": {
         "tall_clay_window_ghost": {
-          "display_name": "Tall Clay Window",
-          "description": "Still lets in the soft desert air"
+          "display_name": "Finestra alta di argilla",
+          "description": "Fa ancora entrare la dolce aria del deserto"
         }
       },
       "ornate_picket_fence": {
         "ornate_picket_fence_ghost": {
-          "display_name": "Ornate Picket Fence",
-          "description": "A little gold leaf goes a long way!"
+          "display_name": "Recinzione ornata",
+          "description": "Una piccola foglia d'oro fa molta strada!"
         }
       },
       "ornate_picket_fence_gate": {
         "ornate_picket_fence_gate_ghost": {
-          "display_name": "Ornate Picket Fence Gate",
-          "description": "Don't like your neighbors? Don't install."
+          "display_name": "Cancello per recinzione decorato",
+          "description": "Non ti piacciono i tuoi vicini? Non installare"
         }
       },
       "ornate_wooden_door": {
         "ornate_wooden_door_ghost": {
-          "display_name": "Ornate Wooden Door",
-          "description": "Sturdier than your average door, and such a sweet pattern too."
+          "display_name": "Porta in legno decorato",
+          "description": "Più robusto della tua porta media, e anche un modello così bello."
         }
       },
       "ornate_wooden_double_door": {
         "ornate_wooden_double_door_ghost": {
-          "display_name": "Ornate Wooden Double Door",
-          "description": "A larger door with some extra style. All your friends will be envious."
+          "display_name": "Doppia porta di legno decorata",
+          "description": "Una porta più grande con un po' di stile in più. Tutti i tuoi amici saranno invidiosi."
         }
       },
       "ornate_wooden_tunnel_door": {
-        "display_name": "Ornate Wooden Tunnel Door",
-        "description": "Useful for blocking off tunnels"
+        "display_name": "Porta del tunnel in legno decorato",
+        "description": "Utile per bloccare i tunnel"
       },
       "cobblestone_fence_single": {
         "cobblestone_fence_single_ghost": {
-          "display_name": "Small Cobblestone Fence",
-          "description": "A rustic, sturdy wall segment."
+          "display_name": "Piccolo recinto di ciottoli",
+          "description": "Un segmento di parete rustico e robusto."
         }
       },
       "cobblestone_fence_end": {
         "cobblestone_fence_end_ghost": {
-          "display_name": "Cobblestone Fence Post",
-          "description": "A rustic, sturdy wall segment."
+          "display_name": "Colonna per recinzione in ciottoli",
+          "description": "Un segmento di parete rustico e robusto."
         }
       },
       "picket_fence_bar_double": {
         "picket_fence_bar_double_ghost": {
-          "display_name": "Picket Fence Large",
-          "description": "If it's not white, is our life unfulfilled?"
+          "display_name": "Recinzione grande",
+          "description": "Se non è bianco, la nostra vita è insoddisfatta?"
         }
       },
       "picket_fence_bar_single": {
         "picket_fence_bar_single_ghost": {
-          "display_name": "Picket Fence Small",
-          "description": "If it's not white, is our life unfulfilled?"
+          "display_name": "Recinzione piccola",
+          "description": "Se non è bianco, la nostra vita è insoddisfatta?"
         }
       },
       "picket_fence_end": {
         "picket_fence_end_ghost": {
-          "display_name": "Picket Fence Post",
-          "description": "If it's not white, is our life unfulfilled?"
+          "display_name": "Paletto per recinzione",
+          "description": "Se non è bianco, la nostra vita è insoddisfatta?"
         }
       },
       "clay_fence_end": {
         "clay_fence_end_ghost": {
-          "display_name": "Clay Fence Post",
-          "description": "More decorative than protective."
+          "display_name": "Paletto per recinzione in argilla",
+          "description": "Più decorativo che protettivo."
         }
       },
       "clay_fence_bar_single": {
         "clay_fence_bar_single_ghost": {
-          "display_name": "Clay Fence Small",
-          "description": "More decorative than protective."
+          "display_name": "Recinzione in argilla piccola",
+          "description": "Più decorativo che protettivo."
         }
       },
       "clay_fence_bar_double": {
         "clay_fence_bar_double_ghost": {
-          "display_name": "Clay Fence Large",
-          "description": "More decorative than protective."
+          "display_name": "Recinzione in argilla grande",
+          "description": "Più decorativo che protettivo."
         }
       },
       "ornate_picket_fence_end": {
         "ornate_picket_fence_end_ghost": {
-          "display_name": "Ornate Picket Fence Post",
-          "description": "A little gold leaf goes a long way!"
+          "display_name": "Paletto per recinzione ornata",
+          "description": "Una piccola foglia d'oro fa molta strada!"
         }
       },
       "ornate_picket_fence_bar_single": {
         "ornate_picket_fence_bar_single_ghost": {
-          "display_name": "Ornate Picket Fence Small",
-          "description": "A little gold leaf goes a long way!"
+          "display_name": "Recinzione ornata piccola",
+          "description": "Una piccola foglia d'oro fa molta strada!"
         }
       },
       "ornate_picket_fence_bar_double": {
         "ornate_picket_fence_bar_double_ghost": {
-          "display_name": "Ornate Picket Fence Large",
-          "description": "A little gold leaf goes a long way!"
+          "display_name": "Recinzione ornata grande",
+          "description": "Una piccola foglia d'oro fa molta strada!"
         }
       },
       "cobblestone_fence_bar_double": {
         "cobblestone_fence_bar_double_ghost": {
-          "display_name": "Cobblestone Fence Large",
-          "description": "A rustic, sturdy wall segment."
+          "display_name": "Recinzione grande in ciottoli",
+          "description": "Un segmento di parete rustico e robusto."
         }
       },
       "cobblestone_fence_bar_single": {
         "cobblestone_fence_bar_single_ghost": {
-          "display_name": "Cobblestone Fence Small",
-          "description": "A rustic, sturdy wall segment."
+          "display_name": "Recinzione piccola in ciottoli",
+          "description": "Un segmento di parete rustico e robusto."
         }
       },
       "stone_door": {
         "stone_door_ghost": {
-          "display_name": "Stone Door",
-          "description": "Built to Last!"
+          "display_name": "Porta di pietra",
+          "description": "Costruito per durare!"
         }
       },
       "clay_fence_gate": {
         "clay_fence_gate_ghost": {
-          "display_name": "Clay Fence Gate",
-          "description": "This decorative gate protects your fences from being broken."
+          "display_name": "Cancello per recinzione in argilla",
+          "description": "Questo cancello decorativo protegge i tuoi recinti dalla rottura."
         }
       },
       "stone_window_frame": {
         "stone_window_frame_ghost": {
-          "display_name": "Stone Window Frame",
-          "description": "Offers a little protection from the wind."
+          "display_name": "Cornice della finestra in pietra",
+          "description": "Offre una piccola protezione dal vento."
         }
       },
       "stone_window_frame_wide": {
         "stone_window_frame_wide_ghost": {
-          "display_name": "Wide Stone Window Frame",
-          "description": "It's a panoramic view!"
+          "display_name": "Ampia cornice della finestra in pietra",
+          "description": "È una vista panoramica!"
         }
       },
       "stone_window_frame_wide_wood": {
         "stone_window_frame_wide_wood_ghost": {
-          "display_name": "Wide Wood and Stone Window Frame",
-          "description": "Rustic and panoramic!"
+          "display_name": "Ampia cornice della finestra in legno e pietra",
+          "description": "Rustico e panoramico!"
         }
       },
       "stone_window_frame_wood": {
         "stone_window_frame_wood_ghost": {
-          "display_name": "Wood and Stone Window Frame",
-          "description": "Offers a little protection from the wind."
+          "display_name": "Cornice della finestra in legno e pietra",
+          "description": "Offre una piccola protezione dal vento."
         }
       },
       "stone_window_frame_tall": {
         "stone_window_frame_tall_ghost": {
-          "display_name": "Tall Stone Window Frame",
-          "description": "Extra height adds an air of elegance"
+          "display_name": "Cornice per finestra in pietra alta",
+          "description": "L'altezza extra aggiunge un'aria di eleganza"
         }
       },
       "stone_window_frame_short": {
         "stone_window_frame_short_ghost": {
-          "display_name": "Short Stone Window Frame",
-          "description": "Short can be elegant too."
+          "display_name": "Cornice per finestra in pietra corta",
+          "description": "Anche i pantaloncini possono essere eleganti."
         }
       },
       "stone_window_frame_crossbeam": {
         "stone_window_frame_crossbeam_ghost": {
-          "display_name": "Cross Beamed Stone Window Frame",
-          "description": "Offers a little protection from random critters trying to get in."
+          "display_name": "Cornice della finestra in pietra con travi a vista",
+          "description": "Offre un po 'di protezione da creature casuali che cercano di entrare."
         }
       },
       "stone_door_2": {
         "stone_door_2_ghost": {
-          "display_name": "Reinforced Stone Door",
-          "description": "Sturdier than your average door."
+          "display_name": "Porta in pietra rinforzata",
+          "description": "Più robusto della tua porta media."
         }
       },
       "stone_double_door": {
         "stone_double_door_ghost": {
-          "display_name": "Stone Double Door",
-          "description": "A larger door. It makes quite an impression."
+          "display_name": "Doppia porta di pietra",
+          "description": "Una porta più grande. Fa abbastanza impressione."
         }
       },
       "picket_fence_combo": {
         "picket_fence_combo_ghost": {
-          "display_name": "Picket Fence Combo",
-          "description": "If it's not white, is our life unfulfilled?"
+          "display_name": "Recinzione combo",
+          "description": "Se non è bianco, la nostra vita è insoddisfatta?"
         }
       },
       "ornate_picket_fence_combo": {
         "ornate_picket_fence_combo_ghost": {
-          "display_name": "Ornate Picket Fence Combo",
-          "description": "A little gold leaf goes a long way!"
+          "display_name": "Recinzione combo ornata",
+          "description": "Una piccola foglia d'oro fa molta strada!"
         }
       },
       "cobblestone_fence_combo": {
         "cobblestone_fence_combo_ghost": {
-          "display_name": "Cobblestone Fence Combo",
-          "description": "A rustic, sturdy wall segment."
+          "display_name": "Recinzione in ciottoli combo",
+          "description": "Un segmento di parete rustico e robusto."
         }
       },
       "clay_fence_combo": {
         "clay_fence_combo_ghost": {
-          "display_name": "Clay Fence Combo",
-          "description": "More decorative than protective."
+          "display_name": "Recinzione in argilla combo",
+          "description": "Più decorativo che protettivo."
         }
       }
     },
     "containers": {
       "large_crate": {
         "large_crate_ghost": {
-          "display_name": "Large Crate",
-          "description": "Stores up to 32 items"
+          "display_name": "Cassa grande",
+          "description": "Memorizza fino a 32 articoli"
         }
       },
       "large_urn": {
         "large_urn_ghost": {
-          "display_name": "Large Urn",
-          "description": "Stores up to 32 items"
+          "display_name": "Urna grande",
+          "description": "Memorizza fino a 32 articoli"
         }
       },
       "amberstone_chest": {
         "amberstone_chest_ghost": {
-          "display_name": "Woven Chest",
-          "description": "Stores 64 items - that's 8-by-8, for the best of luck!"
+          "display_name": "Cesta intrecciata",
+          "description": "Memorizza 64 articoli: 8 per 8, per buona fortuna!"
         }
       },
       "leather_bound_chest": {
         "leather_bound_chest_ghost": {
-          "display_name": "Leather Bound Chest",
-          "description": "Stores up to 64 items"
+          "display_name": "Cesta rilegata in pelle",
+          "description": "Memorizza fino a 64 articoli"
         }
       },
       "small_crate": {
         "small_crate_ghost": {
-          "display_name": "Small Crate",
-          "description": "Stores up to 8 items"
+          "display_name": "Cassa piccola",
+          "description": "Memorizza fino a 8 articoli"
         }
       },
       "stone_chest": {
         "stone_chest_ghost": {
-          "display_name": "Stone Chest",
-          "description": "Stores up to 64 items"
+          "display_name": "Cassa di pietra",
+          "description": "Memorizza fino a 64 articoli"
         }
       },
       "barrel": {
         "barrel_ghost": {
-          "display_name": "Square Barrel",
-          "description": "Storage container"
+          "display_name": "Barilotto quadrato",
+          "description": "Contenitore di stoccaggio"
         }
       },
       "small_urn": {
         "small_urn_ghost": {
-          "display_name": "Small Urn",
-          "description": "Stores up to 8 items"
+          "display_name": "Urna piccola",
+          "description": "Memorizza fino a 8 articoli"
         }
       },
       "vault": {
         "vault_ghost": {
-          "display_name": "The Vault",
-          "description": "Massive storage for 256 items"
+          "display_name": "La cassaforte",
+          "description": "Massiccia memoria per 256 articoli"
         }
       },
       "log_pile": {
         "log_pile_ghost": {
-          "display_name": "Log Pile",
-          "description": "Harvest for a large number of logs"
+          "display_name": "Pila di legna",
+          "description": "cumulo di un gran numero di tronchi"
         },
         "log_pile_iconic": {
-          "description": "Harvestable for wood when placed."
+          "description": "Raccoglibile una volta messo."
         }
       },
       "stone_pile": {
         "stone_pile": {
-          "description": "Harvest for many hunks of stone",
-          "display_name": "Stone Pile"
+          "description": "Cumulo di molti pezzi di pietra",
+          "display_name": "Pila di pietre"
         },
         "stone_pile_iconic": {
-          "description": "Harvestable for stone when placed"
+          "description": "Raccoglibile una volta messo."
         }
       },
       "clay_pile": {
-        "display_name": "Clay Pile",
-        "description": "Harvest for a large amount of clay",
-        "iconic_description": "Harvestable for clay when placed"
+        "display_name": "Pila di argilla",
+        "description": "Raccolta di una grande quantità di argilla",
+        "iconic_description": "Raccoglibile una volta messa."
       },
       "wheat_pile": {
-        "display_name": "Large Wheat Bundle",
-        "description": "Harvest for a large amount of wheat",
-        "iconic_description": "Harvestable for wheat when placed"
+        "display_name": "Fascio di grano grande",
+        "description": "Raccolta di una grande quantità di grano",
+        "iconic_description": "Raccoglibile una volta messo."
       },
       "small_crate_fine": {
         "small_crate_fine_ghost": {
-          "display_name": "Fine Small Crate",
-          "description": "Storage container with style"
+          "display_name": "Piccola cassa fine",
+          "description": "Contenitore con stile"
         }
       },
       "large_crate_fine": {
         "large_crate_fine_ghost": {
-          "display_name": "Fine Large Crate",
-          "description": "Stores up to 32 items. With style."
+          "display_name": "Cassa grande fine",
+          "description": "Memorizza fino a 32 articoli. Con stile."
         }
       },
       "leather_bound_chest_fine": {
         "leather_bound_chest_fine_ghost": {
-          "display_name": "Fine Leather Bound Chest",
-          "description": "Stores up to 64 items. With style."
+          "display_name": "Cesta rilegata in pelle pregiata",
+          "description": "Memorizza fino a 64 articoli. Con stile."
         }
       },
       "ornate_leather_bound_chest": {
         "ornate_leather_bound_chest_ghost": {
-          "display_name": "Ornate Leather Bound Chest",
-          "description": "Stores up to 64 items. With style."
+          "display_name": "Cesta rilegata in pelle ornato",
+          "description": "Memorizza fino a 64 articoli. Con stile."
         }
       },
       "output_box_wood": {
         "output_box_wood_ghost": {
-          "display_name": "Wood Finished Work Shelf",
-          "description": "Temporary storage for crafted items."
+          "display_name": "Ripiano da lavoro rifinito in legno",
+          "description": "Deposito temporaneo per oggetti realizzati."
         }
       },
       "output_box_clay": {
         "output_box_clay_ghost": {
-          "description": "Temporary storage for crafted items.",
-          "display_name": "Clay Finished Work Shelf"
+          "description": "Deposito temporaneo per oggetti realizzati.",
+          "display_name": "Scaffale da lavoro finito in argilla"
         }
       },
       "output_box_stone": {
         "output_box_stone_ghost": {
-          "description": "Temporary storage for crafted items.",
-          "display_name": "Stone Finished Work Shelf"
+          "description": "Deposito temporaneo per oggetti realizzati.",
+          "display_name": "Scaffale da lavoro rifinito in pietra"
         }
       },
       "output_box_amberstone": {
         "output_box_amberstone_ghost": {
-          "description": "Temporary storage for crafted items.",
-          "display_name": "Rabbit-Style Work Shelf"
+          "description": "Deposito temporaneo per oggetti realizzati.",
+          "display_name": "Mensola da lavoro stile coniglio"
         }
       },
       "input_bin_clay": {
         "input_bin_clay_ghost": {
-          "display_name": "Ceramic Supply Basin",
-          "description": "A supply container, for quicker crafting."
+          "display_name": "Bacino di approvvigionamento di ceramica",
+          "description": "Un contenitore di approvvigionamento, per una lavorazione più rapida."
         }
       },
       "input_bin_amberstone": {
         "input_bin_amberstone_ghost": {
-          "display_name": "Rabbit-Style Supply Basket",
-          "description": "A supply container, for quicker crafting."
+          "display_name": "Cesto di alimentazione stile coniglio",
+          "description": "Un contenitore di approvvigionamento, per una lavorazione più rapida."
         }
       },
       "input_bin_woven": {
         "input_bin_woven_ghost": {
-          "display_name": "Woven Supply Basket",
-          "description": "A supply container, for quicker crafting."
+          "display_name": "Cesto di approvvigionamento in tessuto",
+          "description": "Un contenitore di approvvigionamento, per una lavorazione più rapida."
         }
       },
       "input_bin_wood": {
         "input_bin_wood_ghost": {
-          "display_name": "Wooden Supply Crate",
-          "description": "A supply container, for quicker crafting."
+          "display_name": "Cassa di rifornimento in legno",
+          "description": "Un contenitore di approvvigionamento, per una lavorazione più rapida."
         }
       },
       "input_bin_stone": {
         "input_bin_stone_ghost": {
-          "display_name": "Stonework Supply Bin",
-          "description": "A supply container, for quicker crafting."
+          "display_name": "Contenitore per la lavorazione della pietra",
+          "description": "Un contenitore di approvvigionamento, per una lavorazione più rapida."
         }
       },
       "input_bin_iron": {
         "input_bin_iron_ghost": {
-          "display_name": "Iron-Banded Supply Bin",
-          "description": "A supply container, for quicker crafting."
+          "display_name": "Bidone per rifornimento di ferro",
+          "description": "Un contenitore di approvvigionamento, per una lavorazione più rapida."
         }
       },
       "input_shelf_wall_clay": {
         "input_shelf_wall_clay_ghost": {
-          "display_name": "Ceramic Wall Supply Shelf",
-          "description": "Make sure it's within reach!"
+          "display_name": "Scaffale da parete in ceramica",
+          "description": "Assicurati che sia a portata di mano!"
         }
       },
       "input_shelf_wall_stone": {
         "input_shelf_wall_stone_ghost": {
-          "display_name": "Stonework Wall Supply Shelf",
-          "description": "Make sure it's within reach!"
+          "display_name": "Scaffale per forniture da parete in pietra",
+          "description": "Assicurati che sia a portata di mano!"
         }
       },
       "input_shelf_ground_clay": {
         "input_shelf_ground_clay_ghost": {
-          "display_name": "Ceramic Supply Rack",
-          "description": "A supply container, for quicker crafting."
+          "display_name": "Scaffale per fornitura in ceramica",
+          "description": "Un contenitore di approvvigionamento, per una lavorazione più rapida."
         }
       },
       "input_shelf_ground_stone": {
         "input_shelf_ground_stone_ghost": {
-          "description": "A supply container, for quicker crafting.",
-          "display_name": "Stonework Supply Rack"
+          "description": "Un contenitore di approvvigionamento, per una lavorazione più rapida.",
+          "display_name": "Scaffale per forniture in pietra"
         }
       },
       "input_shelf_ground_wood": {
         "input_shelf_ground_wood_ghost": {
-          "display_name": "Wooden Supply Rack",
-          "description": "A supply container, for quicker crafting."
+          "display_name": "Scaffale per fornitura in legno",
+          "description": "Un contenitore di approvvigionamento, per una lavorazione più rapida."
         }
       },
       "input_shelf_wall_wood": {
         "input_shelf_wall_wood_ghost": {
-          "display_name": "Wooden Wall Supply Shelf",
-          "description": "Make sure it's within reach!"
+          "display_name": "Scaffale per forniture da parete in legno",
+          "description": "Assicurati che sia a portata di mano!"
         }
       },
       "input_table_ground_iron": {
         "input_table_ground_iron_ghost": {
-          "display_name": "Iron-Studded Supply Table",
-          "description": "A supply container, for quicker crafting."
+          "display_name": "Tavolo per fornitura con borchie di ferro",
+          "description": "Un contenitore di approvvigionamento, per una lavorazione più rapida."
         }
       },
       "input_corner_ground_wood": {
         "input_corner_ground_wood_ghost": {
-          "display_name": "Wooden Corner Supply Rack",
-          "description": "A supply container, for quicker crafting."
+          "display_name": "Scaffale per fornitura angolare in legno",
+          "description": "Un contenitore di approvvigionamento, per una lavorazione più rapida."
         }
       },
       "input_corner_ground_stone": {
         "input_corner_ground_stone_ghost": {
-          "display_name": "Stonework Corner Supply Rack",
-          "description": "A supply container, for quicker crafting."
+          "display_name": "Scaffale per fornitura in pietra",
+          "description": "Un contenitore di approvvigionamento, per una lavorazione più rapida."
         }
       },
       "input_table_ground_wood": {
         "input_table_ground_wood_ghost": {
-          "display_name": "Wooden Supply Table",
-          "description": "A supply container, for quicker crafting."
+          "display_name": "Tavolo per forniture in legno",
+          "description": "Un contenitore di approvvigionamento, per una lavorazione più rapida."
         }
       },
       "input_table_ground_stone": {
         "input_table_ground_stone_ghost": {
-          "display_name": "Stonework Supply Table",
-          "description": "A supply container, for quicker crafting."
+          "display_name": "Tavolo per forniture in pietra",
+          "description": "Un contenitore di approvvigionamento, per una lavorazione più rapida."
         }
       },
       "input_table_ground_clay": {
         "input_table_ground_clay_ghost": {
-          "display_name": "Ceramic Supply Table",
-          "description": "A supply container, for quicker crafting."
+          "display_name": "Tavolo per forniture in ceramica",
+          "description": "Un contenitore di approvvigionamento, per una lavorazione più rapida."
         }
       },
       "input_corner_ground_clay": {
         "input_corner_ground_clay_ghost": {
-          "display_name": "Ceramic Corner Supply Rack",
-          "description": "A supply container, for quicker crafting."
+          "display_name": "Scaffale per fornitura angolare di ceramica",
+          "description": "Un contenitore di approvvigionamento, per una lavorazione più rapida."
         }
       },
       "input_bin_clay_blue": {
         "input_bin_clay_blue_ghost": {
-          "display_name": "Blue Ceramic Supply Basin",
-          "description": "A supply container, for quicker crafting."
+          "display_name": "Bacino di rifornimento ceramico blu",
+          "description": "Un contenitore di approvvigionamento, per una lavorazione più rapida."
         }
       },
       "input_bin_clay_green": {
         "input_bin_clay_green_ghost": {
-          "description": "A supply container, for quicker crafting.",
-          "display_name": "Green Ceramic Supply Basin"
+          "description": "Un contenitore di approvvigionamento, per una lavorazione più rapida.",
+          "display_name": "Bacino di rifornimento ceramico verde"
         }
       },
       "input_bin_clay_red": {
         "input_bin_clay_red_ghost": {
-          "description": "A supply container, for quicker crafting.",
-          "display_name": "Red Ceramic Supply Basin"
+          "description": "Un contenitore di approvvigionamento, per una lavorazione più rapida.",
+          "display_name": "Bacino di rifornimento ceramico rosso"
         }
       },
       "input_bin_woven_blue": {
         "input_bin_woven_blue_ghost": {
-          "display_name": "Blue Woven Supply Basket",
-          "description": "A supply container, for quicker crafting."
+          "display_name": "Cestino di rifornimento in tessuto blu",
+          "description": "Un contenitore di approvvigionamento, per una lavorazione più rapida."
         }
       },
       "input_bin_woven_green": {
         "input_bin_woven_green_ghost": {
-          "display_name": "Green Woven Supply Basket",
-          "description": "A supply container, for quicker crafting."
+          "display_name": "Cestino di rifornimento in tessuto verde",
+          "description": "Un contenitore di approvvigionamento, per una lavorazione più rapida."
         }
       },
       "input_bin_woven_red": {
         "input_bin_woven_red_ghost": {
-          "display_name": "Red Woven Supply Basket",
-          "description": "A supply container, for quicker crafting."
+          "display_name": "Cestino di rifornimento in tessuto rosso",
+          "description": "Un contenitore di approvvigionamento, per una lavorazione più rapida."
         }
       },
       "input_corner_ground_iron": {
         "input_corner_ground_iron_ghost": {
-          "display_name": "Iron Corner Supply Shelf",
-          "description": "A supply container, for quicker crafting."
+          "display_name": "Ripiano in ferro ad angolo",
+          "description": "Un contenitore di approvvigionamento, per una lavorazione più rapida."
         }
       },
       "market_shelf_tall_ground_wood": {
         "market_shelf_tall_ground_wood_ghost": {
-          "display_name": "Market Trading Shelf",
-          "description": "Other players and Travellers can buy the items stored here."
+          "display_name": "Scaffale di mercato",
+          "description": "Altri giocatori e Viaggiatori possono acquistare gli oggetti memorizzati qui."
         }
       },
       "gem_chest": {
         "gem_chest_ghost": {
-          "display_name": "Ancient Gem",
-          "description": "An ancient gem hangs suspended in the air, it looks valuable!"
+          "display_name": "Gemma antica",
+          "description": "Un'antica gemma è sospesa in aria, sembra preziosa!"
         },
         "gem_bits": {
-          "display_name": "Nature Gem Bits",
-          "description": "Bits of the larger gem, they are probably worth a hefty sum."
+          "display_name": "Pezzi gemma della natura",
+          "description": "Pezzi della gemma più grande, probabilmente valgono una somma considerevole."
         }
       },
       "wheat_pile_old": {
         "wheat_pile_old_ghost": {
-          "display_name": "Old Wheat Bundle",
-          "description": "It's still good, if a little mushy in places."
+          "display_name": "Fascio di grano vecchio",
+          "description": "È ancora buono, anche se un po' ammuffito in alcuni punti."
         },
         "wheat_pile_old_iconic": {
-          "display_name": "Old Wheat Bundle",
-          "description": "Harvestable for wheat when placed"
+          "display_name": "Fascio di grano vecchio",
+          "description": "Raccoglibile quando posizionato"
         }
       },
       "market_shelf_tall_ground_clay": {
         "market_shelf_tall_ground_clay_ghost": {
-          "display_name": "Market Trading Shelf",
-          "description": "Other players and Travellers can buy the items stored here."
+          "display_name": "Scaffale di mercato",
+          "description": "Altri giocatori e Viaggiatori possono acquistare gli oggetti memorizzati qui."
         }
       },
       "market_shelf_tall_ground_stone": {
         "market_shelf_tall_ground_stone_ghost": {
-          "display_name": "Market Trading Shelf",
-          "description": "Other players and Travellers can buy the items stored here."
+          "display_name": "Scaffale di mercato",
+          "description": "Altri giocatori e Viaggiatori possono acquistare gli oggetti memorizzati qui."
         }
       }
     },
     "critters": {
       "poyo": {
-        "display_name": "A Poyo",
-        "description": "Plump and tasty wild fowl.  It eats a little bit of everything.",
+        "display_name": "Un pollo",
+        "description": "Pollo selvatico grassoccio e gustoso. Mangia un po' di tutto.",
         "poyo_egg": {
-          "display_name": "Fertilized Poyo Egg",
-          "description": "Is it hatching yet?"
+          "display_name": "Uovo di gallina fecondato",
+          "description": "Si sta ancora schiudendo?"
         },
         "young": {
-          "display_name": "Poyo Chick",
+          "display_name": "Pulcino di pollo",
           "description": "Peep Peep!"
         },
-        "species": "poyo",
+        "species": "pollo",
         "egg": {
           "ostrich_egg": {
-            "display_name": "Fertilized Ostrich Egg",
-            "description": "Is it hatching yet?"
+            "display_name": "Uovo di struzzo fertilizzato",
+            "description": "Si sta ancora schiudendo?"
           }
         }
       },
       "rabbit": {
-        "display_name": "Rabbit",
-        "description": "Om nom nom.  This cute creature only eats greens.",
+        "display_name": "Coniglio",
+        "description": "Om nom nom. Questa creatura carina mangia solo verdure.",
         "rabbit_jerky": {
-          "display_name": "Rabbit jerky"
+          "display_name": "Carne di coniglio essiccato"
         },
-        "species": "rabbit"
+        "species": "coniglio"
       },
       "racoon": {
-        "display_name": "Raccoon",
-        "description": "Small forest creature that eats anything.",
+        "display_name": "Procione",
+        "description": "Piccola creatura della foresta che mangia qualsiasi cosa.",
         "racoon_jerky": {
-          "display_name": "Raccoon jerky"
+          "display_name": "Carne di procione essiccata"
         },
-        "species": "racoon"
+        "species": "procione"
       },
       "red_fox": {
-        "display_name": "Fox",
-        "description": "Small forest creature",
+        "display_name": "Volpe",
+        "description": "Piccola creatura della foresta",
         "red_fox_jerky": {
-          "display_name": "Fox jerky"
+          "display_name": "Carne di volpe essiccata"
         },
-        "species": "fox"
+        "species": "volpe"
       },
       "sheep": {
-        "display_name": "A sheep",
-        "description": "So fluffy!  It eats greens, and sometimes cud.",
-        "unripe_description": "This sheep is still quite naked.",
+        "display_name": "Una pecora",
+        "description": "Così soffice! Mangia verdure e talvolta cud.",
+        "unripe_description": "Questa pecora è ancora abbastanza nuda.",
         "sheep_young": {
-          "display_name": "A Lamb",
+          "display_name": "Un agnello",
           "description": "Awww!"
         },
-        "renewable_harvest_status_text": "shearing sheep",
-        "species": "sheep"
+        "renewable_harvest_status_text": "tosare le pecore",
+        "species": "pecore"
       },
       "squirrel": {
-        "display_name": "Squirrel",
-        "description": "Small forest creature that only eats plants.",
+        "display_name": "Scoiattolo",
+        "description": "Piccola creatura della foresta che mangia solo piante.",
         "squirrel_jerky": {
-          "display_name": "Squirrel jerky"
+          "display_name": "Carne di scoiattolo essicata"
         },
-        "species": "squirrel"
+        "species": "scoiattolo"
       },
       "wolf": {
-        "display_name": "A wolf",
+        "display_name": "Un lupo",
         "description": "Grrr! Rwar!",
-        "species": "wolf"
+        "species": "lupo"
       },
       "woodchuck": {
-        "display_name": "Woodchuck",
-        "description": "A voracious eater of almost everything, especially logs.",
-        "species": "woodchuck"
+        "display_name": "Marmotta",
+        "description": "Un vorace mangiatore di quasi tutto, in particolare di tronchi.",
+        "species": "marmotta"
       },
       "deer": {
         "deer_jerky": {
-          "display_name": "Deer Jerky"
+          "display_name": "Carne di cervo essiccata"
         },
-        "species": "deer",
-        "description": "Very gamey... how appropriate",
-        "display_name": "Deer"
+        "species": "cervo",
+        "description": "Molto giocoso... come appropriato",
+        "display_name": "Cervo"
       },
       "boar": {
-        "display_name": "A boar",
-        "species": "boar",
-        "description": "Smells like something... stinky...  It eats a little bit of everything."
+        "display_name": "Un cinghiale",
+        "species": "cinghiale",
+        "description": "Odora di qualcosa... puzzolente... Mangia un po 'di tutto."
       },
       "beetle": {
-        "species": "beetle",
-        "display_name": "Beetle",
-        "description": "Cute little insect",
+        "species": "scarafaggio",
+        "display_name": "Scarafaggio",
+        "description": "Simpatico insetto",
         "beetle_jerky": {
-          "display_name": "Beetle Bug Meat"
+          "display_name": "Scarafaggio essicato"
         }
       },
       "bitsy_ant": {
-        "description": "Cute little insect",
-        "display_name": "Bitsy Ant",
-        "species": "bitsy ant",
+        "description": "Simpatico insetto",
+        "display_name": "Formica pungente",
+        "species": "formica pungente",
         "bitsy_ant_jerky": {
-          "display_name": "Small Ant Bug Meat"
+          "display_name": "Carne essiccata di formica pungente"
         }
       },
       "doodles": {
-        "display_name": "Doodles",
-        "description": "Cute little insect",
-        "species": "doodles",
+        "display_name": "Scarabeo",
+        "description": "Simpatico insetto",
+        "species": "scarabeo",
         "doodles_jerky": {
-          "display_name": "Doodles Bug Meat"
+          "display_name": "Carne essiccata di scarabeo"
         }
       },
       "red_fox_wolf": {
-        "species": "fox",
-        "description": "Small forest creature",
-        "display_name": "Fox"
+        "species": "volpe",
+        "description": "Piccola creatura della foresta",
+        "display_name": "Volpe"
       },
       "deer_horned": {
-        "species": "deer",
-        "description": "Beware the antlers!",
-        "display_name": "Caribou"
+        "species": "cervo",
+        "description": "Attenti alle corna!",
+        "display_name": "Caribù"
       },
       "ghost": {
-        "species": "ghost"
+        "species": "fantasma"
       }
     },
     "crops": {
       "brightbell_crop": {
-        "display_name": "Brightbell Flower",
-        "description": "Can be used as a healing herb",
+        "display_name": "Fiore Brightbell",
+        "description": "Può essere usato come erba curativa",
         "growth_stage": {
           "001": {
             "name": "Brightbell Sprout",
-            "description": "Stubby."
+            "description": "Tozzo."
           },
           "003": {
             "name": "Brightbell",
-            "description": "Beauty is its own reward."
+            "description": "La bellezza è la sua ricompensa."
           },
           "000": {
-            "name": "Brightbell Seedling",
-            "description": "Full of potential."
+            "name": "Piantina di Brightbell",
+            "description": "Pieno di potenziale."
           },
           "002": {
-            "name": "Brightbell Bud",
-            "description": "Awkward, gangly stage."
+            "name": "Bocciolo di Brightbell",
+            "description": "Una scena imbarazzante e sgangherata."
           }
         }
       },
       "carrot_crop": {
-        "display_name": "Carrot",
-        "description": "Fast-growing, but pretty bland on its own.",
+        "display_name": "Carota",
+        "description": "In rapida crescita, ma piuttosto insipido da solo.",
         "growth_stage": {
           "003": {
-            "name": "Ripe Carrot",
-            "description": "Delicious!"
+            "name": "Carota matura",
+            "description": "Deliziosa!"
           },
           "002": {
-            "name": "Baby Carrot",
-            "description": "Small. Bitter."
+            "name": "Carotina",
+            "description": "Piccola. Amara."
           },
           "001": {
-            "name": "Carrot Sprout",
-            "description": "Not edible yet!"
+            "name": "Germoglio di carota",
+            "description": "Non ancora commestibile!"
           },
           "000": {
-            "name": "Carrot Seedling",
-            "description": "A unrealized carrot."
+            "name": "Piantina di carota",
+            "description": "Una carota non realizzata."
           },
           "011": {
-            "name": "Rotten Carrot",
-            "description": "Moldy and disgusting."
+            "name": "Carota marcia",
+            "description": "Ammuffito e disgustoso."
           }
         }
       },
       "corn_crop": {
-        "display_name": "Corn",
-        "description": "Slow-growing, but super nutritious crop.",
+        "display_name": "Mais",
+        "description": "Coltivazione a crescita lenta, ma super nutriente.",
         "growth_stage": {
           "003": {
-            "name": "Ripe Corn",
-            "description": "Eat me! Eat Me!"
+            "name": "Mais maturo",
+            "description": "Mangiami! Mangiami!"
           },
           "002": {
-            "name": "Green Corn",
-            "description": "Extremely unsatisfying to eat."
+            "name": "Mais verde",
+            "description": "Estremamente insoddisfacente da mangiare."
           },
           "001": {
-            "name": "Corn Sprout",
-            "description": "Not edible yet!"
+            "name": "Germoglio di mais",
+            "description": "Non ancora commestibile!"
           },
           "000": {
-            "name": "Corn Seedling",
-            "description": "Slow-mo, high-stakes gambling."
+            "name": "Piantina Di Mais",
+            "description": "Piano, posta in gioco alta."
           },
           "011": {
-            "name": "Corn Husk",
-            "description": "It's dead."
+            "name": "Buccia di mais",
+            "description": "È morto."
           }
         }
       },
       "frostsnap_crop": {
-        "display_name": "Frostsnap Flower",
-        "description": "Can be used as a healing herb",
+        "display_name": "Fiore Frostsnap",
+        "description": "Può essere usato come erba curativa",
         "growth_stage": {
           "001": {
-            "name": "Frostsnap Sprout",
-            "description": "Stubby."
+            "name": "Germoglio di Frostsnap",
+            "description": "Tozzo."
           },
           "003": {
             "name": "Frostsnap",
-            "description": "Mysteriously cool."
+            "description": "Misteriosamente bello."
           },
           "000": {
-            "name": "Frostsnap Seedling",
-            "description": "Full of potential."
+            "name": "Piantina Frostsnap",
+            "description": "Pieno di potenziale."
           },
           "002": {
-            "name": "Frostsnap Bud",
-            "description": "Like a baby snowflake."
+            "name": "Germoglio Frostsnap",
+            "description": "Come un piccolo fiocco di neve."
           }
         }
       },
       "gingercap_crop": {
-        "display_name": "Turnip",
-        "description": "Fast-growing staple crop, but not particularly nutritious nor delicious.",
+        "display_name": "Rapa",
+        "description": "Raccolto base in rapida crescita, ma non particolarmente nutriente né delizioso.",
         "growth_stage": {
           "003": {
-            "name": "Ripe Turnip",
-            "description": "Delicious!"
+            "name": "Rapa matura",
+            "description": "Deliziosa!"
           },
           "002": {
-            "name": "Baby Turnip",
-            "description": "Small. Bitter."
+            "name": "Piccola rapa",
+            "description": "Piccola. Amara."
           },
           "001": {
-            "name": "Turnip Sprout",
-            "description": "Not edible yet!"
+            "name": "Germoglio di rapa",
+            "description": "Non ancora commestibile!"
           },
           "000": {
-            "name": "Turnip Seedling",
-            "description": "A unrealized turnip."
+            "name": "Piantina di rapa",
+            "description": "Una rapa non realizzata."
           },
           "011": {
-            "name": "Rotten Turnip",
-            "description": "Moldy and disgusting."
+            "name": "Rapa marcia",
+            "description": "Ammuffito e disgustoso."
           }
         }
       },
       "pumpkin_crop": {
-        "display_name": "Pumpkin",
-        "description": "Big, round, and fast-growing, but tasty it is not.",
+        "display_name": "Zucca",
+        "description": "Grande, rotondo e in rapida crescita, ma non lo è.",
         "growth_stage": {
           "003": {
-            "name": "Ripe pumpkin",
-            "description": "Delicious!"
+            "name": "Zucca matura",
+            "description": "Deliziosa!"
           },
           "002": {
-            "name": "Baby pumpkin",
-            "description": "Not edible yet!"
+            "name": "Piccola zucca",
+            "description": "Non ancora commestibile!"
           },
           "001": {
-            "name": "Pumpkin Sprout",
-            "description": "Not edible yet!"
+            "name": "Germoglio di Zucca",
+            "description": "Non ancora commestibile!"
           },
           "000": {
-            "name": "Pumpkin Seedling",
-            "description": "A unrealized pumpkin."
+            "name": "Piantina di Zucca",
+            "description": "Una zucca non realizzata."
           },
           "011": {
-            "name": "Rotten pumpkin",
-            "description": "Moldy and disgusting."
+            "name": "Zucca marcia",
+            "description": "Ammuffita e disgustosa."
           }
         }
       },
       "watermelon_crop": {
-        "display_name": "Watermelon",
-        "description": "Takes a while to grow, but very fun to eat!",
+        "display_name": "Anguria",
+        "description": "Ci vuole un po' per crescere, ma è molto divertente da mangiare!",
         "growth_stage": {
           "003": {
-            "name": "Ripe watermelon",
-            "description": "Delicious!"
+            "name": "Anguria matura",
+            "description": "Deliziosa!"
           },
           "002": {
-            "name": "Baby watermelon",
-            "description": "Not edible yet!"
+            "name": "Piccola anguria",
+            "description": "Non ancora commestibile!"
           },
           "001": {
-            "name": "Watermelon Sprout",
-            "description": "Not edible yet!"
+            "name": "Germoglio di anguria",
+            "description": "Non ancora commestibile!"
           },
           "000": {
-            "name": "Watermelon Seedling",
-            "description": "A unrealized watermelon."
+            "name": "Piantina di anguria",
+            "description": "Un'anguria non realizzata."
           },
           "011": {
-            "name": "Rotten watermelon",
-            "description": "Moldy and disgusting."
+            "name": "Anguria marcia",
+            "description": "Ammuffita e disgustosa."
           }
         }
       },
       "silkweed_crop": {
-        "display_name": "Silkweed",
-        "description": "This plant's fiber can be spun into thread",
+        "display_name": "Semi di seta",
+        "description": "La fibra di questa pianta può essere filata.",
         "growth_stage": {
           "004": {
-            "name": "Mature silkweed",
-            "description": "Ready for weaving!"
+            "name": "Semi di seta maturi",
+            "description": "Pronto per la tessitura!"
           },
           "001": {
-            "name": "Silkweed sprout",
-            "description": "Sprout, little one!"
+            "name": "Germoglio di bachi da seta",
+            "description": "Germoglio, piccolo!"
           },
           "000": {
-            "name": "Silkweed seedling",
-            "description": "Still a long way to grow."
+            "name": "Piantine di bachi da seta",
+            "description": "C'è ancora molta strada da fare."
           },
           "019": {
-            "name": "Rotten silkweed"
+            "name": "Semi di seta marci"
           },
           "003": {
-            "name": "Immature silkweed",
-            "description": "Flossy hairs are beginning to emerge"
+            "name": "Semi di seta immaturi",
+            "description": "I peli di cotone stanno cominciando ad emergere"
           },
           "002": {
-            "name": "Stubby silkweed",
-            "description": "Look at those follicles!"
+            "name": "Tozzo di seta",
+            "description": "Guarda quei follicoli!"
           }
         }
       },
       "tester_crop": {
         "display_name": "Tester",
-        "description": "Steeped in the soil.",
+        "description": "Immerso nel terreno.",
         "tester_crop_slow": {
-          "display_name": "Tester_Slow",
-          "description": "Steeped in the soil.",
+          "display_name": "Tester_Lento",
+          "description": "Immerso nel terreno.",
           "growth_stage": {
             "001": {
-              "name": "Ripe Tester",
-              "description": "Delicious!"
+              "name": "Tester maturo",
+              "description": "Delizioso!"
             },
             "000": {
-              "name": "Tester Seedling",
-              "description": "A unrealized tester."
+              "name": "Piantina del tester",
+              "description": "Un tester non realizzato."
             }
           }
         },
         "growth_stage": {
           "001": {
-            "name": "Ripe Tester",
-            "description": "Delicious!"
+            "name": "Tester maturo",
+            "description": "Delizioso!"
           },
           "000": {
-            "name": "Tester Seedling",
-            "description": "A unrealized tester."
+            "name": "Piantina del tester",
+            "description": "Un tester non realizzato."
           }
         }
       },
       "tester_crop_2": {
-        "display_name": "Tester_Slow",
-        "description": "Steeped in the soil.",
+        "display_name": "Tester_Lento",
+        "description": "Immerso nel terreno.",
         "growth_stage": {
           "001": {
-            "name": "Ripe Tester",
-            "description": "Delicious!"
+            "name": "Tester maturo",
+            "description": "Delizioso!"
           },
           "000": {
-            "name": "Tester Seedling",
-            "description": "A unrealized tester."
+            "name": "Piantina del tester",
+            "description": "Un tester non realizzato."
           }
         }
       },
       "tester_silkweed_crop": {
-        "display_name": "Tester Silkweed",
-        "description": "This plant's fiber can be spun into thread",
+        "display_name": "Tester semi di seta",
+        "description": "La fibra di questa pianta può essere filata",
         "growth_stage": {
           "004": {
-            "name": "Mature silkweed"
+            "name": "Semi di seta maturi"
           },
           "001": {
-            "name": "Silkweed sprout"
+            "name": "Germoglio di bachi da seta"
           },
           "000": {
-            "name": "Silkweed seedling"
+            "name": "Piantine di bachi da seta"
           },
           "019": {
-            "name": "Rotten silkweed"
+            "name": "Semi di seta marci"
           },
           "003": {
-            "name": "Immature silkweed"
+            "name": "Semi di seta immaturi"
           },
           "002": {
-            "name": "Stubby silkweed"
+            "name": "Tozzo di seta"
           }
         }
       },
       "turnip_crop": {
-        "display_name": "Turnip",
-        "description": "Fast-growing staple crop, but not particularly nutritious nor delicious.",
+        "display_name": "Rapa",
+        "description": "Raccolto base in rapida crescita, ma non particolarmente nutriente né delizioso.",
         "growth_stage": {
           "003": {
-            "name": "Ripe Turnip",
-            "description": "Delicious!"
+            "name": "Rapa matura",
+            "description": "Deliziosa!"
           },
           "002": {
-            "name": "Baby Turnip",
-            "description": "Small. Bitter."
+            "name": "Piccola rapa",
+            "description": "Piccola. Amara."
           },
           "001": {
-            "name": "Turnip Sprout",
-            "description": "Not edible yet!"
+            "name": "Germoglio di rapa",
+            "description": "Non ancora commestibile!"
           },
           "000": {
-            "name": "Turnip Seedling",
-            "description": "A unrealized turnip."
+            "name": "Piantina di rapa",
+            "description": "Una rapa non realizzata."
           },
           "011": {
-            "name": "Rotten Turnip",
-            "description": "Moldy and disgusting."
+            "name": "Rapa marcia",
+            "description": "Ammuffita e disgustosa."
           }
         }
       },
       "wheat_crop": {
-        "display_name": "Wheat",
-        "description": "Amber wave of grain.",
+        "display_name": "Grano",
+        "description": "Onda di grano ambrata.",
         "growth_stage": {
           "003": {
-            "name": "Ripe wheat",
-            "description": "Ready for harvest!"
+            "name": "Grano maturo",
+            "description": "Pronto per il raccolto!"
           },
           "002": {
-            "name": "Immature wheat",
-            "description": "Not ready for harvest"
+            "name": "Grano acerbo",
+            "description": "Non pronto per il raccolto"
           },
           "001": {
-            "name": "Wheat Sprout",
-            "description": "Not ready for harvest"
+            "name": "Germoglio di grano",
+            "description": "Non pronto per il raccolto"
           },
           "000": {
-            "name": "Wheat Seedling",
-            "description": "Not ready for harvest"
+            "name": "Piantina di grano",
+            "description": "Non pronto per il raccolto"
           },
           "011": {
-            "name": "Wheat Husk",
-            "description": "It's dead."
+            "name": "Buccia di grano",
+            "description": "È morto."
           }
         }
       },
       "oak_tree_crop": {
-        "display_name": "Oak Tree Sapling",
-        "description": "Out of trees? Get ready to participate in reforestation.",
+        "display_name": "Alberello di quercia",
+        "description": "Fuori dagli alberi? Preparati a partecipare al rimboschimento.",
         "growth_stage": {
           "001": {
-            "name": "Oak Tree Seedling",
-            "description": "It's just getting started."
+            "name": "Piantina di quercia",
+            "description": "È appena iniziato."
           },
           "003": {
-            "name": "Oak Tree Sapling",
-            "description": "Ready to be transferred to a bigger plot."
+            "name": "Alberello di quercia",
+            "description": "Pronto per essere trasferito su una trama più grande."
           },
           "000": {
-            "name": "Acorn",
-            "description": "Even a mighty tree has humble beginnings."
+            "name": "Ghianda",
+            "description": "Anche un albero possente ha inizi modesti."
           },
           "002": {
-            "name": "Oak Tree Sprout",
-            "description": "Reach for the sun, little oakling."
+            "name": "Germoglio di quercia",
+            "description": "Raggiungi il sole, piccola quercia."
           }
         }
       },
       "acacia_tree_crop": {
-        "display_name": "Acacia Tree Sapling",
-        "description": "Out of trees? Get ready to participate in reforestation.",
+        "display_name": "Alberello dell'albero di acacia",
+        "description": "Fuori dagli alberi? Preparati a partecipare al rimboschimento.",
         "growth_stage": {
           "001": {
-            "name": "Acacia Tree Seedling",
-            "description": "It's just getting started."
+            "name": "Piantina dell'albero di acacia",
+            "description": "È appena iniziato."
           },
           "003": {
-            "name": "Acacia Tree Sapling",
-            "description": "Ready to be transferred to a bigger plot."
+            "name": "Alberello dell'albero di acacia",
+            "description": "Pronto per essere trasferito su una trama più grande."
           },
           "000": {
-            "name": "Seed Pod",
-            "description": "Even a mighty tree has humble beginnings."
+            "name": "Baccello del seme",
+            "description": "Anche un albero possente ha inizi modesti."
           },
           "002": {
-            "name": "Acacia Tree Sprout",
-            "description": "Perfect size for a baby giraffe."
+            "name": "Germoglio di albero di acacia",
+            "description": "Misura perfetta per una piccola giraffa."
           }
         }
       },
       "golden_gourd_crop": {
-        "display_name": "Golden Gourd Crop",
-        "description": "Much prettier than it is tasty",
+        "display_name": "Raccolto zucca d'oro",
+        "description": "Molto più bello di quanto sia gustoso",
         "growth_stage": {
           "003": {
-            "name": "Green Gourds",
-            "description": "Too bitter to eat"
+            "name": "Zucche verdi",
+            "description": "Troppo amaro da mangiare"
           },
           "002": {
-            "name": "Proto-Gourds",
-            "description": "Full of promise"
+            "name": "Proto-Zucche",
+            "description": "Pieno di promesse"
           },
           "005": {
-            "name": "Golden Gourds",
-            "description": "Harvest now!"
+            "name": "Zucche d'oro",
+            "description": "Raccogli ora!"
           },
           "004": {
-            "name": "Green Gourds",
-            "description": "Almost ripe!"
+            "name": "Zucche verdi",
+            "description": "Quasi maturo!"
           },
           "001": {
-            "name": "Tiny Vine",
-            "description": "Clingy"
+            "name": "Vite minuscola",
+            "description": "Appiccicosa"
           },
           "000": {
-            "name": "Seedling!",
-            "description": "Just a tiny little stub"
+            "name": "Piantina!",
+            "description": "Solo un piccolo troncone"
           },
           "011": {
-            "name": "Rotten Gourds",
-            "description": "Sadly inedible"
+            "name": "Zucche marce",
+            "description": "Purtroppo immangiabile"
           }
         }
       },
       "cactus_flower_crop": {
-        "description": "The flowers have medicinal properties",
-        "display_name": "Cactus Flower",
+        "description": "I fiori hanno proprietà medicinali",
+        "display_name": "Fiore di cactus",
         "growth_stage": {
           "000": {
-            "name": "Cactus Bud",
-            "description": "Starting to grow"
+            "name": "Germoglio di cactus",
+            "description": "Iniziando a crescere"
           },
           "001": {
-            "name": "Young Cactus",
-            "description": "Starting to get prickly"
+            "name": "Giovane cactus",
+            "description": "Iniziando a diventare pungente"
           },
           "002": {
-            "name": "Mature Cactus",
-            "description": "Wait for its flower to bloom"
+            "name": "Cactus maturo",
+            "description": "Aspetta che sbocci il suo fiore"
           },
           "003": {
-            "name": "Flowering Cactus",
-            "description": "Ready for harvesting"
+            "name": "Cactus Fiorito",
+            "description": "Pronto per la raccolta"
           }
         }
       },
@@ -19376,100 +19376,100 @@
         "description": "A defensive combatant focused on protecting allies from harm.",
         "requirements": "Crafted by Blacksmith",
         "level_1_data": {
-          "perk_000_name": "Fortify",
-          "perk_001_name": "Damage Reduction Rank 1",
-          "perk_000_description": "Increases Stamina, Courage, and draws attention from monsters",
-          "perk_001_description": "The knight gains an additional 10% defense from equipment"
+          "perk_000_name": "Fortifica",
+          "perk_001_name": "Riduzione del danno Grado 1",
+          "perk_000_description": "Aumenta la resistenza, il coraggio e attira l'attenzione dei mostri",
+          "perk_001_description": "Il cavaliere ottiene un'ulteriore difesa del 10% dall'equipaggiamento"
         },
         "level_4_data": {
-          "perk_000_name": "Damage Reduction Rank 2",
-          "perk_000_description": "The knight gains an additional 20% armor from equipment"
+          "perk_000_name": "Riduzione del danno Grado 2",
+          "perk_000_description": "Il cavaliere guadagna un'ulteriore armatura del 20% dall'equipaggiamento"
         },
         "level_3_data": {
-          "perk_000_name": "Fortify (Rank 2)",
-          "perk_000_description": "Stamina and Courage increased greatly"
+          "perk_000_name": "Fortifica (Rango 2)",
+          "perk_000_description": "Resistenza e coraggio aumentarono notevolmente"
         },
         "level_5_data": {
-          "perk_000_name": "Inspiring Presence",
-          "perk_000_description": "The knight boosts courage of everyone around"
+          "perk_000_name": "Presenza d'ispirazione",
+          "perk_000_description": "Il cavaliere aumenta il coraggio di chi ha intorno"
         },
         "level_2_data": {
-          "perk_000_name": "Shout",
-          "perk_000_description": "The knight intimidates the opponent, drawing the attention of nearby enemies."
+          "perk_000_name": "Urlo",
+          "perk_000_description": "Il cavaliere intimidisce l'avversario, attirando l'attenzione dei nemici vicini."
         },
         "level_6_data": {
-          "perk_000_name": "Hero's Horn",
-          "perk_000_description": "The knight sounds a horn of combat, drawing the attention enemies both near and far"
+          "perk_000_name": "Il corno dell'eroe",
+          "perk_000_description": "Il cavaliere suona un corno da combattimento, attirando l'attenzione dei nemici sia vicini che lontani"
         }
       },
       "knight_buffs": {
         "defense_1_buff": {
-          "display_name": "Defense Up 10%",
-          "description": "Defense gained from equipment increased by 10%"
+          "display_name": "Difesa aumentata del 10%",
+          "description": "Difesa ottenuta dall'equipaggiamento aumentato del 10%"
         },
         "defense_2_buff": {
-          "display_name": "Defense Up 20%",
-          "description": "Defense gained from equipment increased by 20%"
+          "display_name": "Difesa aumentata del 20%",
+          "description": "Difesa ottenuta dall'equipaggiamento aumentato del 20%"
         },
         "health_1_buff": {
-          "display_name": "Fortify",
-          "description": "The knight becomes more menacing to enemies, drawing their attention in combat. They also get a health and stamina bonus to keep up."
+          "display_name": "Fortifica",
+          "description": "Il cavaliere diventa più minaccioso per i nemici, attirando la loro attenzione in combattimento. Hanno anche un bonus di salute e resistenza per stare al passo."
         },
         "health_2_buff": {
-          "display_name": "Fortify (Rank 2)",
-          "description": "More fast, more furious"
+          "display_name": "Fortifica (Rango 2)",
+          "description": "Più veloce, più furioso"
         },
         "courage_aura_buff": {
-          "display_name": "Inspiring Presence",
-          "description": "The knight increases courage of everyone around"
+          "display_name": "Presenza d'ispirazione",
+          "description": "Il cavaliere aumenta il coraggio di chi ha introno"
         },
         "courage_aura_effect_buff": {
-          "display_name": "Inspired",
-          "description": "Courage increased from the presence of a knight."
+          "display_name": "Ispirato",
+          "description": "Il coraggio è aumentato dalla presenza di un cavaliere."
         }
       },
       "knight_helm": {
-        "display_name": "Knight's Helm",
-        "description": "Iron headgear standard issue for all knights"
+        "display_name": "Elmo del cavaliere",
+        "description": "Copricapo in ferro di serie per tutti i cavalieri"
       }
     },
     "npc_jobs": {
       "npc_thief": {
         "npc_thief_description": {
-          "display_name": "Thief",
-          "description": "Steals items from stockpiles",
+          "display_name": "Ladro",
+          "description": "Ruba gli oggetti dalle scorte",
           "level_1_data": {
-            "title": "Thief"
+            "title": "Ladro"
           }
         }
       },
       "npc_miner": {
         "npc_miner_description": {
-          "display_name": "Miner",
-          "description": "Mines terrain.",
-          "requirements": "None",
+          "display_name": "Minatore",
+          "description": "Minatore di terreni",
+          "requirements": "Nulla",
           "level_1_data": {
-            "title": "Miner"
+            "title": "Minatore"
           }
         }
       },
       "npc_restocker": {
         "npc_restocker_description": {
-          "display_name": "Miner",
-          "description": "Restocks items.",
-          "requirements": "None",
+          "display_name": "Minatore",
+          "description": "Articoli del rifornitore",
+          "requirements": "Nulla",
           "level_1_data": {
-            "title": "Restocker"
+            "title": "Rifornitore"
           }
         }
       },
       "npc_harvester": {
         "npc_harvester_description": {
-          "display_name": "Harvester",
-          "description": "Harvests farms and resources.",
-          "requirements": "None",
+          "display_name": "Raccoglitore",
+          "description": "Raccogliere coltivazioni e risorse.",
+          "requirements": "Nulla",
           "level_1_data": {
-            "title": "Harvester"
+            "title": "Raccoglitore"
           }
         }
       }
@@ -19477,8 +19477,8 @@
     "amberstone": {
       "worker": {
         "worker_outfit_winter_hood": {
-          "display_name": "Winter Hood",
-          "description": "Fluffy protection from the cold"
+          "display_name": "Cappuccio invernale",
+          "description": "Protezione soffice dal freddo"
         }
       }
     }
@@ -19486,71 +19486,71 @@
   "stonehearth_mixins": {
     "base_human": {
       "display_name": "[str(self.stonehearth:unit_info.custom_name)]",
-      "description": "Citizen of your town",
+      "description": "Cittadino della tua città",
       "job": {
-        "starting_level_title": "Lvl[str(self.stonehearth:job.curr_job_level)] Apprentice [str(self.stonehearth:job.curr_job_name)]",
-        "mid_level_title": "Lvl[str(self.stonehearth:job.curr_job_level)] Journeyman [str(self.stonehearth:job.curr_job_name)]",
-        "max_level_title": "Lvl[str(self.stonehearth:job.curr_job_level)] Master [str(self.stonehearth:job.curr_job_name)]",
+        "starting_level_title": "Lvl[str(self.stonehearth:job.curr_job_level)] Apprendista [str(self.stonehearth:job.curr_job_name)]",
+        "mid_level_title": "Lvl[str(self.stonehearth:job.curr_job_level)] Operaio qualificato [str(self.stonehearth:job.curr_job_name)]",
+        "max_level_title": "Lvl[str(self.stonehearth:job.curr_job_level)] Maestro [str(self.stonehearth:job.curr_job_name)]",
         "default_level_title": "Lvl [str(i18n_data.level_number)] [str(self.stonehearth:job.curr_job_name)]",
-        "default_level_announcement": "[name(i18n_data.entity)] has achieved [str(i18n_data.job_name)] Level [str(i18n_data.level_number)]!",
-        "default_promote_announcement": "[name(i18n_data.entity)] is now a Level [str(i18n_data.level_number)] [str(i18n_data.job_name)]!",
-        "level_up_perk_description": "Max Health +10",
-        "attribute_up_desc": "All attributes increased!"
+        "default_level_announcement": "[name(i18n_data.entity)] ha raggiunto [str(i18n_data.job_name)] Level [str(i18n_data.level_number)]!",
+        "default_promote_announcement": "[name(i18n_data.entity)] è ora al livello [str(i18n_data.level_number)] [str(i18n_data.job_name)]!",
+        "level_up_perk_description": "Salute massima +10",
+        "attribute_up_desc": "Tutti gli attributi sono aumentati!"
       }
     },
     "food": {
       "food_decay": {
         "food_decay": {
           "decay_1": {
-            "description": "Starting to Rot. Better eat it fast."
+            "description": "Inizia a marcire. Meglio mangiarlo in fretta."
           },
           "decay_2": {
-            "description": "Rotten. Ew."
+            "description": "Marcio. Che schifo."
           }
         },
         "egg": {
           "decay_1": {
-            "description": "Starting to go bad. Better cook it soon."
+            "description": "Inizia ad andare a male. Meglio cucinarlo presto."
           }
         },
         "egg_large": {
           "decay_1": {
-            "description": "Starting to go bad. Better cook it soon."
+            "description": "Inizia ad andare a male. Meglio cucinarlo presto."
           }
         }
       },
       "jerky": {
-        "display_name": "Jerky",
-        "description": "Stringy, but nutritious!"
+        "display_name": "Carne secca",
+        "description": "Filante, ma nutriente!"
       },
       "bug_meat": {
-        "description": "Sticky, but nutritious!",
-        "display_name": "Bug Meat"
+        "description": "Appiccicoso, ma nutriente!",
+        "display_name": "Carne di insetto"
       }
     },
     "monster": {
       "job": {
-        "starting_level_title": "Apprentice [str(self.stonehearth:job.curr_job_name)]",
-        "default_level_title": "Level [str(self.stonehearth:job.curr_job_level)] [str(self.stonehearth:job.curr_job_name)]",
-        "default_level_announcement": "[name(i18n_data.entity)] has achieved [str(i18n_data.job_name)] Level [str(i18n_data.level_number)]!",
+        "starting_level_title": "Apprendista [str(self.stonehearth:job.curr_job_name)]",
+        "default_level_title": "Livello [str(self.stonehearth:job.curr_job_level)] [str(self.stonehearth:job.curr_job_name)]",
+        "default_level_announcement": "[name(i18n_data.entity)] ha raggiunto [str(i18n_data.job_name)] Livello [str(i18n_data.level_number)]!",
         "default_promote_announcement": "i18n(stonehearth:stonehearth_mixins.base_human.job.default_promote_announcement)",
-        "general_description_desc": "Max Health increased!",
-        "attribute_up_desc": "All attributes increased!"
+        "general_description_desc": "Salute massima aumentata!",
+        "attribute_up_desc": "Tutti gli attributi sono aumentati!"
       }
     },
     "resources": {
       "fur_pelt": {
-        "display_name": "Fur pelt",
-        "description": "Soft, supple, and quite dead."
+        "display_name": "Pelliccia",
+        "description": "Morbido, elastico e abbastanza morto."
       },
       "hard_pelt": {
-        "display_name": "Hard pelt",
-        "description": "Hard, shiny, and quite dead."
+        "display_name": "Pelle dura",
+        "description": "Duro, lucido e abbastanza morto."
       }
     },
     "base_human_npc": {
       "display_name": "[str(self.stonehearth:unit_info.custom_name)]",
-      "description": "A guest of your town"
+      "description": "Un ospite della tua città"
     }
   },
   "scenarios": {
@@ -19608,26 +19608,26 @@
                 "title": "Fare clic sul pulsante Lavoro carpentiere."
               },
               "step004": {
-                "title": "Click Change Jobs to promote this hearthling to a different job"
+                "title": "Fai clic su Cambia lavoro per promuovere questo cittadino in un lavoro diverso"
               },
               "step001": {
-                "title": "Open the Citizens manager",
-                "description": "Use this pane to manage all your citizens, view their stats, and set their task orders."
+                "title": "Apri il Gestore dei cittadini",
+                "description": "Utilizzare questo riquadro per gestire tutti i cittadini, visualizzare le loro statistiche e impostare gli ordini delle attività."
               },
               "step000": {
-                "title": "Promote a Hearthling to a Carpenter",
-                "description": "We have logs and a place to store goods, but the town is looking pretty empty. Fortunately, we've brought a saw along with us. Let's promote a citizen to a Carpenter!"
+                "title": "Promuovere un cittadino a un carpentiere",
+                "description": "Abbiamo tronchi e un posto per conservare le merci, ma la città sembra piuttosto vuota. Fortunatamente, abbiamo portato una sega insieme a noi. Promuoviamo un cittadino a un falegname!"
               },
               "step007": {
-                "title": "Town Crafters",
-                "description": "Carpenters and other crafters can create various goods to help your settlement, from beds, to building materials, to weapons."
+                "title": "Artigiani della città",
+                "description": "Falegnami e altri artigiani possono creare vari beni per aiutare il tuo insediamento, dai letti, ai materiali da costruzione, alle armi."
               },
               "step003": {
-                "title": "Mouse over the numbers to learn what each attribute does",
-                "description": "Each hearthling has a Mind, Body, and Spirit attribute that affects how well they do certain things."
+                "title": "Passa il mouse sui numeri per sapere cosa fa ogni attributo",
+                "description": "Ogni cittadino ha un attributo Mente, Corpo e Spirito che influenza quanto bene fanno certe cose."
               },
               "step002": {
-                "title": "Choose a citizen to promote"
+                "title": "Scegli un cittadino da promuovere"
               }
             }
           }
@@ -19636,6 +19636,6 @@
     }
   },
   "kingdoms": {
-    "ascendancy": "Ascendancy"
+    "ascendancy": "Ascendente"
   }
 }
