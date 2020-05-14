@@ -10989,7 +10989,7 @@
         "description": "Può essere usato come erba curativa",
         "growth_stage": {
           "001": {
-            "name": "Brightbell Sprout",
+            "name": "Germoglio di Brightbell",
             "description": "Tozzo."
           },
           "003": {
@@ -11315,7 +11315,7 @@
           },
           "003": {
             "name": "Alberello di quercia",
-            "description": "Pronto per essere trasferito su una trama più grande."
+            "description": "Pronto per essere trasferito su un terreno più grande."
           },
           "000": {
             "name": "Ghianda",
@@ -11337,7 +11337,7 @@
           },
           "003": {
             "name": "Alberello dell'albero di acacia",
-            "description": "Pronto per essere trasferito su una trama più grande."
+            "description": "Pronto per essere trasferito su un terreno più grande."
           },
           "000": {
             "name": "Baccello del seme",
@@ -11406,114 +11406,114 @@
         }
       },
       "cactus_tree_crop": {
-        "display_name": "Cactus Sapling",
-        "description": "Out of cactus? Get ready to replant that beautiful desert-scape.",
+        "display_name": "Alberello di cactus",
+        "description": "Fuori dal cactus? Preparatevi a ripiantare quel bellissimo paesaggio desertico.",
         "growth_stage": {
           "001": {
-            "name": "Cactus Seedling",
-            "description": "It's just getting started."
+            "name": "Piantina di cactus",
+            "description": "È appena iniziato."
           },
           "003": {
-            "name": "Cactus Sapling",
-            "description": "Ready to be transferred to a bigger plot."
+            "name": "Alberello di cactus",
+            "description": "Pronto per essere trasferito su un terreno più grande."
           },
           "000": {
-            "name": "Pollinated Flower Pod",
-            "description": "Even a mighty cactus has humble beginnings."
+            "name": "Baccello impollinato",
+            "description": "Anche un potente cactus ha umili origini."
           },
           "002": {
-            "name": "Cactus Sprout",
-            "description": "Perfect size for a baby lizard."
+            "name": "Germoglio di cactus",
+            "description": "Dimensione perfetta per una lucertola."
           }
         }
       },
       "juniper_tree_crop": {
-        "display_name": "Juniper Sapling",
-        "description": "Forest running thin? Plant some of these gorgeous Juniper trees.",
+        "display_name": "Alberello di ginepro",
+        "description": "La foresta si sta esaurendo? Pianta alcuni di questi splendidi alberi di ginepro.",
         "growth_stage": {
           "001": {
-            "name": "Juniper Seedling",
-            "description": "It's just getting started."
+            "name": "Piantina di ginepro",
+            "description": "È appena iniziato."
           },
           "003": {
-            "name": "Juniper Sapling",
-            "description": "Ready to be transferred to a bigger plot."
+            "name": "Alberello di ginepro",
+            "description": "Pronto per essere trasferito su un terreno più grande."
           },
           "000": {
-            "name": "Juniper Berry",
-            "description": "Even a mighty juniper has humble beginnings."
+            "name": "Bacca di ginepro",
+            "description": "Anche un potente ginepro ha inizi modesti."
           },
           "002": {
-            "name": "Juniper Sprout",
-            "description": "Perfect size for a rabbit to hide in."
+            "name": "Germoglio di ginepro",
+            "description": "Dimensione perfetta per nascondere un coniglio."
           }
         }
       },
       "pine_tree_crop": {
-        "display_name": "Pine Sapling",
-        "description": "Out of trees? Get ready to participate in reforestation.",
+        "display_name": "Alberello di pino",
+        "description": "Fuori dagli alberi? Preparati a partecipare al rimboschimento.",
         "growth_stage": {
           "001": {
-            "name": "Pine Seedling",
-            "description": "A delicate stage of growth."
+            "name": "Piantina di pino",
+            "description": "Una delicata fase di crescita."
           },
           "003": {
-            "name": "Pine Sapling",
-            "description": "Ready to be transferred to a bigger plot."
+            "name": "Alberello di pino",
+            "description": "Pronto per essere trasferito su un terreno più grande."
           },
           "000": {
-            "name": "Pine Berry",
-            "description": "A new pine tree taking root."
+            "name": "Bacche di pino",
+            "description": "Un nuovo pino che mette radici."
           },
           "002": {
-            "name": "Pine Sprout",
-            "description": "A perfect tiny pine. Still growing!"
+            "name": "Germoglio di pino",
+            "description": "Un perfetto piccolo pino. Ancora in crescita!"
           }
         }
       },
       "sweet_potato_crop": {
-        "display_name": "Sweet Potato",
-        "description": "Sweet but not very tasty when raw",
+        "display_name": "Patata dolce",
+        "description": "Dolce ma non molto gustoso da crudo",
         "growth_stage": {
           "003": {
-            "name": "Ripe Sweet Potato",
-            "description": "Ready for picking!"
+            "name": "Patata dolce matura",
+            "description": "Pronto per il raccolto!"
           },
           "002": {
-            "name": "Baby Sweet Potato"
+            "name": "Patata piccola dolce"
           },
           "011": {
-            "name": "Rotten Sweet Potato",
-            "description": "Moldy and inedible"
+            "name": "Patata dolce marcia",
+            "description": "Ammuffito e immangiabile"
           },
           "000": {
-            "description": "Someday will grow into a tasty purple veggie."
+            "description": "Un giorno diventerà una gustosa verdura viola."
           }
         }
       },
       "heirbloom_crop": {
         "display_name": "Heirbloom",
-        "description": "The woody stems are apparently an Amberstone delicacy?",
+        "description": "Gli steli legnosi sono apparentemente una prelibatezza di Amberstone?",
         "growth_stage": {
           "001": {
-            "name": "Flowering Heirbloom Stalk",
-            "description": "Fruit follows the flowers"
+            "name": "Gambo di Heirbloom di fioritura",
+            "description": "La frutta segue i fiori"
           },
           "003": {
-            "name": "Ripe Heirbloom",
-            "description": "Ruby red!"
+            "name": "Heirbloom maturo",
+            "description": "Rosso rubino!"
           },
           "000": {
-            "name": "Heirbloom Shoot",
-            "description": "A hardy sprout"
+            "name": "Germoglio di heirbloom",
+            "description": "Un germoglio robusto"
           },
           "002": {
-            "name": "Unripe Heirbloom",
-            "description": "Wee, green"
+            "name": "Heirbloom acerbo",
+            "description": "Accidenti, verde"
           },
           "011": {
-            "name": "Rotten Heirbloom",
-            "description": "Inedible - the stalk might still be good, though!"
+            "name": "Heirloom marcio",
+            "description": "Immangiabile - lo stelo potrebbe essere comunque buono!"
           }
         }
       }
@@ -11521,802 +11521,802 @@
     "decoration": {
       "banner_wall_big": {
         "banner_wall_big_ghost": {
-          "display_name": "Big Wall Banner",
-          "description": "Show your town pride with this banner."
+          "display_name": "Striscione da muro",
+          "description": "Mostra il tuo orgoglio di città con questo striscione."
         }
       },
       "banner_wall_small": {
         "banner_wall_small_ghost": {
-          "display_name": "Small Wall Banner",
-          "description": "Show your town pride with this banner."
+          "display_name": "Piccolo striscione da parete",
+          "description": "Mostra il tuo orgoglio di città con questo striscione."
         }
       },
       "bird_bath": {
         "bird_bath_ghost": {
-          "display_name": "Bird Bath",
-          "description": "Tranquil."
+          "display_name": "Vassoio porta oggetti",
+          "description": "Tranquillo."
         }
       },
       "crate": {
-        "display_name": "A crate"
+        "display_name": "Una cassa"
       },
       "curtains": {
         "curtains_ghost": {
-          "display_name": "Curtains",
-          "description": "Dresses up a window."
+          "display_name": "Tende",
+          "description": "Veste una finestra."
         }
       },
       "firepit": {
         "firepit_ghost": {
-          "display_name": "Firepit",
-          "description": "Provides warmth and light"
+          "display_name": "Falò",
+          "description": "Fornisce calore e luce"
         }
       },
       "firepit_hearth": {
         "firepit_hearth_ghost": {
-          "display_name": "Hearth",
-          "description": "Provides warmth, light, and comfort"
+          "display_name": "Focolare",
+          "description": "Fornisce calore, luce e comfort"
         }
       },
       "firepit_skulls": {
         "firepit_skulls_ghost": {
-          "display_name": "Wicked Firepit",
-          "description": "Are those....ew."
+          "display_name": "Falò malvagio",
+          "description": "Sono quelli.... ew."
         }
       },
       "fur_rug": {
         "fur_rug_ghost": {
-          "display_name": "Fur Rug",
-          "description": "Made from animal pelts."
+          "display_name": "Tappeto di pelliccia",
+          "description": "Fatto da pelli di animali."
         }
       },
       "gargoyle": {
         "gargoyle_ghost": {
-          "display_name": "Wall Gargoyle",
-          "description": "Gothic-style carving to decorate your walls."
+          "display_name": "Gargoyle da parete",
+          "description": "Scultura in stile gotico per decorare le pareti."
         }
       },
       "gilded_crimson_rug": {
         "gilded_crimson_rug_ghost": {
-          "display_name": "Gilded Crimson Rug",
-          "description": "So regal"
+          "display_name": "Tappeto cremisi dorato",
+          "description": "Così regale"
         }
       },
       "loot_chest": {
-        "display_name": "A big chest",
-        "description": "It holds loot!"
+        "display_name": "Una grande cassa",
+        "description": "Tiene il bottino!"
       },
       "stone_brazier": {
         "stone_brazier_ghost": {
-          "display_name": "Stone Brazier",
-          "description": "Provides warm and cozy fire at night"
+          "display_name": "Braciere di pietra",
+          "description": "Fornisce fuoco caldo e accogliente di notte"
         }
       },
       "stone_floor_candle_holder": {
         "stone_floor_candle_holder_ghost": {
-          "display_name": "Stone Floor Candle Holder",
-          "description": "Let there be light!"
+          "display_name": "Portacandele da pavimento in pietra",
+          "description": "Sia la luce!"
         }
       },
       "stone_garden_lantern": {
         "stone_garden_lantern_ghost": {
-          "display_name": "Stone Garden Lantern",
-          "description": "An ancient-looking lantern with great ambiance."
+          "display_name": "Lanterna da giardino in pietra",
+          "description": "Una lanterna dall'aspetto antico con grande atmosfera."
         }
       },
       "stone_wall_lantern": {
         "stone_wall_lantern_ghost": {
-          "display_name": "Stone Wall Lantern",
-          "description": "Easily attached to walls"
+          "display_name": "Lanterna da muro in pietra",
+          "description": "Facilmente attaccabile alle pareti"
         }
       },
       "tapestry_wall": {
         "tapestry_wall_ghost": {
-          "display_name": "Wall-Mounted Tapestry",
-          "description": "A decorative scene, woven in colored thread and cord."
+          "display_name": "Tappezzeria a parete",
+          "description": "Una scena decorativa, intrecciata in filo e corda colorati."
         }
       },
       "throw_rug": {
         "throw_rug_ghost": {
-          "display_name": "Decorative Throw Rug",
-          "description": "Brightens up that old dusty floor."
+          "display_name": "Tappeto decorativo",
+          "description": "Illumina quel vecchio pavimento polveroso."
         }
       },
       "tower_brazier": {
         "tower_brazier_ghost": {
-          "display_name": "Tower Brazier",
-          "description": "Provides warm and cozy fire at night"
+          "display_name": "Braciere a torre",
+          "description": "Fornisce fuoco caldo e accogliente di notte"
         }
       },
       "wall_crest": {
         "wall_crest_ghost": {
-          "display_name": "Wall Crest",
-          "description": "Just for show."
+          "display_name": "Stemma da muro",
+          "description": "Solo per spettacolo."
         }
       },
       "window_box_brightbell": {
         "window_box_brightbell_ghost": {
-          "display_name": "Brightbell planter",
-          "description": "A tidy home for the plant."
+          "display_name": "Fioriera Brightbell",
+          "description": "Una casa ordinata per la pianta."
         }
       },
       "window_box_frostsnap": {
         "window_box_frostsnap_ghost": {
-          "display_name": "Frostsnap planter",
-          "description": "A tidy home for the plant."
+          "display_name": "Fioriera Frostsnap",
+          "description": "Una casa ordinata per la pianta."
         }
       },
       "amberstone_lantern": {
         "amberstone_lantern_ghost": {
-          "display_name": "Stone-cut Lantern",
-          "description": "A warm little light"
+          "display_name": "Lanterna tagliata a pietra",
+          "description": "Una piccola luce calda"
         }
       },
       "wooden_garden_lantern": {
         "wooden_garden_lantern_ghost": {
-          "display_name": "Wooden Garden Lantern",
-          "description": "A compact source of light"
+          "display_name": "Lanterna da giardino in legno",
+          "description": "Una fonte di luce compatta"
         }
       },
       "wooden_garden_lantern_fine": {
         "wooden_garden_lantern_fine_ghost": {
-          "display_name": "Fine Garden Lantern",
-          "description": "A compact source of light, with a little bit of flair."
+          "display_name": "Lanterna da giardino pregiata",
+          "description": "Una fonte di luce compatta, con un po' di fascino."
         },
         "wooden_garden_lantern_red_ghost": {
-          "display_name": "wooden garden lantern red"
+          "display_name": "Lanterna da giardino in legno rossa"
         }
       },
       "wooden_sign": {
         "wooden_sign_ghost": {
-          "display_name": "Wooden Wall Sign",
-          "description": "An expression of future intent."
+          "display_name": "Cartello da parete in legno",
+          "description": "Un'espressione di intenti futuri."
         }
       },
       "wooden_sign_blacksmith": {
         "wooden_sign_blacksmith_ghost": {
-          "display_name": "Blacksmith's Sign",
-          "description": "A sign with the mark of the blacksmith."
+          "display_name": "Insegna del fabbro",
+          "description": "Un cartello con il marchio del fabbro."
         }
       },
       "wooden_sign_carpenter": {
         "wooden_sign_carpenter_ghost": {
-          "display_name": "Carpenter's Sign",
-          "description": "A sign with the mark of the Carpenter."
+          "display_name": "Insegna del carpentiere",
+          "description": "Un cartello con il marchio del carpentiere."
         }
       },
       "wooden_sign_mason": {
         "wooden_sign_mason_ghost": {
-          "display_name": "Mason's Sign",
-          "description": "A sign with the mark of the Mason."
+          "display_name": "Insegna del muratore",
+          "description": "Un cartello con il marchio del muratore."
         }
       },
       "wooden_sign_weaver": {
         "wooden_sign_weaver_ghost": {
-          "display_name": "Weaver's Sign",
-          "description": "A sign with the mark of the Weaver."
+          "display_name": "Insegna del tessitore",
+          "description": "Un cartello con il marchio del Tessitore."
         }
       },
       "wooden_wall_lantern": {
         "wooden_wall_lantern_ghost": {
-          "display_name": "Wooden Wall Lantern",
-          "description": "Easily attached to walls"
+          "display_name": "Lanterna da parete in legno",
+          "description": "Facilmente attaccabile alle pareti"
         }
       },
       "wooden_wall_lantern_fine": {
         "wooden_wall_lantern_fine_ghost": {
-          "display_name": "Fine Wall Lantern",
-          "description": "Easily attached to walls"
+          "display_name": "Lanterna da parete pregiata",
+          "description": "Facilmente attaccabile alle pareti"
         }
       },
       "clay_lamp": {
         "clay_lamp_ghost": {
-          "display_name": "Clay Oil Lamp",
-          "description": "Its flame brings a warm glow at night."
+          "display_name": "Lampada a olio di argilla",
+          "description": "La sua fiamma porta un caldo bagliore di notte."
         }
       },
       "clay_wall_lamp": {
         "clay_wall_lamp_ghost": {
-          "display_name": "Wall Clay Lamp",
-          "description": "Provides a warm glow at night."
+          "display_name": "Lampada da parete in argilla",
+          "description": "Fornisce un caldo bagliore durante la notte."
         }
       },
       "garden_gnome": {
         "garden_gnome_ghost": {
-          "display_name": "Garden Gnome",
-          "description": "Plant Guardians"
+          "display_name": "Gnomo da giardino",
+          "description": "Guardiani delle piante"
         }
       },
       "amberstone_teapot": {
         "amberstone_teapot_ghost": {
-          "display_name": "Stone-cut Teapot",
-          "description": "A rabbit's cherished teapot"
+          "display_name": "Teiera tagliata a pietra",
+          "description": "La preziosa teiera di un coniglio"
         }
       },
       "decorative_teapot": {
         "decorative_teapot_ghost": {
-          "display_name": "Decorative Teapot",
-          "description": "A reminder of humble beginnings"
+          "display_name": "Teiera decorativa",
+          "description": "Un promemoria di umili origini"
         }
       },
       "decorative_tray": {
         "decorative_tray_ghost": {
-          "display_name": "Decorative Tray",
-          "description": "Adds flash and hospitality"
+          "display_name": "Vassoio decorativo",
+          "description": "Aggiunge luce e ospitalità"
         }
       },
       "potted_cactus": {
         "potted_cactus_ghost": {
-          "display_name": "Potted Cactus",
-          "description": "Careful, it's still prickly."
+          "display_name": "Cactus in vaso",
+          "description": "Attento, è ancora pungente."
         }
       },
       "blown_glass_vase": {
         "blown_glass_vase_ghost": {
-          "display_name": "Blown Glass Vase",
-          "description": "Miraculous"
+          "display_name": "Vaso in vetro soffiato",
+          "description": "Miracoloso"
         }
       },
       "decorative_vase": {
         "decorative_vase_ghost": {
-          "display_name": "Decorative Vase",
-          "description": "The metals of the earth reborn"
+          "display_name": "Vaso decorativo",
+          "description": "I metalli della terra rinascono"
         }
       },
       "sundial": {
         "sundial_ghost": {
-          "display_name": "Sundial",
-          "description": "Decorates gardens, marks time"
+          "display_name": "Meridiana",
+          "description": "Decora i giardini, segna il tempo"
         }
       },
       "amberstone_mat": {
         "amberstone_mat_ghost": {
-          "display_name": "Woven Floormat",
-          "description": "Woven with the skill of the rabbits"
+          "display_name": "Tappetino in tessuto",
+          "description": "Tessuto con l'abilità dei conigli"
         }
       },
       "amberstone_painting_branch": {
         "amberstone_painting_branch_ghost": {
-          "display_name": "Flowering Painting",
-          "description": "Depicts a tree from cycles past"
+          "display_name": "Pittura di un fiore",
+          "description": "Raffigura un albero dai cicli passati"
         }
       },
       "tile_floor_mosaic": {
         "tile_floor_mosaic_ghost": {
-          "display_name": "Tile Floor Mosaic",
-          "description": "Cool on the bare feet"
+          "display_name": "Mosaico del pavimento piastrellato",
+          "description": "Freddo a piedi nudi"
         }
       },
       "tile_wall_mosaic": {
         "tile_wall_mosaic_ghost": {
-          "display_name": "Tile Wall Mosaic",
-          "description": "Soothing decorative patterns"
+          "display_name": "Mosaico da parete",
+          "description": "Motivi decorativi rilassanti"
         }
       },
       "golden_clay_wall_planter": {
         "golden_clay_wall_planter_ghost": {
-          "display_name": "Golden Clay Planter",
-          "description": "Livens up walls"
+          "display_name": "Fioriera in argilla dorata",
+          "description": "Ravviva le pareti"
         }
       },
       "unfired_clay_vase": {
         "unfired_clay_vase_ghost": {
-          "display_name": "Unfired Clay Vase",
-          "description": "A very simple vase"
+          "display_name": "Vaso di argilla incolore",
+          "description": "Un vaso molto semplice"
         }
       },
       "wooden_sign_herbalist": {
         "wooden_sign_herbalist_ghost": {
-          "display_name": "Herbalist's sign",
-          "description": "A sign with the mark of the Herbalist"
+          "display_name": "Insegna dell'erborista",
+          "description": "Un cartello con il marchio dell'erborista"
         }
       },
       "wooden_sign_inn": {
         "wooden_sign_inn_ghost": {
-          "display_name": "Inn Sign",
-          "description": "A sign marking a place for rest and revelry."
+          "display_name": "Insegna della locanda",
+          "description": "Un cartello che segna un luogo di riposo e di svasatura."
         }
       },
       "wooden_sign_potter": {
         "wooden_sign_potter_ghost": {
-          "display_name": "Potter's Sign",
-          "description": "A sign with the mark of the Potter"
+          "display_name": "Insegna del vasaio",
+          "description": "Un segno con il marchio del vasaio"
         }
       },
       "wooden_sign_cook": {
         "wooden_sign_cook_ghost": {
-          "display_name": "Cook's Sign",
-          "description": "A sign with the mark of the cook"
+          "display_name": "Insegna del cuoco",
+          "description": "Un cartello con il marchio del cuoco"
         }
       },
       "clay_market_stall": {
         "clay_market_stall_ghost": {
-          "display_name": "Clay Market Stall",
-          "description": "Merchants can set up shop here"
+          "display_name": "Bancarella del mercato di argilla",
+          "description": "I commercianti possono aprire un negozio qui"
         }
       },
       "decorative_elite_gong": {
         "decorative_elite_gong_ghost": {
-          "display_name": "Elite Gong",
-          "description": "Inspired by the Elite Kobold Menace"
+          "display_name": "Gong d'élite",
+          "description": "Ispirato dalla minaccia dell'élite Kobold"
         }
       },
       "decorative_generals_gong": {
         "decorative_generals_gong_ghost": {
-          "display_name": "General's Golden Gong",
-          "description": "Inspired by the Kobold Archer General"
+          "display_name": "Il gong dorato del generale",
+          "description": "Ispirato dal generale arciere Kobold"
         }
       },
       "decorative_master_gong": {
         "decorative_master_gong_ghost": {
-          "display_name": "Master's Gong",
-          "description": "Inspired by the Kobold Master Archer"
+          "display_name": "Gong del Maestro",
+          "description": "Ispirato al maestro arciere Kobold"
         }
       },
       "decorative_scout_gong": {
         "decorative_scout_gong_ghost": {
-          "display_name": "Scout's Gong",
-          "description": "Inspired by the Kobold Scout"
+          "display_name": "Gongo di Sout",
+          "description": "Ispirato dal Kobold l'esploratore"
         }
       },
       "valor_statue": {
         "valor_statue_ghost": {
-          "display_name": "The Valor of Cid",
-          "description": "A monument to your town's military might"
+          "display_name": "Il valore di Cid",
+          "description": "Un monumento alla potenza militare della tua città"
         },
         "brazier_large_ghost": {
-          "display_name": "Large Brazier",
-          "description": "A beacon of light to protect your town."
+          "display_name": "Grande braciere",
+          "description": "Un faro di luce per proteggere la tua città."
         },
         "window_frame_xlarge": {
           "window_frame_xlarge_ghost": {
-            "display_name": "Extra Large Stone Window Frame",
-            "description": "For those who enjoy wide expansive views."
+            "display_name": "Cornice per finestra in pietra extra large",
+            "description": "Per coloro che godono di ampie visioni espansive."
           }
         },
         "torch": {
           "torch_ghost": {
-            "display_name": "Wooden Torch",
-            "description": "Its flame brings a warm feeling of pride in all we have accomplished."
+            "display_name": "Torcia di legno",
+            "description": "La sua fiamma porta una calda sensazione di orgoglio in tutto ciò che abbiamo realizzato."
           }
         },
         "portcullis_valor": {
           "portcullis_valor_ghost": {
-            "display_name": "Castle Portcullis",
-            "description": "For those times when you really want to keep out the neighbors."
+            "display_name": "Cancello del castello",
+            "description": "Per quelle volte in cui vuoi davvero tenere fuori i vicini."
           }
         },
         "window_arrow_tall": {
           "window_arrow_tall_ghost": {
-            "display_name": "Tall Stone Arrow Slit",
-            "description": "For those who enjoy small compressed views."
+            "display_name": "Spacco alto a forma di freccia in pietra",
+            "description": "Per chi ama le piccole viste compresse."
           }
         },
         "window_arrow_short": {
           "window_arrow_short_ghost": {
-            "display_name": "Short Stone Arrow Slit",
-            "description": "For those who enjoy small compressed views."
+            "display_name": "Breve fessura a forma di freccia di pietra",
+            "description": "Per chi ama le piccole viste compresse."
           }
         },
         "statue_knight": {
           "statue_knight_ghost": {
-            "display_name": "Knight Statue",
-            "description": "Noble knight of stone"
+            "display_name": "Statua del cavaliere",
+            "description": "Nobile cavaliere di pietra"
           }
         },
         "statue_knight_male": {
           "statue_knight_male_ghost": {
-            "display_name": "Knight Statue",
-            "description": "Noble knight of stone"
+            "display_name": "Statua del cavaliere",
+            "description": "Nobile cavaliere di pietra"
           }
         },
         "window_frame_barred": {
           "window_frame_barred_ghost": {
-            "display_name": "Barred Stone Window Frame",
-            "description": "For those who enjoy safe viewing from behind bars."
+            "display_name": "Cornice per finestra in pietra",
+            "description": "Per chi ama la visione sicura da dietro le sbarre."
           }
         },
         "stone_torch": {
           "stone_torch_ghost": {
-            "display_name": "Stone Torch",
-            "description": "A wall-mounted torch with slowly burning oil."
+            "display_name": "Torcia di pietra",
+            "description": "Una torcia a parete con olio a combustione lenta."
           }
         }
       },
       "roadside_shrine": {
         "roadside_shrine_ghost": {
-          "display_name": "Fountain of Plenty",
-          "description": "Place to show generosity and faith"
+          "display_name": "Fontana dell'Abbondanza",
+          "description": "Luogo in cui mostrare generosità e fede"
         },
         "fountain_wishing": {
           "fountain_wishing_ghost": {
-            "display_name": "Lucky Fountain",
-            "description": "Exchanges gold for wishes"
+            "display_name": "Fontana fortunata",
+            "description": "Scambia l'oro per i desideri"
           }
         },
         "lamppost_upscale": {
           "lamppost_upscale_ghost": {
-            "display_name": "Iron Lamp Post",
-            "description": "Lovely lighting for any pathway or promenade"
+            "display_name": "Lampione in ferro",
+            "description": "Illuminazione incantevole per qualsiasi percorso o passeggiata"
           }
         },
         "lamppost_upscale_double": {
           "lamppost_upscale_double_ghost": {
-            "display_name": "Twin Iron Lamp Post",
-            "description": "Lovely lighting for any pathway or promenade"
+            "display_name": "Lampione in ferro gemellato",
+            "description": "Illuminazione incantevole per qualsiasi percorso o passeggiata"
           }
         },
         "lantern_poyo": {
           "lantern_poyo_ghost": {
-            "display_name": "Poyo Lantern",
-            "description": "Happy bronze lightbirb"
+            "display_name": "Lanterna di pollo",
+            "description": "Luce divertente a forma di uccello"
           }
         },
         "pot_goldrose": {
           "pot_goldrose_ghost": {
-            "display_name": "Goldrose Bush",
-            "description": "Hearty yellow blossoms"
+            "display_name": "Cespuglio di Goldrose",
+            "description": "Fiori gialli abbondanti"
           }
         },
         "pot_moondrop": {
           "pot_moondrop_ghost": {
-            "display_name": "Moondrop Bush",
-            "description": "Silvery and serene"
+            "display_name": "Cespuglio di Moondrop",
+            "description": "Argenteo e sereno"
           }
         },
         "pot_redbloom": {
           "pot_redbloom_ghost": {
-            "display_name": "Redbloom Bush",
-            "description": "A rosy shrub"
+            "display_name": "Cespuglio di redbloom",
+            "description": "Un arbusto roseo"
           }
         },
         "tree_goldrose": {
           "tree_goldrose_ghost": {
-            "display_name": "Goldrose Tree",
-            "description": "Aglow with golden blossoms"
+            "display_name": "Albero di Goldrose",
+            "description": "Brillante con fiori d'oro"
           }
         },
         "tree_moondrop": {
           "tree_moondrop_ghost": {
-            "display_name": "Moondrop Tree",
-            "description": "Dazzling in the moment"
+            "display_name": "Albero di Moondrop",
+            "description": "Abbagliante nel momento"
           }
         },
         "tree_redbloom": {
           "tree_redbloom_ghost": {
-            "display_name": "Redbloom Tree",
-            "description": "Meticulously tended, and covered in blooms"
+            "display_name": "Albero di Redbloom",
+            "description": "Meticolosamente curato e coperto di fiori"
           }
         },
         "weathervane_poyo": {
           "weathervane_poyo_ghost": {
-            "display_name": "Twirlybird",
-            "description": "A weathervane resembling a poyo"
+            "display_name": "Vorticoso",
+            "description": "Una banderuola che ricorda un pollo"
           }
         }
       },
       "craftsman_statue": {
         "craftsman_statue_ghost": {
-          "display_name": "The Guildmaster's Skill",
-          "description": "Place to show skill at crafting"
+          "display_name": "L'abilità del maestro di gilda",
+          "description": "Posto per mostrare abilità nella creazione"
         },
         "candle_iron": {
           "candle_iron_ghost": {
-            "display_name": "Iron Candle Holder",
-            "description": "let there be light!"
+            "display_name": "Portacandele in ferro",
+            "description": "Sia la luce!"
           }
         },
         "candle_iron_double": {
           "candle_iron_double_ghost": {
-            "display_name": "Iron Candelabra",
-            "description": "Let there be even more light!"
+            "display_name": "Candelabri di ferro",
+            "description": "Lascia che ci sia ancora più luce!"
           }
         },
         "door_blacksmith": {
           "door_blacksmith_ghost": {
-            "display_name": "Blacksmith's door",
-            "description": "Fit for a master blacksmith's workshop"
+            "display_name": "La porta del fabbro",
+            "description": "Adatto per un laboratorio del fabbro"
           }
         },
         "door_carpenter": {
           "door_carpenter_ghost": {
-            "display_name": "Carpenter's door",
-            "description": "Fit for a master carpenter's woodshop"
+            "display_name": "La porta del carpentiere",
+            "description": "Adatto per una falegnameria di un maestro falegname"
           }
         },
         "door_mason": {
           "door_mason_ghost": {
-            "display_name": "Mason's door",
-            "description": "Fit for a master mason's workshop"
+            "display_name": "La porta del muratore",
+            "description": "Adatto per un laboratorio di un maestro muratore"
           }
         },
         "fence_brightbell": {
           "fence_brightbell_ghost": {
-            "display_name": "Pink Flowering Fence",
-            "description": "A fence overtaken by brightbells"
+            "display_name": "Recinzione fiorita rosa",
+            "description": "Una recinzione sormontata da brightbells"
           }
         },
         "fence_frostsnap": {
           "fence_frostsnap_ghost": {
-            "display_name": "Blue Flowering Fence",
-            "description": "A fence overtaken by frostsnaps"
+            "display_name": "Recinzione fiorita blu",
+            "description": "Una recinzione sormontata da frostsnap"
           }
         },
         "fountain": {
           "fountain_ghost": {
-            "display_name": "Stone Fountain",
-            "description": "Simple, lively, and bubbly"
+            "display_name": "Fontana di pietra",
+            "description": "Semplice, vivace e frizzante"
           }
         },
         "fountain_garden": {
           "fountain_garden_ghost": {
-            "display_name": "Lilypad basin",
-            "description": "A tiny, floating garden for a quiet corner"
+            "display_name": "Bacino Lilypad",
+            "description": "Un minuscolo giardino galleggiante per un angolo tranquillo"
           }
         },
         "fountain_tiered": {
           "fountain_tiered_ghost": {
-            "display_name": "Waterfall Basin",
-            "description": "A miniature cascade"
+            "display_name": "Bacino della cascata",
+            "description": "Una cascata in miniatura"
           }
         },
         "gate_iron": {
           "gate_iron_ghost": {
-            "display_name": "Wrought-iron Gate",
-            "description": "It looks heavy, but you could just squeeze through it if you wanted"
+            "display_name": "Cancello in ferro battuto",
+            "description": "Sembra pesante, ma puoi semplicemente spremerlo se lo desideri"
           }
         },
         "lamppost_rustic": {
           "lamppost_rustic_ghost": {
-            "display_name": "Rustic Lamp Post",
-            "description": "Humbly illuminates any pathway or patio"
+            "display_name": "Lampione rustico",
+            "description": "Illumina umilmente qualsiasi via o patio"
           }
         },
         "lamppost_rustic_double": {
           "lamppost_rustic_double_ghost": {
-            "display_name": "Twin Rustic Lamp Post",
-            "description": "More boldly lights the way"
+            "display_name": "Lampione rustico doppio",
+            "description": "Più audacemente illumina la strada"
           }
         },
         "lantern_iron": {
           "lantern_iron_ghost": {
-            "display_name": "Iron Wall-Mounted Lantern",
-            "description": "Glows like the heart of the forge"
+            "display_name": "Lanterna a parete in ferro",
+            "description": "Si illumina come il cuore della fucina"
           }
         },
         "pot_berry_bush": {
           "pot_berry_bush_ghost": {
-            "display_name": "Potted Berry Bush",
-            "description": "A carefully crated friend"
+            "display_name": "Cespuglio di bacche in vaso",
+            "description": "Un amico fatto con cura"
           }
         },
         "sign_blacksmith": {
           "sign_blacksmith_ghost": {
-            "display_name": "Blacksmith's shop sign",
-            "description": "An iron-forged sign, to be displayed outside a blacksmith's workshop"
+            "display_name": "Insegna del negozio del fabbro",
+            "description": "Un cartello forgiato in ferro, da esporre all'esterno di un laboratorio da fabbro"
           }
         },
         "sign_carpenter": {
           "sign_carpenter_ghost": {
-            "display_name": "Carpenter's shop sign",
-            "description": "An expertly carved sign, to be displayed outside a carpenter's workshop"
+            "display_name": "Insegna del negozio del falegname",
+            "description": "Un cartello sapientemente scolpito, da esporre al di fuori di un laboratorio di falegnameria"
           }
         },
         "sign_mason": {
           "sign_mason_ghost": {
-            "display_name": "Mason's shop sign",
-            "description": "A sturdy stone sign, to be displayed outside a mason's workshop"
+            "display_name": "Insegna del negozio del muratore",
+            "description": "Un robusto cartello in pietra, da esporre all'esterno di un'officina per muratori"
           }
         },
         "statue_rabbit": {
           "statue_rabbit_ghost": {
-            "display_name": "Wee Stone Rabbit",
-            "description": "Ears up!"
+            "display_name": "Coniglietto di pietra",
+            "description": "Orecchie in alto!"
           }
         },
         "statue_rabbit_flat": {
           "statue_rabbit_flat_ghost": {
-            "display_name": "Flat Stone Rabbit",
-            "description": "Ears down!"
+            "display_name": "Coniglio di pietra piatta",
+            "description": "Orecchie in giù!"
           }
         },
         "topiary_fox": {
           "topiary_fox_ghost": {
-            "display_name": "Berry Fox",
-            "description": "Fluffy wildlife topiary"
+            "display_name": "Volpe",
+            "description": "Soffice fauna selvatica topiaria"
           }
         },
         "topiary_mammoth": {
           "topiary_mammoth_ghost": {
-            "display_name": "Berry Mammoth",
-            "description": "Massive topiary pachyderm "
+            "display_name": "Mammuth",
+            "description": "Pachiderma topiario massiccio"
           }
         },
         "topiary_rabbit": {
           "topiary_rabbit_ghost": {
-            "display_name": "Berry Bun",
-            "description": "Fluffy wildlife topiary"
+            "display_name": "Panino ai frutti di bosco",
+            "description": "Soffice fauna selvatica topiaria"
           }
         },
         "wall_hanging_berrywreath": {
           "wall_hanging_berrywreath_ghost": {
-            "display_name": "Berry Wreath",
-            "description": "Perfect for any occasion"
+            "display_name": "Ghirlanda di bacche",
+            "description": "Perfetto per ogni occasione"
           }
         },
         "wall_hanging_plaque": {
           "wall_hanging_plaque_ghost": {
-            "display_name": "Sword and Shield Plaque",
-            "description": "Just like Granddads sword looked!"
+            "display_name": "Placca di spada e scudo",
+            "description": "Proprio come la spada dei nonni!"
           }
         }
       },
       "wooden_sign_engineer": {
         "wooden_sign_engineer_ghost": {
-          "display_name": "Engineer's Sign",
-          "description": "A sign with the mark of the Engineer."
+          "display_name": "Insegna dell'ingegnere",
+          "description": "Un cartello con il marchio dell'ingegnere."
         }
       },
       "wooden_garden_lantern_red": {
         "wooden_garden_lantern_red_ghost": {
-          "display_name": "Wooden Garden Lantern - in Red",
-          "description": "A compact source of light"
+          "display_name": "Lanterna da giardino in legno - in rosso",
+          "description": "Una fonte di luce compatta"
         }
       },
       "wooden_wall_lantern_red": {
         "wooden_wall_lantern_fine_ghost": {
-          "display_name": "Wooden Wall Lantern - in Red",
-          "description": "Easily attached to walls"
+          "display_name": "Lanterna da parete in legno - in rosso",
+          "description": "Facilmente attaccabile alle pareti"
         }
       },
       "window_box_brightbell_fine": {
         "window_box_brightbell_fine_ghost": {
-          "display_name": "Fine Brightbell planter",
-          "description": "A cozy home for the plant."
+          "display_name": "Fioriera fine per Brighbell",
+          "description": "Una casa accogliente per la pianta."
         }
       },
       "window_box_frostsnap_fine": {
         "window_box_frostsnap_fine_ghost": {
-          "display_name": "Fine Frostsnap planter",
-          "description": "A cozy home for the plant."
+          "display_name": "Fioriera fine per Frostsnap",
+          "description": "Una casa accogliente per la pianta."
         }
       },
       "poyo_weathervane": {
         "poyo_weathervane_ghost": {
-          "display_name": "Poyo Weathervane",
-          "description": "A weathervane in the image of a friendly yardbird"
+          "display_name": "Banderuola di pollo",
+          "description": "Una banderuola a immagine di un simpatico uccellino"
         }
       },
       "ornate_wooden_garden_lantern": {
         "ornate_wooden_garden_lantern_ghost": {
-          "description": "A compact source of light, with a little bit of flair.",
-          "display_name": "Ornate Wooden Garden Lantern"
+          "description": "Una fonte di luce compatta, con un po' di fascino.",
+          "display_name": "Lanterna da giardino in legno decorato"
         }
       },
       "ornate_wooden_wall_lantern": {
         "ornate_wooden_wall_lantern_ghost": {
-          "description": "Easily attached to walls",
-          "display_name": "Ornate Wooden Wall Lantern"
+          "description": "Facilmente attaccabile alle pareti",
+          "display_name": "Lanterna da parete in legno decorato"
         }
       },
       "wet_stone": {
         "wet_stone_ghost": {
-          "display_name": "Wet Stone",
-          "description": "This stone has been blessed by the tears of Rayya!"
+          "display_name": "Pietra bagnata",
+          "description": "Questa pietra è stata benedetta dalle lacrime di Rayya!"
         }
       },
       "dry_stone": {
         "dry_stone_ghost": {
-          "description": "This stone has been blessed by the heat of Pal'Mum!",
-          "display_name": "Dry Stone"
+          "description": "Questa pietra è stata benedetta dal calore di Pal'Mum!",
+          "display_name": "Pietra  secca"
         }
       },
       "hearth_bunny": {
         "hearth_bunny_ghost": {
-          "display_name": "Hearth of Cheer",
-          "description": "Provides warmth, light, comfort, and random daily buffs"
+          "display_name": "Cuore di gioia",
+          "description": "Fornisce calore, luce, comfort e buff quotidiani a caso"
         }
       },
       "hearth_fountain": {
         "hearth_fountain_ghost": {
-          "display_name": "Hearth of Glory",
-          "description": "Provides warmth, light, comfort, and a chance to challenge waves of undead"
+          "display_name": "Cuore di gloria",
+          "description": "Offre calore, luce, comfort e la possibilità di sfidare ondate di non-morti"
         }
       },
       "hearth_stump": {
         "hearth_stump_ghost": {
-          "display_name": "Hearth of the Makers",
-          "description": "Provides warmth, light, comfort, and daily interest on owned gold"
+          "display_name": "Cuore dei costruttori",
+          "description": "Fornisce calore, luce, comfort e interesse quotidiano sull'oro di proprietà"
         }
       },
       "stall_progression": {
         "stall_progression_ghost": {
-          "display_name": "A Feast Stall",
-          "description": "Hearthlings can grab tasty food here!"
+          "display_name": "Una bancarella della festa",
+          "description": "i cittadini possono prendere cibo gustoso qui!"
         }
       },
       "chest_cheat": {
-        "display_name": "Cheat Chest - Debug Item",
-        "description": "This is a debug item with default cheating items."
+        "display_name": "Cestone - elementi da mettere a punto",
+        "description": "Si tratta di un cestone con gli elementi rotti predefiniti."
       },
       "dirt_stone": {
         "dirt_stone_ghost": {
-          "display_name": "Dirt Stone test",
-          "description": "This stone encases a magic ready to burst out!"
+          "display_name": "Test sulla pietra della terra",
+          "description": "Questa pietra racchiude una magia pronta a esplodere!"
         },
         "chimney_rock": {
           "chimney_rock_ghost": {
-            "display_name": "Chimney Rock Stone",
-            "description": "This stone encases a magic tower of stone ready to burst out!"
+            "display_name": "Roccia del camino",
+            "description": "Questa pietra racchiude una magica torre di pietra pronta a scoppiare!"
           }
         },
         "marking_stones": {
           "marking_stones_ghost": {
-            "display_name": "Marking Stones",
-            "description": "This stone encases a series of ancient stones ready to burst out!"
+            "display_name": "Marcatura di pietre",
+            "description": "Questa pietra racchiude una serie di pietre antiche pronte a scoppiare!"
           }
         },
         "rabbit": {
           "rabbit_ghost": {
-            "display_name": "Rabbit Stone",
-            "description": "This stone encases an ancient cuteness ready to burst out!"
+            "display_name": "Pietra di coniglio",
+            "description": "Questa pietra racchiude un'antica carineria pronta a scoppiare!"
           }
         }
       },
       "void_stone": {
         "void_stone_ghost": {
-          "display_name": "Void Stone",
-          "description": "This stone encases a magic that hungers for mass!"
+          "display_name": "Pietra vuota",
+          "description": "Questa pietra racchiude una magia che ha fame di massa!"
         }
       },
       "summon_stone": {
         "pond_01": {
           "pond_01_ghost": {
-            "display_name": "Pond Summon Stone",
-            "description": "This stone encases a cute little pond!"
+            "display_name": "Stagno evoca pietra",
+            "description": "Questa pietra racchiude un grazioso laghetto!"
           }
         },
         "cathedral_ruins": {
           "cathedral_ruins_ghost": {
-            "display_name": "Ruined Cathedral Summon Stone",
-            "description": "This stone encases an ancient ruin!"
+            "display_name": "Rovina della cattedrale in pietra evocata",
+            "description": "Questa pietra racchiude un'antica rovina!"
           }
         },
         "cave_01": {
           "cave_01_ghost": {
-            "display_name": "Cave Summon Stone",
-            "description": "This stone encases a cave that will cut into the ground!"
+            "display_name": "Grotta di evocazione di pietra",
+            "description": "Questa pietra racchiude una grotta che taglierà nel terreno!"
           }
         },
         "cave_02": {
           "cave_02_ghost": {
-            "display_name": "Cave Summon Stone",
-            "description": "This stone encases a cave that will cut into the ground!"
+            "display_name": "Grotta di evocazione di pietra",
+            "description": "Questa pietra racchiude una grotta che taglierà nel terreno!"
           }
         },
         "pond_02": {
           "pond_02_ghost": {
-            "display_name": "Pond Summon Stone",
-            "description": "This stone encases a cute little pond!"
+            "display_name": "Stagno evoca pietra",
+            "description": "Questa pietra racchiude un grazioso laghetto!"
           }
         },
         "pond_03": {
           "pond_03_ghost": {
-            "display_name": "Pond Summon Stone",
-            "description": "This stone encases a cute little pond!"
+            "display_name": "Stagno evoca pietra",
+            "description": "Questa pietra racchiude un grazioso laghetto!"
           }
         },
         "pond_04": {
           "pond_04_ghost": {
-            "display_name": "Pond Summon Stone",
-            "description": "This stone encases a cute little pond!"
+            "display_name": "Stagno evoca pietra",
+            "description": "Questa pietra racchiude un grazioso laghetto!"
           }
         }
       },
       "firepit_titan": {
         "firepit_titan_ghost": {
-          "display_name": "Corrupted Portal",
-          "description": "You can hear chittering from beyond the threshold..."
+          "display_name": "Portale corrotto",
+          "description": "Si possono sentire i rumori da oltre la soglia..."
         }
       },
       "cheat_military_chest": {
