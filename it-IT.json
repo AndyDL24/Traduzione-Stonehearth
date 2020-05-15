@@ -1384,7 +1384,7 @@
         "level_requirement_title": "Requisito di livello",
         "level_requirement_none": "Nessuno richiesto!",
         "level_requirement_needed": "Richiede un",
-        "level_requirement_level": "di livello",
+        "level_requirement_level": " di livello",
         "too_many_symbol": "molti",
         "requirements_unmet_general": "Requisiti non soddisfatti!",
         "queue_anyway": "Inserisci nella coda comunque",
@@ -2156,7 +2156,7 @@
       "select_game_story": {
         "title": "Scegli la tua avventura",
         "story_start": "Questa è la storia di...",
-        "kingdom_section_start": "... un coraggioso gruppo di cittadini di",
+        "kingdom_section_start": "...un coraggioso gruppo di cittadini di",
         "select_button": "?",
         "kingdom_picker_title": "Seleziona un regno",
         "biome_section_start": "Alla ricerca di nuove terre e avventure, hanno iniziato",
@@ -2186,7 +2186,7 @@
         "begin_button": "Seleziona elenco"
       },
       "select_roster": {
-        "reroll_citizens": "Rileva tutti i cittadini",
+        "reroll_citizens": "Rimescola i cittadini",
         "reembark_button": "Scegli salvataggio",
         "delete_crew": "Elimina",
         "delete_crew_confirm_title": "Elimina la squadra?",
@@ -2405,7 +2405,7 @@
           "description": "Metti in pausa o riprendi un tipo di lavoro."
         },
         "customization_lock": {
-          "description": " L'[str(customization)] verrà salvato durante il ripristino dei tratti e delle statistiche."
+          "description": "[str(customization)] verrà salvato durante il ripristino dei tratti e delle statistiche."
         },
         "customization_lock_all": {
           "description": "Fare clic per bloccare tutte le opzioni di nome e aspetto."
@@ -8914,7 +8914,7 @@
       },
       "opinionated": {
         "opinionated_trait": {
-          "display_name": "Presuntuopso",
+          "display_name": "Presuntuoso",
           "description": "[name(i18n_data.entity)] ha un'opinione su tutto e non è timido nel condividerlo."
         }
       },
@@ -12236,8 +12236,8 @@
         }
       },
       "chest_cheat": {
-        "display_name": "Cestone - elementi da mettere a punto",
-        "description": "Si tratta di un cestone con gli elementi rotti predefiniti."
+        "display_name": "Petto d'imbroglio - articolo di messa a punto",
+        "description": "Questo è un articolo di messa a punto con articoli di truffe d'inadempienza."
       },
       "dirt_stone": {
         "dirt_stone_ghost": {
@@ -12320,43 +12320,43 @@
         }
       },
       "cheat_military_chest": {
-        "display_name": "Cheat Military Chest - Debug Item",
-        "description": "Contains one of each best non-legendary weapon and armor, plus bandages and turrets."
+        "display_name": "Imbrogli il petto militare - l'articolo di messa a punto",
+        "description": "Contiene una di ogni miglior arma nonleggendaria e armatura, più bendaggi e torrette."
       },
       "stone_lantern_simple": {
         "stone_lantern_simple_ghost": {
-          "display_name": "Simple Stone Lantern",
-          "description": "Nothing fancy. Attach to any wall."
+          "display_name": "Lanterna di pietra semplice",
+          "description": "Niente di speciale. Attaccalo a qualsiasi muro."
         }
       },
       "stone_garden_lantern_simple": {
         "stone_garden_lantern_simple_ghost": {
-          "display_name": "Simple Stone Garden Lantern",
-          "description": "It has a classic handle...mostly for decoration."
+          "display_name": "Semplice lanterna da giardino in pietra",
+          "description": "Ha un manico classico... per lo più per la decorazione."
         }
       },
       "stone_torch": {
         "stone_torch_ghost": {
-          "display_name": "Stone Torch",
-          "description": "A wall-mounted torch with slowly burning oil."
+          "display_name": "Torcia di pietra",
+          "description": "Una torcia a parete con olio che brucia lentamente"
         }
       },
       "stone_candle_holder": {
         "stone_candle_holder_ghost": {
-          "display_name": "Stone Candle Holder",
-          "description": "Lighting from a simplier time."
+          "display_name": "Portacandele di pietra",
+          "description": "Illuminazione da un tempo più semplice."
         }
       },
       "candle_holder_floor_iron": {
         "candle_holder_floor_iron_ghost": {
-          "display_name": "Iron Floor Candle Holder",
-          "description": "This cold metal frame holds a warm source of light."
+          "display_name": "Portacandele per pavimento di ferro",
+          "description": "Questa fredda struttura in metallo contiene una calda fonte di luce."
         }
       },
       "window_box_stone_violet": {
         "window_box_stone_violet_ghost": {
-          "display_name": "Violet Planter",
-          "description": "A tidy home for some lovely flowers."
+          "display_name": "Fioriera viola",
+          "description": "Una casa ordinata per alcuni fiori deliziosi."
         }
       }
     },
@@ -12611,74 +12611,74 @@
       },
       "rotten_jerky": {
         "display_name": "Carne essiccata marcia",
-        "description": "Even jerky will rot eventually. It's true"
+        "description": "Anche la carne essiccata marcirà alla fine. È vero"
       },
       "mutton": {
-        "display_name": "Raw Mutton",
-        "description": "Raw meat from a sheep"
+        "display_name": "Pecora cruda",
+        "description": "Carne cruda di pecora"
       },
       "roast_mutton": {
         "roast_mutton": {
-          "display_name": "Rack of Roast Mutton",
-          "description": "Tenderly roasted to perfection"
+          "display_name": "Scaffale di carne di pecora arrosto",
+          "description": "Tenero arrostito alla perfezione"
         },
         "roast_mutton_serving": {
-          "display_name": "Roasted Mutton Rack"
+          "display_name": "Carré di carne di pecora arrosto"
         }
       },
       "donation_box": {
         "donation_box": {
-          "display_name": "Food Donation Box",
-          "description": "Craft to show generosity and piety"
+          "display_name": "Scatola per donazioni alimentari",
+          "description": "Artigianato per mostrare generosità e pietà"
         },
         "donation_box_serving": {
-          "display_name": "Donation box serving",
-          "description": "A piece of plenty"
+          "display_name": "Cassetta delle donazioni",
+          "description": "Un pezzo di abbondanza"
         }
       },
       "kibble": {
         "kibble": {
-          "display_name": "Kibble",
-          "description": "Attracts cats"
+          "display_name": "Crocchette",
+          "description": "Attira i gatti"
         }
       },
       "pork": {
-        "display_name": "Raw Pork",
-        "description": "Raw meat from a boar"
+        "display_name": "Maiale crudo",
+        "description": "Carne cruda di maiale"
       },
       "rotten_bug_meat": {
-        "description": "Bug meat goes bad just like other meat",
-        "display_name": "Rotten Bug Meat"
+        "description": "La carne di insetto va a male proprio come altra carne",
+        "display_name": "Carne di insetto marcia"
       },
       "roast_pork": {
         "roast_pork": {
-          "description": "Tenderly roasted to perfection",
-          "display_name": "Leg of Roast Pork"
+          "description": "Tenero arrostito alla perfezione",
+          "display_name": "Cosciotto di maiale arrosto"
         },
         "roast_pork_serving": {
-          "display_name": "Roast Pork Slice"
+          "display_name": "Fetta di maiale arrosto"
         }
       },
       "egg_large": {
-        "display_name": "Large Egg",
-        "description": "An eggciting ingredient for cooking."
+        "display_name": "Uovo grande",
+        "description": "Un ingrediente per la cottura."
       },
       "rotten_egg_large": {
-        "description": "Disgusting",
-        "display_name": "Large Rotten Egg"
+        "description": "Disgustoso",
+        "display_name": "Grande uovo marcio"
       },
       "varanus_meat": {
-        "display_name": "Varanus Meat",
-        "description": "Tastes more like Poyo than Poyo does."
+        "display_name": "Carne di varano",
+        "description": "Sa più di pollo che di pollo."
       },
       "rotten_varanus_meat": {
-        "description": "It actually smells better now",
-        "display_name": "Rotten Varanus Meat"
+        "description": "In realtà ora ha un odore migliore",
+        "display_name": "Carne marcia di varano"
       },
       "roast_varanus": {
         "roast_varanus": {
-          "description": "Tastily roasted to perfection",
-          "display_name": "Slab of Roast Varanus"
+          "description": "Gustosamente arrostito alla perfezione",
+          "display_name": "Pezzo di varano arrosto"
         },
         "roast_varanus_serving": {
           "display_name": "Serving of Roast Varanus"
