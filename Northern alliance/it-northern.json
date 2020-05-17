@@ -1,0 +1,934 @@
+{
+  "kingdom": {
+    "kingdom_name": "Alleanza del Nord",
+    "quote": "I miei padri hanno seguito le stelle per mille, mille ere.",
+    "long_description": "Coraggiosi e resistenti, gli uomini e le donne del nord vivono per la vista di una nuova alba su un territorio inesplorato. Armati di bussola e ascia, sono orgogliosi della loro tenace adattabilità.",
+    "post_selection_description": ", un clan di tenaci esploratori.",
+    "initial_town_name": "Viaggio [str(town_number)]"
+  },
+  "data": {
+    "northern_alliance_population": {
+      "display_name": "Alleanza del Nord"
+    },
+    "saved_objects": {
+      "building_templates_index": {
+        "template_tabs": {
+          "northern_alliance": {
+            "display_name": "Alleanza",
+            "categories": {
+              "outpost": "Modelli di esploratori",
+              "settlement": "Modelli di potere"
+            }
+          }
+        }
+      },
+      "building_templates": {
+        "pottery_studio": {
+          "display_name": "Studio di ceramica"
+        },
+        "weavers_hut": {
+          "display_name": "Capanna del tessitore"
+        }
+      }
+    },
+    "buffs": {
+      "valor_town_bonus_strength_buff": {
+        "display_name": "Spirito di Siv",
+        "description": "Statistica del corpo aumentata di 2."
+      }
+    },
+    "gm": {
+      "campaigns": {
+        "hunting": {
+          "wild_game": "Gioco selvaggio in vista!",
+          "hungry_caribou_raid": "Un branco di caribù è diretto verso le tue fattorie!",
+          "hungry_deer_raid": "Un pacco di cervi è diretto verso le tue fattorie!",
+          "hungry_racoon_raid": "Uno sguardo di procioni è diretto verso le tue fattorie!",
+          "hungry_rabbit_raid": "Una colonia di conigli è diretta verso le tue fattorie!"
+        },
+        "trader": {
+          "arcs": {
+            "encounters": {
+              "tier_1_shops": {
+                "food_shop": {
+                  "shop_info": {
+                    "name": "Assortimenti alimentari di Gyrd Reinhome",
+                    "title": "Il vagone alimentare di Gyrd Reinhome cammina in città"
+                  }
+                },
+                "woodcutter_shop": {
+                  "shop_info": {
+                    "name": "Negozio di taglialegna di Arglod Highlander",
+                    "title": "Arglod Highlander è arrivato con articoli da vendere"
+                  }
+                },
+                "stonecutter_shop": {
+                  "shop_info": {
+                    "name": "Arglod Highlander è arrivato con articoli da vendere",
+                    "title": "Bjaen Swiftstone è arrivato con articoli da vendere"
+                  }
+                },
+                "tannery_shop": {
+                  "shop_info": {
+                    "name": "Rifornimenti della conceria e della regione selvaggia di Gretin Flayer",
+                    "title": "Un robusto sopravvissuto si ferma con le sue merci"
+                  }
+                }
+              },
+              "tier_2_shops": {
+                "door_shop": {
+                  "shop_info": {
+                    "name": "Fornitura della porta di Nielkir Oakenvrus",
+                    "title": "Nielkir Oakenvrus è arrivato con porte in vendita"
+                  }
+                },
+                "container_shop": {
+                  "shop_info": {
+                    "name": "Il negozio di contenitori di Olfta Helmbog",
+                    "title": "Olfta Helmbog è arrivata con una carovana di contenitori"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "town_progression": {
+          "banner_upgrade": {
+            "title": "Avamposto Stabilito",
+            "dialog_title": "Avamposto Stabilito!",
+            "tier_title": "Avamposto",
+            "reward_message": "Con l'accordo unanime dei cittadini, dichiariamo:",
+            "reward_message_ctd": "di essere un avamposto che cerca di essere tutt'uno con l'ambiente."
+          },
+          "town_founding_explanation": {
+            "dialog_tree_info": {
+              "dialog_nodes": {
+                "read_letter3": {
+                  "bulletin_message": {
+                    "00": "La sua voce assume la cadenza di una parola recitante pronunciata mille volte prima. \"Valin ha creato la nostra Alleanza per condividere in abbondanza, adattarsi alle difficoltà e cercare l'orizzonte. L'Alleanza del Nord diventerà una cosa sola con i cicli e le stelle.\" <p>Inclina la testa in cerca di informazioni. \"Quale delle nostre filosofie il tuo avamposto aspira maggiormente a incarnare?\"</p>"
+                  },
+                  "bulletin_title": "Ronia Olarkson",
+                  "dialog_title": "Ronia Olarkson",
+                  "choice_000": "Cosa dovremmo scegliere..."
+                },
+                "open_letter": {
+                  "bulletin_message": {
+                    "00": "Una donna si trova ai margini del campo. Indossa un abito logoro di un esploratore della biblioteca. <br><br><p align='right'><font size=-6 color='#cccccc'>Nessuno l'ha vista arrivare, ma è chiaro che sta guardando da un po 'di tempo.</font></p>"
+                  },
+                  "bulletin_title": "Appare una figura",
+                  "dialog_title": "Un esploratore stoico",
+                  "choice_000": "Benvenuto, viaggiatore.",
+                  "choice_001": "[salta] Sappiamo quale stendardo vogliamo."
+                },
+                "read_letter": {
+                  "bulletin_message": {
+                    "00": "\"Ronia\" dice, indicando se stessa. La sua voce è strangolata. Come per spiegare, si toglie il colletto dalla gola, rivelando un casino di vecchie cicatrici. Fa un gesto al coltello. \"Io scout.\" Quindi picchietta la spilla a forma di stella sul mantello. \"Per la biblioteca di Valin.\""
+                  },
+                  "bulletin_title": "Ronia Olarkson",
+                  "dialog_title": "Ronia Olarkson",
+                  "choice_000": "Ah."
+                },
+                "read_letter2": {
+                  "bulletin_message": {
+                    "00": "Parla tanto con le mani e con gli occhi quanto con la voce: \"Sono contento che tu sia venuto a studiare e a sistemarti. Ora che so che sei qui, manderò i tuoi insegnamenti agli studenti a casa.\" <p>Si avvicina allo stendardo e tocca il suo centro vuoto. \"Per prima cosa, devi scegliere il tuo simbolo. Quale futuro hai previsto quando hai iniziato questo viaggio?\"</p>"
+                  },
+                  "bulletin_title": "La signora fa un gesto eloquente",
+                  "dialog_title": "La signora fa un gesto eloquente",
+                  "choice_000": "Stendardo... Hmm..."
+                }
+              }
+            }
+          },
+          "bird_departs": {
+            "dialog_tree_info": {
+              "dialog_nodes": {
+                "msg1": {
+                  "bulletin_message": {
+                    "00": "Ronia ora è in piedi vicino al fuoco. Ha scritto il nome della città e un breve resoconto dei suoi abitanti nella carne bianca di una rasatura di corteccia di betulla. Metodicamente, lo commette sulle fiamme, che bruciano più pallide per un momento. <p>\"[str(i18n_data.town_name)]\". \"Con la saggezza di Valin e sotto gli occhi attenti delle stelle sopra, sii impegnato nei registri di The Library.\"</p>"
+                  },
+                  "bulletin_title": "Ronia Rises",
+                  "dialog_title": "Il fuoco brilla",
+                  "choice_000": "Che funzioni?"
+                },
+                "msg2": {
+                  "bulletin_title": "Lei sorride solo con gli occhi",
+                  "dialog_title": "Lei sorride solo con gli occhi",
+                  "choice_000": "Viaggia sotto le stelle.",
+                  "bulletin_message": {
+                    "00": "\"Quelli che contano, sentiranno.\" Lei si inchina, e fa per svanire di nuovo nei bordi del deserto. \"Addio\", gesticolando. \"Tornerò per le tue storie.\""
+                  }
+                }
+              }
+            }
+          },
+          "town_founding_food_donation": {
+            "donation_dialog_info": {
+              "dialog_nodes": {
+                "simple_message": {
+                  "bulletin_message": {
+                    "00": "\"Grazie\", sussurra Ronia, e dal suo gesto, è chiaro che intende \"per la vostra ospitalità e presenza.\" <p>Mette un piccolo sacchetto accanto allo stendardo. Sul suo lato cè un emblema della grande città più vicina, alcuni giorni di distanza. \"Le nostre città sono stelle nella costellazione del nostro popolo,\" dice. \"Per te, da loro, in modo che un giorno, vi unirete a quei ranghi.\"</p><p>Il sacchetto contiene:</p>"
+                  },
+                  "bulletin_title": "Un dono",
+                  "dialog_title": "Ronia produce un piccolo sacchetto",
+                  "choice_000": "Delizioso!"
+                }
+              }
+            }
+          },
+          "hearth_foreshadow_dialog": {
+            "dialog_tree_info": {
+              "dialog_nodes": {
+                "msg4": {
+                  "bulletin_message": {
+                    "00": "\"Quale saggezza ha raccolto il tuo insediamento, che vuole trasmettere al resto del nostro popolo? Che la ricchezza dovrebbe essere condivisa? Che è possibile costruire bastioni che resistano forti al freddo? Che cacciamo, pur sapendo che a nostra volta possiamo diventare la preda?\"<br><br>Si inclina la testa. \"Attendo con ansia la tua saggezza. Nel frattempo… un regalo, per ricordarti della primavera.\" Mette un piccolo pacchetto vicino allo stendardo."
+                  },
+                  "bulletin_title": "Ronia gesticola ai cittadini",
+                  "dialog_title": "Ronia gesticola ai cittadini",
+                  "choice_000": "Semi di brightbell! Grazie!"
+                },
+                "msg2": {
+                  "bulletin_message": {
+                    "00": "Ronia fa un gesto al campo, sorridendo all'approvazione. \"Sono tornato per trasmettere le tue storie alla Biblioteca\", indica. Si siede accanto al fuoco, produce un'altra rasatura di betulla e aspetta."
+                  },
+                  "bulletin_title": "Ronia Olarkson",
+                  "dialog_title": "Ronia Olarkson",
+                  "choice_000": "Beh, visto che sei stato qui l'ultima volta..."
+                },
+                "msg3": {
+                  "bulletin_message": {
+                    "00": "Ronia nota meticolosamente le avventure di tutti in rune sulla corteccia di betulla e le commette nuovamente alle fiamme. \"Il tuo fiocco di luce sta crescendo. Presto, il tuo focolare attirerà gli altri e un giorno sarà anche una stella nella costellazione del nostro popolo.\""
+                  },
+                  "bulletin_title": "Ronia si alza",
+                  "dialog_title": "Ronia si alza",
+                  "choice_000": "È tempo?"
+                },
+                "msg1": {
+                  "bulletin_message": {
+                    "00": "Ronia appare di nuovo ai margini del campo. <br><br><p align='right'><font size=-6 color='#cccccc'>Da quanto tempo è rimasta lì a osservare?</font></p>"
+                  },
+                  "bulletin_title": "Ronia ritorna",
+                  "dialog_title": "Il filosofo Esploratore",
+                  "choice_000": "Tu ritorni!"
+                }
+              }
+            }
+          },
+          "hearth_choice_explanation": {
+            "dialog_tree_info": {
+              "dialog_nodes": {
+                "makers": {
+                  "bulletin_message": {
+                    "00": "\"La zona dei produttori è per coloro che credono che una casa sia un luogo di apprendimento e creazione e che le cose che costruiamo vengano scambiate al meglio in modo che tutti possano diventare saggi insieme\"."
+                  },
+                  "bulletin_title": "Imparare nel fare ",
+                  "dialog_title": "Imparare nel fare ",
+                  "choice_000": "Saggezza nella creazione."
+                },
+                "final": {
+                  "bulletin_message": {
+                    "00": "Ronia conclude: \"Salute, spirito e gloria, la scelta del tuo cammino illumina la strada a tutti coloro che ti seguono. Nella saggezza di Valin e sotto gli auspici di Firnn, Knut e Siv…\""
+                  },
+                  "bulletin_title": "Una scelta",
+                  "dialog_title": "Una scelta",
+                  "choice_000": "Noi scegliamo..."
+                },
+                "intro2": {
+                  "bulletin_message": {
+                    "00": "Tocca la sua spilla. \"La Biblioteca è contenta dei tuoi progressi.\" Si piega e tocca le pietre del tuo cuore. \"Ora è il momento di scegliere il faro che rappresenterà il vostro insediamento.\""
+                  },
+                  "bulletin_title": "Ronia Olarkson",
+                  "dialog_title": "Ronia Olarkson",
+                  "choice_000": "Come è tradizione."
+                },
+                "cheer": {
+                  "bulletin_message": {
+                    "00": "\"Valin insegna che una casa è un baluardo contro gli elementi; un luogo per trovare soccorso e amicizia. Il cuore dell'allegria riunisce tutti coloro che cercano di creare un calore che nessuna tormenta può dissipare.\""
+                  },
+                  "bulletin_title": "Calore al freddo ",
+                  "dialog_title": "Calore al freddo ",
+                  "choice_000": "Forza nell'unità."
+                },
+                "intro3": {
+                  "bulletin_message": {
+                    "00": "La sua voce prende una cadenza grave: \"Il Maestro Cid vide il cittadino come stelle terrene, illuminando la nostra conoscenza del mondo. Dal momento in cui abbiamo voltato le spalle alla Fenice, hanno bruciato per mostrare i cieli che conosciamo il nostro posto nel ciclo di Hearth.\" <br><br>Lei aspetta la risposta appropriata."
+                  },
+                  "bulletin_title": " Ronia Olarkson",
+                  "dialog_title": " Ronia Olarkson",
+                  "choice_000": "La saggezza ci guida."
+                },
+                "glory": {
+                  "bulletin_message": {
+                    "00": "\"Alla fine, i cittadini della gloria ci ricordano che per sopravvivere nei luoghi più remoti, dobbiamo affinare al massimo i nostri corpi e le nostre menti, perché qualsiasi cosa in meno deve cadere prematuramente nel freddo.\""
+                  },
+                  "bulletin_title": "La caccia è ovunque",
+                  "dialog_title": "La caccia è ovunque",
+                  "choice_000": "Resilienza in inverno."
+                },
+                "intro": {
+                  "bulletin_message": {
+                    "00": "Ronia appare ai margini del campo, sorridente, braccia distese a comprendere tutto ciò che è stato costruito dalla sua ultima apparizione. \"Le stelle benedicono i tuoi insegnamenti\", sussurra. \"Devo ascoltare i tuoi racconti?\""
+                  },
+                  "bulletin_title": "Ronia ritorna di nuovo",
+                  "dialog_title": "Più tempo per i racconti",
+                  "choice_000": "Sì grazie.",
+                  "choice_001": "[salta] Sappiamo quale cittadino vogliamo."
+                }
+              }
+            }
+          },
+          "hearth_upgrade": {
+            "title": "Stabilito insediamento",
+            "dialog_title": "Stabilito insediamento!",
+            "tier_title": "Insediamento",
+            "reward_message": "Con l'accordo unanime dei cittadini, dichiariamo:",
+            "reward_message_ctd": "di essere un insediamento per dimostrare che la sua ricchezza e artigianato non ha eguali."
+          },
+          "shrine_choice_explanation": {
+            "dialog_tree_info": {
+              "dialog_nodes": {
+                "clergy": {
+                  "bulletin_message": {
+                    "00": "Ronia si immerge nuovamente in una cadenza poetica: \"Firnn il cervo, dai cui zoccoli cadono i favori dell'estate: benedici questa città con la prosperità e la saggezza di vivere in armonia con i cicli della terra.\" <br><i>(Building a Font of Summer will grant all your townsfolk a +1 boost to the mind, body, and spirit attributes.)</i>"
+                  },
+                  "bulletin_title": "La fonte dell'estate",
+                  "dialog_title": "Il clero",
+                  "choice_000": "Di Firnn's Blessing."
+                },
+                "makers": {
+                  "bulletin_message": {
+                    "00": "Ronia continues: \"Knut the Swift, who turns the wheel of fortune: bless this town with a moment of great prosperity, and the foresight to store favor against the reversals to come. <br><i>(Costruire un Fonte dell'Estate darà a tutti i tuoi cittadini una spinta +1 agli attributi mente, corpo e spirito.) </i>"
+                  },
+                  "bulletin_title": "La fonte della fortuna",
+                  "dialog_title": "La fonte della fortuna",
+                  "choice_000": "Di Knut's Cunning."
+                },
+                "summary": {
+                  "bulletin_message": {
+                    "00": "\"Con la saggezza di Valin e la guida della Biblioteca, è il momento di chiedere il favore della costellazione che meglio riflette per voi, la filosofia che guida il nostro popolo.\" Produce tre rotoli, che distribuisce a coloro che si riuniscono intorno a lei. \"Crea con intelligenza e lascia che gli spiriti sentano la saggezza nelle tue azioni.\""
+                  },
+                  "bulletin_title": "Ronia conclude: ",
+                  "dialog_title": "Ronia conclude: ",
+                  "choice_000": "Grazie."
+                },
+                "military": {
+                  "bulletin_message": {
+                    "00": "Ronia finisce: \"E Siv il Lupo, il cui respiro vaporizza l'inverno gelido mentre insegue prede fugaci: benedici questa città con la resilienza, in modo che ci opponiamo al freddo nel nostro tempo di forza, e accettare il nostro ritorno alla terra quando quel tempo è finito.\"<br><i>(Costruire una Fonte di Fuoco ti garantirà ulteriore forza in combattimento e un +2 all'attributo corpo.)</i> "
+                  },
+                  "bulletin_title": "La fonte di fuoco",
+                  "dialog_title": "La fonte di fuoco",
+                  "choice_000": "Per grazia di Siv."
+                },
+                "intro": {
+                  "bulletin_message": {
+                    "00": "Ronia scuote affettuosamente la testa. \"Vi aspettavate che le stelle venissero a visitarvi sulla terra? Sono spiriti, non bestie. Sono le allegorie di Valin, affidate al cielo per non dimenticare i suoi insegnamenti.\""
+                  },
+                  "bulletin_title": "Ronia appare ancora una volta",
+                  "dialog_title": "Ronia ritorna da sola",
+                  "choice_000": "Ho sentito storie ..."
+                },
+                "intro2": {
+                  "bulletin_title": "Ronia guarda verso il cittadino",
+                  "dialog_title": "Ronia guarda verso il cittadino",
+                  "choice_000": "Ricordaci.",
+                  "choice_001": "[salta] Abbiamo già deciso.",
+                  "bulletin_message": {
+                    "00": "\"È tempo di creare un monumento, e chiedere le benedizioni del tuo spirito patrono. Allora registrerò il tuo insediamento come una stella nella costellazione dell'Alleanza del Nord, e le tue storie saranno al sicuro nella Biblioteca della nostra gente. Hai fatto la tua scelta?\""
+                  }
+                }
+              }
+            }
+          },
+          "unlock_shrine_recipes": {
+            "bulletin_title": "Ricette del santuario dei muratori sbloccate!"
+          },
+          "shrine_quest_valor": {
+            "title": "Missione cittadella: Fonte di Fuoco",
+            "dialog_title": "Missione cittadella: Fonte di Fuoco"
+          },
+          "shrine_quest_guildmaster": {
+            "title": "Missione cittadella: Fonte della Fortuna",
+            "dialog_title": "Missione cittadella: Fonte della Fortuna"
+          },
+          "shrine_quest_deity": {
+            "title": "Missione cittadella: Fonte dell'Estate",
+            "dialog_title": "Missione cittadella: Fonte dell'Estate"
+          },
+          "shrine_upgrade": {
+            "title": "Cittadella stabilita",
+            "dialog_title": "Cittadella raggiunta!",
+            "tier_title": "Cittadella",
+            "reward_message": "Per volontà degli spiriti, riconosciamo:",
+            "reward_message_ctd": "Per imparare i misteri del mondo. La città può beneficiare di:"
+          },
+          "shrine_upgrade_valor": {
+            "recipe_bulletins": {
+              "recipe_unlock_mason": "Nuove ricette di contenitori per il muratore!",
+              "recipe_unlock_weaver": "Nuova ricetta di pelle di lupo per il tessitore!"
+            },
+            "achievements": {
+              "001": "Ricette per contenitori in muratura",
+              "000": "Corpo +2",
+              "002": "Ricetta di pelle di lupo per il tessitore"
+            },
+            "reward_message_ctd": "Per atti di incredibile valore in combattimento. La città può beneficiare di:"
+          },
+          "shrine_upgrade_guildmaster": {
+            "recipe_bulletins": {
+              "recipe_unlock_blacksmith": "Nuove ricette di mobili per il fabbro!",
+              "recipe_unlock_mason": "Nuova ricetta della statua per il muratore!"
+            },
+            "achievements": {
+              "001": "Ricetta statua di lepre muratore",
+              "002": "Ricette per mobili da fabbro"
+            },
+            "reward_message_ctd": "Per imparare i misteri del mondo. La città può beneficiare di:"
+          },
+          "shrine_upgrade_deity": {
+            "recipe_bulletins": {
+              "recipe_unlock_mason": "Nuova ricetta per finestra per il muratore!",
+              "recipe_unlock_weaver": "Nuove ricette decorative per il tessitore!"
+            },
+            "achievements": {
+              "001": "Ricetta della cornice per finestre per il muratore",
+              "002": "Ricette della decorazione per il tessitore"
+            }
+          },
+          "valor_dialog_1": {
+            "dialog_tree_info": {
+              "dialog_nodes": {
+                "msg2": {
+                  "bulletin_message": {
+                    "00": "Ronia cade di fronte ad un cacciatore accovacciato e mette a nudo i suoi denti. Il lupo gli mostra le zanne. Poi entrambi alzano il mento, esponendo la gola. La mano di Ronia tocca il collare del lupo, e annusa una volta le cicatrici sul suo collo."
+                  },
+                  "bulletin_title": "Siv, Spirito della caccia",
+                  "dialog_title": "Siv, Spirito della caccia",
+                  "choice_000": "È... Siv?"
+                },
+                "msg3": {
+                  "bulletin_message": {
+                    "00": "Il lupo gira lentamente la testa e le persone che lo circondano si fermano, sorpassate da una visione: un lampo di vento in faccia mentre attraversano una pianura innevata, il profumo delle loro prede che le connettono come un filo. Ogni cacciatore mangerà stanotte o morirà, i loro corpi torneranno sulla terra. La semplicità di essa raddrizza ogni spina dorsale. Stasera, tutti conoscono il loro posto nel mondo. Un momento dopo, il lupo è andato."
+                  },
+                  "bulletin_title": "Siv, Spirito della caccia",
+                  "dialog_title": "Siv, Spirito della caccia",
+                  "choice_000": "Grazie Siv."
+                },
+                "msg1": {
+                  "bulletin_message": {
+                    "00": "Un ringhio basso satura l'aria intorno al fuoco. Attorno a due scintille del focolare si forma un lupo, bianco come l'inverno, salvo per i suoi brillanti occhi gialli."
+                  },
+                  "bulletin_title": "Un lupo di fuoco",
+                  "dialog_title": "Un lupo con gli occhi come braci",
+                  "choice_000": "Il tuo cuore batte forte."
+                }
+              }
+            }
+          },
+          "guild_dialog_1": {
+            "dialog_tree_info": {
+              "dialog_nodes": {
+                "msg2": {
+                  "bulletin_message": {
+                    "00": "Ronia si inginocchia davanti al coniglio e unisce le mani in modo che possa saltargli sopra. Lei cammina lentamente verso la celebrazione. Le orecchie del coniglio ruotano in ogni direzione, portando con sé i festeggiamenti."
+                  },
+                  "bulletin_title": "Knut, Spirito della Fortuna",
+                  "dialog_title": "Knut, Spirito della Fortuna",
+                  "choice_000": "È... Knut?"
+                },
+                "msg3": {
+                  "bulletin_message": {
+                    "00": "Il coniglio si gira per annusare in direzione del fuoco, e tra le braci appare una visione: una costellazione di città appostate su una mappa, e decine, centinaia, migliaia di storie raccolte delle loro conoscenze. Le visioni di merci finemente artigianali aleggiano attraverso il fumo, creando parentela tra coloro che hanno creato, e coloro che impareranno dai loro progressi e creare di nuovo. Poi la creatura salta dalle mani di Ronia, e nella folla."
+                  },
+                  "bulletin_title": "Knut, Spirito della Fortuna",
+                  "dialog_title": "Knut, Spirito della Fortuna",
+                  "choice_000": "Grazie a te, Knut."
+                },
+                "msg1": {
+                  "bulletin_message": {
+                    "00": "Al bordo del nuovo monumento, appare un coniglio. Indossa le ombre viola intorno ad esso come un mantello. Le sue orecchie sono il colore del cielo tra le stelle e i suoi occhi trafiggono come il sole sulla neve."
+                  },
+                  "bulletin_title": "Un coniglio inquietante",
+                  "dialog_title": "Un coniglio con la pelliccia come il cielo notturno",
+                  "choice_000": "Cresci ancora."
+                }
+              }
+            }
+          },
+          "deity_dialog_1": {
+            "dialog_tree_info": {
+              "dialog_nodes": {
+                "msg2": {
+                  "bulletin_message": {
+                    "00": "Ronia si avvicina al cervo con un inchino basso, così basso i suoi capelli raschia il terreno, e lo gesticola verso il cittadino. La musica sembra attirarla più vicino."
+                  },
+                  "bulletin_title": "Firnn, Spirito dell'estate",
+                  "dialog_title": "Firnn, Spirito dell'estate",
+                  "choice_000": "È per caso... Firnn?"
+                },
+                "msg3": {
+                  "bulletin_message": {
+                    "00": "Il cervo si trasforma, una luce lampeggia attraverso ogni persona in piedi nelle vicinanze. Ognuno sembra eccitato: più forte, saggio, coraggioso. Poi la creatura gira la testa dal fuoco, e sembra fondersi nell'aria, diventando uno con i festeggiamenti come la città è diventata un tutt'uno con l'Alleanza."
+                  },
+                  "bulletin_title": "Firnn, Spirito dell'estate",
+                  "dialog_title": "Firnn, Spirito dell'estate",
+                  "choice_000": "Grazie a te, Firnn."
+                },
+                "msg1": {
+                  "bulletin_message": {
+                    "00": "Ai margini della celebrazione, una creatura emerge dalle ombre. Sembra un cervo particolarmente fine, ma le sue corna brillano di cristallo al chiaro di luna, e le sue macchie brillano come piccole stelle. Una corona luminosa appare intorno al suo collo."
+                  },
+                  "bulletin_title": "Un cervo incandescente",
+                  "dialog_title": "Un cervo ornato di stelle",
+                  "choice_000": "Mi fissa"
+                }
+              }
+            }
+          },
+          "post_shrine_dialog": {
+            "dialog_tree_info": {
+              "dialog_nodes": {
+                "msg2": {
+                  "bulletin_message": {
+                    "00": "Ronia considera la fontana. \"Quali sono gli insegnamenti che seguirete? Gli altri monumenti starebbero bene accanto a questo, anche se non avranno il potere di chiamare le costellazioni.\" Sorride. \"La tua città ha tutto ciò di cui ha bisogno, no?\""
+                  },
+                  "bulletin_title": "Ronia Olarkson, Esploratore e saggio",
+                  "dialog_title": "Ronia Olarkson, Esploratore e saggio",
+                  "choice_000": "In effetti."
+                },
+                "msg3": {
+                  "bulletin_message": {
+                    "00": "Ronia le tocca il seno. \"Mi scaldi il cuore.\" Fa un passo indietro, e fa un gesto di addio onnicomprensivo. I suoi occhi brillano, un ricordo che gli scout di Valin viaggiano per sempre lontano dalla civiltà, in luoghi ancora più selvaggi e pericolosi di questi.<br><br>\"Come insegna Valin, ogni momento prezioso deve essere tenuto caro contro l'inevitabile cambiamento del tempo.\""
+                  },
+                  "bulletin_title": "Ronia Olarkson, Esploratore e saggio",
+                  "dialog_title": "Ronia Olarkson, Esploratore e saggio",
+                  "choice_000": "Addio, Ronia! Segui le stelle!"
+                },
+                "msg1": {
+                  "bulletin_message": {
+                    "00": "Ronia guarda mentre la festa tace. \"Ben fatto\", sussurra. \"La tua cittadella è ufficialmente entrata negli annali della Biblioteca, e che gli spiriti ti assecondano.\""
+                  },
+                  "bulletin_title": "Ronia fa per lasciare",
+                  "dialog_title": "Ronia Olarkson, Esploratore e saggio",
+                  "choice_000": "Le benedizioni di Valin."
+                }
+              }
+            }
+          },
+          "reembark_dialog": {
+            "dialog_tree_info": {
+              "dialog_nodes": {
+                "msg1": {
+                  "bulletin_message": {
+                    "00": "Quando Ronia appare per l'ultima volta, è con una bandiera d'oro in mano. È un gemello di quello che questa città ha intrapreso, così tanto tempo fa. Lei inclina la testa con un sorriso e gesti all'orizzonte. Non ha bisogno di parlare. </p><p><font size=-1><i>Il reimbarco ti consente di trasportare fino a 3 cittadini, 10 oggetti e tutte le tue ricette sbloccate quando inizi una nuova città</i></font></p>"
+                  },
+                  "bulletin_title": "Ronia, un'altra volta",
+                  "dialog_title": "Un'ultima cosa",
+                  "choice_000": "Eccitante!"
+                }
+              }
+            }
+          },
+          "shrine_choice": {
+            "guildmaster": {
+              "description": "<i>Questa città sarà conosciuta per i suoi mestieri intraprendenti, raffinati dai materiali vicini.</i><ul><li>Permette di creare oggetti di qualità capolavoro</li></ul>"
+            },
+            "deity": {
+              "description": "<i>Questa città condividerà la generosità della terra con coloro che soffrono ancora l'inverno.</i><ul><li>Benedice tutti i cittadini con +1 a Mente, Corpo e Spirito</li></ul>"
+            },
+            "valor": {
+              "description": "<i>Questa città sarà conosciuta dai nemici che ha sconfitto e resisterà a coloro che avrebbero estinto la sua fiamma. </i><ul><li>Benedice tutti i cittadini con un +2 a Corpo</li></ul>"
+            }
+          },
+          "shrine_foreshadow_dialog": {
+            "dialog_tree_info": {
+              "dialog_nodes": {
+                "msg1": {
+                  "bulletin_title": "Ronia si materializza",
+                  "dialog_title": "Gli esploratori sono seriamente silenziosi!",
+                  "choice_000": "È bello vederti di nuovo.",
+                  "bulletin_message": {
+                    "00": " Lei offre un piccolo sorriso mentre lei inclina la sua testa. \"Sorpreso?\" la sua espressione sembra dire. Due dita di una mano mimano una persona in punta di piedi attraverso l'erba. Il suo mantello blu sembra assumere il colore del cielo intorno a lei."
+                  }
+                },
+                "msg2": {
+                  "bulletin_title": "Ronia ammira la città ",
+                  "dialog_title": "Ronia ammira la città ",
+                  "choice_000": "Siamo cresciuti molto da quando...",
+                  "bulletin_message": {
+                    "00": "Fa cenni alle nuove aggiunte alla città e annuisce in approvazione. Il suo mantello è scagliato indietro, ed è chiaro le cicatrici si estendono intorno al collo a forma di mascella di un lupo. Oggi, sembrano un po' infiammato. <br><br>Si deposita vicino al fuoco e produce nuovamente la corteccia di betulla e la matita di carbone. Con un cenno, invita quelli intorno a lei a raccontare le loro recenti avventure. "
+                  }
+                },
+                "msg3": {
+                  "bulletin_title": "Scrive Ronia",
+                  "dialog_title": "Scrive Ronia",
+                  "choice_000": "Le bestie allegoriche di Valin?",
+                  "bulletin_message": {
+                    "00": "Mentre Ronia registra i racconti e li getta nel fuoco, diventa premurosa. Alla fine, annuisce a se stessa, e produce, dal suo marsupio, tre pietre lisce.<br><br>Ognuno porta un marchio graffiato familiare: Uno è la costellazione di Firnn il Cervo, spesso associato con generosità, e l'estate. Uno è la costellazione di Siv il Lupo, che assicura ogni caccia contribuisce al ciclo del mondo. L'ultima è la piccola tre stelle di Knut il Coniglio, che gira la ruota della fortuna. "
+                  }
+                },
+                "msg4": {
+                  "bulletin_title": "Ronia si inginocchia",
+                  "dialog_title": "Ronia si inginocchia",
+                  "choice_000": "Saremo pronti",
+                  "bulletin_message": {
+                    "00": "Mentre lo fa, posiziona le pietre accanto al fuoco e china la testa in preghiera. \"È ora\", sussurra. \"Al prossimo ritorno, porterò gli spiriti e creeremo il monumento per chiedere la loro benedizione.\""
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "entities": {
+    "gizmos": {
+      "na_camp_standard": {
+        "na_camp_standard_ghost": {
+          "display_name": "Campo standard",
+          "description": "Come sai di essere tornato a casa"
+        }
+      },
+      "na_town_banner_guardian": {
+        "na_town_banner_guardian_ghost": {
+          "display_name": "Stendardo dell'Astuzia",
+          "description": "Come sai che sei tornato a casa.",
+          "town_bonus_description": "<i>Questo insediamento sarà un vivace centro commerciale.</i><ul><li>Le strade danno 3 volte in più in velocità</li><li>I tuoi articoli vendono per il 50% in più</li><li>I commercianti porteranno il doppio della merce e dell'oro</li></ul>"
+        },
+        "na_town_banner_guardian_token": {
+          "display_name": "Brandello dello stendardo dell'astuzia",
+          "description": "Un brandello dello Stendardo dell'astuzia, portando con sé la sua benedizione."
+        }
+      },
+      "na_town_banner_might": {
+        "na_town_banner_might_ghost": {
+          "display_name": "Stendardo della Forza",
+          "description": "Come sai che sei tornato a casa",
+          "town_bonus_description": "<i>Questo insediamento diventerà forte attraverso terra e acciaio.</i><ul><li>L'estrazione mineraria fornisce il 50% in più di minerale metallifero, pietra e argilla</li><li>I cittadini non si occupano più di spazi angusti </li></ul>"
+        },
+        "na_town_banner_might_token": {
+          "display_name": "Brandello dello Stendardo della Forza",
+          "description": "Un brandello dello Stendardo della Forza, portando con sé la sua benedizione."
+        }
+      },
+      "na_town_banner_nature": {
+        "na_town_banner_nature_ghost": {
+          "display_name": "Stendardo della vitalità",
+          "description": "Come sai che sei tornato a casa",
+          "town_bonus_description": "<i>Questo insediamento deve essere un tutt'uno con l'ambiente.</i><ul><li>Gli alberi producono il 25% in più di legno</li><li>Le piante e le colture crescono entrambe del 25% più velocemente</li><li>Le piante hanno il doppio della loro attrazione normale</li></ul>"
+        },
+        "na_town_banner_nature_token": {
+          "display_name": "Brandello dello stendardo della vitalità",
+          "description": "Un brandello dello Stendardo della Vitalità, portando con sé la sua benedizione."
+        }
+      }
+    },
+    "decoration": {
+      "hearth_wolf": {
+        "hearth_wolf": {
+          "display_name": "Focolare dei produttori",
+          "description": "Prova che i tuoi artigiani hanno imparato la terra e hanno prodotto beni degni di essere inviati nel vasto sconosciuto"
+        }
+      },
+      "hearth_magma": {
+        "hearth_magma": {
+          "display_name": "Focolare della gloria",
+          "description": "Prova che hai la forza militare e che sei pronto a incontrare tutti i visitatori."
+        }
+      },
+      "hearth_ice": {
+        "hearth_ice": {
+          "display_name": "Focolare dell'allegria",
+          "description": "Fornisce calore, luce, comfort e buff giornalieri casuali"
+        }
+      },
+      "shrine_wolf": {
+        "shrine_wolf": {
+          "display_name": "Fontana del fuoco",
+          "description": "Realizzato per onorare Siv, lo spirito della caccia"
+        }
+      },
+      "shrine_stag": {
+        "shrine_stag": {
+          "display_name": "Fontana dell'estate",
+          "description": "Realizzato per onorare Firnn, spirito della terra"
+        }
+      },
+      "shrine_hare": {
+        "shrine_hare": {
+          "display_name": "Fontana della fortuna",
+          "description": "Realizzato per onorare Knut, lo spirito del tornio"
+        }
+      },
+      "banner_wall_small_stag": {
+        "banner_wall_small_stag_ghost": {
+          "display_name": "Stendardo del piccolo cervo",
+          "description": "Mostra la tua devozione a Firnn con questo stendardo."
+        }
+      },
+      "banner_wall_big_stag": {
+        "banner_wall_big_stag_ghost": {
+          "display_name": "Stendardo del cervo lungo",
+          "description": "Mostra la tua devozione a Firnn con questo stendardo."
+        }
+      },
+      "window_box_stone_snow_poppy": {
+        "window_box_stone_snow_poppy_ghost": {
+          "display_name": "Fioriera papavero della neve",
+          "description": "Una casa ordinata per alcuni fiori deliziosi."
+        }
+      },
+      "rug_moss": {
+        "rug_moss_ghost": {
+          "display_name": "Tappeto di muschio",
+          "description": "Realizzato in materiale vegetale in onore di Firnn."
+        }
+      },
+      "wall_mounted_candle": {
+        "wall_mounted_candle_ghost": {
+          "display_name": "Decorazione di candele d'oro",
+          "description": "Una decorazione in riconoscimento della gloria di Knut."
+        }
+      },
+      "rug_pelt_wolf": {
+        "rug_pelt_wolf_ghost": {
+          "display_name": "Tappeto di pelle di lupo",
+          "description": "In onore di Siv, nulla viene sprecato da un'uccisione."
+        }
+      },
+      "wall_mounted_paw": {
+        "wall_mounted_paw_ghost": {
+          "display_name": "Zampa di Siv",
+          "description": "Marchio del cacciatore, mai visto o sentito.. fino al suo troppo tardi."
+        }
+      },
+      "wall_mounted_antlers": {
+        "wall_mounted_antlers_ghost": {
+          "display_name": "Apparecchio a parete a ramificazione",
+          "description": "La famiglia dei Firnn benedice le nostre sale con le loro corna."
+        }
+      },
+      "statue_hare": {
+        "statue_hare_ghost": {
+          "display_name": "Statua di Knut",
+          "description": "Somiglianza di Knut, come raccontato nelle storie di vecchi."
+        }
+      },
+      "window_box_stone_violet": {
+        "window_box_stone_violet_ghost": {
+          "display_name": "Fioriera viola",
+          "description": "Una casa ordinata per alcuni fiori deliziosi."
+        }
+      }
+    },
+    "npc": {
+      "herald": {
+        "female": {
+          "herald_siv": {
+            "display_name": "Siv",
+            "description": "Spirito della caccia"
+          },
+          "herald_ronia": {
+            "display_name": "Ronia Olarkson",
+            "description": "Uno esploratore della biblioteca"
+          }
+        },
+        "male": {
+          "herald_knut": {
+            "display_name": "Knut",
+            "description": "Spirito della tornio"
+          },
+          "herald_firnn": {
+            "display_name": "Firnn",
+            "description": "Spirito del bosco"
+          }
+        }
+      }
+    },
+    "furniture": {
+      "chair_golden": {
+        "chair_golden_ghost": {
+          "display_name": "Sedia d'oro",
+          "description": "Un trono che si addice a Knut, ma che condivideranno con gli altri."
+        }
+      },
+      "table_stone_gold": {
+        "table_stone_gold_ghost": {
+          "display_name": "Tavolo in pietra placcata oro",
+          "description": "Un tavolo di cui Knut sarebbe orgoglioso di mangiare."
+        }
+      }
+    },
+    "container": {
+      "input_shelf_wall_stone_gold": {
+        "input_shelf_wall_stone_gold_ghost": {
+          "display_name": "Scaffale dorato da parete",
+          "description": "Una serie di scaffali che si addicono alla gloria di Knut."
+        }
+      },
+      "input_bin_stone_wolf": {
+        "input_bin_stone_wolf_ghost": {
+          "display_name": "Ciotola di pietra di Siv",
+          "description": "Un contenitore di approvvigionamento, poiché Siv fornisce le nostre pance."
+        }
+      },
+      "output_box_stone_wolf": {
+        "output_box_stone_wolf_ghost": {
+          "display_name": "Mensole da lavoro di Siv",
+          "description": "Un ripiano temporaneo, mentre Siv si prepara alla caccia."
+        }
+      },
+      "chest_stone_wolf": {
+        "chest_stone_wolf_ghost": {
+          "display_name": "Cassa di pietra di Siv",
+          "description": "Memorizza fino a 128 articoli, poiché Siv raccoglie risorse per il lungo inverno."
+        }
+      }
+    },
+    "weapons": {
+      "spear_horn": {
+        "spear_horn_iconic": {
+          "display_name": "Corno di lancia",
+          "description": "Imbuta chi lo indossa con il potere curativo di Firnn, permettendo loro di superare più rapidamente le loro ferite."
+        }
+      }
+    },
+    "armor": {
+      "shield_hare": {
+        "display_name": "Scudo per capelli di coniglio",
+        "description": "Impregna chi lo indossa del potere curativo di Knut, permettendogli di stare meglio in battaglia."
+      },
+      "helmet_wolf": {
+        "helmet_wolf_iconic": {
+          "display_name": "Elmo di lupo",
+          "description": "Realizzato con la benedizione di Siv, per proteggere la nostra comunità."
+        },
+        "display_name": "Elmo di lupo",
+        "description": "Impregna chi lo indossa del potere curativo di Siv, permettendo loro di dormire meno."
+      }
+    }
+  },
+  "jobs": {
+    "mason": {
+      "recipes": {
+        "shrine_stag": {
+          "recipe_name": "Fontana dell'estate",
+          "description": "Realizzato per onorare Firnn, spirito del legno"
+        },
+        "shrine_hare": {
+          "description": "Realizzato per onorare Knut, spirito del tornio",
+          "recipe_name": "Fontana della fortuna"
+        },
+        "shrine_wolf": {
+          "description": "Realizzato per onorare Siv, lo spirito della caccia",
+          "recipe_name": "Fontana del fuoco"
+        },
+        "crude_weaver_spindle_recipe": {
+          "recipe_name": "Mandrino grezzo"
+        },
+        "stone_sword_recipe": {
+          "recipe_name": "Spada da allenamento in pietra"
+        },
+        "window_box_stone_snow_poppy_recipe": {
+          "description": "Una fioriera piena di fiori di papavero di neve, costruita per essere posizionata sotto i telai delle finestre.",
+          "recipe_name": "Scatola della finestra del papavero di neve",
+          "flavor": "Una buia mattinata artica si fa sempre più luminosa con un papavero."
+        },
+        "statue_hare": {
+          "description": "Realizzato per onorare Knut, spirito del tornio.",
+          "recipe_name": "Statua di Knut"
+        },
+        "chair_golden": {
+          "description": "Un trono che si addice a Knut, ma che condivideranno con gli altri.",
+          "recipe_name": "Sedia d'oro"
+        },
+        "wall_mounted_antlers_recipe": {
+          "description": "La famiglia dei Firnn benedice le nostre sale con le loro corna.",
+          "recipe_name": "Apparecchio da parete a ramificazione"
+        },
+        "wall_mounted_paw_recipe": {
+          "description": "Marchio del cacciatore, mai visto o sentito.. fino al suo troppo tardi.",
+          "recipe_name": "Zampa di Siv"
+        },
+        "output_box_stone_wolf_recipe": {
+          "description": "Un ripiano temporaneo, mentre Siv si prepara alla caccia.",
+          "recipe_name": "Mensole da lavoro di Siv"
+        },
+        "input_bin_stone_wolf_recipe": {
+          "description": "Un contenitore di approvvigionamento, poiché Siv fornisce le nostre pance.",
+          "recipe_name": "Ciotola di pietra di Siv"
+        },
+        "chest_stone_wolf_recipe": {
+          "description": "Memorizza fino a 128 articoli, poiché Siv raccoglie risorse per il lungo inverno.",
+          "recipe_name": "Cassa di pietra di Siv"
+        }
+      }
+    },
+    "weaver": {
+      "recipes": {
+        "banner_wall_big_stag_recipe": {
+          "description": "Mostra la tua devozione a Firnn con questo stendardo.",
+          "recipe_name": "Stendardo del cervo lungo",
+          "flavor": "Anche un segno di un amante della natura."
+        },
+        "banner_wall_small_stag_recipe": {
+          "description": "Mostra la tua devozione a Firnn con questo stendardo.",
+          "recipe_name": "Stendardo del cervo corto",
+          "flavor": "Anche un segno di un amante della natura."
+        },
+        "rug_moss_recipe": {
+          "description": "Realizzato in materiale vegetale in onore di Firnn.",
+          "recipe_name": "Tappeto di muschio"
+        },
+        "rug_pelt_wolf_recipe": {
+          "description": "In onore di Siv, nulla viene sprecato da un'uccisione.",
+          "recipe_name": "Tappeto di pelle di lupo"
+        },
+        "spear_horn_recipe": {
+          "description": "Impregna chi lo indossa del potere curativo di Firnn, permettendo loro di superare più rapidamente le ferite.",
+          "recipe_name": "Corno di lancia",
+          "flavor": "Realizzato con la benedizione di Firnn, per proteggere la nostra comunità."
+        },
+        "helmet_wolf_recipe": {
+          "description": "Impregna chi lo indossa del potere curativo di Siv, permettendo loro di dormire meno.",
+          "recipe_name": "Elmo di lupo",
+          "flavor": "Realizzato con la benedizione di Siv, per proteggere la nostra comunità."
+        },
+        "shield_hare_recipe": {
+          "description": "Impregna chi lo indossa del potere curativo di Knut, permettendogli di stare meglio in battaglia.",
+          "recipe_name": "Scudo per capelli di coniglio",
+          "flavor": "Realizzato con la benedizione di Knut, per proteggere la nostra comunità."
+        }
+      }
+    },
+    "blacksmith": {
+      "recipes": {
+        "chair_golden": {
+          "description": "Un trono che si addice a Knut, ma che condivideranno con gli altri.",
+          "recipe_name": "Sedia d'oro"
+        },
+        "input_shelf_wall_stone_gold": {
+          "description": "Un contenitore tanto bello quanto utile.",
+          "recipe_name": "Scaffale dorato da parete"
+        },
+        "table_stone_gold": {
+          "description": "Un tavolo di cui Knut sarebbe orgoglioso di mangiare.",
+          "recipe_name": "Tavolo in pietra placcata oro"
+        },
+        "wall_mounted_candle": {
+          "description": "Una decorazione in riconoscimento della gloria di Knut.",
+          "recipe_name": "Decorazione di candele d'oro"
+        }
+      }
+    }
+  },
+  "loadouts": {
+    "hunting_party": {
+      "display_name": "Festa di caccia",
+      "description": "La terra è piena di animali. Animali gustosi e gustosi. Gli arcieri possono cacciarli e il cuoco può trasformarli in deliziosi bocconcini.",
+      "tooltip": "La caccia è una fonte di cibo meno affidabile, ma gli arcieri possono fare il doppio dovere come guardie cittadine."
+    }
+  },
+  "kingdoms": {
+    "northern_alliance": "Alleanza del Nord"
+  }
+}
