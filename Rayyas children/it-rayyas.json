@@ -42,7 +42,7 @@
         },
         "pot_oil_earthen_recipe": {
           "description": "Piccolo vaso di terra con piccolo fuoco di accompagnamento",
-          "recipe_name": "Vaso di petrolio di terracotta"
+          "recipe_name": "Vaso di petrolio in terracotta color terra"
         },
         "pot_oil_green_recipe": {
           "description": "Piccolo vaso verde con piccolo fuoco di accompagnamento",
@@ -652,10 +652,10 @@
             "reward_message_ctd": "essere un avamposto che spiana le strade per diventare un centro commerciale."
           },
           "banner_upgrade_strength": {
-            "reward_message_ctd": "to be an outpost on its way to be a safe haven for all."
+            "reward_message_ctd": "essere un avamposto sulla strada per essere un rifugio sicuro per tutti."
           },
           "banner_upgrade_vitality": {
-            "reward_message_ctd": "essere un avamposto sulla strada per essere un rifugio sicuro per tutti."
+            "reward_message_ctd": "essere un avamposto che mira a rilanciare la natura circostante."
           },
           "bird_departs": {
             "dialog_tree_info": {
@@ -1097,11 +1097,11 @@
                       "dialog_nodes": {
                         "msg1": {
                           "bulletin_message": {
-                            "00": "Monkey keep you, friend! Now that our existing contract is resolved, we'd like to remind you that the Iskender Trading Company is always open for repeat business!<p>In fact, since this collaboration went so well, if you'd like to establish another town, we'd be happy to sponsor a larger caravan that can carry a few of your citizens from here, as well as some extra goods and records. Just let us know when you're ready!</p><p><font size=-1><i>Re-embarking allows you to carry over up to 3 citizens, 10 items, and all your unlocked recipes when starting a new town.</i></font></p>"
+                            "00": "La scimmia ti tiene amico! Ora che il nostro contratto esistente è stato risolto, vorremmo ricordarvi che la società commerciale Iskender è sempre aperta per attività ripetute!<p>In effetti, poiché questa collaborazione è andata molto bene, se si desidera stabilire un'altra città, saremo felici di sponsorizzare una roulotte più grande che può trasportare alcuni dei tuoi cittadini da qui, oltre ad alcuni beni e documenti extra. Fateci sapere quando siete pronti!</p><p><font size=-1><i>Il reimbarco consente di trasportare fino a 3 cittadini, 10 oggetti e tutte le ricette sbloccate all'avvio una nuova città.</i></font></p>"
                           },
-                          "bulletin_title": "It's Naryal Again!",
-                          "dialog_title": "One Last Thing",
-                          "choice_000": "Good to know!"
+                          "bulletin_title": "È di nuovo Naryal!",
+                          "dialog_title": "Un'ultima cosa",
+                          "choice_000": "Buono a sapersi!"
                         }
                       }
                     }
@@ -1119,47 +1119,47 @@
           "rayyas_children": {
             "display_name": "Rayya's",
             "categories": {
-              "outpost": "Outpost Templates",
-              "settlement": "Settlement Templates"
+              "outpost": "Modelli di avamposto",
+              "settlement": "Modelli di regolamento"
             }
           }
         }
       },
       "building_templates": {
         "pottery_studio": {
-          "display_name": "Pottery Studio"
+          "display_name": "Studio di ceramica"
         },
         "weavers_hut": {
-          "display_name": "Weaver's Hut"
+          "display_name": "Capanna del tessitore"
         },
         "communal_kitchen": {
-          "display_name": "Communal Kitchen"
+          "display_name": "Cucina comune"
         },
         "masons_workshop": {
-          "display_name": "Mason's Workshop"
+          "display_name": "Bottega del muratore"
         },
         "tier2": {
           "desert_lodge": {
-            "display_name": "Desert Lodge"
+            "display_name": "Casetta del deserto"
           },
           "little_red_hut": {
-            "display_name": "Little Red Hut"
+            "display_name": "Piccola capanna rossa"
           },
           "rayyas_shadow": {
-            "display_name": "Rayya's Shadow"
+            "display_name": "L'ombra di Rayya"
           },
           "red_clay_homes": {
-            "display_name": "Red Clay Homes"
+            "display_name": "Case di argilla rossa"
           },
           "engineers_workshop": {
-            "display_name": "Engineer's Workshop"
+            "display_name": "Bottega dell'ingegnere"
           }
         },
         "blacksmiths_workshop": {
-          "display_name": "The Forge"
+          "display_name": "La fucina"
         },
         "herbalists_workshop": {
-          "display_name": "Herbalist's Workshop"
+          "display_name": "Bottega dell'erborista"
         }
       }
     }
@@ -1168,328 +1168,328 @@
     "gizmos": {
       "rc_camp_standard": {
         "rc_camp_standard_ghost": {
-          "display_name": "Camp Banner",
-          "description": "How you know you've come home"
+          "display_name": "Stendardo del campo",
+          "description": "Come sai di essere tornato a casa"
         }
       },
       "rc_town_banner_guardian": {
         "rc_town_banner_guardian_ghost": {
-          "display_name": "Banner of Cunning",
-          "description": "How you know you've come home"
+          "display_name": "Stendardo di astuzia",
+          "description": "Come sai di essere tornato a casa"
         },
         "rc_town_banner_guardian_token_iconic": {
-          "display_name": "Banner of Cunning Shred",
-          "description": "A shred from the Banner of Cunning, carrying along its blessing."
+          "display_name": "Stendardo di brandello astuto",
+          "description": "Un brandello dello Stendardo dell'astuzia, portando con sé la sua benedizione."
         }
       },
       "rc_town_banner_nature": {
         "rc_town_banner_nature_ghost": {
-          "display_name": "Banner of Vitality",
-          "description": "How you know you've come home"
+          "display_name": "Stendardo della vitalità",
+          "description": "Come sai di essere tornato a casa"
         },
         "rc_town_banner_nature_token_iconic": {
-          "display_name": "Banner of Vitality Shred",
-          "description": "A shred from the Banner of Vitality, carrying along its blessing."
+          "display_name": "Stendardo della vitalità distrutto",
+          "description": "Un brandello dello Stendardo della Vitalità, portando con sé la sua benedizione."
         }
       },
       "rc_town_banner_might": {
         "rc_town_banner_might_ghost": {
-          "display_name": "Banner of Strength",
-          "description": "How you know you've come home"
+          "display_name": "Stendardo della Forza",
+          "description": "Come sai di essere tornato a casa"
         },
         "rc_town_banner_might_token_iconic": {
-          "display_name": "Banner of Strength Shred",
-          "description": "A shred from the Banner of Strength, carrying along its blessing."
+          "display_name": "Stendardo della distruzione",
+          "description": "Un brandello dello Stendardo della Forza, portando con sé la sua benedizione."
         }
       }
     },
     "decoration": {
       "monkey_shrine_monument": {
         "monkey_shrine_monument_ghost": {
-          "display_name": "Her Mystery's Shrine",
-          "description": "Place to pay tribute to Monkey and Her Mystery"
+          "display_name": "Il santuario del mistero",
+          "description": "Luogo in cui rendere omaggio alla scimmia e al mistero"
         },
         "chest": {
           "chest_ghost": {
-            "display_name": "Clay Chest of Monkey",
-            "description": "A place to store tribute of Monkey and Her Mystery"
+            "display_name": "Cassa di argilla di scimmia",
+            "description": "Un posto dove riporre l'omaggio di scimmia e mistero"
           }
         },
         "monkey": {
           "monkey_ghost": {
-            "display_name": "Clay Monkey Statue",
-            "description": "A tribute to Monkey and her many helpers."
+            "display_name": "Statua di scimmia di argilla",
+            "description": "Un omaggio alla scimmia e ai suoi numerosi aiutanti."
           }
         },
         "key": {
           "key_ghost": {
-            "display_name": "Monkey Shrine Key",
-            "description": "A wall ornament that reminds us of Monkey"
+            "display_name": "Chiave del santuario delle scimmie",
+            "description": "Un ornamento da parete che ricorda la scimmia"
           }
         },
         "lamp_gold": {
           "lamp_gold_ghost": {
-            "display_name": "Golden Oil Lamp",
-            "description": "Its flame brings a warm glow at night."
+            "display_name": "Lampada a olio dorata",
+            "description": "La sua fiamma porta un caldo bagliore di notte."
           }
         },
         "lamp_wall_gold": {
           "lamp_wall_gold_ghost": {
-            "display_name": "Golden Oil Wall Lamp",
-            "description": "Its flame brings a warm glow at night."
+            "display_name": "Lampada da parete a olio dorata",
+            "description": "Lampada da parete a olio dorata"
           }
         },
         "window_tall_latticed": {
           "window_tall_latticed_ghost": {
-            "display_name": "Tall Gold-Latticed Window",
-            "description": "The lattice work stops most of the hot sun, and looks pretty too!"
+            "display_name": "Alta finestra reticolare dorata",
+            "description": "Il lavoro reticolare blocca gran parte del sole caldo e sembra anche molto bello!"
           }
         },
         "door_clay_latticed": {
           "door_clay_latticed_ghost": {
-            "display_name": "Gold-Latticed Door",
-            "description": "The lattice work stops most of the hot sun, and looks pretty too!"
+            "display_name": "Porta reticolare dorata",
+            "description": "Il lavoro reticolare blocca gran parte del sole caldo e sembra anche molto bello!"
           }
         },
         "teapot": {
           "teapot_ghost": {
-            "display_name": "Finely Crafted Tea Set",
-            "description": "A reminder of bold entrepreneurs."
+            "display_name": "Set da tè finemente realizzato",
+            "description": "Un promemoria per audaci imprenditori."
           }
         },
         "banner_wall_small": {
           "banner_wall_small_ghost": {
-            "display_name": "Wide Wall Banner",
-            "description": "Show your town pride with this banner."
+            "display_name": "Bandiera a parete larga",
+            "description": "Mostra il tuo orgoglio per la città con questa bandiera."
           }
         },
         "banner_wall_big": {
           "banner_wall_big_ghost": {
-            "display_name": "Long Wall Banner",
-            "description": "Show your town pride with this banner."
+            "display_name": "Bandiera a muro lunga",
+            "description": "Mostra il tuo orgoglio per la città con questa bandiera."
           }
         },
         "lightbox": {
           "lightbox_ghost": {
-            "display_name": "Clay Lightbox",
-            "description": "Its light splashes patterns across the ground, and on things above it."
+            "display_name": "Scatola di luce di argilla",
+            "description": "La sua luce schizza modelli in tutto il terreno, e sulle cose sopra di esso."
           }
         }
       },
       "exotic_trade_monument": {
         "exotic_trade_monument_ghost": {
-          "display_name": "The Ever-Burning Flame",
-          "description": "A beacon of safety and protection for the whole region"
+          "display_name": "La fiamma che sempre brucia",
+          "description": "Un faro di sicurezza e protezione per tutta la regione"
         },
         "banner_gilded_blue": {
           "banner_gilded_blue_ghost": {
-            "display_name": "Gilded Blue Banner",
-            "description": "Display your town's pride as an exotic trading post"
+            "display_name": "Bandiera blu dorata",
+            "description": "Mostra l'orgoglio della tua città come un centro commerciale esotico"
           }
         },
         "chair_gilded_blue": {
           "chair_gilded_blue_ghost": {
-            "display_name": "Gilded Blue Cushion",
-            "description": "Luxuriously padded seating"
+            "display_name": "Cuscino blu dorato",
+            "description": "Sedute lussuosamente imbottite"
           }
         },
         "pedestal_firepit": {
           "pedestal_firepit_ghost": {
-            "display_name": "Small Clay Firepit",
-            "description": "Softly glowing coals"
+            "display_name": "Piccolo focolare di argilla",
+            "description": "Carboni dolcemente incandescenti"
           }
         },
         "wall_hanging_suncatcher": {
           "wall_hanging_suncatcher_ghost": {
-            "display_name": "Suncatcher",
-            "description": "Polished to a mirror finish"
+            "display_name": "Acchiappa sole",
+            "description": "Lucido a una finitura a specchio"
           }
         },
         "outfit_worker_goldthread": {
           "mixins": {
             "worker_outfit_goldthread_iconic": {
-              "display_name": "Worker Finery",
-              "description": "Fashionably improves worker's speed and efficiency"
+              "display_name": "Abiti da festa del lavoratore",
+              "description": "Migliora alla moda la velocità e l'efficienza del lavoratore"
             },
             "worker_outfit_goldthread": {
-              "display_name": "Worker Finery",
-              "description": "Fashionably improves worker's speed and efficiency"
+              "display_name": "Abiti da festa del lavoratore",
+              "description": "Migliora alla moda la velocità e l'efficienza del lavoratore"
             }
           }
         },
         "rug_gilded_blue": {
           "rug_gilded_blue_ghost": {
-            "display_name": "Blue Gilded Throw",
-            "description": "Skillfully woven from dyed and golden threads"
+            "display_name": "Tappeto dorato blu",
+            "description": "Abilmente tessuto da fili tinti e dorati"
           }
         },
         "chair_gilded_red": {
           "chair_gilded_red_ghost": {
-            "display_name": "Gilded Red Cushion",
-            "description": "Luxuriously padded seating"
+            "display_name": "Cuscino color rosso dorato",
+            "description": "Sedute lussuosamente imbottite"
           }
         },
         "chair_gilded_coral": {
           "chair_gilded_coral_ghost": {
-            "display_name": "Gilded Coral Cushion",
-            "description": "Luxuriously padded seating"
+            "display_name": "Cuscino in color corallo dorato",
+            "description": "Sedute lussuosamente imbottite"
           }
         },
         "chair_gilded_sage": {
           "chair_gilded_sage_ghost": {
-            "display_name": "Gilded Sage Cushion",
-            "description": "Luxuriously padded seating"
+            "display_name": "Cuscino color salvia dorato",
+            "description": "Sedute lussuosamente imbottite"
           }
         },
         "banner_gilded_red": {
           "banner_gilded_red_ghost": {
-            "display_name": "Gilded Red Banner",
-            "description": "Display your town's pride as an exotic trading post"
+            "display_name": "Bandiera color rosso dorato",
+            "description": "Mostra l'orgoglio della tua città come un centro commerciale esotico"
           }
         },
         "banner_gilded_coral": {
           "banner_gilded_coral_ghost": {
-            "display_name": "Gilded Coral Banner",
-            "description": "Display your town's pride as an exotic trading post"
+            "display_name": "Bandiera di color corallo dorato",
+            "description": "Mostra l'orgoglio della tua città come un centro commerciale esotico"
           }
         },
         "banner_gilded_sage": {
           "banner_gilded_sage_ghost": {
-            "display_name": "Gilded Sage Banner",
-            "description": "Display your town's pride as an exotic trading post"
+            "display_name": "Stendardo dorato color salvia",
+            "description": "Mostra l'orgoglio della tua città come un centro commerciale esotico"
           }
         },
         "pedestal_floral_blue": {
           "pedestal_floral_blue_ghost": {
-            "display_name": "Blue Petal Pedestal",
-            "description": "A decorative display of aromatic flowers and herbs"
+            "display_name": "Piedistallo color petalo blu",
+            "description": "Un'esposizione decorativa di fiori ed erbe aromatiche"
           }
         },
         "pedestal_floral_coral": {
           "pedestal_floral_coral_ghost": {
-            "display_name": "Coral Petal Pedestal",
-            "description": "A decorative display of aromatic flowers and herbs"
+            "display_name": "Piedistallo in color petalo di corallo",
+            "description": "Un'esposizione decorativa di fiori ed erbe aromatiche"
           }
         },
         "pedestal_floral_red": {
           "pedestal_floral_red_ghost": {
-            "display_name": "Red Petal Pedestal",
-            "description": "A decorative display of aromatic flowers and herbs"
+            "display_name": "Piedistallo color petalo rosso",
+            "description": "Un'esposizione decorativa di fiori ed erbe aromatiche"
           }
         },
         "rug_gilded_red": {
           "rug_gilded_red_ghost": {
-            "display_name": "Red Gilded Throw",
-            "description": "Skillfully woven from dyed and golden threads"
+            "display_name": "Tappeto color rosso dorato",
+            "description": "Tessuti abilmente da fili tinti e dorati"
           }
         },
         "rug_gilded_coral": {
           "rug_gilded_coral_ghost": {
-            "display_name": "Coral Gilded Throw",
-            "description": "Skillfully woven from dyed and golden threads"
+            "display_name": "Tappeto in color corallo dorato",
+            "description": "Tessuti abilmente da fili tinti e dorati"
           }
         },
         "rug_gilded_sage": {
           "rug_gilded_sage_ghost": {
-            "display_name": "Sage Gilded Throw",
-            "description": "Skillfully woven from dyed and golden threads"
+            "display_name": "Tappeto color salvia dorato",
+            "description": "Tessuti abilmente da fili tinti e dorati"
           }
         }
       },
       "trading_post_monument": {
         "trading_post_monument_ghost": {
-          "display_name": "The Trader Monument",
-          "description": "Signifies your town' productivity, wealth, and trading connections"
+          "display_name": "Il monumento del commerciante",
+          "description": "Indica la produttività, la ricchezza e le connessioni commerciali della vostra città"
         },
         "urn_large": {
           "urn_large_ghost": {
-            "display_name": "Trading Goods Urn",
-            "description": "Extra large for extra trading!"
+            "display_name": "Conto profitti e perdite",
+            "description": "Extra grande per un extra commercio!"
           }
         },
         "pot_oil_earthen": {
           "pot_oil_earthen_ghost": {
-            "display_name": "Earthen Oil Pot",
-            "description": "Small earthen pot with accompanying small fire"
+            "display_name": "Vaso di petrolio in terracotta color terra",
+            "description": "Piccolo vaso di terracotta con piccolo fuoco di accompagnamento"
           }
         },
         "pot_oil_green": {
           "pot_oil_green_ghost": {
-            "display_name": "Green Oil Pot",
-            "description": "Small green pot with accompanying small fire"
+            "display_name": "Vaso di petrolio in terracotta verde",
+            "description": "Piccolo vaso verde con piccolo fuoco di accompagnamento"
           }
         },
         "pot_oil_halfgreen": {
           "pot_oil_halfgreen_ghost": {
-            "display_name": "Half-Glazed Oil Pot",
-            "description": "Small half-glazed pot with accompanying small fire"
+            "display_name": "Vaso di petrolio semivetrata",
+            "description": "Piccolo vaso semivetrato con piccolo fuoco di accompagnamento"
           }
         },
         "pot_sunflower": {
           "pot_sunflower_ghost": {
-            "display_name": "Potted Sunflower",
-            "description": "Small earthen pot with a beautiful flower."
+            "display_name": "Girasole In Vaso",
+            "description": "Piccolo vaso di terracotta con un bellissimo fiore."
           }
         },
         "wall_hanging_sunflower": {
           "wall_hanging_sunflower_ghost": {
-            "display_name": "Wall Flower",
-            "description": "A sunflower decoration for your wall."
+            "display_name": "Fiore per muro",
+            "description": "Una decorazione di girasole per la tua parete."
           }
         },
         "wall_hanging_sunwreath": {
           "wall_hanging_sunwreath_ghost": {
-            "display_name": "Sunflower Wreath",
-            "description": "A collection of sunflowers to hang on your wall."
+            "display_name": "Corona di girasole",
+            "description": "Una collezione di girasoli da appendere al muro."
           }
         },
         "pot_fox_lily": {
           "pot_fox_lily_ghost": {
-            "display_name": "Potted Fox Lily",
-            "description": "Small earthen pot with a beautiful flower."
+            "display_name": "Giglio di volpe in vaso",
+            "description": "Piccolo vaso di terracotta con un bellissimo fiore."
           }
         },
         "jar_green": {
           "jar_green_ghost": {
-            "display_name": "Green Glass Jar with Candle",
-            "description": "Small green glass jar with accompanying small fire"
+            "display_name": "Vaso di vetro verde con candela",
+            "description": "Piccolo barattolo di vetro verde con piccolo fuoco di accompagnamento"
           }
         },
         "jar_red": {
           "jar_red_ghost": {
-            "display_name": "Glass Jar with Candle",
-            "description": "Small red glass jar with accompanying small fire"
+            "display_name": "Vaso di vetro con candela",
+            "description": "Piccolo barattolo di vetro rosso con piccolo fuoco di accompagnamento"
           }
         },
         "pot_acacia": {
           "pot_acacia_ghost": {
-            "display_name": "Potted Acacia Bonsai",
-            "description": "Small earthen pot with a beautiful miniature tree."
+            "display_name": "Bonsai di acacia",
+            "description": "Piccolo vaso di terracotta con un bellissimo albero in miniatura."
           }
         },
         "wind_chime": {
           "wind_chime_ghost": {
-            "display_name": "Glass Wind Chime",
-            "description": "A magnificent sight and sound to match."
+            "display_name": "Campanello di vetro",
+            "description": "Un magnifico spettacolo e suono da abbinare."
           }
         }
       },
       "hearth_box": {
         "hearth_box_ghost": {
-          "display_name": "Hearth of Glory",
-          "description": "Provides warmth, light, comfort, and a chance to challenge waves of undead"
+          "display_name": "Cuore della Gloria",
+          "description": "Offre calore, luce, comfort e la possibilità di sfidare ondate di non-morti"
         }
       },
       "hearth_lamp": {
         "hearth_lamp_ghost": {
-          "display_name": "Hearth of Cheer",
-          "description": "Provides warmth, light, comfort, and random daily buffs"
+          "display_name": "Cuore di Gioia",
+          "description": "Fornisce calore, luce, comfort e buffs quotidiani casuali"
         }
       },
       "hearth_urn": {
         "hearth_urn_ghost": {
-          "display_name": "Hearth of the Makers",
-          "description": "Provides warmth, light, comfort, and daily interest on owned gold"
+          "display_name": "Cuore dei Costruttori",
+          "description": "Fornisce calore, luce, comfort e interesse quotidiano sull'oro di proprietà"
         }
       }
     },
@@ -1497,98 +1497,98 @@
       "herald": {
         "female": {
           "herald_female": {
-            "display_name": "<Unused> Heraldine Swift",
-            "description": "<Unused> Herald of Rayya's Children."
+            "display_name": "<Inutilizzato> Heraldine Swift",
+            "description": "<Inutilizzato> Araldo dei figli di Rayya."
           },
           "herald_adia": {
             "display_name": "Adia Radie",
-            "description": "Guildmaster of Rayya's Children."
+            "description": "Maestro di corporazione dei figli di Rayya."
           },
           "herald_amyyria": {
             "display_name": "Amyyria Iskender",
-            "description": "Head of the Iskender Trading Company."
+            "description": "Capo della società commerciale Iskender."
           }
         },
         "male": {
           "herald_male": {
-            "display_name": "<Unused> Herald Holly",
-            "description": "<Unused> Herald of Rayya's Children."
+            "display_name": "<Inutilizzato> Herald Holly",
+            "description": "<Inutilizzato> Araldo dei figli di Rayya."
           },
           "herald_naryal": {
             "display_name": "Naryal Iskender",
-            "description": "Agent of the Iskender Trading Company."
+            "description": "Agente della società commerciale Iskender."
           },
           "herald_nona": {
             "display_name": "Nona Trist",
-            "description": "Priestess of Her Mystery."
+            "description": "Sacerdotessa del mistero."
           },
           "herald_emeret": {
             "display_name": "Emeret Kaver",
-            "description": "Leader of the Painted Dogs."
+            "description": "Leader dei cani dipinti."
           },
           "herald_arke": {
             "display_name": "Arke",
-            "description": "Iskender's finest messenger."
+            "description": "Il miglior messaggero di Iskender."
           }
         }
       }
     },
     "armor": {
       "rc_legendary_circlet": {
-        "display_name": "Crimson Circlet",
-        "description": "The Phoenix Empire's Squarest circlet"
+        "display_name": "Cerchietto rosso sangue",
+        "description": "Il cerchio più quadrato dell'impero della fenice"
       },
       "rc_legendary_shield": {
-        "display_name": "Dragon's Shield",
-        "description": "The Phoenix Empire's proudest shield"
+        "display_name": "Scudo del drago",
+        "description": "Lo scudo più orgoglioso dell'impero fenice"
       }
     },
     "weapons": {
       "rc_legendary_bow": {
-        "display_name": "Empire Bow",
-        "description": "The Phoenix Empire's swiftest bow"
+        "display_name": "Arco dell'Impero",
+        "description": "L'arco più veloce dell'impero della fenice"
       },
       "rc_legendary_sword": {
-        "display_name": "Emblazoned Sword",
-        "description": "The Phoenix Empire's finest blade"
+        "display_name": "Spada incisa",
+        "description": "La lama più raffinata dell'Impero della Fenice"
       }
     },
     "refined": {
       "legendary_rc_bowstring": {
-        "display_name": "Glittering Bowstring",
-        "description": "Joins the ends of the Zephyr Bow"
+        "display_name": "Corda scintillante",
+        "description": "Unisce le estremità dell'arco di Zephyr"
       },
       "legendary_rc_stave": {
-        "display_name": "Bone Stave",
-        "description": "The arms of the Zephyr Bow"
+        "display_name": "Doga d'osso",
+        "description": "Le braccia dell'arco di Zephyr"
       },
       "legendary_rc_face": {
-        "display_name": "Dragonhide",
-        "description": "Protects the Dragon's Shield"
+        "display_name": "Dragonite",
+        "description": "Protegge lo scudo del drago"
       },
       "legendary_rc_frame": {
-        "display_name": "Dragonplate",
-        "description": "Reinforces the Dragon's Shield"
+        "display_name": "Piastra del drago",
+        "description": "Rinforza lo scudo del drago"
       },
       "legendary_rc_gem": {
-        "display_name": "Flame Ruby",
-        "description": "A spiritual focus, essential for the Crimson Band"
+        "display_name": "Rosso rubino",
+        "description": "Un focus spirituale, essenziale per la banda cremisi"
       },
       "legendary_rc_blade": {
-        "display_name": "Tempered Bone",
-        "description": "Unbreakable blade of the Desert Fang"
+        "display_name": "Osso temperato",
+        "description": "Lama infrangibile della zanna del deserto"
       },
       "legendary_rc_inlay": {
-        "display_name": "Glittering Inlay",
-        "description": "Radiant gilding for the Desert Fang"
+        "display_name": "Intarsio scintillante",
+        "description": "Doratura radiosa per la zanna del deserto"
       },
       "legendary_rc_cloth": {
-        "display_name": "Sundyed Fabric",
-        "description": "Traditionally used for the crimson band"
+        "display_name": "Tessuto sfaldato",
+        "description": "Tradizionalmente usato per la banda cremisi"
       }
     }
   },
   "kingdoms": {
-    "rayyas_children": "Rayya's Children"
+    "rayyas_children": "I figli di Rayya"
   }
 }
