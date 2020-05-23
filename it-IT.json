@@ -1186,7 +1186,7 @@
           "template_default_name": "Il mio nuovo modello di edificio",
           "set_template_name_prompt": "Inserisci un nome per questo modello",
           "ignore_quality": "Ignora la qualità",
-          "ignore_quality_tooltip": "Tratta tutti gli elementi nel modello come qualità standard (piuttosto che Fine, Eccellente, ecc.).",
+          "ignore_quality_tooltip": "Tratta tutti gli elementi nel modello come qualità standard (piuttosto che Pregiata, Eccellente, ecc.).",
           "remove_template_confirm": {
             "title": "Elimina modello",
             "message": "Sei sicuro di voler eliminare questo modello di edificio?",
@@ -9017,7 +9017,7 @@
             "tooltip": "Agh, Non sto in ottima forma!"
           },
           "pain_scratched": {
-            "display_name": "Pain (Scratched)",
+            "display_name": "Dolore (graffiato)",
             "tooltip": "Sono messo molto male"
           },
           "pain_severe": {
@@ -10257,7 +10257,7 @@
       "wooden_door_2_fine": {
         "wooden_door_2_fine_ghost": {
           "description": "Più robusto della tua porta media, e anche un modello così bello.",
-          "display_name": "Porta in legno rinforzato fine"
+          "display_name": "Porta in legno rinforzato pregiata"
         }
       },
       "wooden_double_door_fine": {
@@ -10274,31 +10274,31 @@
       },
       "wooden_window_frame_tall_fine": {
         "wooden_window_frame_tall_fine_ghost": {
-          "display_name": "Cornice per finestra alta e fine",
+          "display_name": "Cornice per finestra alta e pregiata",
           "description": "L'altezza extra aggiunge un'aria di eleganza"
         }
       },
       "wooden_window_frame_wide_fine": {
         "wooden_window_frame_wide_fine_ghost": {
-          "display_name": "Cornice per finestra larga fine",
+          "display_name": "Cornice per finestra larga pregiata",
           "description": "È una vista panoramica!"
         }
       },
       "wooden_diamond_window_fine": {
         "wooden_diamond_window_fine_ghost": {
-          "display_name": "Cornice della finestra in diamante fine",
+          "display_name": "Cornice della finestra in diamante pregiata",
           "description": "Tanto per la privacy..."
         }
       },
       "picket_fence_fine": {
         "picket_fence_fine_ghost": {
-          "display_name": "Recinzione fine",
+          "display_name": "Recinzione pregiata",
           "description": "Se non è bianco, la nostra vita è insoddisfatta?"
         }
       },
       "picket_fence_gate_fine": {
         "picket_fence_gate_fine_ghost": {
-          "display_name": "Cancello per recinzione fine",
+          "display_name": "Cancello per recinzione pregiato",
           "description": "Non ti piacciono i tuoi vicini? Non installare"
         }
       },
@@ -10618,13 +10618,13 @@
       },
       "small_crate_fine": {
         "small_crate_fine_ghost": {
-          "display_name": "Piccola cassa fine",
+          "display_name": "Piccola cassa pregiata",
           "description": "Contenitore con stile"
         }
       },
       "large_crate_fine": {
         "large_crate_fine_ghost": {
-          "display_name": "Cassa grande fine",
+          "display_name": "Cassa grande pregiata",
           "description": "Memorizza fino a 32 articoli. Con stile."
         }
       },
@@ -12171,13 +12171,13 @@
       },
       "window_box_brightbell_fine": {
         "window_box_brightbell_fine_ghost": {
-          "display_name": "Fioriera fine per Brighbell",
+          "display_name": "Fioriera pregiata per Brighbell",
           "description": "Una casa accogliente per la pianta."
         }
       },
       "window_box_frostsnap_fine": {
         "window_box_frostsnap_fine_ghost": {
-          "display_name": "Fioriera fine per Frostsnap",
+          "display_name": "Fioriera pregiata per Frostsnap",
           "description": "Una casa accogliente per la pianta."
         }
       },
@@ -12681,779 +12681,779 @@
           "display_name": "Pezzo di varano arrosto"
         },
         "roast_varanus_serving": {
-          "display_name": "Serving of Roast Varanus"
+          "display_name": "Porzione di varano arrosto"
         }
       },
       "roast_zilla": {
         "roast_zilla": {
-          "display_name": "Chunk of Roast Zilla",
-          "description": "Transformatively roasted to perfection"
+          "display_name": "Pezzo di Zilla arrosto",
+          "description": "Trasformativamente tostato alla perfezione"
         },
         "roast_zilla_serving": {
-          "display_name": "Serving of Roast Zilla"
+          "display_name": "Porzione di Zilla arrosto"
         }
       },
       "rotten_pork_meat": {
-        "display_name": "Rotten Pork Meat",
-        "description": "This has definitely gone bad"
+        "display_name": "Carne di maiale marcia",
+        "description": "Questo è andato decisamente male"
       },
       "rotten_poultry_large_meat": {
-        "display_name": "Rotten Poultry Meat",
+        "display_name": "Carne di pollame marcia",
         "description": "Pee-ew!"
       },
       "poultry_large": {
-        "display_name": "Raw Poultry",
-        "description": "Raw meat from a large bird"
+        "display_name": "Pollame crudo",
+        "description": "Carne cruda di un grosso uccello"
       },
       "roast_poultry": {
         "roast_poultry": {
-          "display_name": "Poultry Drumstick",
-          "description": "Tediously roasted to perfection"
+          "display_name": "Coscia di pollo",
+          "description": "Tediosamente arrostito alla perfezione"
         },
         "roast_poultry_serving": {
-          "display_name": "Roast Drumstick"
+          "display_name": "Coscia di arrosto"
         }
       },
       "rotten_sausage_meat": {
-        "display_name": "Rotten Sausages",
-        "description": "Can meat become ripe?"
+        "display_name": "Salsicce marce",
+        "description": "La carne può maturare?"
       },
       "sausage": {
-        "display_name": "Raw Sausage",
-        "description": "Raw meat from.. everywhere else"
+        "display_name": "Salsiccia cruda",
+        "description": "Carne cruda da.. ovunque altrimenti"
       },
       "roast_sausage": {
         "roast_sausage": {
-          "display_name": "Roast Sausage",
-          "description": "Tantalisingly roasted to perfection, can be made from any kind of meat!"
+          "display_name": "Salsiccia arrosto",
+          "description": "Impeccabilmente arrostito alla perfezione, può essere fatto con qualsiasi tipo di carne!"
         },
         "roast_sausage_serving": {
-          "display_name": "Serving of Roast Sausage"
+          "display_name": "Porzione di salsiccia arrosto"
         }
       },
       "bug_meat_stew": {
         "bug_meat_stew": {
-          "description": "Stringy and Savory",
-          "display_name": "Tasty Bug Stew"
+          "description": "Filante e salato",
+          "display_name": "Gustoso stufato di insetti"
         },
         "bug_meat_stew_serving": {
-          "display_name": "Bowl of Tasty Bug Stew"
+          "display_name": "Ciotola di gustoso stufato di insetti"
         }
       },
       "fried_eggs_large": {
         "fried_eggs_large": {
-          "display_name": "Large Fried Egg",
-          "description": "Fried, delicious, and HUGE"
+          "display_name": "Grande uovo fritto",
+          "description": "Fritto, delizioso e ENORME"
         },
         "fried_eggs_large_serving": {
-          "display_name": "Serving of Large Fried Eggs"
+          "display_name": "Porzione di grandi uova fritte"
         }
       },
       "bacon_and_eggs": {
         "bacon_and_eggs": {
-          "display_name": "Bacon and Eggs",
-          "description": "The best breakfast you can get"
+          "display_name": "Pancetta e uova",
+          "description": "La migliore colazione che puoi avere"
         },
         "bacon_and_eggs_serving": {
-          "display_name": "Serving of Bacon and Eggs"
+          "display_name": "Porzione di pancetta e uova"
         }
       },
       "varanus_jerky": {
-        "display_name": "Varanus Jerky"
+        "display_name": "Carne essiccata di varano"
       },
       "zilla_jerky": {
-        "display_name": "Zilla Jerky"
+        "display_name": "Carne essiccata di zilla"
       },
       "ostrich_jerky": {
-        "display_name": "Ostrich Jerky"
+        "display_name": "Carne essiccata di struzzo"
       },
       "boar_jerky": {
-        "display_name": "Boar Jerky"
+        "display_name": "Carne essiccata di cinghiale"
       },
       "duckduck_jerky": {
-        "display_name": "Duckduck Jerky"
+        "display_name": "Carne essiccata di anatra"
       },
       "roast_venison": {
         "roast_venison": {
-          "display_name": "Chunk of Roast Venison",
-          "description": "Thoughtfully roasted to perfection"
+          "display_name": "Pezzo di carne di cervo arrosto",
+          "description": "Attentamente arrostito alla perfezione"
         },
         "roast_venison_serving": {
-          "display_name": "Serving of Roast Venison"
+          "display_name": "Porzione di selvaggina arrosto"
         }
       },
       "venison": {
-        "display_name": "Raw Venison",
-        "description": "Raw meat from a deer"
+        "display_name": "Carne di cervo cruda",
+        "description": "Carne cruda di un cervo"
       },
       "rotten_venison_meat": {
-        "display_name": "Rotten Venison Meat",
-        "description": "What a waste.."
+        "display_name": "Carne di cervo marcia",
+        "description": "Che spreco.."
       },
       "sugar": {
         "sugarbell_basket": {
-          "display_name": "Basket of Sugarbells",
-          "description": "Not really edible in this form, it needs to be processed."
+          "display_name": "Cesto di zucchero grezzo",
+          "description": "Non realmente commestibile in questa forma, deve essere elaborato."
         },
-        "display_name": "Sack of Sugar",
-        "description": "Perfect for making sweets"
+        "display_name": "Sacco di zucchero",
+        "description": "Perfetto per fare dolci"
       },
       "cake": {
         "cake": {
-          "display_name": "Berry Simple Cake",
-          "description": "Sweet and scrumptious."
+          "display_name": "Torta semplice di bacche",
+          "description": "Dolce e deliziosa."
         },
         "cake_serving": {
-          "display_name": "Piece of Sweet Cake"
+          "display_name": "Pezzo di torta dolce"
         }
       },
       "bug_meat_kabob": {
         "bug_meat_kabob_serving": {
-          "display_name": "Serving of Bug Meat Kabob"
+          "display_name": "Porzione di spiedino di carne di insetto"
         },
         "bug_meat_kabob": {
-          "display_name": "Bug Meat Kabob",
-          "description": "Slightly more edible form of bug meat"
+          "display_name": "Spiedino di carne di insetto",
+          "description": "Forma leggermente più commestibile di carne di insetto"
         }
       },
       "sweet_potato": {
         "sweet_potato_serving": {
-          "display_name": "Sweet Potato",
-          "description": "Tiny. Sweet!"
+          "display_name": "Patata dolce",
+          "description": "Piccolo. Dolce!"
         },
         "sweet_potato_basket": {
-          "display_name": "Basket of Sweet Potatoes",
-          "description": "Lined up in neat rows."
+          "display_name": "Cesto di patate dolci",
+          "description": "Allineati in file ordinate."
         }
       },
       "roasted_sweet_potato": {
         "roasted_sweet_potato": {
-          "display_name": "Roasted Sweet Potato",
-          "description": "Warms your hands and your heart."
+          "display_name": "Patate dolci arrosto",
+          "description": "Riscalda le mani e il cuore."
         },
         "roasted_sweet_potato_serving": {
-          "display_name": "Serving of Roasted Sweet Potato"
+          "display_name": "Porzione di patate dolci arrosto"
         }
       },
       "heirbloom": {
         "heirbloom_basket": {
-          "display_name": "Heirbloom Fruit",
-          "description": "Heirbloom Vegetable? It seems the stalks are an Amberstone delicacy."
+          "display_name": "Frutti di heirbloom",
+          "description": "Verdura di heirbloom? Sembra che gli steli siano una prelibatezza di Amberstone."
         },
         "heirbloom_serving": {
-          "display_name": "Heirbloom Fruit",
-          "description": "Juicy! Those rabbits don't know what they're missing!"
+          "display_name": "Frutti di heirbloom",
+          "description": "Succosa! Quei conigli non sanno cosa si perdono!"
         }
       },
       "wolf_jerky": {
-        "display_name": "Wolf Jerky"
+        "display_name": "Carne essiccata di lupo"
       },
       "fodder": {
         "fodder": {
-          "display_name": "Animal Fodder",
-          "description": "For feeding any vegetarian animals."
+          "display_name": "Mangime per animali",
+          "description": "Per nutrire eventuali animali vegetariani."
         }
       },
       "pie_berry": {
         "pie_berry_serving": {
-          "display_name": "Piece of Berry Pie"
+          "display_name": "Pezzo di torta di frutti di bosco"
         },
         "pie_berry": {
-          "display_name": "Sweet Berry Pie",
-          "description": "The crust and the berries go so well together."
+          "display_name": "Torta ai frutti di bosco",
+          "description": "La crosta e le bacche vanno così bene insieme."
         }
       },
       "pie_pear": {
         "pie_pear_serving": {
-          "display_name": "Piece of Prickly Pear Pie"
+          "display_name": "Pezzo di torta di fichi d'india"
         },
         "pie_pear": {
-          "display_name": "Prickly Pear Pie",
-          "description": "It's called 'Prickly Pear' but all the prickles have been removed."
+          "display_name": "Torta di fichi d'india",
+          "description": "Si chiama 'Fico d'India' ma tutte le spine sono state rimosse."
         }
       },
       "cake_layered": {
         "cake_layered": {
-          "display_name": "Layered Cake",
-          "description": "So beautiful!  And just covered in tasty treats!"
+          "display_name": "Torta a strati",
+          "description": "Così bella!  E proprio ricoperta di prelibatezze!"
         },
         "cake_layered_serving": {
-          "display_name": "Piece of Layered Cake"
+          "display_name": "Pezzo di torta a strati"
         }
       },
       "dumpling_meat": {
         "dumpling_meat_serving": {
-          "display_name": "Piece of Meat Dumpling"
+          "display_name": "Pezzo di polpetta di carne"
         },
         "dumpling_meat": {
-          "display_name": "Meat Dumpling",
-          "description": "A little bread pocket with meat stuffed inside."
+          "display_name": "Polpetta di carne",
+          "description": "Una piccola tasca del pane con dentro la carne ripiena."
         }
       },
       "dumpling_vegetarian": {
         "dumpling_vegetarian": {
-          "display_name": "Veggie Dumpling",
-          "description": "A little bread pocket with veggies stuffed inside."
+          "display_name": "Polpette vegetariane",
+          "description": "Una piccola tasca del pane con verdure ripiene all'interno."
         },
         "dumpling_vegetarian_serving": {
-          "display_name": "Piece of Veggie Dumpling"
+          "display_name": "Pezzo di polpetta vegetariana"
         }
       }
     },
     "furniture": {
       "arch_backed_chair": {
         "arch_backed_chair_ghost": {
-          "display_name": "Cathedral-Arch Chair",
-          "description": "Classy like piety."
+          "display_name": "Sedia ad arco della cattedrale",
+          "description": "Elegante come la pietà."
         }
       },
       "arch_backed_chair_fine": {
         "arch_backed_chair_fine_ghost": {
-          "display_name": "Fine Cathedral-Arch Chair",
-          "description": "Classy like piety."
+          "display_name": "Sedia ad arco cattedrale pregiata",
+          "description": "Elegante come la pietà."
         }
       },
       "amberstone_bed": {
         "amberstone_bed_ghost": {
-          "display_name": "Woven Bed",
-          "description": "So soft!!"
+          "display_name": "Letto intrecciato",
+          "description": "Così morbido!!"
         }
       },
       "comfy_bed": {
         "comfy_bed_ghost": {
-          "display_name": "Comfy Bed",
-          "description": "I dreamed... of flying sheep."
+          "display_name": "Letto comodo",
+          "description": "Ho sognato... pecore volanti."
         }
       },
       "comfy_bed_fine": {
         "comfy_bed_fine_ghost": {
-          "display_name": "Fine Comfy Bed",
-          "description": "I dreamed... of flying sheep."
+          "display_name": "Bel letto comodo",
+          "description": "Ho sognato... pecore volanti."
         }
       },
       "comfy_chair": {
         "comfy_chair_ghost": {
-          "display_name": "Comfy Chair",
-          "description": "For sitting!"
+          "display_name": "Sedia comoda",
+          "description": "Per sedersi!"
         }
       },
       "comfy_chair_fine": {
         "comfy_chair_fine_ghost": {
-          "display_name": "Fine Comfy Chair",
-          "description": "For sitting!"
+          "display_name": "Bella sedia comoda",
+          "description": "Per sedersi!"
         }
       },
       "amberstone_table": {
         "amberstone_table_ghost": {
-          "display_name": "Thatched Stone Table",
-          "description": "Chiseled and woven in the style of clan Amberstone"
+          "display_name": "Tavolo di pietra antica",
+          "description": "Cesellato e tessuto nello stile del clan Amberstone"
         }
       },
       "dining_table": {
         "dining_table_ghost": {
-          "display_name": "Dining Table",
-          "description": "Sitting down to eat is a sign of civilization."
+          "display_name": "Tavolo da pranzo",
+          "description": "Sedersi per mangiare è segno di civiltà."
         }
       },
       "dining_table_fine": {
         "dining_table_fine_ghost": {
-          "display_name": "Fine Dining Table",
-          "description": "Sitting down to eat is a sign of civilization."
+          "display_name": "Bel tavolo da pranzo",
+          "description": "Sedersi per mangiare è un segno di civiltà."
         }
       },
       "dresser": {
         "dresser_ghost": {
-          "display_name": "Wooden Dresser",
-          "description": "Decorative in the absence of belongings."
+          "display_name": "Comò in legno",
+          "description": "Decorativo in assenza di effetti personali."
         }
       },
       "dresser_fine": {
         "dresser_fine_ghost": {
-          "display_name": "Fine Dresser",
-          "description": "Decorative in the absence of belongings."
+          "display_name": "Comò raffinato",
+          "description": "Decorativo in assenza di effetti personali."
         }
       },
       "not_much_of_a_bed": {
         "not_much_of_a_bed_ghost": {
-          "display_name": "Mean Bed",
-          "description": "Mean as in poor, not cruel."
+          "display_name": "Letto cattivo",
+          "description": "Cattivo come il povero, non crudele."
         }
       },
       "park_bench": {
         "park_bench_ghost": {
-          "display_name": "Wooden Park Bench",
-          "description": "Outdoor seating for moments of relaxation."
+          "display_name": "Panchina in legno",
+          "description": "Posti a sedere all'aperto per momenti di relax."
         }
       },
       "park_bench_fine": {
         "park_bench_fine_ghost": {
-          "display_name": "Fine Park Bench",
-          "description": "Outdoor seating for moments of relaxation."
+          "display_name": "Panchina pregiata",
+          "description": "Posti a sedere all'aperto per momenti di relax."
         }
       },
       "ornate_bench": {
         "ornate_bench_ghost": {
-          "display_name": "Ornate Park Bench",
-          "description": "Outdoor seating for moments of relaxation."
+          "display_name": "Panchina decorata",
+          "description": "Posti a sedere all'aperto per momenti di relax."
         }
       },
       "simple_wooden_chair": {
         "simple_wooden_chair_ghost": {
-          "display_name": "Simple Wooden Chair",
-          "description": "For sitting."
+          "display_name": "Sedia in legno semplice",
+          "description": "Per sedersi."
         }
       },
       "simple_wooden_chair_fine": {
         "simple_wooden_chair_fine_ghost": {
-          "display_name": "Fine Wooden Chair",
-          "description": "For sitting."
+          "display_name": "Sedia in legno pregiato",
+          "description": "Per sedersi."
         }
       },
       "stone_bench": {
         "stone_bench_ghost": {
-          "display_name": "Stone Bench",
-          "description": "Outdoor seating for moments of relaxation"
+          "display_name": "Panca di pietra",
+          "description": "Posti a sedere all'aperto per momenti di relax."
         }
       },
       "stone_chair": {
         "stone_chair_ghost": {
-          "display_name": "Stone Chair",
-          "description": "For sitting"
+          "display_name": "Sedia di pietra",
+          "description": "Per sedersi"
         }
       },
       "stone_table": {
         "stone_table_ghost": {
-          "display_name": "Stone Table",
-          "description": "Its weight adds a sense of gravitas."
+          "display_name": "Tavolo di pietra",
+          "description": "Il suo peso aggiunge un senso di gravità."
         }
       },
       "table_for_one": {
         "table_for_one_ghost": {
-          "display_name": "Table for One",
-          "description": "Dining furniture for introverts."
+          "display_name": "Tavolo per uno",
+          "description": "Mobili da pranzo per introversi."
         }
       },
       "table_for_one_fine": {
         "table_for_one_fine_ghost": {
-          "display_name": "Fine Table for One",
-          "description": "Dining furniture for introverts."
+          "display_name": "Bel tavolo per uno",
+          "description": "Mobili da pranzo per introversi."
         }
       },
       "tombstone": {
         "tombstone_ghost": {
           "display_name": "R.I.P. [str(self.stonehearth:unit_info.custom_name)]",
-          "description": "[str(self.stonehearth:unit_info.custom_name)] will always be remembered."
+          "description": "[str(self.stonehearth:unit_info.custom_name)] sarà sempre ricordato."
         },
         "tombstone": {
-          "display_name": "Tombstone",
-          "description": "A memorial for the fallen"
+          "display_name": "Lapide",
+          "description": "Un memoriale per i caduti"
         }
       },
       "writing_desk": {
         "writing_desk_ghost": {
-          "display_name": "Writing Desk",
-          "description": "A peaceful place to write letters to home."
+          "display_name": "Scrivania",
+          "description": "Un posto tranquillo per scrivere lettere a casa."
         }
       },
       "writing_desk_fine": {
         "writing_desk_fine_ghost": {
-          "display_name": "Fine Writing Desk",
-          "description": "Furniture"
+          "display_name": "Scrivania pregiata",
+          "description": "Mobilia"
         }
       },
       "clay_bed": {
         "clay_bed_ghost": {
-          "display_name": "Clay Bed",
-          "description": "Gets you off the ground"
+          "display_name": "Letto di argilla",
+          "description": "Ti toglie da terra"
         }
       },
       "clay_dining_table": {
         "clay_dining_table_ghost": {
-          "display_name": "Clay Dining Table",
-          "description": "Gets your food off the floor"
+          "display_name": "Tavolo da pranzo in argilla",
+          "description": "Ti toglie il cibo dal pavimento"
         }
       },
       "amberstone_chair": {
         "amberstone_chair_ghost": {
-          "display_name": "Woven Seat",
-          "description": "Woven in the style of clan Amberstone"
+          "display_name": "Sedile in tessuto",
+          "description": "Tessuto nello stile del clan Amberstone"
         }
       },
       "simple_clay_chair": {
         "simple_clay_chair_ghost": {
-          "display_name": "Simple Clay Chair",
-          "description": "Less dusty than sitting on the floor"
+          "display_name": "Sedia semplice in argilla",
+          "description": "Meno polveroso di star seduti sul pavimento"
         }
       },
       "clay_dining_table_fine": {
         "clay_dining_table_fine_ghost": {
-          "display_name": "Fine Clay Dining Table",
-          "description": "Gets your food off the floor ... in style"
+          "display_name": "Tavolo da pranzo in argilla pregiata",
+          "description": "Ti toglie il cibo dal pavimento ...con stile"
         }
       },
       "simple_clay_chair_fine": {
         "simple_clay_chair_fine_ghost": {
-          "display_name": "Fine Clay Chair",
-          "description": "Less dusty and more stylish than sitting on the floor"
+          "display_name": "Sedia in argilla pregiata",
+          "description": "Meno polveroso e più elegante rispetto al sedersi sul pavimento"
         }
       },
       "clay_bed_fine": {
         "clay_bed_fine_ghost": {
-          "display_name": "Fine Clay Bed",
-          "description": "Fancy, but still uncomfortable"
+          "display_name": "Letto di argilla pregiato",
+          "description": "Elegante, ma ancora scomodo"
         }
       },
       "blue_market_stall": {
         "blue_market_stall_ghost": {
-          "display_name": "Blue Market Stall",
-          "description": "Merchants can set up shop here"
+          "display_name": "Bancarella del mercato blu",
+          "description": "I commercianti possono aprire un negozio qui"
         },
         "trader": {
-          "description": "A traveling merchant"
+          "description": "Un commerciante in viaggio"
         }
       },
       "statue_of_cid_wanderer": {
         "statue_of_cid_wanderer_ghost": {
-          "display_name": "Statue of Cid Wanderer",
-          "description": "Shows Cid in his later years"
+          "display_name": "Statua di Cid Wanderer",
+          "description": "Mostra Cid nei suoi ultimi anni"
         }
       },
       "park_bench_red": {
         "park_bench_red_ghost": {
-          "display_name": "Red Wooden Park Bench",
-          "description": "Outdoor seating for moments of relaxation"
+          "display_name": "Panchina in legno rosso",
+          "description": "Posti a sedere all'aperto per momenti di relax"
         }
       },
       "ornate_table_for_one": {
         "ornate_table_for_one_ghost": {
-          "display_name": "Ornate Table for One",
-          "description": "Dining furniture for introverts."
+          "display_name": "Tavolo ornato per uno",
+          "description": "Mobili da pranzo per introversi."
         }
       },
       "ornate_comfy_bed": {
         "ornate_comfy_bed_ghost": {
-          "display_name": "Ornate Comfy Bed",
-          "description": "I dreamed... of flying sheep."
+          "display_name": "Comodo letto decorato",
+          "description": "Ho sognato... pecore volanti."
         }
       },
       "ornate_dining_table": {
         "ornate_dining_table_ghost": {
-          "description": "Sitting down to eat is a sign of civilization.",
-          "display_name": "Ornate Dining Table"
+          "description": "Sedersi per mangiare è segno di civiltà.",
+          "display_name": "Tavolo da pranzo ornato"
         }
       },
       "ornate_dresser": {
         "ornate_dresser_ghost": {
-          "description": "Decorative in the absence of belongings.",
-          "display_name": "Ornate Dresser"
+          "description": "Decorativo in assenza di effetti personali.",
+          "display_name": "Comò ornato"
         }
       },
       "ornate_writing_desk": {
         "ornate_writing_desk_ghost": {
-          "description": "A stylish place to write letters to home.",
-          "display_name": "Ornate Writing Desk"
+          "description": "Un posto elegante per scrivere lettere a casa.",
+          "display_name": "Scrittoio decorato"
         }
       },
       "ornate_comfy_chair": {
         "ornate_comfy_chair_ghost": {
-          "description": "For comfortable sitting!",
-          "display_name": "Ornate Comfy Chair"
+          "description": "Per una seduta comoda!",
+          "display_name": "Comoda sedia decorata"
         }
       },
       "bench": {
         "bench_ghost": {
-          "display_name": "Wooden Park Bench",
-          "description": "Outdoor seating for moments of relaxation."
+          "display_name": "Panchina in legno",
+          "description": "Posti a sedere all'aperto per momenti di relax."
         }
       },
       "wooden_chair": {
         "wooden_chair_ghost": {
-          "display_name": "Wooden Chair",
-          "description": "For a little more class while sitting."
+          "display_name": "Sedia di legno",
+          "description": "Per un po 'più di classe seduti."
         }
       },
       "ornate_wooden_chair": {
         "ornate_wooden_chair_ghost": {
-          "display_name": "Ornate Wooden Chair",
-          "description": "For even more style while sitting."
+          "display_name": "Sedia in legno decorato",
+          "description": "Per uno stile ancora maggiore da seduti."
         }
       },
       "stone_bed": {
         "stone_bed_ghost": {
-          "display_name": "Stone bed",
-          "description": "Some stone and hay to sleep on"
+          "display_name": "Letto di pietra",
+          "description": "Qualche pietra e fieno su cui dormire"
         }
       }
     },
     "generic": {
       "default_object": {
-        "display_name": "Default object",
-        "description": "Mysterious"
+        "display_name": "Oggetto predefinito",
+        "description": "Misterioso"
       }
     },
     "gizmos": {
       "camp_standard": {
         "camp_standard_ghost": {
-          "display_name": "Camp Standard",
-          "description": "Use to mark territory, civilizedly."
+          "display_name": "Stendardo da campo",
+          "description": "Utilizzare per contrassegnare il territorio, civilizzato."
         }
       },
       "safety_standard": {
-        "display_name": "Wooden Safety Standard",
+        "display_name": "Stendardo di sicurezza in legno",
         "clay_safety_standard": {
-          "display_name": "Clay Safety Standard"
+          "display_name": "Stendardo di sicurezza in argilla"
         },
-        "description": "Mark a safety point to flee to in Town Alert mode"
+        "description": "Contrassegna un punto di sicurezza in cui fuggire in modalità Avviso città"
       },
       "mountains_windchime": {
         "mountains_windchime_ghost": {
-          "display_name": "Mountain's Windchime",
-          "description": "Soothing happy notes"
+          "display_name": "Il suono del vento della montagna",
+          "description": "Note benefiche e rilassanti"
         }
       },
       "small_turret": {
         "small_turret_ghost": {
-          "display_name": "Turret",
-          "description": "Shoots at enemies from a small distance"
+          "display_name": "Torretta",
+          "description": "Spara ai nemici da una piccola distanza"
         }
       },
       "clamp_trap": {
         "clamp_trap_ghost": {
-          "display_name": "Clamp Trap",
-          "description": "Damages and shortly stuns enemies that step on it"
+          "display_name": "Trappola a pinza",
+          "description": "Danneggia e stordisce poco i nemici che lo calpestano"
         }
       },
       "turnip_shooter": {
         "turnip_shooter_ghost": {
-          "display_name": "Turnip Shooter",
-          "description": "Shoots turnips at enemies"
+          "display_name": "Tiratore di rape",
+          "description": "Spara rape ai nemici"
         }
       },
       "critter_trap": {
         "critter_trap_ghost": {
-          "display_name": "Critter Trap",
-          "description": "Repurposed for use against enemies."
+          "display_name": "Trappola per animali",
+          "description": "Riproposto per l'uso contro i nemici."
         }
       },
       "dummy_training": {
         "dummy_training_ghost": {
-          "display_name": "Training Dummy",
-          "description": "It's best to practice with this friendly guy."
+          "display_name": "Manichino da allenamento",
+          "description": "È meglio esercitarsi con questo ragazzo amichevole."
         }
       },
       "town_banner_guardian": {
         "town_banner_guardian_ghost": {
-          "display_name": "Banner of Cunning",
-          "description": "How you know you've come home.",
-          "town_bonus_description": "<i>This settlement will be a bustling hub of trade.</i><ul><li>Roads give 3x their normal speed boost</li><li>Your items sell for 50% more</li><li>Traders will bring 2x the goods and Gold</li></ul>"
+          "display_name": "Stendardo di astuzia",
+          "description": "Come sai che sei tornato a casa.",
+          "town_bonus_description": "<i>Questo insediamento sarà un vivace centro commerciale.</i><ul><li>Le strade danno a 3 volte il loro normale aumento di velocità</li><li>I tuoi articoli vendono per il 50% in più</li><li>I commercianti porteranno il doppio della merce e dell'oro</li></ul>"
         },
         "town_banner_guardian_token_iconic": {
-          "display_name": "Banner of Cunning Shred",
-          "description": "A shred from the Banner of Cunning, carrying along its blessing."
+          "display_name": "Brandello dello stendardo di astuzia",
+          "description": "Un brandello dello Stendardo dell'astuzia, portando con sé la sua benedizione."
         }
       },
       "town_banner_might": {
         "town_banner_might_ghost": {
-          "display_name": "Banner of Strength",
-          "description": "How you know you've come home",
-          "town_bonus_description": "<i>This settlement will grow strong through earth and steel.</i><ul><li>Mining gives 50% more Ore, Stone, and Clay</li><li>Hearthlings no longer mind cramped spaces</li></ul>"
+          "display_name": "Stendardo della Forza",
+          "description": "Come sai che sei tornato a casa",
+          "town_bonus_description": "<i>Questo insediamento diventerà forte attraverso terra e acciaio.</i><ul><li>L'estrazione mineraria fornisce il 50% in più di minerale metallifero, pietra e argilla</li><li>i cittadini non si preoccupano più degli spazi angusti</li></ul>"
         },
         "town_banner_might_token_iconic": {
-          "display_name": "Banner of Strength Shred",
-          "description": "A shred from the Banner of Strength, carrying along its blessing."
+          "display_name": "Brandello dello stendardo della forza",
+          "description": "Un brandello dello Stendardo della Forza, portando con sé la sua benedizione."
         }
       },
       "town_banner_nature": {
         "town_banner_nature_ghost": {
-          "display_name": "Banner of Vitality",
-          "description": "How you know you've come home",
-          "town_bonus_description": "<i>This settlement shall be at one with the environment.</i><ul><li>Trees produce 25% more Wood</li><li>Plants and Crops both grow 25% faster</li><li>Plants have 2x their normal Appeal</li></ul>"
+          "display_name": "Stendardo della vitalità",
+          "description": "Come sai che sei tornato a casa",
+          "town_bonus_description": "<i>Questo insediamento deve essere un tutt'uno con l'ambiente.</i><ul><li>Gli alberi producono il 25% in più di legno</li><li>Le piante e le colture crescono entrambe del 25% più velocemente</li><li>Le piante hanno il doppio del loro attrazio normale</li></ul>"
         },
         "town_banner_nature_token_iconic": {
-          "display_name": "Banner of Vitality Shred",
-          "description": "A shred from the Banner of Vitality, carrying along its blessing."
+          "display_name": "Brandello dello stendardo della vitalità",
+          "description": "Un brandello dello Stendardo della Vitalità, portando con sé la sua benedizione."
         }
       },
       "titan_ward_stone": {
         "titan_ward_stone_ghost": {
-          "display_name": "Anti-Titan Ward",
-          "description": "Hurts anything nearby that smells like titan."
+          "display_name": "Reparto anti-titano",
+          "description": "Fa male a qualsiasi cosa vicino che puzza di titano."
         }
       },
       "titan_ward_clay": {
         "titan_ward_clay_ghost": {
-          "display_name": "Anti-Titan Ward",
-          "description": "Hurts anything nearby that smells like titan."
+          "display_name": "Reparto anti-titanio",
+          "description": "Fa male a qualsiasi cosa vicino che puzza di titano."
         }
       },
       "anti_titan_ward": {
         "anti_titan_ward_ghost": {
-          "display_name": "Anti-Titan Ward",
-          "description": "Hurts anything nearby that smells like titan."
+          "display_name": "Reparto anti-titanio",
+          "description": "Fa male a qualsiasi cosa vicino che puzza di titano."
         }
       },
       "titan_slayer": {
         "titan_slayer_ghost": {
-          "display_name": "Crystalline Arbalest",
-          "description": "A weapon to strike at evil's heart."
+          "display_name": "Arbalest cristallino",
+          "description": "Un'arma per colpire il cuore del male."
         },
         "titan_slayer_monument": {
-          "display_name": "Testament to the Righted Wrong",
-          "description": "A memorial to an alliance between peoples against the darkness. Its crystal radiates warmth and well-being."
+          "display_name": "Il testamento del giusto torto",
+          "description": "Un memoriale di un'alleanza tra popoli contro l'oscurità. Il suo cristallo irradia calore e benessere."
         }
       },
       "orc_titan_gong": {
         "orc_titan_gong_ghost": {
-          "display_name": "Gong of Sinister Beckoning",
-          "description": "Made of strange, eerily smooth stone."
+          "display_name": "Gong di sinistro richiamo",
+          "description": "Fatta di pietra strana e stranamente liscia."
         }
       },
       "root_of_evil": {
-        "display_name": "Root of Evil",
-        "description": "Kill it! Kill it with fire!"
+        "display_name": "Radice del male",
+        "description": "Uccidilo! Uccidilo col fuoco!"
       },
       "building_tentacle": {
-        "display_name": "Building Crusher",
-        "description": "Kill it before it wakes up and smashes your building!"
+        "display_name": "Costruire il frantoio",
+        "description": "Uccidilo prima che si svegli e rompa il tuo edificio!"
       },
       "tentacle_trap": {
-        "display_name": "Tentacle Trap",
-        "description": "Grabs anyone who passes close by."
+        "display_name": "Trappola per tentacoli",
+        "description": "Afferra chiunque passi vicino."
       },
       "charging_pedestal": {
         "charging_pedestal_ghost": {
-          "display_name": "Charging Stones",
-          "description": "These stones collect light, but will also attract beasts if left out at night."
+          "display_name": "Pietre di ricarica",
+          "description": "Queste pietre raccolgono luce, ma attireranno anche le bestie se lasciate fuori di notte."
         }
       },
       "keystone_pedestal": {
         "keystone_pedestal_ghost": {
-          "display_name": "Amberstone Pedestal",
-          "description": "A pedestal with an Amberstone on top, necessary for Amberstone homes."
+          "display_name": "Piedistallo di Amberstone",
+          "description": "Un piedistallo con un Amberstone in cima, necessario per le case di Amberstone."
         }
       }
     },
     "loot": {
       "gold": {
-        "display_name": "Chest of Gold Coins",
-        "description": "It's [str(self.stonehearth:stacks.stacks)] coins!",
-        "label": "gold"
+        "display_name": "Cassa di monete d'oro",
+        "description": "Sono [str(self.stonehearth:stacks.stacks)] monete!",
+        "label": "oro"
       },
       "dusty_tome": {
-        "display_name": "Dusty Tome",
-        "description": "An ancient text preserving knowledge of the past"
+        "display_name": "Tomo polveroso",
+        "description": "Un testo antico che preserva la conoscenza del passato"
       }
     },
     "monsters": {
       "forest": {
         "ent": {
           "display_name": "Ent",
-          "description": "Guardian of the forest"
+          "description": "Guardiano della foresta"
         },
         "entling": {
           "display_name": "Entling",
-          "description": "Minion of the forest"
+          "description": "Servo della foresta"
         },
         "entling_mage": {
-          "display_name": "Entling Mage",
-          "description": "Minion of the forest"
+          "display_name": "Mago Entling",
+          "description": "Servo della foresta"
         },
         "stone_golem": {
-          "display_name": "Stone Golem",
-          "description": "Solid."
+          "display_name": "Golem di pietra",
+          "description": "Solido."
         },
         "little_stone_golem": {
           "display_name": "Stoneling",
-          "description": "He's just a pebble!"
+          "description": "È solo un ciottolo!"
         },
         "alligator": {
-          "display_name": "Varanus",
-          "description": "And this is the smaller variety..."
+          "display_name": "Varano",
+          "description": "E questa è la varietà più piccola..."
         },
         "wolf": {
-          "display_name": "Feral Wolf",
+          "display_name": "Lupo selvatico",
           "description": "Grrr! Rwar!"
         },
         "zilla": {
           "display_name": "Zilla",
-          "description": "The ground rumbles when Zilla comes around."
+          "description": "Il terreno rimbomba quando arriva Zilla."
         },
         "cougar": {
-          "display_name": "Cougar",
-          "description": "A large, graceful cat.  It's a meat eating hunter.",
-          "species": "cougar"
+          "display_name": "Puma",
+          "description": "Un gatto grande e grazioso. È un cacciatore che mangia carne.",
+          "species": "puma"
         },
         "jacko": {
-          "display_name": "Spirit of Jack-O",
-          "description": "Protector of Light"
+          "display_name": "Spirito di Jack-O",
+          "description": "Protettore della luce"
         }
       },
       "goblins": {
         "decoration": {
           "banner": {
-            "display_name": "A banner"
+            "display_name": "Uno stendardo"
           },
           "skull_stake": {
-            "display_name": "A stake"
+            "display_name": "Un paletto"
           }
         },
         "goblin": {
           "display_name": "[str(self.stonehearth:unit_info.custom_name)]",
-          "description": "Attracted to shiny things"
+          "description": "Attratto da cose luccicanti"
         },
         "goblin_barricade": {
-          "display_name": "A barricade"
+          "display_name": "Una barricata"
         },
         "goblin_boss_banner": {
           "goblin_boss_banner_ghost": {
-            "display_name": "Ogo Skullbonker's Standard",
-            "description": "Clearly indicates goblin-boss-status"
+            "display_name": "Lo stendardo di Ogo Skullbonker",
+            "description": "Indica chiaramente lo stato del boss goblin"
           }
         },
         "goblin_boss_hut": {
-          "display_name": "Boss Hut",
-          "description": "Dirty white, like the color of winter."
+          "display_name": "Capanna Boss",
+          "description": "Bianco sporco, come il colore dell'inverno."
         },
         "goblin_chief_hut": {
           "goblin_tent": {
-            "display_name": "Goblin Tent",
-            "description": "Made from crudely-sewn animal hides"
+            "display_name": "Tenda Goblin",
+            "description": "Realizzato con pelli di animali cotte grossolanamente"
           }
         },
         "goblin_flute": {
           "broken_flute": {
-            "display_name": "Broken Flute",
-            "description": "Produces pathetically wheezy wailing."
+            "display_name": "Flauto rotto",
+            "description": "Produce un lamento pateticamente sibilante."
           },
           "mountains_flute": {
-            "display_name": "Mountain's Lullabye Flute",
-            "description": "Pitched to soothe Mountain's soul."
+            "display_name": "Flauto di ninna nanna di montagna",
+            "description": "Lanciata per calmare l'anima della montagna."
           },
           "mountains_flute_iconic": {
-            "display_name": "Mountain's Lullabye Flute",
-            "description": "Pitched to soothe Mountain's soul."
+            "display_name": "Flauto di ninna nanna di montagna",
+            "description": "Lanciata per calmare l'anima della montagna."
           }
         },
         "goblin_hut": {
-          "display_name": "Goblin Tent",
-          "description": "Made from coarsely chopped wooden boards"
+          "display_name": "Tenda Goblin",
+          "description": "Realizzato con assi di legno tritate grossolanamente"
         },
         "goblin_large_totem": {
-          "display_name": "Large Goblin Totem"
+          "display_name": "Totem Goblin di grandi dimensioni"
         },
         "goblin_small_totem": {
-          "display_name": "Small Goblin Totem"
+          "display_name": "Totem Goblin piccolo"
         },
         "goblin_soldier": {
-          "display_name": "Goblin Soldier",
+          "display_name": "Soldato Goblin",
           "description": "Gobble, gobble, gobble..."
         },
         "goblin_soothsayer_tent": {
-          "display_name": "The Soothsayer's Tent",
-          "description": "Cobbled together out of luxurious scraps"
+          "display_name": "La tenda dell'indovino",
+          "description": "Acciottolati insieme da rottami lussuosi"
         },
         "goblin_tent": {
-          "display_name": "A Tent",
+          "display_name": "Una tenda",
           "description": "Made from crudely-sewn animal hides"
         },
         "goblin_throne": {
