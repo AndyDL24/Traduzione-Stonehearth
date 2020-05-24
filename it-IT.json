@@ -1750,9 +1750,9 @@
           }
         },
         "controls_tab": {
-          "key_binding_prompt": "Premi Canc per separare",
+          "key_binding_prompt": "Premi Canc per annullare",
           "reset_to_defaults": "Ripristina predefiniti",
-          "unbound": "Sciogliere",
+          "unbound": "Crea tasto",
           "conflict_dialog": {
             "title": "Conflitto vincolante",
             "message": "\"<strong> [str(combo)] </strong>\" è già utilizzato da [str(conflicts)]",
@@ -5381,7 +5381,7 @@
                           },
                           "bulletin_title": "Un Coniglio immigrato!",
                           "dialog_title": "Un membro del clan Amberstone desidera unirsi alla tua città!",
-                          "choice_000": "sì",
+                          "choice_000": "Sì",
                           "choice_001": "No"
                         }
                       }
@@ -6024,7 +6024,7 @@
                               "00": "\"Grazie, sono sicuro che i piccoli Serpente li troveranno abbastanza soddisfacenti. Possa mai sbocciare la nostra amicizia!.\" Ti offre borse scintillanti come pagamento.<br><br><font size=-1><i>[La reputazione del Coniglio è aumentata]</i></font>"
                             },
                             "bulletin_title": "Shook Down",
-                            "choice_000": "grazie!"
+                            "choice_000": "Grazie!"
                           }
                         }
                       }
@@ -6037,7 +6037,7 @@
                               "00": "\"Grazie. Spero che non siamo feriti, ma la fortuna favorisce i preparati. Possa la nostra amicizia continuare a mettere radici!\" Ti passa dei sacchetti luccicanti come compensazione.<br><br><font size=-1><i>[La reputazione del coniglio è aumentata]</i></font>"
                             },
                             "bulletin_title": "Shook Down",
-                            "choice_000": "buona fortuna"
+                            "choice_000": "Buona fortuna"
                           }
                         }
                       }
@@ -13454,207 +13454,207 @@
         },
         "goblin_tent": {
           "display_name": "Una tenda",
-          "description": "Made from crudely-sewn animal hides"
+          "description": "Realizzato con pelli di animali cotte grossolanamente"
         },
         "goblin_throne": {
-          "display_name": "Goblin Throne",
-          "description": "Made of wood, bone, and ego"
+          "display_name": "Trono Goblin",
+          "description": "Realizzato in legno, osso ed ego"
         },
         "goblin_wolf": {
-          "display_name": "Goblin Raiding Wolf",
-          "description": "Bred to inspire terror"
+          "display_name": "Lupo d'incursione goblin",
+          "description": "Cresciuto per ispirare il terrore"
         },
         "skull_trophy": {
           "skull_trophy_ghost": {
-            "display_name": "Goblin Honor Token",
-            "description": "Some goblin might want this back..."
+            "display_name": "Pegno d'onore Goblin",
+            "description": "Alcuni goblin potrebbero volerlo indietro..."
           }
         },
         "wolf_cage": {
-          "display_name": "A wolf cage",
-          "description": "Signals nappytime for its inhabitants."
+          "display_name": "Una gabbia di lupo",
+          "description": "Segnali tempo del sonnellino per i suoi abitanti."
         },
         "goblin_cage": {
-          "display_name": "Large Cage",
-          "description": "Property of Central Chief Grug Skull Crusher"
+          "display_name": "Gabbia grande",
+          "description": "Proprietà del capo centrale Grug"
         },
         "goblin_barricade_single": {
           "goblin_barricade_single_ghost": {
-            "display_name": "A barricade"
+            "display_name": "Una barricata"
           }
         }
       },
       "kobolds": {
         "kobold": {
           "display_name": "[str(self.stonehearth:unit_info.custom_name)]",
-          "description": "Devotee of the Diamond Star"
+          "description": "Devoto della stella del diamante"
         },
         "loot": {
           "elite_bling_hat": {
-            "display_name": "Elite Kobold Hat",
-            "description": "Kobolds love their bling!"
+            "display_name": "Cappello Kobold Elite",
+            "description": "I kobold adorano il loro sangue!"
           },
           "generals_bling_hat": {
-            "display_name": "General's Hat",
-            "description": "Dropped by the kobold archer general"
+            "display_name": "Cappello del generale",
+            "description": "Lasciato cadere dal generale arciere kobold"
           },
           "masters_bling_hat": {
-            "display_name": "Master's Bling Hat",
-            "description": "Dropped by the kobold master archer"
+            "display_name": "Cappello da maestro",
+            "description": "Lasciato cadere dal maestro arciere kobold"
           },
           "scout_bling_hat": {
-            "display_name": "Scout's Hat",
-            "description": "Dropped by the kobold scout archer"
+            "display_name": "Cappello da scout",
+            "description": "Lasciato cadere dall'arciere scout kobold"
           }
         },
         "kobold_wolf": {
-          "display_name": "Kobold Wolf",
-          "description": "A Fearsome Wolf!"
+          "display_name": "Lupo kobold",
+          "description": "Un lupo spaventoso!"
         }
       },
       "undead": {
         "skeleton": {
           "display_name": "[str(self.stonehearth:unit_info.custom_name)]",
-          "description": "It yearns for flesh"
+          "description": "Desidera la carne"
         },
         "zombie": {
           "display_name": "[str(self.stonehearth:unit_info.custom_name)]",
-          "description": "It yearns for flesh",
+          "description": "Desidera la carne",
           "male": {
             "zombie_male": {
               "display_name": "[str(self.stonehearth:unit_info.custom_name)]",
-              "description": "It yearns for flesh"
+              "description": "Desidera la carne"
             }
           }
         },
         "crypt": {
-          "display_name": "A Crypt",
-          "description": "What lies inside?"
+          "display_name": "Una cripta",
+          "description": "Cosa c'è dentro?"
         },
         "sarcophagus": {
-          "display_name": "A Sarcophagus",
-          "description": "Holds remains of the dead"
+          "display_name": "Un sarcofago",
+          "description": "Tiene i resti dei morti"
         },
         "tombstone": {
-          "display_name": "A Tombstone",
-          "description": "Where undead are born"
+          "display_name": "Una pietra tombale",
+          "description": "Dove nascono i non morti"
         },
         "stone_pillar_fence": {
-          "display_name": "Stone Pillar Fence",
-          "description": "Sturdy fence anchored by pillars."
+          "display_name": "Recinzione in pilastro di pietra",
+          "description": "Robusto recinto ancorato da pilastri."
         },
         "necromancer": {
-          "display_name": "Necromancer",
-          "description": "Practitioner of the dark arts"
+          "display_name": "Negromante",
+          "description": "Praticante delle arti oscure"
         },
         "wolf_skeleton": {
           "display_name": "[str(self.stonehearth:unit_info.custom_name)]",
-          "description": "Its animal instincts are all that remain.."
+          "description": "I suoi istinti animali sono tutto ciò che rimane.."
         }
       },
       "rabbit": {
         "display_name": "...",
-        "description": "A Rabbit"
+        "description": "Un coniglio"
       },
       "ogres": {
         "ogre": {
           "display_name": "[str(self.stonehearth:unit_info.custom_name)]",
-          "description": "An orc gone terribly wrong"
+          "description": "Un orco è andato terribilmente storto"
         }
       },
       "orcs": {
         "orc": {
           "display_name": "[str(self.stonehearth:unit_info.custom_name)]",
-          "description": "A warrior of the Red Kiln"
+          "description": "Un guerriero del Red Kiln"
         },
         "orc_boss_banner": {
-          "display_name": "Warchief Oghar Grakbash's Banner",
-          "description": "Made to intimidate the weak hearted"
+          "display_name": "Stendardo di Oghar Grakbash il guerriero",
+          "description": "Fatto per intimidire i deboli di cuore"
         },
         "orc_hut": {
-          "display_name": "Orc hut",
-          "description": "Made from coarsely chopped wooden boards"
+          "display_name": "Capanna degli Orchi",
+          "description": "Realizzato con assi di legno tritate grossolanamente"
         },
         "orc_tent": {
-          "display_name": "Orc Tent",
-          "description": "Smells like old laundry."
+          "display_name": "Tenda Orco",
+          "description": "Odora di vecchio bucato."
         }
       },
       "mammoth": {
         "mammoth": {
-          "display_name": "Mammoth",
-          "description": "Large Woolie Beastie"
+          "display_name": "Mammut",
+          "description": "Grande beastie di lana"
         }
       },
       "evil": {
         "loot_chest_fake": {
-          "display_name": "Evil Chest",
-          "description": "It's one of those things that goes bump in the night."
+          "display_name": "Cassa del male",
+          "description": "È una di quelle cose che vanno a sbattere nella notte."
         }
       },
       "avian": {
         "ostrich": {
-          "display_name": "Ostrich",
-          "description": "Flightless avian who lays giant eggs.  It eats a little bit of everything.",
-          "species": "ostrich",
+          "display_name": "Struzzo",
+          "description": "Aviario incapace di volare che depone uova giganti.  Mangia un po' di tutto.",
+          "species": "struzzo",
           "egg": {
             "ostrich_egg_fertilized": {
-              "display_name": "Fertilized Ostrich Egg",
-              "description": "Is it hatching yet?"
+              "display_name": "Uovo di struzzo fecondato",
+              "description": "Si sta già schiudendo?"
             }
           }
         },
         "duckduck": {
-          "display_name": "DuckDuck",
-          "description": "Flightless avian who lays giant eggs.  It eats a little bit of everything.",
-          "species": "duckduck",
+          "display_name": "Anatra",
+          "description": "Aviario incapace di volare che depone uova giganti.  Mangia un po' di tutto.",
+          "species": "anatra",
           "egg": {
             "duckduck_egg_fertilized": {
-              "display_name": "Fertilized Duckduck Egg",
-              "description": "Is it hatching yet?"
+              "display_name": "Uova di anatra fecondate",
+              "description": "Si sta già schiudendo?"
             }
           }
         },
         "ostrich_young": {
-          "display_name": "Young Ostrich",
-          "description": "Flightless avian, just hatched!"
+          "display_name": "Giovane struzzo",
+          "description": "Aviaria senza volo, appena schiusa!"
         },
         "duckduck_young": {
-          "display_name": "Young DuckDuck",
-          "description": "Flightless avian, just hatched!"
+          "display_name": "Anatroccolo",
+          "description": "Aviaria senza volo, appena schiusa!"
         }
       },
       "titan": {
         "corrupt": {
           "corrupt_zilla": {
-            "display_name": "Corrupt Monstrosity",
-            "description": "Evil. Hungry."
+            "display_name": "La mostruosità corrotta",
+            "description": "Il male. Affamato."
           },
           "corrupt_hearthling": {
-            "display_name": "Corruption",
-            "description": "A shadow of its former self"
+            "display_name": "Corruzione",
+            "description": "Un'ombra del suo sé precedente"
           },
           "corrupt_wolf": {
-            "display_name": "Corrupted Beast",
-            "description": "The hunter at the end of the world"
+            "display_name": "Bestia corrotta",
+            "description": "Il cacciatore alla fine del mondo"
           }
         }
       },
       "golems": {
         "golem_harvesting": {
-          "display_name": "Ox Golem",
-          "description": "Harvesting Golem, constructed of stone and empowered by ancient knowledge."
+          "display_name": "Bue Golem",
+          "description": "Raccolta del Golem, costruito in pietra e potenziato dall'antica conoscenza."
         },
         "golem_mining": {
-          "display_name": "Mole Golem",
-          "description": "Mining Golem, constructed of stone and empowered by ancient knowledge."
+          "display_name": "Talpa Golem",
+          "description": "Golem minerario, costruito in pietra e potenziato dall'antica conoscenza."
         },
         "golem_restocking": {
-          "display_name": "Cricket Golem",
-          "description": "Item-Carrying Golem, constructed of stone and empowered by ancient knowledge!",
+          "display_name": "Golem trasportatore",
+          "description": "Golem che trasporta oggetti, costruito in pietra e potenziato dall'antica conoscenza!",
           "golem_restocking_ghost_auto": {
-            "display_name": "Autonomous Cricket Golem",
-            "description": "Item-Carrying Golem that somehow works without a Geomancer around"
+            "display_name": "Golem trasportatore autonomo",
+            "description": "Golem che trasporta oggetti che in qualche modo funziona senza un Geomante in giro"
           }
         }
       }
@@ -13667,359 +13667,359 @@
     "pets": {
       "collie": {
         "display_name": "Collie",
-        "description": "So brave!  It eats a little bit of everything.",
-        "species": "dog"
+        "description": "Così coraggioso! Mangia un po' di tutto.",
+        "species": "cane"
       },
       "kitten": {
-        "display_name": "Kitten",
-        "description": "It's so cute!  It's a meat eating little hunter.",
-        "species": "cat",
+        "display_name": "Gattino",
+        "description": "È così carino! È una carne che mangia un piccolo cacciatore.",
+        "species": "gatto",
         "jacko": {
-          "display_name": "Shade of Jack-O",
-          "description": "Walker of Shadows"
+          "display_name": "Ombra di Jack-O",
+          "description": "Viandante delle ombre"
         },
         "koda": {
-          "display_name": "Spirit of Koda",
-          "description": "Friend to All"
+          "display_name": "Spirito di Koda",
+          "description": "Amico per tutti"
         }
       },
       "mammoth": {
-        "display_name": "Baby Mammoth",
-        "description": "So furry!  It loves to eat plants, lots of plants.",
-        "species": "mammoth"
+        "display_name": "Cucciolo di Mammut",
+        "description": "Così peloso! Ama mangiare piante, molte piante.",
+        "species": "mammut"
       },
       "dragon_whelp_fire": {
-        "display_name": "Flame Dragon Whelp",
-        "description": "Keep it away from flammable materials.  This dragon type prefers extra well done meat.",
-        "species": "dragon"
+        "display_name": "Cucciolo di drago di fiamma",
+        "description": "Tenerlo lontano da materiali infiammabili. Questo tipo di drago preferisce carne extra ben cotta.",
+        "species": "drago"
       },
       "dragon_whelp_nature": {
-        "display_name": "Forest Dragon Whelp",
-        "description": "They are excellent for tending a freshly planted garden.  Unlike most dragons, these eat both meat and plants.",
-        "species": "dragon",
+        "display_name": "Cucciolo di Drago della Foresta",
+        "description": "Sono eccellenti per curare un giardino appena piantato. A differenza della maggior parte dei draghi, questi mangiano sia carne che piante.",
+        "species": "drago",
         "egg": {
           "dragon_nature_egg_fertilized_ghost": {
-            "display_name": "Nature Dragon Egg",
-            "description": "So mysterious!  It should be placed somewhere safe and warm..."
+            "display_name": "Uovo di drago di natura",
+            "description": "Così misterioso! Dovrebbe essere posizionato in un luogo sicuro e caldo ..."
           },
           "dragon_copper_egg_fertilized_ghost": {
-            "display_name": "Copper Dragon Egg",
-            "description": "So mysterious!  Maybe the king can hatch it..."
+            "display_name": "Uovo di drago di rame",
+            "description": "Così misterioso! Forse il re può schiuderlo..."
           }
         }
       },
       "dragon_whelp_ice": {
-        "display_name": "Frost Dragon Whelp",
-        "description": "A baby dragon, good for keeping food cold.  This dragon type prefers chilled meats.",
-        "species": "dragon"
+        "display_name": "Cucciolo di drago di ghiaccio",
+        "description": "Un piccolo drago, buono per mantenere il cibo freddo. Questo tipo di drago preferisce carni fredde.",
+        "species": "drago"
       },
       "dragon_whelp_copper": {
-        "display_name": "Copper Dragon Whelp",
-        "description": "Adds a certain shine to the town.  This dragon type prefers meat."
+        "display_name": "Cucciolo di drago di rame",
+        "description": "Aggiunge un certo splendore alla città. Questo tipo di drago preferisce la carne."
       }
     },
     "plants": {
       "bramble": {
         "bramble": {
-          "display_name": "Dark Bramble",
-          "description": "Clear it with Harvest for now, or Mine down to expose the Root!"
+          "display_name": "Rovo scuro",
+          "description": "Puliscilo con il raccolto per ora, o estrailo per esporre la radice!"
         },
         "sprout": {
           "bramble_sprout": {
-            "display_name": "Sprouting Dark Bramble",
-            "description": "Invasive and dangerous to ignore, growing from an underground Root."
+            "display_name": "Germoglio di rovo scuro",
+            "description": "Invasivo e pericoloso da ignorare, che cresce da una radice sotterranea."
           }
         },
         "stem": {
           "bramble_stem": {
-            "display_name": "Creeping Dark Bramble",
-            "description": "Sprouted from buried evil! Dig up its Root, clear it with Harvest."
+            "display_name": "Rovo scuro strisciante",
+            "description": "Germogliato dal male sepolto! Scava la sua radice, eliminala con il raccolto."
           }
         }
       },
       "berry_bush": {
-        "display_name": "Berry Bush",
-        "description": "Harvestable for a meager food supply.",
-        "unripe_description": "Not yet ripe for harvest.",
+        "display_name": "Cespugli di bacche",
+        "description": "Raccolta per un approvvigionamento alimentare scarso.",
+        "unripe_description": "Non ancora maturo per il raccolto.",
         "seed": {
           "berry_bush_plant_seed_ghost": {
-            "display_name": "Berry Bush Seed",
-            "description": "Can be planted to grow a meager food supply"
+            "display_name": "Seme di cespuglio di bacche",
+            "description": "Può essere piantato per far crescere una magra scorta di cibo"
           }
         },
         "bud": {
           "berry_bush_plant_bud": {
-            "display_name": "Budding Berry Bush",
-            "description": "It's almost there!  Look, it has buds!"
+            "display_name": "Cespuglio di bacche in erba",
+            "description": "È quasi arrivato!  Guarda, ha i boccioli!"
           }
         },
         "sprout": {
           "berry_bush_plant_sprout": {
-            "display_name": "Berry Bush Sproutling",
-            "description": "Just needs some time and care."
+            "display_name": "Germogliamento del cespuglio di bacche",
+            "description": "Ha solo bisogno di un po' di tempo e di cure."
           }
         },
         "stem": {
           "berry_bush_plant_stem": {
-            "display_name": "Stemming Berry Bush",
-            "description": "Still growing!"
+            "display_name": "Cespuglio di bacche da stelo",
+            "description": "Sta ancora crescendo"
           }
         }
       },
       "brightbell_plant": {
-        "display_name": "Wild Brightbell",
-        "description": "Can be harvested for healing herbs",
-        "unripe_description": "This plant has been harvested and has not grown back yet",
+        "display_name": "Brightbell selvatico",
+        "description": "Può essere raccolto per erbe curative",
+        "unripe_description": "Questa pianta è stata raccolta e non è ancora ricresciuta",
         "seed": {
           "brightbell_plant_seed_ghost": {
-            "display_name": "Wild Brightbell Seed",
-            "description": "Once planted, it will grow into healing herbs"
+            "display_name": "Seme di Brightbell selvatico",
+            "description": "Una volta piantato, crescerà in erbe curative"
           },
           "brightbell_plant_sprout": {
-            "display_name": "Wild Brightbell Sproutling",
-            "description": "Just needs some time and care."
+            "display_name": "Wildbell selvatico che germoglia",
+            "description": "Ho solo bisogno di un po' di tempo e cure."
           }
         },
         "stem": {
           "brightbell_plant_stem": {
-            "display_name": "Wild Brightbell Stemming Plant",
-            "description": "Still growing!"
+            "display_name": "Pianta originaria del Brightbell selvatico",
+            "description": "Ancora in crescita!"
           },
           "brightbell_plant_bud": {
-            "display_name": "Wild Brightbell Budding Plant",
-            "description": "It's almost there!  Look, it has buds!"
+            "display_name": "Pianta selvatica in erba di Brightbell",
+            "description": "È quasi arrivato!  Guarda, ha i boccioli!"
           }
         }
       },
       "carrot": {
         "carrot_basket": {
-          "display_name": "Basket of Carrots",
-          "description": "Lined up in neat rows."
+          "display_name": "Cesto di carote",
+          "description": "Allineato in file ordinate."
         },
         "carrot_serving": {
-          "display_name": "Carrot",
-          "description": "Tiny. Bitter."
+          "display_name": "Carota",
+          "description": "Piccolo. Amaro."
         },
-        "display_name": "Carrot",
-        "description": "Great for soups",
+        "display_name": "Carota",
+        "description": "Ottimo per le zuppe",
         "bud": {
           "carrot_plant_bud": {
-            "display_name": "Budding Carrot",
-            "description": "It's almost full grown!  But then it has to dry out!"
+            "display_name": "Carota in erba",
+            "description": "È quasi completamente cresciuto! Ma poi deve asciugarsi!"
           }
         },
         "rotten": {
           "carrot_rotten": {
-            "display_name": "Rotten Carrot",
-            "description": "Not good for eating anymore, but a great source of seeds"
+            "display_name": "Carota marcia",
+            "description": "Non va più bene per mangiare, ma è un'ottima fonte di semi"
           }
         },
         "sprout": {
           "carrot_plant_sprout": {
-            "display_name": "Carrot Sproutling",
-            "description": "Just needs some time and care."
+            "display_name": "Germoglio Di Carota",
+            "description": "Ho solo bisogno di un po' di tempo e cure."
           }
         },
         "seed": {
           "carrot_plant_seed": {
-            "display_name": "Carrot Seed",
-            "description": "Can be planted to grow a tasty orange veggie."
+            "display_name": "Semi Di Carota",
+            "description": "Può essere piantata per far crescere una gustosa verdura arancione."
           },
           "carrot_plant_seed_ghost": {
-            "display_name": "Carrot Seed",
-            "description": "Can be planted to grow a crunchy orange veggie."
+            "display_name": "Semi Di Carota",
+            "description": "Può essere piantato per far crescere una croccante verdura arancione."
           }
         },
         "stem": {
           "carrot_plant_stem": {
-            "display_name": "Stemming Carrot",
-            "description": "Still growing!"
+            "display_name": "Carota da allevamento",
+            "description": "Ancora in crescita!"
           }
         },
         "carrot_ghost": {
-          "display_name": "Carrot",
-          "description": "Great for soups"
+          "display_name": "Carota",
+          "description": "Ottimo per le zuppe"
         }
       },
       "frostsnap_plant": {
-        "display_name": "Wild Frost Snap",
-        "description": "Can be harvested for healing herbs",
-        "unripe_description": "This plant has been harvested and has not grown back yet",
+        "display_name": "Frostsnap selvatico",
+        "description": "Può essere raccolto per erbe curative",
+        "unripe_description": "Questa pianta è stata raccolta e non è ancora cresciuta",
         "seed": {
           "frostsnap_plant_seed_ghost": {
-            "display_name": "Wild Frostsnap Seed",
-            "description": "Can be planted to grow healing herbs"
+            "display_name": "Semi di Frostsnap selvatici",
+            "description": "Può essere piantato per coltivare erbe curative"
           },
           "frostsnap_plant_sprout": {
-            "display_name": "Wild Frostsnap Sproutling",
-            "description": "Just needs some time and care."
+            "display_name": "Germoglio selvaggio di Frostsnap",
+            "description": "Ho solo bisogno di un po' di tempo e cure."
           }
         },
         "stem": {
           "frostsnap_plant_stem": {
-            "display_name": "Wild Frostsnap Stemming Plant",
-            "description": "Still growing!"
+            "display_name": "Pianta selvatica derivante da frostsnap",
+            "description": "Ancora in crescita!"
           },
           "frostsnap_plant_bud": {
-            "display_name": "Wild Frostsnap Budding Plant",
-            "description": "It's almost there!  Look, it has buds!"
+            "display_name": "Pianta germogliante selvatica di Frostsnap",
+            "description": "È quasi arrivato!  Guarda, ha i boccioli!"
           }
         },
         "bud": {
           "frostsnap_plant_bud": {
-            "display_name": "Wild Frostsnap Budding Plant",
-            "description": "It's almost there!  Look, it has buds!"
+            "display_name": "Pianta germogliante selvatica di Frostsnap",
+            "description": "È quasi arrivato!  Guarda, ha i boccioli!"
           }
         }
       },
       "silkweed": {
         "silkweed": {
-          "display_name": "Wild Silkweed",
-          "description": "This plant's fiber can be spun into thread.",
-          "unripe_description": "This plant has been harvested and hasn't grown back yet."
+          "display_name": "Seta selvatica",
+          "description": "La fibra di questa pianta può essere filata in filo.",
+          "unripe_description": "Questa pianta è stata raccolta e non è ancora cresciuta."
         },
         "seed": {
           "silkweed_plant_seed_ghost": {
-            "display_name": "Wild Silkweed Seed",
-            "description": "Can be planted to grow fiber which can be spun into thread."
+            "display_name": "Semi di seta selvatici",
+            "description": "Può essere piantato per crescere fibra che può essere filato in filo."
           }
         },
         "bud": {
           "silkweed_bud": {
-            "display_name": "Budding Silkweed",
-            "description": "It's almost there!  Look, it has buds!"
+            "display_name": "Seta in germogliamento",
+            "description": "È quasi arrivato!  Guarda, ha i boccioli!"
           }
         },
         "sprout": {
           "silkweed_plant_sprout": {
-            "display_name": "Silkweed Sproutling",
-            "description": "Just needs some time and care."
+            "display_name": "Germogliamento di semi di seta",
+            "description": "Ha solo bisogno di un po' di tempo e di cure."
           }
         },
         "stem": {
           "silkweed_stem": {
-            "display_name": "Stemming Silkweed",
-            "description": "Still growing!"
+            "display_name": "Semi di baco da seta",
+            "description": "Ancora in crescita!"
           }
         }
       },
       "tester": {
         "tester_basket": {
           "display_name": "Basket of Testers",
-          "description": "Juicy and exciting!"
+          "description": "Succoso ed eccitante!"
         },
         "tester_serving": {
           "display_name": "A Tester",
-          "description": "Used as shields by princesses."
+          "description": "Utilizzato come scudi da principesse."
         }
       },
       "turnip": {
         "turnip_basket": {
-          "display_name": "Basket of Turnips",
-          "description": "Juicy and exciting!"
+          "display_name": "Cesto di rape",
+          "description": "Succoso ed eccitante!"
         },
         "turnip_serving": {
-          "display_name": "Turnip",
-          "description": "Tiny. Bitter."
+          "display_name": "Rape",
+          "description": "Piccolo. Amaro."
         }
       },
       "cactus_plant": {
-        "display_name": "Wild Cactus",
-        "description": "Can be harvested for healing herbs",
-        "unripe_description": "This plant has been harvested and has not grown back yet",
+        "display_name": "Cactus selvatico",
+        "description": "Può essere raccolto per erbe curative",
+        "unripe_description": "Questa pianta è stata raccolta e non è ancora cresciuta",
         "bud": {
           "cactus_plant_plant_bud": {
-            "display_name": "Budding Wild Cactus",
-            "description": "It's almost here!  Look, it has buds!"
+            "display_name": "Cactus selvatico in erba",
+            "description": "È quasi arrivato!  Guarda, ha i boccioli!"
           }
         },
         "seed": {
           "cactus_plant_seed": {
-            "display_name": "Wild Cactus Seed",
-            "description": "Can be planted to grow healing herbs."
+            "display_name": "Semi di cactus selvatici",
+            "description": "Può essere piantato per coltivare erbe curative."
           },
           "cactus_plant_seed_ghost": {
-            "display_name": "Wild Cactus Seed",
-            "description": "Can be planted to grow some prickly pears."
+            "display_name": "Semi di cactus selvatici",
+            "description": "Può essere piantato per far crescere alcuni fichi d'india."
           }
         },
         "sprout": {
           "cactus_plant_plant_sprout": {
-            "display_name": "Wild Cactus Sproutling",
-            "description": "Just needs some time and care."
+            "display_name": "Germoglio selvatico del cactus",
+            "description": "Ho solo bisogno di un po' di tempo e cure."
           }
         },
         "stem": {
           "cactus_plant_plant_stem": {
-            "display_name": "Stemming Wild Cactus",
-            "description": "Still growing!"
+            "display_name": "Allevamento di cactus selvatico",
+            "description": "Ancora in crescita!"
           }
         }
       },
       "tumbleweed": {
         "display_name": "Tumbleweed",
-        "description": "Source of coarse fibers",
+        "description": "Fonte di fibre grossolane",
         "bud": {
           "tumbleweed_plant_bud": {
-            "display_name": "Budding Tumbleweed",
-            "description": "It's almost full grown!  But then it has to dry out!"
+            "display_name": "Tumbleweed in erba",
+            "description": "È quasi completamente cresciuto! Ma poi deve asciugarsi!"
           }
         },
         "seed": {
           "tumbleweed_plant_seed": {
-            "display_name": "Tumbleweed Seed",
-            "description": "Can be planted to grow a fiber of scratchy quality."
+            "display_name": "Semi di Tumbleweed",
+            "description": "Può essere piantato per far crescere una fibra di qualità graffiante."
           },
           "tumbleweed_plant_seed_ghost": {
-            "display_name": "Tumbleweed Seed",
-            "description": "Can be planted to grow a fiber of scratchy quality."
+            "display_name": "Semi di Tumbleweed",
+            "description": "Può essere piantato per far crescere una fibra di qualità graffiante."
           }
         },
         "sprout": {
           "tumbleweed_plant_sprout": {
-            "display_name": "Tumbleweed Sproutling",
-            "description": "Just needs some time and care."
+            "display_name": "Germoglio del Tumbleweed",
+            "description": "Ho solo bisogno di un po' di tempo e cure."
           }
         },
         "stem": {
           "tumbleweed_plant_stem": {
-            "display_name": "Stemming Tumbleweed",
-            "description": "Still growing!"
+            "display_name": "Allevamento di Tumbleweed",
+            "description": "Ancora in crescita!"
           }
         }
       },
       "pear_cactus": {
-        "display_name": "Pear Cactus",
-        "description": "Harvest carefully for prickly pears.",
-        "unripe_description": "It's the invisible spines that really hurt",
+        "display_name": "Cactus pera",
+        "description": "Raccogli accuratamente per i fichi d'india.",
+        "unripe_description": "Sono le spine invisibili che fanno davvero male",
         "seed": {
           "pear_cactus_plant_seed_ghost": {
-            "display_name": "Pear Cactus Seed",
-            "description": "Can be planted to grow some prickly pears."
+            "display_name": "Semi Di Cactus Di Pere",
+            "description": "Può essere piantato per far crescere alcuni fichi d'india."
           }
         },
         "bud": {
           "pear_cactus_plant_bud": {
-            "display_name": "Budding Pear Cactus",
-            "description": "It's almost there!  Look, it has buds!"
+            "display_name": "Cactus di pera in erba",
+            "description": "È quasi arrivato!  Guarda, ha i boccioli!"
           }
         },
         "sprout": {
           "pear_cactus_plant_sprout": {
-            "display_name": "Pear Cactus Sproutling",
-            "description": "Just needs some time and care."
+            "display_name": "Germoglio del cactus di pera",
+            "description": "Ho solo bisogno di un po' di tempo e cure."
           }
         },
         "stem": {
           "pear_cactus_plant_stem": {
-            "display_name": "Stemming Pear Cactus",
-            "description": "Still growing!"
+            "display_name": "Cactus di pere d'allevamento",
+            "description": "Ancora in crescita!"
           }
         }
       },
       "foxlily_plant": {
         "foxlily_plant_ghost": {
-          "display_name": "Fox Lily",
+          "display_name": "Giglio volpe",
           "description": "Orange flowers bearing resemblance to fox tails"
         },
         "bud": {
