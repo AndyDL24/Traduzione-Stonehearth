@@ -13749,7 +13749,7 @@
         },
         "bud": {
           "berry_bush_plant_bud": {
-            "display_name": "Cespuglio di bacche in erba",
+            "display_name": "Cespuglio di bacche in boccioli",
             "description": "È quasi arrivato!  Guarda, ha i boccioli!"
           }
         },
@@ -13786,7 +13786,7 @@
             "description": "Ancora in crescita!"
           },
           "brightbell_plant_bud": {
-            "display_name": "Pianta selvatica in erba di Brightbell",
+            "display_name": "Pianta selvatica in boccioli di Brightbell",
             "description": "È quasi arrivato!  Guarda, ha i boccioli!"
           }
         }
@@ -13804,7 +13804,7 @@
         "description": "Ottimo per le zuppe",
         "bud": {
           "carrot_plant_bud": {
-            "display_name": "Carota in erba",
+            "display_name": "Carota in boccioli",
             "description": "È quasi completamente cresciuto! Ma poi deve asciugarsi!"
           }
         },
@@ -13929,7 +13929,7 @@
         "unripe_description": "Questa pianta è stata raccolta e non è ancora cresciuta",
         "bud": {
           "cactus_plant_plant_bud": {
-            "display_name": "Cactus selvatico in erba",
+            "display_name": "Cactus selvatico in boccioli",
             "description": "È quasi arrivato!  Guarda, ha i boccioli!"
           }
         },
@@ -13957,33 +13957,33 @@
         }
       },
       "tumbleweed": {
-        "display_name": "Tumbleweed",
+        "display_name": "Rotolocampo",
         "description": "Fonte di fibre grossolane",
         "bud": {
           "tumbleweed_plant_bud": {
-            "display_name": "Tumbleweed in erba",
+            "display_name": "Rotolacampo in boccioli",
             "description": "È quasi completamente cresciuto! Ma poi deve asciugarsi!"
           }
         },
         "seed": {
           "tumbleweed_plant_seed": {
-            "display_name": "Semi di Tumbleweed",
+            "display_name": "Semi di rotolacampo",
             "description": "Può essere piantato per far crescere una fibra di qualità graffiante."
           },
           "tumbleweed_plant_seed_ghost": {
-            "display_name": "Semi di Tumbleweed",
+            "display_name": "Semi di rotolacampo",
             "description": "Può essere piantato per far crescere una fibra di qualità graffiante."
           }
         },
         "sprout": {
           "tumbleweed_plant_sprout": {
-            "display_name": "Germoglio del Tumbleweed",
+            "display_name": "Germoglio del rotolacampo",
             "description": "Ho solo bisogno di un po' di tempo e cure."
           }
         },
         "stem": {
           "tumbleweed_plant_stem": {
-            "display_name": "Allevamento di Tumbleweed",
+            "display_name": "Allevamento di rotolacampo",
             "description": "Ancora in crescita!"
           }
         }
@@ -14000,7 +14000,7 @@
         },
         "bud": {
           "pear_cactus_plant_bud": {
-            "display_name": "Cactus di pera in erba",
+            "display_name": "Cactus di pera in boccioli",
             "description": "È quasi arrivato!  Guarda, ha i boccioli!"
           }
         },
@@ -14019,505 +14019,505 @@
       },
       "foxlily_plant": {
         "foxlily_plant_ghost": {
-          "display_name": "Giglio volpe",
-          "description": "Orange flowers bearing resemblance to fox tails"
+          "display_name": "Coda di volpe",
+          "description": "Fiori d'arancio che ricordano le code di volpe"
         },
         "bud": {
           "foxlily_plant_plant_bud": {
-            "display_name": "Budding Foxlily Plant",
-            "description": "It's almost there!  You can see the flowers budding!"
+            "display_name": "Pianta di coda di volpe in boccioli",
+            "description": "È quasi arrivato! Puoi vedere i fiori in boccioli"
           }
         },
         "seed": {
           "foxlily_plant_plant_seed_ghost": {
-            "display_name": "Foxlily Seed",
-            "description": "Can be planted to grow a beautiful fox tail flower."
+            "display_name": "Semi di coda di volpe",
+            "description": "Può essere piantato per far crescere un bellissimo fiore coda di volpe."
           },
           "foxlily_plant_plant_seed": {
-            "display_name": "Foxlily Seed",
-            "description": "Can be planted to grow a beautiful fox tail flower."
+            "display_name": "Semi di coda di volpe",
+            "description": "Può essere piantato per far crescere un bellissimo fiore di coda di volpe."
           }
         },
         "sprout": {
           "foxlily_plant_plant_sprout": {
-            "display_name": "Foxlily Sproutling",
-            "description": "Just needs some time and care."
+            "display_name": "Coda di volpe che germoglia",
+            "description": "Ho solo bisogno di un po' di tempo e cure."
           }
         },
         "stem": {
           "foxlily_plant_plant_stem": {
-            "display_name": "Stemming Foxlily Plant",
-            "description": "Still growing!"
+            "display_name": "Pianta di coda di volpe che spunta",
+            "description": "Ancora in crescita!"
           }
         }
       },
       "sunflower_plant": {
         "sunflower_plant_ghost": {
-          "display_name": "Sunflower",
-          "description": "Bright and happy like the sun"
+          "display_name": "Girasole",
+          "description": "Luminoso e felice come il sole"
         },
         "bud": {
           "sunflower_plant_plant_bud": {
-            "display_name": "Budding Sunflower Plant",
-            "description": "It's almost there!  You can see the flowers budding!"
+            "display_name": "Pianta di girasole in boccioli",
+            "description": "È quasi arrivato! Puoi vedere i fiori in boccioli!"
           }
         },
         "stem": {
           "sunflower_plant_plant_stem": {
-            "display_name": "Stemming Sunflower Plant",
-            "description": "Still growing!"
+            "display_name": "Pianta di girasole con stelo",
+            "description": "Ancora in crescita!"
           }
         },
         "sprout": {
           "sunflower_plant_plant_sprout": {
-            "display_name": "Sunflower Sproutling",
-            "description": "Just needs some time and care."
+            "display_name": "Germoglio Di Girasole",
+            "description": "Ho solo bisogno di un po' di tempo e cure."
           }
         },
         "seed": {
           "sunflower_plant_plant_seed_ghost": {
-            "display_name": "Sunflower Seed",
-            "description": "Can be planted to grow a beautiful sunflower."
+            "display_name": "Semi di girasole",
+            "description": "Può essere piantato per far crescere un bellissimo girasole."
           },
           "sunflower_plant_plant_seed": {
-            "display_name": "Sunflower Seed",
-            "description": "Can be planted to grow a beautiful sunflower."
+            "display_name": "Semi di girasole",
+            "description": "Può essere piantato per far crescere un bellissimo girasole."
           }
         }
       },
       "tumbleweed_live": {
-        "display_name": "Live Tumbleweed",
-        "description": "Once it dries out, it will be a great source of coarse fibers"
+        "display_name": "Rotolacampo vivo",
+        "description": "Una volta asciugato, sarà una grande fonte di fibre grossolane"
       },
       "sugarbell": {
-        "unripe_description": "Not yet ripe for harvest.",
+        "unripe_description": "Non ancora maturo per il raccolto.",
         "sugarbell_ghost": {
-          "display_name": "Sugarbell",
-          "description": "Harvestable for a bit of sugar."
+          "display_name": "Zucchero grezzo",
+          "description": "Raccolta per un po' di zucchero."
         },
         "bud": {
           "sugarbell_plant_bud": {
-            "display_name": "Budding Sugarbell",
-            "description": "It's almost there!  The petals are starting to change!"
+            "display_name": "Boccioli di zucchero grezzo",
+            "description": "È quasi arrivato! I petali stanno iniziando a cambiare!"
           }
         },
         "seed": {
           "sugarbell_plant_seed": {
-            "display_name": "Sugarbell Seed",
-            "description": "Can be planted to grow a bit of sugar"
+            "display_name": "Semi di zucchero grezzo",
+            "description": "Può essere piantato per far crescere un po' di zucchero"
           },
           "sugarbell_plant_seed_ghost": {
-            "display_name": "Sugarbell Seed",
-            "description": "Can be planted to grow a bit of sugar"
+            "display_name": "Semi di zucchero grezzo",
+            "description": "Può essere piantato per far crescere un po' di zucchero"
           }
         },
         "sprout": {
           "sugarbell_plant_sprout": {
-            "display_name": "Sugarbell Sproutling",
-            "description": "Just needs some time and care."
+            "display_name": "Zucchero grezzo in germogliamento",
+            "description": "Ho solo bisogno di un po' di tempo e cure."
           }
         },
         "stem": {
           "sugarbell_plant_stem": {
-            "display_name": "Stemming Sugarbell",
-            "description": "Still growing!"
+            "display_name": "Pianta di zucchero grezzo",
+            "description": "Ancora in crescita!"
           }
         }
       },
       "cactus_tulip_red_plant": {
         "cactus_tulip_red_plant_ghost": {
-          "display_name": "Red Tulip Cactus",
-          "description": "Can be harvested for healing herbs"
+          "display_name": "Cactus tulipano rosso",
+          "description": "Può essere raccolto per erbe curative"
         },
-        "unripe_description": "This plant has been harvested and has not grown back yet",
+        "unripe_description": "Questa pianta è stata raccolta e non è ancora cresciuta",
         "stem": {
           "cactus_tulip_red_plant_stem": {
-            "display_name": "Stemming Tulip Cactus Plant",
-            "description": "Still growing!"
+            "display_name": "Pianta del cactus di stelo del tulipano",
+            "description": "Ancora in crescita!"
           }
         },
         "sprout": {
           "cactus_tulip_red_plant_sprout": {
-            "display_name": "Tulip Cactus Sproutling",
-            "description": "Just needs some time and care."
+            "display_name": "Germoglio di cactus tulipano",
+            "description": "Ho solo bisogno di un po' di tempo e cure."
           }
         },
         "seed": {
           "cactus_tulip_red_plant_seed": {
-            "display_name": "Red Tulip Cactus Seed",
-            "description": "Once planted, it will grow into an healing herb plant"
+            "display_name": "Semi di cactus tulipano rosso",
+            "description": "Una volta piantato, diventerà una pianta erboristica curativa"
           },
           "cactus_tulip_red_plant_seed_ghost": {
-            "display_name": "Red Cactus Tulip Seed",
-            "description": "Once planted, it will grow into an healing herb plant"
+            "display_name": "Semi di tulipano cactus rosso",
+            "description": "Una volta piantato, diventerà una pianta erboristica curativa"
           }
         },
         "bud": {
           "cactus_tulip_red_plant_bud": {
-            "display_name": "Budding Tulip Cactus Plant",
-            "description": "It's almost there!  Look, it has buds!"
+            "display_name": "Pianta germogliante del cactus del tulipano",
+            "description": "È quasi arrivato!  Guarda, ha i boccioli!"
           }
         }
       },
       "cactus_tulip_blue_plant": {
         "stem": {
           "cactus_tulip_blue_plant_stem": {
-            "display_name": "Stemming Tulip Cactus Plant",
-            "description": "Still growing!"
+            "display_name": "Pianta del cactus di stelo del tulipano",
+            "description": "Ancora in crescita!"
           }
         },
         "sprout": {
           "cactus_tulip_blue_plant_sprout": {
-            "display_name": "Tulip Cactus Sproutling",
-            "description": "Just needs some time and care."
+            "display_name": "Germoglio di cactus tulipano",
+            "description": "Ho solo bisogno di un po' di tempo e cure."
           }
         },
         "seed": {
           "cactus_tulip_blue_plant_seed": {
-            "display_name": "Blue Tulip Cactus Seed",
-            "description": "Once planted, it will grow into an healing herb plant"
+            "display_name": "Semi di cactus tulipano blu",
+            "description": "Una volta piantato, diventerà una pianta erboristica curativa"
           },
           "cactus_tulip_blue_plant_seed_ghost": {
-            "display_name": "Blue Cactus Tulip Seed",
-            "description": "Once planted, it will grow into an healing herb plant"
+            "display_name": "Semi di tulipano cactus blu",
+            "description": "Una volta piantato, diventerà una pianta erboristica curativa"
           }
         },
         "bud": {
           "cactus_tulip_blue_plant_bud": {
-            "display_name": "Budding Tulip Cactus Plant",
-            "description": "It's almost there!  Look, it has buds!"
+            "display_name": "Pianta germogliante del cactus del tulipano",
+            "description": "È quasi arrivato!  Guarda, ha i boccioli!"
           }
         },
         "cactus_tulip_blue_plant_ghost": {
-          "display_name": "Blue Tulip Cactus",
-          "description": "Can be harvested for healing herbs"
+          "display_name": "Cactus tulipano blu",
+          "description": "Può essere raccolto per erbe curative"
         },
-        "unripe_description": "This plant has been harvested and has not grown back yet"
+        "unripe_description": "Questa pianta è stata raccolta e non è ancora cresciuta"
       },
       "cactus_tulip_plant": {
         "yellow": {
           "stem": {
             "cactus_tulip_yellow_plant_stem": {
-              "display_name": "Stemming Tulip Cactus Plant",
-              "description": "Still growing!"
+              "display_name": "Pianta del cactus di stelo del tulipano",
+              "description": "Ancora in crescita!"
             }
           },
           "sprout": {
             "cactus_tulip_yellow_plant_sprout": {
-              "display_name": "Tulip Cactus Sproutling",
-              "description": "Just needs some time and care."
+              "display_name": "Germoglio di cactus tulipano",
+              "description": "Ho solo bisogno di un po' di tempo e cure."
             }
           },
           "seed": {
             "cactus_tulip_yellow_plant_seed_ghost": {
-              "display_name": "Yellow Cactus Tulip Seed",
-              "description": "Once planted, it will grow into an healing herb plant"
+              "display_name": "Semi di tulipano cactus giallo",
+              "description": "Una volta piantato, diventerà una pianta erboristica curativa"
             },
             "cactus_tulip_yellow_plant_seed": {
-              "display_name": "Yellow Tulip Cactus Seed",
-              "description": "Once planted, it will grow into an healing herb plant"
+              "display_name": "Semi di cactus tulipano giallo",
+              "description": "Una volta piantato, diventerà una pianta erboristica curativa"
             }
           },
           "bud": {
             "cactus_tulip_yellow_plant_bud": {
-              "display_name": "Budding Tulip Cactus Plant",
-              "description": "It's almost there!  Look, it has buds!"
+              "display_name": "Pianta germogliante del cactus del tulipano",
+              "description": "È quasi arrivato!  Guarda, ha i boccioli!"
             }
           },
           "cactus_tulip_yellow_plant": {
-            "unripe_description": "This plant has been harvested and has not grown back yet"
+            "unripe_description": "Questa pianta è stata raccolta e non è ancora cresciuta"
           },
           "cactus_tulip_yellow_plant_ghost": {
-            "display_name": "Yellow Tulip Cactus",
-            "description": "Can be harvested for healing herbs"
+            "display_name": "Cactus tulipano giallo",
+            "description": "Può essere raccolto per erbe curative"
           }
         }
       },
       "wax_plant_purple": {
         "wax_plant_purple_ghost": {
-          "display_name": "Purple Wax Plant",
-          "description": "Just a cute little plant, can harvest it for seeds."
+          "display_name": "Pianta di cera viola",
+          "description": "Solo una piccola pianta carina, può raccoglierla per i semi."
         },
         "bud": {
           "wax_plant_purple_plant_bud": {
-            "display_name": "Budding Purple Wax Plant",
-            "description": "It's almost there!"
+            "display_name": "Boccioli di pianta di cera viola",
+            "description": "È quasi arrivato!"
           }
         },
         "seed": {
           "wax_plant_purple_plant_seed": {
-            "display_name": "Purple Wax Plant Seed",
-            "description": "Can be planted to grow a little cactus."
+            "display_name": "Seme della pianta di cera viola",
+            "description": "Può essere piantato per far crescere un piccolo cactus."
           },
           "wax_plant_purple_plant_seed_ghost": {
-            "display_name": "Purple Wax Plant Seed",
-            "description": "Can be planted to grow a little cactus."
+            "display_name": "Seme della pianta di cera viola",
+            "description": "Può essere piantato per far crescere un piccolo cactus."
           }
         },
         "sprout": {
           "wax_plant_purple_plant_sprout": {
-            "display_name": "Purple Wax Plant Sproutling",
-            "description": "Just needs some time and care."
+            "display_name": "Pianta di cera viola che germoglia",
+            "description": "Ho solo bisogno di un po' di tempo e cure."
           }
         },
         "stem": {
           "wax_plant_purple_plant_stem": {
-            "display_name": "Stemming Purple Wax Plant",
-            "description": "Still growing!"
+            "display_name": "Pianta di cera viola",
+            "description": "Ancora in crescita!"
           }
         }
       },
       "wax_plant_green": {
         "wax_plant_green_ghost": {
-          "display_name": "Green Wax Plant",
-          "description": "Just a cute little plant, can harvest it for seeds."
+          "display_name": "Pianta di cera verde",
+          "description": "Solo una piccola pianta carina, può raccoglierla per i semi."
         },
         "bud": {
           "wax_plant_green_plant_bud": {
-            "display_name": "Budding Green Wax Plant",
-            "description": "It's almost there!"
+            "display_name": "Pianta di cera verde germogliante",
+            "description": "È quasi arrivato!"
           }
         },
         "seed": {
           "wax_plant_green_plant_seed": {
-            "display_name": "Green Wax Plant Seed",
-            "description": "Can be planted to grow a little cactus."
+            "display_name": "Seme verde della pianta di cera",
+            "description": "Può essere piantato per far crescere un piccolo cactus."
           },
           "wax_plant_green_plant_seed_ghost": {
-            "display_name": "Green Wax Plant Seed",
-            "description": "Can be planted to grow a little cactus."
+            "display_name": "Seme verde della pianta di cera",
+            "description": "Può essere piantato per far crescere un piccolo cactus."
           }
         },
         "sprout": {
           "wax_plant_green_plant_sprout": {
-            "display_name": "Green Wax Plant Sproutling",
-            "description": "Just needs some time and care."
+            "display_name": "Pianta di cera verde che germoglia",
+            "description": "Ho solo bisogno di un po' di tempo e cure."
           }
         },
         "stem": {
           "wax_plant_green_plant_stem": {
-            "display_name": "Stemming Green Wax Plant",
-            "description": "Still growing!"
+            "display_name": "Contiene pianta verde di cera",
+            "description": "Ancora in crescita!"
           }
         }
       },
       "sweet_potato": {
         "sweet_potato_ghost": {
-          "display_name": "Sweet Potato",
-          "description": "Hearty winter spud"
+          "display_name": "Patata dolce",
+          "description": "Ricco inverno"
         },
         "bud": {
           "sweet_potato_plant_bud": {
-            "display_name": "Budding Sweet Potato",
-            "description": "It's almost full grown!"
+            "display_name": "Boccioli patata dolce",
+            "description": "È quasi completamente cresciuto!"
           }
         },
         "rotten": {
           "sweet_potato_rotten": {
-            "display_name": "Rotten Sweet Potato",
-            "description": "Not good for eating anymore, but a great source of seeds"
+            "display_name": "Patata dolce marcia",
+            "description": "Non va più bene per mangiare, ma è un'ottima fonte di semi"
           }
         },
         "seed": {
           "sweet_potato_plant_seed": {
-            "display_name": "Sweet Potato Slip",
-            "description": "Can be planted to grow a tasty purple veggie."
+            "display_name": "Scivolata di patate dolci",
+            "description": "Può essere piantato per far crescere una gustosa verdura viola."
           }
         },
         "sprout": {
           "sweet_potato_plant_sprout": {
-            "display_name": "Sweet Potato Sproutling",
-            "description": "Just needs some time and care."
+            "display_name": "Germoglio di patate dolci",
+            "description": "Ho solo bisogno di un po' di tempo e cure."
           }
         },
         "stem": {
           "sweet_potato_plant_stem": {
-            "display_name": "Stemming Sweet Potato",
-            "description": "Still growing!"
+            "display_name": "Stelo di patate dolci",
+            "description": "Ancora in crescita!"
           }
         }
       },
       "snow_poppy_plant": {
         "stem": {
           "snow_poppy_plant_stem": {
-            "display_name": "Stemming Snow Poppy",
-            "description": "Still growing!"
+            "display_name": "Stelo di papavero neve",
+            "description": "Ancora in crescita!"
           }
         },
         "sprout": {
           "snow_poppy_plant_sprout": {
-            "display_name": "Snow Poppy Sproutling",
-            "description": "Just needs some time and care."
+            "display_name": "Germoglio del papavero delle nevi",
+            "description": "Ho solo bisogno di un po' di tempo e cure."
           }
         },
         "seed": {
           "snow_poppy_plant_seed": {
-            "display_name": "Snow Poppy Seed",
-            "description": "Once planted, it will grow vibrant flowers"
+            "display_name": "Semi di papavero neve",
+            "description": "Una volta piantato, crescerà fiori vibranti"
           },
           "snow_poppy_plant_seed_ghost": {
-            "display_name": "Snow Poppy Seed",
-            "description": "Once planted, it will grow vibrant flowers"
+            "display_name": "Semi di papavero neve",
+            "description": "Una volta piantato, crescerà fiori vibranti"
           }
         },
         "bud": {
           "snow_poppy_plant_bud": {
-            "display_name": "Budding Snow Poppy",
-            "description": "It's almost there!  Look, it has buds!"
+            "display_name": "Papavero di neve in boccioli",
+            "description": "È quasi arrivato!  Guarda, ha i boccioli!"
           }
         },
-        "unripe_description": "This plant has been harvested and has not grown back yet",
+        "unripe_description": "Questa pianta è stata raccolta e non è ancora cresciuta",
         "snow_poppy_plant_ghost": {
-          "display_name": "Snow Poppy",
-          "description": "Can be harvested for healing herbs"
+          "display_name": "Papavero neve",
+          "description": "Può essere raccolto per erbe curative"
         }
       },
       "gold_snow_poppy_plant": {
         "stem": {
           "gold_snow_poppy_plant_stem": {
-            "display_name": "Stemming Snow Poppy",
-            "description": "Still growing!"
+            "display_name": "Steli di papavero delle nevi",
+            "description": "Ancora in crescita!"
           }
         },
         "sprout": {
           "gold_snow_poppy_plant_sprout": {
-            "display_name": "Snow Poppy Sproutling",
-            "description": "Just needs some time and care."
+            "display_name": "Papavero di neve che germoglia",
+            "description": "Ho solo bisogno di un po' di tempo e cure."
           }
         },
         "seed": {
           "gold_snow_poppy_plant_seed": {
-            "display_name": "Snow Poppy Seed",
-            "description": "Once planted, it will grow vibrant flowers"
+            "display_name": "Semi di papavero di neve",
+            "description": "Una volta piantato, crescerà fiori vibranti"
           },
           "gold_snow_poppy_plant_seed_ghost": {
-            "display_name": "Snow Poppy Seed",
-            "description": "Once planted, it will grow vibrant flowers"
+            "display_name": "Semi di papavero di neve",
+            "description": "Una volta piantato, crescerà fiori vibranti"
           }
         },
         "bud": {
           "gold_snow_poppy_plant_bud": {
-            "display_name": "Budding Snow Poppy",
-            "description": "It's almost there!  Look, it has buds!"
+            "display_name": "Papavero di neve in boccioli",
+            "description": "È quasi arrivato!  Guarda, ha i boccioli!"
           }
         },
-        "unripe_description": "This plant has been harvested and has not grown back yet",
+        "unripe_description": "Questa pianta è stata raccolta e non è ancora cresciuta",
         "gold_snow_poppy_plant_ghost": {
-          "display_name": "Snow Poppy",
-          "description": "Can be harvested for healing herbs"
+          "display_name": "Papavero neve",
+          "description": "Può essere raccolto per erbe curative"
         }
       },
       "violet_plant": {
         "violet_plant": {
-          "unripe_description": "This plant has been harvested and has not grown back yet."
+          "unripe_description": "Questa pianta è stata raccolta e non è ancora cresciuta."
         },
         "violet_plant_ghost": {
-          "display_name": "Violet",
-          "description": "Can be harvested for healing herbs"
+          "display_name": "Violetta",
+          "description": "Può essere raccolto per erbe curative"
         },
         "bud": {
           "violet_plant_bud": {
-            "display_name": "Budding Violet",
-            "description": "It's almost there!  Look, it has buds!"
+            "display_name": "Violetta in boccioli",
+            "description": "È quasi arrivato!  Guarda, ha i boccioli!"
           }
         },
         "seed": {
           "violet_plant_seed": {
-            "display_name": "Violet Seed",
-            "description": "Once planted, it will grow purple flowers"
+            "display_name": "Semi di violetta",
+            "description": "Una volta piantato, crescerà fiori viola"
           },
           "violet_plant_seed_ghost": {
-            "display_name": "Violet Seed",
-            "description": "Once planted, it will grow purple flowers"
+            "display_name": "Semi di violetta",
+            "description": "Una volta piantato, crescerà fiori viola"
           }
         },
         "sprout": {
           "violet_plant_sprout": {
-            "display_name": "Violet Sproutling",
-            "description": "Just needs some time and care."
+            "display_name": "Germoglio di violetta",
+            "description": "Ho solo bisogno di un po' di tempo e cure."
           }
         },
         "stem": {
           "violet_plant_stem": {
-            "display_name": "Stemming violet",
-            "description": "Still growing!"
+            "display_name": "Steli di violetta",
+            "description": "Ancora in crescita!"
           }
         }
       },
       "wintermoss": {
         "wintermoss": {
           "wintermoss_ghost": {
-            "display_name": "Wintermoss",
-            "description": "This plant's fiber can be spun into thread."
+            "display_name": "Muschio invernale",
+            "description": "La fibra di questa pianta può essere filata nel filo."
           }
         },
         "bud": {
           "wintermoss_bud": {
-            "display_name": "Budding Wintermoss",
-            "description": "It's almost there!  Look, it has buds!"
+            "display_name": "Muschio d'inverno in boccioli",
+            "description": "È quasi arrivato!  Guarda, ha i boccioli!"
           },
           "wintermoss_plant_bud": {
-            "display_name": "Budding Wintermoss",
-            "description": "It's almost full grown!"
+            "display_name": "Muschio d'inverno in boccioli",
+            "description": "È quasi completamente cresciuto!"
           }
         },
-        "display_name": "Wintermoss",
-        "description": "Source of coarse fibers",
+        "display_name": "Muschio invernale",
+        "description": "Fonte di fibre grossolane",
         "seed": {
           "wintermoss_plant_seed": {
-            "display_name": "Wintermoss Seed",
-            "description": "Can be planted to grow a scratchy fiber."
+            "display_name": "Seme di muschio invernale",
+            "description": "Può essere piantato per far crescere una fibra graffiante."
           },
           "wintermoss_plant_seed_ghost": {
-            "display_name": "Wintermoss Seed",
-            "description": "Can be planted to grow a scratchy fiber."
+            "display_name": "Seme di muschio invernale",
+            "description": "Può essere piantato per far crescere una fibra graffiante."
           }
         },
         "sprout": {
           "wintermoss_plant_sprout": {
-            "display_name": "Wintermoss Sproutling",
-            "description": "Just needs some time and care."
+            "display_name": "Germoglio di muschio invernale",
+            "description": "Ho solo bisogno di un po' di tempo e cure."
           }
         },
         "stem": {
           "wintermoss_plant_stem": {
-            "display_name": "Stemming Wintermoss",
-            "description": "Still growing!"
+            "display_name": "Steli di muschio invernale",
+            "description": "Ancora in crescita!"
           }
         }
       },
       "earthbud": {
         "stem": {
           "earthbud_plant_stem": {
-            "display_name": "Stemming Hearthbud",
-            "description": "Still growing!"
+            "display_name": "Steli di Hearthbud",
+            "description": "Ancora in crescita!"
           }
         },
         "sprout": {
           "earthbud_plant_sprout": {
-            "display_name": "Hearthbud Sproutling",
-            "description": "Just needs some time and care."
+            "display_name": "Germoglio di Hearthbud",
+            "description": "Ho solo bisogno di un po' di tempo e cure."
           }
         },
         "seed": {
           "earthbud_plant_seed": {
-            "display_name": "Hearthbud Seed",
-            "description": "Can be planted to grow a Hearthbud flower that collects Hearth essence."
+            "display_name": "Semi di Hearthbud",
+            "description": "Può essere piantato per far crescere un fiore Hearthbud che raccoglie l'essenza della terra."
           },
           "earthbud_plant_seed_ghost": {
-            "display_name": "Hearthbud Seed",
-            "description": "Can be planted to grow a Hearthbud flower that collects Hearth essence."
+            "display_name": "Semi di Hearthbud",
+            "description": "Può essere piantato per far crescere un fiore Hearthbud che raccoglie l'essenza della terra."
           }
         },
         "earthbud_ghost": {
           "display_name": "Hearthbud",
-          "description": "Harvestable for concentrated Hearth Essence and more Hearthbud Seeds"
+          "description": "Raccolta per l'essenza di terra concentrata e altri semi Hearthbud"
         },
-        "unripe_description": "Not yet ripe for harvest.",
+        "unripe_description": "Non ancora maturo per il raccolto.",
         "bud": {
           "earthbud_plant_bud": {
-            "display_name": "Budding Hearthbud",
-            "description": "Still just a bud sticking out of the ground. Hang in there, bud."
+            "display_name": "Hearthbud in boccioli",
+            "description": "Ancora solo un germoglio che sporge dal terreno. Resisti, amico."
           }
         }
       }
@@ -14525,146 +14525,146 @@
     "rabbit": {
       "lantern_relic": {
         "lantern_relic_ghost": {
-          "display_name": "Ancient Relic",
-          "description": "Crumbling with age"
+          "display_name": "Antica reliquia",
+          "description": "Sbriciolandosi con l'età"
         }
       },
       "rabbit_statue": {
-        "display_name": "An Ancient Monument",
-        "description": "Mossy, but the stone is still good..."
+        "display_name": "Un antico monumento",
+        "description": "Muschioso, ma la pietra è ancora buona..."
       }
     },
     "refined": {
       "bronze_ingot": {
-        "display_name": "Bronze Ingot",
-        "description": "A bar of pure bronze."
+        "display_name": "Lingotto di bronzo",
+        "description": "Una barra di bronzo puro."
       },
       "cloth_bolt": {
-        "display_name": "Bolt of Cloth",
-        "description": "Soft and comforting."
+        "display_name": "Bullone di stoffa",
+        "description": "Morbido e confortante."
       },
       "copper_ingot": {
-        "display_name": "Copper Ingot",
-        "description": "A bar of pure copper.  "
+        "display_name": "Lingotto di rame",
+        "description": "Una barra di rame puro."
       },
       "gold_ingot": {
-        "display_name": "Gold Ingot",
-        "description": "A bar of pure gold. A suitable material for crafted goods."
+        "display_name": "Lingotto d'oro",
+        "description": "Una barra di oro puro. Un materiale adatto per prodotti artigianali."
       },
       "iron_ingot": {
-        "display_name": "Iron Ingot",
-        "description": "A bar of pure iron."
+        "display_name": "Lingotto di ferro",
+        "description": "Una barra di ferro puro."
       },
       "leather_bolt": {
-        "display_name": "Bolt of Leather",
-        "description": "Supple but durable."
+        "display_name": "Bullone di cuoio",
+        "description": "Morbido ma resistente."
       },
       "silver_ingot": {
-        "display_name": "Silver Ingot",
-        "description": "A bar of pure silver."
+        "display_name": "Lingotto d'argento",
+        "description": "Una barra di argento puro."
       },
       "steel_ingot": {
-        "display_name": "Steel Ingot",
-        "description": "A bar of pure steel."
+        "display_name": "Lingotto d'acciaio",
+        "description": "Una barra di acciaio puro."
       },
       "stone_bricks": {
-        "display_name": "Stack of Stone Bricks",
-        "description": "A key component of stone buildings"
+        "display_name": "Pila di mattoni di pietra",
+        "description": "Un componente chiave degli edifici in pietra"
       },
       "thread": {
-        "display_name": "Spool of Thread",
-        "description": "Spun from the wool of sheep. Or plants."
+        "display_name": "Rocchetto di filo",
+        "description": "Filato dalla lana di pecora. O piante."
       },
       "tin_ingot": {
-        "display_name": "Tin Ingot",
-        "description": "A bar of pure tin.  "
+        "display_name": "Lingotto di stagno",
+        "description": "Una barra du stagno pura"
       },
       "bronze_gear": {
-        "display_name": "Bronze Gear",
-        "description": "Used to craft basic gadgetry"
+        "display_name": "Ingranaggio di bronzo",
+        "description": "Utilizzato per creare gadget di base"
       },
       "iron_gear": {
-        "display_name": "Iron Gear",
-        "description": "Used to craft intermediate gadgetry"
+        "display_name": "Ingranaggio di ferro",
+        "description": "Utilizzato per creare gadget intermedi"
       },
       "silver_bowstring": {
-        "display_name": "Silver Bowstring",
-        "description": "A spool of strong, spun silver cord."
+        "display_name": "Corda d'argento",
+        "description": "Una bobina di forte filo d'argento filato."
       },
       "woven_grip": {
-        "display_name": "Woven Grip",
-        "description": "Tightly wrapped with cords of blue and gold"
+        "display_name": "Impugnatura tessuta",
+        "description": "Strettamente avvolto con corde di blu e oro"
       },
       "blazing_inlay": {
-        "display_name": "Blazing Inlay",
-        "description": "Radiant gilding for the Emblazoned Sword."
+        "display_name": "Intarsio ardente",
+        "description": "Doratura radiosa per la spada blasonata."
       },
       "steel_frame": {
-        "display_name": "Giant's Frame",
-        "description": "Reinforces the Giant's Shield."
+        "display_name": "Cornice del gigante",
+        "description": "Rinforza lo scudo del gigante."
       },
       "giants_face": {
-        "display_name": "Giant's Face",
-        "description": "Protects the Giant's Shield."
+        "display_name": "Volto del gigante",
+        "description": "Protegge lo scudo del gigante."
       },
       "mechanism": {
-        "display_name": "Phoenix Mechanism",
-        "description": "The wheels of the Empire Bow"
+        "display_name": "Meccanismo della fenice",
+        "description": "Le ruote dell'arco dell'impero"
       },
       "lucid_gem": {
-        "display_name": "Lucid Gem",
-        "description": "A spiritual focus, essential for the Shining Circlet."
+        "display_name": "Gemma Lucida",
+        "description": "Un focus spirituale, essenziale per il cerchietto splendente."
       },
       "shining_setting": {
-        "display_name": "Silverleaf Setting",
-        "description": "Delicately frames and protects the Shining Circlet"
+        "display_name": "Impostazione foglia d'argento",
+        "description": "Incornicia delicatamente e protegge il cerchietto splendente"
       },
       "golem_backpack": {
-        "display_name": "Golem Backpack",
-        "description": "Used by the Geomancer to craft Ox Golems"
+        "display_name": "Zaino Golem",
+        "description": "Utilizzato dal geomante per creare golem di bue"
       },
       "golem_parts": {
-        "display_name": "Golem Parts",
-        "description": "Used by the Geomancer to craft golems"
+        "display_name": "Parti del Golem",
+        "description": "Utilizzato dal geomante per creare golem"
       },
       "golem_pick": {
-        "display_name": "Golem Pick",
-        "description": "Used by the Geomancer to craft Mole Golems"
+        "display_name": "Golem raccoglitore",
+        "description": "Utilizzato dal geomante per creare golem talpa"
       }
     },
     "resources": {
       "coal": {
         "lump_of_coal": {
-          "display_name": "Lump 'o Coal",
-          "description": "A sizable chunk of solid coal."
+          "display_name": "Pezzo di carbone",
+          "description": "Un grosso pezzo di carbone solido."
         }
       },
       "copper": {
         "copper_ore": {
-          "display_name": "Copper Ore",
-          "description": "A chunk of raw copper"
+          "display_name": "Minerale di rame",
+          "description": "Un pezzo di rame grezzo"
         }
       },
       "fiber": {
         "silkweed_bundle": {
-          "display_name": "Silkweed Bundle",
-          "description": "Spinnable into thread"
+          "display_name": "Fagotto di bachi da seta",
+          "description": "Infilabile nel filo"
         },
         "wool_bundle": {
-          "display_name": "Bundle of Wool",
-          "description": "Spinnable into thread"
+          "display_name": "Fascio di lana",
+          "description": "Infilabile nel filo"
         },
         "coarse_fiber_bundle": {
-          "display_name": "Coarse Fiber Bundle",
-          "description": "Rough and itchy"
+          "display_name": "Fascio di fibre grossolane",
+          "description": "Ruvido e pruriginoso"
         },
         "wintermoss_bundle": {
-          "display_name": "Wintermoss Bundle",
-          "description": "Spinnable into thread"
+          "display_name": "Fascio di muschio invernale",
+          "description": "Infilabile nel filo"
         },
         "heirbloom_bundle": {
-          "display_name": "Heirbloom Stalks",
-          "description": "An Amberstone favorite. Spinnable into thread."
+          "display_name": "Gambi di Heirbloom",
+          "description": "Un favorito di Amberstone. Infilabile nel filo."
         },
         "coarse_fiber_bundle_winter": {
           "display_name": "Light Coarse Fiber Bundle",

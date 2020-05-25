@@ -1,0 +1,281 @@
+{
+   "amenity_to": {
+      "forest": "hostile",
+      "critters": "hostile",
+      "animals": "hostile",
+      "orcs": "hostile",
+      "undead": "hostile",
+      "goblins": "hostile",
+      "human_npcs": "neutral",
+      "orc_npcs": "neutral",
+      "rabbit_biped_npcs": "neutral"
+   },
+   "amenity_to_strangers": "hostile",
+   "kingdom_id": "titans",
+   "kingdom_name": "Titans",
+   "roles": {
+      "beetle": {
+         "male": {
+            "given_names": [
+               "Corrupt Crawler"
+            ],
+            "uri": [
+               "stonehearth:monsters:corrupt:beetle"
+            ]
+         },
+         "surnames": [
+            ""
+         ]
+      },
+      "hearthling": {
+         "male": {
+            "given_names": [
+               "Ltnoa",
+               "Neewyd",
+               "Nsoatf",
+               "Ffeog",
+               "Okr",
+               "Ftnase",
+               "Ehaht",
+               "Nrjee",
+               "Nveak",
+               "Olrn",
+               "Dram",
+               "Annvi",
+               "Eloln",
+               "Tpynae",
+               "Oeakr",
+               "Lanevs",
+               "Tornest",
+               "Ponamct",
+               "Bomr",
+               "Wnloliy",
+               "Naes",
+               "Rgateh",
+               "Oln",
+               "Edzd",
+               "Otparn",
+               "Afdf",
+               "Ldwali",
+               "Iirnvg",
+               "Ele",
+               "Lanoc",
+               "Rophpec",
+               "Nymto",
+               "Ajieebdh",
+               "Ssip",
+               "Voentrl",
+               "Exla",
+               "Nagarr",
+               "Nrtvoei",
+               "Awnynd",
+               "Jonh",
+               "Leyir",
+               "Dywn",
+               "Ssbaino",
+               "Lcau",
+               "Arhes",
+               "Zrea",
+               "Onawr",
+               "Eki",
+               "Sackebrt",
+               "Lmai",
+               "Lnea",
+               "Ieol",
+               "Lainl",
+               "Rdaon",
+               "Atnda",
+               "Warny",
+               "Ptya",
+               "Rstbeae",
+               "Dldes",
+               "Nians",
+               "Eibrtb",
+               "Lecba",
+               "Darw",
+               "Ccile",
+               "Iisnna",
+               "Awilt",
+               "Ccii",
+               "Iref",
+               "Asm",
+               "Itupl",
+               "Ieyclc",
+               "Lche",
+               "Ina",
+               "Etpra",
+               "Iyu",
+               "Raad",
+               "Aanali",
+               "Iab",
+               "Etbh",
+               "Eyac",
+               "Venaod",
+               "Faufy",
+               "Zaynln",
+               "Lyea",
+               "Finoa",
+               "Emg",
+               "Nehle",
+               "Airdi",
+               "Oj",
+               "Ekat",
+               "Noarl",
+               "Ellm",
+               "Oanrs",
+               "Roas",
+               "Pnne",
+               "Anrei",
+               "Srea",
+               "Essht",
+               "Alttcers",
+               "Elane",
+               "Ehla",
+               "Uaunmt",
+               "Nnse",
+               "Aenrv",
+               "Noela",
+               "Ylis",
+               "Voi",
+               "Sjse",
+               "Nimarean",
+               "Illrta",
+               "Volie",
+               "Ymme",
+               "Ulna",
+               "Pnoi",
+               "Eall",
+               "Akmi",
+               "Xale",
+               "Leseni",
+               "Llyi",
+               "Aeilma",
+               "Ila",
+               "Kila",
+               "Eaimgg",
+               "Srii",
+               "Ppity",
+               "Zylzi",
+               "Etsas",
+               "Nneyol",
+               "Oesr",
+               "Miieal",
+               "Riiap",
+               "Oilene",
+               "Nyjue",
+               "Hrea",
+               "Erfay",
+               "Naru",
+               "Ahmic",
+               "Aros",
+               "Eularls",
+               "Eelif",
+               "Naman",
+               "Gaeylr",
+               "Ahaengm",
+               "Loill"
+            ],
+            "uri": [
+               "stonehearth:monsters:corrupt:hearthling"
+            ]
+         },
+         "surnames": [
+            "Habdlrsuyn",
+            "Arifdterrs",
+            "Wginar",
+            "Leotlit",
+            "Looetsbo",
+            "Iwyednrf",
+            "Acavdr",
+            "Aessed",
+            "Pppa",
+            "Ncona",
+            "Hlckoe",
+            "Tgwebillrh",
+            "Nohotntrpi",
+            "Arelbl",
+            "Ewnlrica",
+            "Rmfear",
+            "Ueorthtnn",
+            "Niwets",
+            "Ojlnda",
+            "Abbu",
+            "Thar",
+            "Oloewnd",
+            "Nrdueof",
+            "Dindao",
+            "Dlneeb",
+            "Oodarc",
+            "Eermb",
+            "Odirrl",
+            "Ntnefo",
+            "Galri",
+            "Hrome",
+            "Rnsevie",
+            "Lvoij",
+            "Arnk",
+            "Seslel",
+            "Onmt",
+            "Lienvn",
+            "Npeop",
+            "Nerpist",
+            "Sques",
+            "Raeli",
+            "Drtseon",
+            "Eetnrt",
+            "Bmuro",
+            "Sodvnse",
+            "Rteswe",
+            "Ssiy",
+            "Mleba",
+            "Amelv",
+            "Ropuned",
+            "Orezd",
+            "Aynre",
+            "Okro",
+            "Tberoewll",
+            "Lanilik",
+            "Ellr"
+         ]
+      },
+      "wolf": {
+         "male": {
+            "given_names": [
+               "Verderbtes Biest"
+            ],
+            "uri": [
+               "stonehearth:monsters:corrupt:wolf"
+            ]
+         },
+         "surnames": [
+            ""
+         ]
+      },
+      "zilla": {
+         "male": {
+            "given_names": [
+               "Mostro Corrotto"
+            ],
+            "uri": [
+               "stonehearth:monsters:corrupt:zilla"
+            ]
+         },
+         "surnames": [
+            ""
+         ]
+      }
+   },
+   "task_groups": "stonehearth:data:humanoid_task_groups",
+   "town_pieces": {
+      "optional_prefix": [
+         "Eld"
+      ],
+      "suffix": [
+         "garr"
+      ],
+      "town_name": [
+         "R'lyeh"
+      ]
+   },
+   "type": "kingdom"
+}

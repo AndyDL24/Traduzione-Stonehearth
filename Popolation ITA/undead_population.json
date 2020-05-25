@@ -1,0 +1,184 @@
+{
+   "roles": {
+      "skeleton": {
+         "mixintypes": {
+            "surnames": "override"
+         },
+         "surnames": [
+            "Osso",
+            "la Morte",
+            "l'Oblio",
+            "lo Scheletro",
+            "Una volta umano",
+            "Cordless"
+         ]
+      },
+      "zombie": {
+         "mixintypes": {
+            "surnames": "override"
+         },
+         "surnames": [
+            "lo Zombie",
+            "il Decadimento",
+            "il Torturato",
+            "Teschio di vermi",
+            "la Morte",
+            "il Triste",
+            "il Lento"
+         ]
+      },
+      "necromancer": {
+         "mixintypes": {
+            "surnames": "override"
+         },
+         "surnames": [
+            "Frantoio dell'anima",
+            "il Tormentatore",
+            "il Corrotto",
+            "Sussurro del destino",
+            "il dissacratore",
+            "l'abusatore",
+            "Lo scavatore di tombe"
+         ]
+      },
+      "zombie_giant" : {
+         "male" : {
+            "uri" : [
+	    "stonehearth:monsters:undead:zombie:giant_male"
+	    ],
+            "given_names" : [
+               "Broo",
+               "Jokok",
+               "Craglek",
+               "Lost",
+               "Empt",
+               "Brok",
+               "Holvo",
+               "Despr",
+               "Desnad",
+               "Ton",
+               "Ren",
+               "Trest",
+               "Garef",
+               "Lee",
+               "Dih",
+               "Sher",
+               "Beck",
+               "Ian",
+               "Namenlos"
+            ]
+         },
+         "female" : {
+            "uri" : ["stonehearth:monsters:undead:zombie:giant_female"],
+            "given_names" : [
+               "Kate",
+               "Amy",
+               "Idra",
+               "Loss",
+               "Mourn",
+               "Bleck",
+               "Ness",
+               "Lene",
+               "Elia",
+               "Essa",
+               "Elie",
+               "Namenlos"
+            ]
+         },
+         "surnames" : [
+            "il Verde",
+            "la Morte",
+            "il Carnivoro",
+            "la Putrefazione",
+            "Una volta umano",
+            "Rompicapo",
+            "il Gigante"
+         ]
+               },
+      "skeleton_giant" : {
+         "male" : {
+            "uri" : ["stonehearth:monsters:undead:skeleton:giant_male"],
+            "given_names" : [
+               "Broo",
+               "Jokok",
+               "Craglek",
+               "Lost",
+               "Empt",
+               "Brok",
+               "Holvo",
+               "Despr",
+               "Desnad",
+               "Ton",
+               "Ren",
+               "Trest",
+               "Garef",
+               "Lee",
+               "Dih",
+               "Sher",
+               "Beck",
+               "Ian",
+               "Namenlos"
+            ]
+         },
+         "female" : {
+            "uri" : ["stonehearth:monsters:undead:skeleton:giant_female"],
+            "given_names" : [
+               "Kate",
+               "Amy",
+               "Idra",
+               "Loss",
+               "Mourn",
+               "Bleck",
+               "Ness",
+               "Lene",
+               "Elia",
+               "Essa",
+               "Elie",
+               "Namenlos"
+            ]
+         },
+         "surnames" : [
+            "der Grüne",
+            "der Tode",
+            "der Fleischfresser",
+            "der Verrottende",
+            "Einmal-Mensch",
+            "Kopfknocker",
+            "der Gigant"
+         ]
+      },
+      "wolf_skeleton" : {
+         "male" : {
+            "uri" : ["stonehearth:monsters:undead:wolf_skeleton"],
+            "given_names" : [
+               "Max",
+               "Buster",
+               "Jack",
+               "Tucker",
+               "Oliver",
+               "Sam"
+            ]
+         },
+         "female" : {
+            "uri" : ["stonehearth:monsters:undead:wolf_skeleton"],
+            "given_names" : [
+               "Abby",
+               "Ginger",
+               "Gracie",
+               "Cocoa",
+               "Emma",
+               "Zoe"
+            ]
+         },
+         "surnames" : [
+            "lo Gnasher",
+            "il Vivace",
+            "i Nasi Sporchi",
+            "il Dente",
+            "Feroce",
+            "Mascella bloccata",
+            "il Gigante"
+         ]
+      }
+   }
+}

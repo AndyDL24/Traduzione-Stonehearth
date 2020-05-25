@@ -1,0 +1,81 @@
+{
+   "roles": {
+      "default": {
+         "mixintypes": {
+            "surnames": "override"
+         },
+         "surnames": [
+            "Il magnifico",
+            "Il marrone scuro",
+            "il Sagace",
+            "Cranio rotto",
+            "Mangia unghie",
+            "l'Estemporaneo",
+            "l'Arancia",
+            "l'Oliva",
+            "Pelapatate",
+            "l'Orribile",
+            "il Potente",
+            "Mente geniale",
+            "il più serio",
+            "il mozzafiato",
+            "il magnanimo",
+            "Creatore di re",
+            "lo Strappato",
+            "zanne Scarlatte",
+            "l'Ovvio",
+            "lo Sfacciato",
+            "la Flangia",
+            "Cotte di cuoio",
+            "Ammazzadraghi",
+            "Pantaloni spinosi",
+            "Cazzotto",
+            "Pittore di sangue",
+            "il Grandioso"
+         ]
+      },
+      "wolf": {
+         "mixintypes": {
+            "surnames": "override"
+         },
+         "surnames": [
+            "il Feroce",
+            "Insegue-il-Cielo",
+            "Brontolone",
+            "la Schiuma",
+            "l'intimidante",
+            "il maniacale",
+            "il rabbioso",
+            "il temibile",
+            "il coccolone",
+            "il preferito",
+            "Mangiatore di persone",
+            "l'amichevole"
+         ]
+      },
+      "mountain_ogre": {
+         "male": {
+            "mixintypes": {
+            "given_names": "override",
+            "surnames": "override"
+         },
+            "given_names": [
+               "Montagna"
+            ],
+            "surnames": [
+               "l'Orco"
+            ]
+         }
+      },
+      "boss_sheep": {
+         "male": {
+            "mixintypes": {
+            "given_names": "override"
+         },
+            "given_names": [
+               "Bluebell"
+            ]
+         }
+      }
+   }
+}
