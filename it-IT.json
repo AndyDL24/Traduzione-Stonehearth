@@ -2458,7 +2458,7 @@
     },
     "biome": {
       "temperate": {
-        "display_name": "Temperato/a",
+        "display_name": "Temperato",
         "description": "Foreste, fiumi e montagne. Casa predefinita dell'ascendente.",
         "random_location_names": {
           "000": "nella Foresta della landa scura"
@@ -13905,7 +13905,7 @@
       },
       "tester": {
         "tester_basket": {
-          "display_name": "Basket of Testers",
+          "display_name": "Cesto di tester",
           "description": "Succoso ed eccitante!"
         },
         "tester_serving": {
@@ -14667,1101 +14667,1101 @@
           "description": "Un favorito di Amberstone. Infilabile nel filo."
         },
         "coarse_fiber_bundle_winter": {
-          "display_name": "Light Coarse Fiber Bundle",
-          "description": "Rough and itchy"
+          "display_name": "Fascio di fibre grossolane leggere",
+          "description": "Ruvido e pruriginoso"
         }
       },
       "gold": {
         "gold_ore": {
-          "display_name": "Gold Ore",
-          "description": "A chunk of raw gold"
+          "display_name": "Minerale d'oro",
+          "description": "Un pezzo di oro grezzo"
         },
         "bone_ancient": {
-          "display_name": "Ancient Bone",
-          "description": "A piece of very old bone."
+          "display_name": "Osso antico",
+          "description": "Un pezzo di osso molto vecchio."
         }
       },
       "iron": {
         "iron_ore": {
-          "display_name": "Iron Ore",
-          "description": "A chunk of raw iron"
+          "display_name": "Minerale di ferro",
+          "description": "Un pezzo di ferro grezzo"
         }
       },
       "pelt": {
         "rabbit_pelt": {
-          "display_name": "Rabbit Pelt",
-          "description": "Soft, supple, and quite dead."
+          "display_name": "Pelle di coniglio",
+          "description": "Morbido, elastico e abbastanza morto."
         },
         "racoon_pelt": {
-          "display_name": "Racoon pelt",
-          "description": "Soft, supple, and quite dead"
+          "display_name": "Pelle di procione",
+          "description": "Morbido, elastico e abbastanza morto"
         },
         "red_fox_pelt": {
-          "display_name": "Fox pelt",
-          "description": "Soft, supple, and quite dead"
+          "display_name": "Pelle di volpe",
+          "description": "Morbido, elastico e abbastanza morto"
         },
         "squirrel_pelt": {
-          "display_name": "Squirrel pelt",
-          "description": "Soft, supple, and quite dead"
+          "display_name": "Pelle di scoiattolo",
+          "description": "Morbido, elastico e abbastanza morto"
         },
         "wolf_pelt": {
-          "display_name": "Wolf pelt",
-          "description": "From the hide of a terrifying creature"
+          "display_name": "Pelle di lupo",
+          "description": "Dalla pelle di una terrificante creatura"
         },
         "deer_pelt": {
-          "display_name": "Deer Pelt",
-          "description": "Soft, supple, and quite dead"
+          "display_name": "Pelle di cervo",
+          "description": "Morbido, elastico e abbastanza morto"
         },
         "cougar_pelt": {
-          "display_name": "Cougar Pelt",
-          "description": "Soft, supple, and quite dead"
+          "display_name": "Pelle di puma",
+          "description": "Morbido, elastico e abbastanza morto"
         },
         "beetle_pelt": {
-          "display_name": "Beetle Chitin",
-          "description": "Hard, shiny, and quite dead"
+          "display_name": "Chitina di scarabeo",
+          "description": "Duro, lucido e abbastanza morto"
         },
         "bitsy_ant_pelt": {
-          "description": "Hard, shiny, and quite dead",
-          "display_name": "Small Ant Chitin"
+          "description": "Duro, lucido e abbastanza morto",
+          "display_name": "Chitina di formica piccola"
         },
         "doodles_pelt": {
-          "description": "Hard, shiny, and quite dead",
-          "display_name": "Doodle Chitin"
+          "description": "Duro, lucido e abbastanza morto",
+          "display_name": "Chitina di scarabeo"
         },
         "boar_pelt": {
-          "description": "Soft, supple, and quite dead",
-          "display_name": "Boar Pelt"
+          "description": "Morbido, elastico e abbastanza morto",
+          "display_name": "Pelle di cinghiale"
         },
         "deer_horn": {
-          "display_name": "Deer Antler",
-          "description": "Hard, sharp, and possibly useful.."
+          "display_name": "Corna di cervo",
+          "description": "Duro, nitido e forse utile.."
         }
       },
       "silver": {
         "silver_ore": {
-          "display_name": "Silver Ore",
-          "description": "A chunk of raw silver"
+          "display_name": "Minerale d'argento",
+          "description": "Un pezzo di argento grezzo"
         }
       },
       "stone": {
         "hunk_of_stone": {
-          "display_name": "Hunk 'o Stone",
-          "description": "A heavy, ordinary rock"
+          "display_name": "Pezzo di pietra",
+          "description": "Una roccia pesante e ordinaria"
         }
       },
       "clay": {
         "clay_mound": {
-          "display_name": "Mound of Clay",
-          "description": "Heavy and cool to the touch"
+          "display_name": "Cumulo di argilla",
+          "description": "Pesante e fresco al tatto"
         }
       },
       "dirt": {
         "dirt_pile": {
-          "display_name": "Pile of Dirt",
-          "description": "Looks dirty"
+          "display_name": "Mucchio di terra",
+          "description": "Sembra sporco"
         },
         "terrain_dirt": {
-          "display_name": "Large Pile of Dirt",
-          "description": "A huge mound of dirt excavated from the land"
+          "display_name": "Grande mucchio di terra",
+          "description": "Un enorme tumulo di terra scavato dalla terra"
         }
       },
       "tin": {
         "tin_ore": {
-          "display_name": "Tin Ore",
-          "description": "A chunk of raw tin"
+          "display_name": "Minerale di stagno",
+          "description": "Un pezzo di stagno grezzo"
         }
       },
       "wood": {
         "juniper_log": {
-          "display_name": "Juniper Log",
-          "description": "A log. Made of wood."
+          "display_name": "Tronco di ginepro",
+          "description": "Un tronco. Fatto di legno."
         },
         "oak_log": {
-          "display_name": "Oak Log",
-          "description": "A log. Made of wood."
+          "display_name": "Tronco di quercia",
+          "description": "Un tronco. Fatto di legno."
         },
         "pine_log": {
-          "display_name": "Pine Log",
-          "description": "A log. Made of wood."
+          "display_name": "Tronco di pino",
+          "description": "Un tronco. Fatto di legno."
         },
         "cactus_log": {
-          "display_name": "Cactus Log",
-          "description": "A log. Made of wood."
+          "display_name": "Tronco di cactus",
+          "description": "Un tronco. Fatto di legno."
         },
         "palm_log": {
-          "display_name": "Palm Log",
-          "description": "A log. Made of wood."
+          "display_name": "Tronco di palma",
+          "description": "Un tronco. Fatto di legno."
         },
         "acacia_log": {
-          "display_name": "Acacia Log",
-          "description": "A log. Made of wood."
+          "display_name": "Tronco di acacia",
+          "description": "Un tronco. Fatto di legno."
         }
       },
       "herb": {
         "brightbell": {
-          "display_name": "Brightbell Flowers",
-          "description": "An herb commonly used for medicinal purposes"
+          "display_name": "Fiori di Brightbell",
+          "description": "Un'erba comunemente usata per scopi medicinali"
         },
         "frostsnap": {
-          "display_name": "Frostsnap Flowers",
-          "description": "An herb that's chill to the touch"
+          "display_name": "Fiori di Frostsnap",
+          "description": "Un'erba fredda al tatto"
         },
         "cactus_flower": {
-          "display_name": "Cactus Flower",
-          "description": "A beautiful desert bloom with healing properties"
+          "display_name": "Fiore Di Cactus",
+          "description": "Una bellissima fioritura nel deserto con proprietà curative"
         },
         "cactus_tulip_red": {
-          "display_name": "Red Tulip Cactus Flowers",
-          "description": "An herb commonly used for medicinal purposes"
+          "display_name": "Fiori di cactus rosso tulipano",
+          "description": "Un'erba comunemente usata per scopi medicinali"
         },
         "cactus_tulip_blue": {
-          "display_name": "Blue Tulip Cactus Flowers",
-          "description": "An herb commonly used for medicinal purposes"
+          "display_name": "Fiori di cactus blu tulipano",
+          "description": "Un'erba comunemente usata per scopi medicinali"
         },
         "cactus_tulip_yellow": {
-          "display_name": "Yellow Tulip Cactus Flowers",
-          "description": "An herb commonly used for medicinal purposes"
+          "display_name": "Fiori di cactus giallo tulipano",
+          "description": "Un'erba comunemente usata per scopi medicinali"
         },
         "snow_poppy": {
-          "display_name": "Snow Poppy Flowers",
-          "description": "A vibrant healing herb"
+          "display_name": "Fiori di papavero di neve",
+          "description": "Un'erba curativa vibrante"
         },
         "gold_snow_poppy": {
-          "display_name": "Snow Poppy Flowers",
-          "description": "A vibrant healing herb"
+          "display_name": "Fiori di papavero di neve",
+          "description": "Un'erba curativa vibrante"
         },
         "violet": {
-          "display_name": "Violet Flowers",
-          "description": "A vibrant healing herb"
+          "display_name": "Fiori di violetta",
+          "description": "Un'erba curativa vibrante"
         }
       },
       "skin": {
         "varanus_skin": {
-          "display_name": "Varanus Skin",
-          "description": "Rough and scaly"
+          "display_name": "Pelle varano",
+          "description": "Ruvido e squamoso"
         },
         "ogre_bone": {
-          "display_name": "Ogre Bone",
-          "description": "Dense and strong"
+          "display_name": "Osso di orco",
+          "description": "Denso e forte"
         },
         "zilla_skin": {
-          "display_name": "Zilla Skin",
-          "description": "Rough and scaly, it's always just a little warm."
+          "display_name": "Pelle di zilla",
+          "description": "Ruvido e squamoso, fa sempre solo un po' caldo."
         }
       },
       "feathers": {
         "poyo_feathers": {
-          "display_name": "Feathers",
-          "description": "Feathers from a plump bird"
+          "display_name": "Piume",
+          "description": "Piume da un uccello grassoccio"
         },
         "ostrich_feathers": {
-          "description": "Feathers from a large flightless bird",
-          "display_name": "Ostrich Feathers"
+          "description": "Piume da un grande uccello incapace di volare",
+          "display_name": "Piume di struzzo"
         },
         "duckduck_feathers": {
-          "description": "Feathers from a flightless bird",
-          "display_name": "Duckduck Feathers"
+          "description": "Piume da un uccello incapace di volare",
+          "display_name": "Piume Di Anatra"
         }
       },
       "refined": {
         "gold_flakes": {
-          "display_name": "Gold Flakes",
-          "description": "Use when crafting furniture to make it really pretty!"
+          "display_name": "Scaglie d'oro",
+          "description": "Utilizzare quando si creano mobili per renderlo davvero carino!"
         }
       },
       "earth_essence": {
-        "display_name": "Hearth Essence",
-        "description": "The power of Hearth concentrated by the Hearthbud"
+        "display_name": "Essenza terrestre",
+        "description": "Il potere della terra concentrato dal bocciolo di terra"
       },
       "gem_nature": {
-        "display_name": "Nature Gem Bits",
-        "description": "Bits of the larger gem, they are probably worth money."
+        "display_name": "Pezzi di gemma della natura",
+        "description": "Pezzi della gemma più grande, probabilmente valgono soldi."
       }
     },
     "terrain": {
       "mining_zone": {
-        "display_name": "Mining Zone",
-        "description": "This terrain is designated for removal."
+        "display_name": "Zona mineraria",
+        "description": "Questo terreno è designato per la rimozione."
       },
       "tall_grass": {
-        "display_name": "Tall Grass",
-        "description": "Harvestable for thatch"
+        "display_name": "Erba alta",
+        "description": "Raccogliibile per paglia"
       },
       "tilled_dirt": {
-        "display_name": "Tilled Earth",
-        "description": "Dirty, in the purest sense.",
+        "display_name": "Terra coltivata",
+        "description": "Terra, nel senso più puro.",
         "model_variant": {
           "dirt_1": {
-            "display_name": "Poor Dirt",
-            "description": "Can barely sustain life."
+            "display_name": "Terra povera",
+            "description": "Riesce a malapena a sostenere la vita."
           },
           "furrow": {
-            "display_name": "Field Furrow"
+            "display_name": "Solco di campo"
           },
           "dirt_2": {
-            "display_name": "Fair Dirt",
-            "description": "Meh. It's dirt."
+            "display_name": "Terra sporca",
+            "description": "Meh. È lo sporco."
           },
           "dirt_3": {
-            "display_name": "Good Dirt",
-            "description": "Home to well-behaved earthworms."
+            "display_name": "Terra buona",
+            "description": "Sede di lombrichi ben educati."
           },
           "dirt_4": {
-            "display_name": "Rich Dirt",
-            "description": "Thick and loamy."
+            "display_name": "Terra ricca",
+            "description": "Spesso e argilloso."
           }
         }
       },
       "ui": {
         "coal_block": {
-          "display_name": "Coal Vein",
-          "description": "Provides coal when mined."
+          "display_name": "Vena di carbone",
+          "description": "Fornisce carbone quando estratto."
         },
         "copper_block": {
-          "display_name": "Copper Vein",
-          "description": "Provides copper ore when mined."
+          "display_name": "Vena di rame",
+          "description": "Fornisce minerale di rame quando estratto."
         },
         "gold_block": {
-          "display_name": "Gold Vein",
-          "description": "Provides gold ore when mined."
+          "display_name": "Vena d'oro",
+          "description": "Fornisce minerale d'oro quando estratto."
         },
         "iron_block": {
-          "display_name": "Iron Vein",
-          "description": "Provides iron ore when mined."
+          "display_name": "Vena di ferro",
+          "description": "Fornisce minerale di ferro quando estratto."
         },
         "ore_block": {
-          "display_name": "Ore block",
-          "description": "Mine to get ore"
+          "display_name": "Blocco minerale",
+          "description": "Minare per ottenere minerali"
         },
         "silver_block": {
-          "display_name": "Silver Vein",
-          "description": "Provides silver ore when mined."
+          "display_name": "Vena d'argento",
+          "description": "Fornisce minerale d'argento quando estratto."
         },
         "tin_block": {
-          "display_name": "Tin Vein",
-          "description": "Provides tin ore when mined."
+          "display_name": "Vena di stagno",
+          "description": "Fornisce minerale di stagno quando estratto."
         }
       }
     },
     "tools": {
       "mining_pick": {
-        "display_name": "Mining Pick",
-        "description": "For mining and picking"
+        "display_name": "Piccone da miniera",
+        "description": "Per l'estrazione e la raccolta"
       },
       "worker_axe": {
-        "display_name": "Worker's Axe",
+        "display_name": "Ascia del lavoratore",
         "description": "..."
       },
       "worker_hammer": {
-        "display_name": "Worker's Hammer",
-        "description": "Everything looks like a nail when all you have is a hammer"
+        "display_name": "Martello da lavoro",
+        "description": "Tutto sembra un chiodo quando tutto ciò che hai è un martello"
       },
       "mining_pick_golem": {
-        "display_name": "Golem Mining Pick",
-        "description": "Large sized, for large hands."
+        "display_name": "Piccone da miniera del golem",
+        "description": "Di grandi dimensioni, per mani grandi."
       },
       "worker_axe_golem": {
-        "display_name": "Golem's Axe",
-        "description": "Large sized, for large hands."
+        "display_name": "Ascia del Golem",
+        "description": "Di grandi dimensioni, per mani grandi."
       }
     },
     "toys": {
       "ball": {
-        "display_name": "Leather ball"
+        "display_name": "Palla di cuoio"
       },
       "plushie_toy_rabbit": {
         "plushie_toy_rabbit_ghost": {
-          "display_name": "Plushie Toy Rabbit",
-          "description": "A toy... for children of course."
+          "display_name": "Coniglio peluche giocattolo",
+          "description": "Un giocattolo... ovviamente per i bambini."
         }
       }
     },
     "trees": {
       "juniper_tree": {
         "ancient_juniper_tree": {
-          "display_name": "Ancient Juniper Tree",
-          "description": "It radiates a mysterious aura"
+          "display_name": "Albero di ginepro antico",
+          "description": "Irradia un'aura misteriosa"
         },
         "large_juniper_tree": {
-          "display_name": "Large Juniper Tree",
-          "description": "An impressive specimen."
+          "display_name": "Grande albero di ginepro",
+          "description": "Un esemplare impressionante."
         },
         "medium_juniper_tree": {
-          "display_name": "Juniper Tree",
-          "description": "Strong and tall."
+          "display_name": "Albero di ginepro",
+          "description": "Forte e alto."
         },
         "small_juniper_tree": {
-          "display_name": "Small Juniper Tree",
-          "description": "Just a sapling."
+          "display_name": "Piccolo albero di ginepro",
+          "description": "Solo un alberello."
         },
         "stem": {
           "tree_juniper_plant_stem": {
-            "display_name": "Stemming Juniper Tree",
-            "description": "Still growing!"
+            "display_name": "Gambo di ginepro",
+            "description": "Ancora in crescita!"
           }
         },
         "sprout": {
           "tree_juniper_sprout": {
-            "display_name": "Juniper Tree Sproutling",
-            "description": "Just needs some time and care."
+            "display_name": "Germoglio dell'albero di ginepro",
+            "description": "Ho solo bisogno di un po' di tempo e cure."
           }
         },
         "seed": {
           "tree_juniper_seed": {
-            "display_name": "Juniper Tree Seed",
-            "description": "Can be planted to grow a giant tree"
+            "display_name": "Semi di ginepro",
+            "description": "Può essere piantato per far crescere un albero gigante"
           },
           "tree_juniper_seed_ghost": {
-            "display_name": "Juniper Tree Seed",
-            "description": "Can be planted to grow a giant tree"
+            "display_name": "Semi di ginepro",
+            "description": "Può essere piantato per far crescere un albero gigante"
           }
         },
         "bud": {
           "tree_juniper_plant_bud": {
-            "display_name": "Budding Juniper Tree",
-            "description": "It's almost there!  It's growing its adult leaves!"
+            "display_name": "Albero di ginepro in boccioli",
+            "description": "È quasi arrivato! Sta crescendo le sue foglie adulte!"
           }
         },
         "sapling_juniper_tree": {
           "sapling_juniper_tree_iconic": {
-            "description": "Plant it in the earth and watch it grow."
+            "description": "Piantalo nella terra e guardalo crescere."
           },
-          "description": "Baby Juniper Tree.",
+          "description": "Il piccolo ginepro.",
           "sapling_juniper_tree_ghost": {
-            "display_name": "Juniper Tree Sapling",
-            "description": "Baby Juniper Tree."
+            "display_name": "Alberello dell'albero di ginepro",
+            "description": "Il piccolo ginepro."
           }
         },
         "large_snowy_juniper_tree": {
-          "display_name": "Large Juniper Tree",
-          "description": "An impressive specimen."
+          "display_name": "Grande albero di ginepro",
+          "description": "Un esemplare impressionante."
         },
         "medium_snowy_juniper_tree": {
-          "display_name": "Juniper Tree",
-          "description": "Strong and tall."
+          "display_name": "Albero di ginepro",
+          "description": "Forte e alto."
         },
         "small_snowy_juniper_tree": {
-          "display_name": "Small Juniper Tree",
-          "description": "Just a sapling."
+          "display_name": "Piccolo albero di ginepro",
+          "description": "Solo un alberello."
         },
         "medium_gold_juniper_tree": {
-          "display_name": "Juniper Tree",
-          "description": "Strong and tall."
+          "display_name": "Albero di ginepro",
+          "description": "Forte e alto."
         },
         "small_gold_juniper_tree": {
-          "display_name": "Small Juniper Tree",
-          "description": "Just a sapling."
+          "display_name": "Piccolo albero di ginepro",
+          "description": "Solo un alberello."
         }
       },
       "palm_tree": {
         "large_palm_tree": {
-          "display_name": "Large Palm Tree",
-          "description": "An impressive specimen."
+          "display_name": "Grande palma",
+          "description": "Un esemplare impressionante."
         },
         "small_palm_tree": {
-          "display_name": "Small Palm Tree",
-          "description": "Just a sapling."
+          "display_name": "Piccola palma",
+          "description": "Solo un alberello."
         }
       },
       "acacia_tree": {
         "large_acacia_tree": {
-          "display_name": "Large Acacia Tree",
-          "description": "It radiates a mysterious aura"
+          "display_name": "Grande albero di acacia",
+          "description": "Irradia un'aura misteriosa"
         },
         "small_acacia_tree": {
-          "display_name": "Small Acacia Tree",
-          "description": "Young, but hearty"
+          "display_name": "Piccolo albero di acacia",
+          "description": "Giovane, ma cordiale"
         },
         "sapling_acacia_tree": {
-          "description": "Baby acacia tree.",
+          "description": "Piccolo albero di acacia.",
           "sapling_acacia_tree_ghost": {
-            "display_name": "Acacia Tree Sapling",
-            "description": "Baby acacia tree."
+            "display_name": "Alberello dell'albero di acacia",
+            "description": "Piccolo albero di acacia."
           },
           "sapling_acacia_tree_iconic": {
-            "description": "Plant it in the earth and watch it grow."
+            "description": "Piantalo nella terra e guardalo crescere."
           }
         },
         "stem": {
           "tree_acacia_plant_stem": {
-            "display_name": "Stemming Acacia Tree",
-            "description": "Still growing!"
+            "display_name": "Gambo di albero di acacia",
+            "description": "Ancora in crescita!"
           }
         },
         "sprout": {
           "tree_acacia_sprout": {
-            "display_name": "Acacia Tree Sproutling",
-            "description": "Just needs some time and care."
+            "display_name": "Germoglio dell'albero di acacia",
+            "description": "Ho solo bisogno di un po' di tempo e cure."
           }
         },
         "seed": {
           "tree_acacia_seed": {
-            "display_name": "Acacia Tree Seed",
-            "description": "Can be planted to grow a giant tree"
+            "display_name": "Semi di albero di acacia",
+            "description": "Può essere piantato per far crescere un albero gigante"
           },
           "tree_acacia_seed_ghost": {
-            "display_name": "Acacia Tree Seed",
-            "description": "Can be planted to grow a giant tree"
+            "display_name": "Semi di albero di acacia",
+            "description": "Può essere piantato per far crescere un albero gigante"
           }
         },
         "bud": {
           "tree_acacia_plant_bud": {
-            "display_name": "Budding Acacia Tree",
-            "description": "It's almost there!  It's growing its adult leaves!"
+            "display_name": "Albero di acacia in boccioli",
+            "description": "È quasi arrivato! Sta crescendo le sue foglie adulte!"
           }
         }
       },
       "joshua_tree": {
         "large_joshua_tree": {
-          "display_name": "Large Joshua Tree",
-          "description": "A curious tree"
+          "display_name": "Grande albero di Joshua",
+          "description": "Un albero curioso"
         },
         "stem": {
           "tree_joshua_plant_stem": {
-            "display_name": "Stemming Joshua Tree",
-            "description": "Still growing!"
+            "display_name": "Gambo di albero di joshua",
+            "description": "Ancora in crescita!"
           }
         },
         "sprout": {
           "tree_joshua_sprout": {
-            "display_name": "Joshua Tree Sproutling",
-            "description": "Just needs some time and care."
+            "display_name": "Germoglio dell'albero di Joshua",
+            "description": "Ho solo bisogno di un po' di tempo e cure."
           }
         },
         "seed": {
           "tree_joshua_seed": {
-            "display_name": "Joshua Tree Seed",
-            "description": "Can be planted to grow a giant tree"
+            "display_name": "Seme dell'albero di Joshua",
+            "description": "Può essere piantato per far crescere un albero gigante"
           },
           "tree_joshua_seed_ghost": {
-            "display_name": "Joshua Tree Seed",
-            "description": "Can be planted to grow a giant tree"
+            "display_name": "Seme dell'albero di Joshua",
+            "description": "Può essere piantato per far crescere un albero gigante"
           }
         },
         "bud": {
           "tree_joshua_plant_bud": {
-            "display_name": "Budding Joshua Tree",
-            "description": "It's almost there!  It's growing its adult leaves!"
+            "display_name": "Albero di Joshua in boccioli",
+            "description": "È quasi arrivato! Sta crescendo le sue foglie adulte!"
           }
         }
       },
       "pine_tree": {
         "large_pine_tree": {
-          "display_name": "Large Pine Tree",
-          "description": "Looks many years old. Too bad..."
+          "display_name": "Albero di pino grande",
+          "description": "Sembra che abbia molti anni. Peccato..."
         },
         "medium_pine_tree": {
-          "display_name": "Medium Pine Tree",
-          "description": "Sturdy, in the prime of life."
+          "display_name": "Albero di pino medio",
+          "description": "Robusto, nel pieno della vita."
         },
         "small_pine_tree": {
-          "display_name": "Small Pine Tree",
-          "description": "Just a sapling."
+          "display_name": "Piccolo pino",
+          "description": "Solo un alberello."
         },
         "stem": {
           "tree_pine_plant_stem": {
-            "display_name": "Stemming Pine Tree",
-            "description": "Still growing!"
+            "display_name": "Gambo di albero di pino",
+            "description": "Ancora in crescita!"
           }
         },
         "sprout": {
           "tree_pine_sprout": {
-            "display_name": "Pine Tree Sproutling",
-            "description": "Just needs some time and care."
+            "display_name": "Pino che germoglia",
+            "description": "Ho solo bisogno di un po' di tempo e cure."
           }
         },
         "seed": {
           "tree_pine_seed": {
-            "display_name": "Pine Tree Seed",
-            "description": "Can be planted to grow a giant tree"
+            "display_name": "Seme di pino",
+            "description": "Può essere piantato per far crescere un albero gigante"
           },
           "tree_pine_seed_ghost": {
-            "display_name": "Pine Tree Seed",
-            "description": "Can be planted to grow a giant tree"
+            "display_name": "Semi di pino",
+            "description": "Può essere piantato per far crescere un albero gigante"
           }
         },
         "bud": {
           "tree_pine_plant_bud": {
-            "display_name": "Budding Pine Tree",
-            "description": "It's almost there!  It's growing its adult leaves!"
+            "display_name": "Albero di pino in boccioli",
+            "description": "È quasi arrivato! Sta crescendo le sue foglie adulte!"
           }
         },
         "sapling_pine_tree": {
           "sapling_pine_tree_ghost": {
-            "display_name": "Pine Tree Sapling",
-            "description": "Baby Pine Tree."
+            "display_name": "Alberello di pino",
+            "description": "Albero di pino piccolino"
           },
           "sapling_pine_tree_iconic": {
-            "description": "Plant it in the earth and watch it grow."
+            "description": "Piantalo nella terra e guardalo crescere."
           },
-          "description": "Baby Pine Tree."
+          "description": "Albero di pino piccolino"
         },
         "medium_snowy_pine_tree": {
-          "description": "Sturdy, in the prime of life.",
-          "display_name": "Medium Pine Tree"
+          "description": "Robusto, nel pieno della vita.",
+          "display_name": "Albero di pino medio"
         },
         "large_snowy_pine_tree": {
-          "description": "Looks many years old. Too bad...",
-          "display_name": "Large Pine Tree"
+          "description": "Sembra che abbia molti anni. Peccato...",
+          "display_name": "Albero di pino grande"
         },
         "small_snowy_pine_tree": {
-          "description": "Just a sapling.",
-          "display_name": "Small Pine Tree"
+          "description": "Solo un alberello.",
+          "display_name": "Albero di pino piccolo"
         },
         "large_gold_pine_tree": {
-          "display_name": "Large Pine Tree",
-          "description": "Looks many years old. Too bad..."
+          "display_name": "Albero di pino grande",
+          "description": "Sembra che abbia molti anni. Peccato..."
         },
         "medium_gold_pine_tree": {
-          "display_name": "Medium Pine Tree",
-          "description": "Sturdy, in the prime of life."
+          "display_name": "Albero di pino medio",
+          "description": "Robusto, nel pieno della vita."
         },
         "small_gold_pine_tree": {
-          "display_name": "Small Pine Tree",
-          "description": "Just a sapling."
+          "display_name": "Albero di pino piccolo",
+          "description": "Solo un alberello."
         },
         "large_silver_pine_tree": {
-          "display_name": "Large Pine Tree",
-          "description": "Looks many years old. Too bad..."
+          "display_name": "Albero di pino grande",
+          "description": "Sembra che abbia molti anni. Peccato..."
         },
         "small_silver_pine_tree": {
-          "display_name": "Small Pine Tree",
-          "description": "Just a sapling."
+          "display_name": "Albero di pino piccolo",
+          "description": "Solo un alberello."
         },
         "medium_silver_pine_tree": {
-          "display_name": "Medium Pine Tree",
-          "description": "Sturdy, in the prime of life."
+          "display_name": "Albero di pino medio",
+          "description": "Robusto, nel pieno della vita."
         }
       },
       "cactus_tree": {
         "large_cactus_tree": {
-          "display_name": "Large Cactus",
-          "description": "An impressive specimen."
+          "display_name": "Cactus grande",
+          "description": "Un esemplare impressionante."
         },
         "small_cactus_tree": {
-          "display_name": "Small Cactus",
-          "description": "Small and prickly."
+          "display_name": "Cactus piccolo",
+          "description": "Piccolo e spinoso."
         },
         "stem": {
           "tree_cactus_plant_stem": {
-            "display_name": "Stemming Cactus",
-            "description": "Still growing!"
+            "display_name": "Gambo di cactus",
+            "description": "Ancora in crescita!"
           }
         },
         "sprout": {
           "tree_cactus_sprout": {
-            "display_name": "Cactus Sproutling",
-            "description": "Just needs some time and care."
+            "display_name": "Germoglio di cactus",
+            "description": "Ho solo bisogno di un po' di tempo e cure."
           }
         },
         "seed": {
           "tree_cactus_seed": {
-            "display_name": "Giant Cactus Seed",
-            "description": "Can be planted to grow a giant cactus"
+            "display_name": "Semi di cactus giganti",
+            "description": "Può essere piantato per far crescere un cactus gigante"
           },
           "tree_cactus_seed_ghost": {
-            "display_name": "Large Cactus Seed",
-            "description": "Can be planted to grow a giant cactus"
+            "display_name": "Grande seme di cactus",
+            "description": "Può essere piantato per far crescere un cactus gigante"
           }
         },
         "bud": {
           "tree_cactus_plant_bud": {
-            "display_name": "Budding Cactus",
-            "description": "It's almost there!  You can see it plumping up!"
+            "display_name": "Cactus in boccioli",
+            "description": "È quasi arrivato! Puoi vederlo rimpolpare!"
           }
         },
         "sapling_cactus_tree": {
-          "description": "Baby Cactus Plant.",
+          "description": "Pianta di cactus piccolina",
           "sapling_cactus_tree_iconic": {
-            "description": "Plant it in the earth and watch it grow."
+            "description": "Piantalo nella terra e guardalo crescere."
           },
           "sapling_cactus_tree_ghost": {
-            "display_name": "Cactus Sapling",
-            "description": "Baby Cactus Plant."
+            "display_name": "Alberello di cactus",
+            "description": "Pianta di cactus piccolina"
           }
         }
       },
       "oak_tree": {
         "ancient_oak_tree": {
-          "display_name": "Ancient Oak Tree",
-          "description": "It radiates a mysterious aura"
+          "display_name": "Albero di quercia antica",
+          "description": "Irradia un'aura misteriosa"
         },
         "large_oak_tree": {
-          "display_name": "Large Oak Tree",
-          "description": "Looks many years old. Too bad..."
+          "display_name": "Albero di quercia grande",
+          "description": "Sembra che abbia molti anni. Peccato..."
         },
         "medium_oak_tree": {
-          "display_name": "Medium Oak Tree",
-          "description": "Sturdy, in the prime of life."
+          "display_name": "Albero di quercia media",
+          "description": "Robusto, nel pieno della vita."
         },
         "small_oak_tree": {
-          "display_name": "Small Oak Tree",
-          "description": "Slightly larger than a sapling."
+          "display_name": "Albero di quercia piccola",
+          "description": "Leggermente più grande di un alberello."
         },
         "sapling_oak_tree": {
-          "description": "Baby oak tree.",
+          "description": "Albero di quercia piccolo",
           "sapling_oak_tree_ghost": {
-            "display_name": "Oak Tree Sapling",
-            "description": "Baby oak tree."
+            "display_name": "Alberello di quercia",
+            "description": "Albero di quercia piccolo"
           },
           "sapling_oak_tree_iconic": {
-            "description": "Plant it in the earth and watch it grow."
+            "description": "Piantalo nella terra e guardalo crescere."
           }
         },
         "stem": {
           "tree_oak_plant_stem": {
-            "display_name": "Stemming Oak Tree",
-            "description": "Still growing!"
+            "display_name": "Gambo di albero di quercia",
+            "description": "Ancora in crescita!"
           }
         },
         "sprout": {
           "tree_oak_sprout": {
-            "display_name": "Oak Tree Sproutling",
-            "description": "Just needs some time and care."
+            "display_name": "Germoglio di quercia",
+            "description": "Ho solo bisogno di un po' di tempo e cure."
           }
         },
         "seed": {
           "tree_oak_seed": {
-            "display_name": "Oak Tree Seed",
-            "description": "Can be planted to grow a giant tree"
+            "display_name": "Semi di quercia",
+            "description": "Può essere piantato per far crescere un albero gigante"
           },
           "tree_oak_seed_ghost": {
-            "display_name": "Oak Tree Seed",
-            "description": "Can be planted to grow a giant tree"
+            "display_name": "Semi di quercia",
+            "description": "Può essere piantato per far crescere un albero gigante"
           }
         },
         "bud": {
           "tree_oak_plant_bud": {
-            "display_name": "Budding Oak Tree",
-            "description": "It's almost there!  It's growing its adult leaves!"
+            "display_name": "Quercia in boccioli",
+            "description": "È quasi arrivato! Sta crescendo le sue foglie adulte!"
           }
         }
       },
       "pine_tree_gold": {
         "seed": {
           "tree_pine_seed_ghost": {
-            "display_name": "Gold Pine Tree Seed",
-            "description": "Can be planted to grow a giant tree"
+            "display_name": "Semi di pino d'oro",
+            "description": "Può essere piantato per far crescere un albero gigante"
           }
         }
       },
       "pine_tree_silver": {
         "seed": {
           "tree_pine_seed_ghost": {
-            "display_name": "Silver Pine Tree Seed",
-            "description": "Can be planted to grow a giant tree"
+            "display_name": "Semi di pino d'argento",
+            "description": "Può essere piantato per far crescere un albero gigante"
           }
         }
       },
       "pine_tree_snowy": {
         "seed": {
           "tree_pine_seed_ghost": {
-            "display_name": "Snowy Pine Tree Seed",
-            "description": "Can be planted to grow a giant tree"
+            "display_name": "Seme di albero di pino innevato",
+            "description": "Può essere piantato per far crescere un albero gigante"
           }
         }
       },
       "juniper_tree_gold": {
         "seed": {
           "tree_juniper_seed_ghost": {
-            "display_name": "Gold Juniper Tree Seed",
-            "description": "Can be planted to grow a giant tree"
+            "display_name": "Seme dell'albero di ginepro d'oro",
+            "description": "Può essere piantato per far crescere un albero gigante"
           }
         }
       },
       "juniper_tree_snowy": {
         "seed": {
           "tree_juniper_seed_ghost": {
-            "display_name": "Snowy Juniper Tree Seed",
-            "description": "Can be planted to grow a giant tree"
+            "display_name": "Seme di albero di ginepro nevoso",
+            "description": "Può essere piantato per far crescere un albero gigante"
           }
         }
       }
     },
     "weapons": {
       "bronze_mace": {
-        "display_name": "Bronze Mace",
-        "description": "Precisely engineered for maximum bashing.",
+        "display_name": "Mazza di bronzo",
+        "description": "Progettato con precisione per i massimi colpi.",
         "bronze_mace_iconic": {
-          "display_name": "Bronze Mace",
-          "description": "For flattening faces"
+          "display_name": "Mazza di bronzo",
+          "description": "Per appiattire le facce"
         }
       },
       "bronze_sword": {
-        "display_name": "Bronze Short Sword",
-        "description": "Basic, but better than fighting with a sharpened stick!",
+        "display_name": "Spada corta di bronzo",
+        "description": "Di base, ma meglio che combattere con un bastone affilato!",
         "bronze_sword_iconic": {
-          "display_name": "Bronze Sword",
-          "description": "Pointy. Shiny."
+          "display_name": "Spada di bronzo",
+          "description": "A punta. Brillante."
         }
       },
       "dagger": {
-        "display_name": "Dagger",
-        "description": "Pointy. Dangerous.",
+        "display_name": "Pugnale",
+        "description": "A punta. Pericoloso.",
         "dagger_iconic": {
-          "display_name": "Dagger",
-          "description": "Pointy. Dangerous."
+          "display_name": "Pugnale",
+          "description": "A punta. Pericoloso."
         }
       },
       "giant_bone_axe": {
-        "display_name": "Giant Bone Axe",
-        "description": "Carved from the clavicle of some great beast. (Two-handed)",
+        "display_name": "Ascia d'osso gigante",
+        "description": "Scolpito dalla clavicola di qualche grande bestia. (A due mani)",
         "giant_bone_axe_iconic": {
-          "display_name": "Giant Bone Axe",
-          "description": "Carved from the clavicle of some great beast."
+          "display_name": "Ascia d'osso gigante",
+          "description": "Scolpito dalla clavicola di qualche grande bestia."
         }
       },
       "giant_bone_mace": {
-        "display_name": "Giant Bone Mace",
-        "description": "Heavy, it packs a wallop. (Two-handed)",
+        "display_name": "Mazza d'osso gigante",
+        "description": "Pesante, racchiude un colpo. (A due mani)",
         "giant_bone_mace_iconic": {
-          "display_name": "Giant Bone Mace",
-          "description": "For flattening faces"
+          "display_name": "Mazza d'osso gigante",
+          "description": "Per appiattire le facce"
         }
       },
       "iron_mace": {
-        "display_name": "Iron Mace",
-        "description": "Heavy, it packs a wallop.",
+        "display_name": "Mazza di ferro",
+        "description": "Pesante, racchiude un colpo.",
         "iron_mace_iconic": {
-          "display_name": "Iron Mace",
-          "description": "For flattening faces"
+          "display_name": "Mazza di ferro",
+          "description": "Per appiattire le facce"
         }
       },
       "iron_pike": {
-        "display_name": "Iron Pike",
-        "description": "Sharp. Long. Pointy. (Two-handed)",
+        "display_name": "Luccio di ferro",
+        "description": "Acuto. Lungo. A punta. (A due mani)",
         "iron_pike_iconic": {
-          "display_name": "Iron pike",
-          "description": "Sharp. Long. Pointy."
+          "display_name": "Luccio di ferro",
+          "description": "Acuto. Lungo. A punta."
         }
       },
       "jagged_cleaver": {
-        "display_name": "Jagged Cleaver",
-        "description": "A crude, ineffective weapon",
+        "display_name": "Mannaia frastagliata",
+        "description": "Un'arma grezza e inefficace",
         "jagged_cleaver_iconic": {
-          "display_name": "Jagged Cleaver",
-          "description": "A crude, ineffective weapon"
+          "display_name": "Mannaia frastagliata",
+          "description": "Un'arma grezza e inefficace"
         }
       },
       "long_sword": {
-        "display_name": "Long Sword",
-        "description": "Sharp, with extra reach. A faithful weapon.",
+        "display_name": "Spada lunga",
+        "description": "Nitido, con portata extra. Un'arma fedele.",
         "long_sword_iconic": {
-          "display_name": "Long Sword",
-          "description": "Pointy. Shiny."
+          "display_name": "Spada lunga",
+          "description": "A punta. Brillante."
         }
       },
       "npc_animal_prod": {
-        "display_name": "Wicked Animal Prod",
-        "description": "Keeps the fuzzies in line"
+        "display_name": "Stuzzicare animale malvagio",
+        "description": "Mantiene i pelosi in linea"
       },
       "short_sword": {
-        "display_name": "Steel Short Sword",
-        "description": "Stubby, but its steel blade keeps an edge.",
+        "display_name": "Spada corta d'acciaio",
+        "description": "Robusto, ma la sua lama in acciaio mantiene un vantaggio.",
         "short_sword_iconic": {
-          "display_name": "Short Sword",
-          "description": "Pointy. Shiny."
+          "display_name": "Spada corta",
+          "description": "A punta. Brillante."
         }
       },
       "spiked_wooden_mace": {
-        "display_name": "Spiked Wooden Mace",
-        "description": "Nasty, pointy spikes"
+        "display_name": "Mazza di legno chiodata",
+        "description": "Brutto, punte a punta"
       },
       "stone_maul": {
-        "display_name": "Stone Maul",
-        "description": "The perfect tool for bludgeoning",
+        "display_name": "Mazza di pietra",
+        "description": "Lo strumento perfetto per l'esecuzione di randellature",
         "stone_maul_iconic": {
-          "display_name": "Stone Maul",
-          "description": "For flattening faces"
+          "display_name": "Mazza di pietra",
+          "description": "Per appiattire le facce"
         }
       },
       "two_handed_sword": {
-        "display_name": "Two Handed Sword",
-        "description": "Double the hands, double the trouble. (Two-handed)",
+        "display_name": "Spada a due mani",
+        "description": "Raddoppia le mani, raddoppia il problema. (A due mani)",
         "two_handed_sword_iconic": {
-          "display_name": "Two Handed Sword",
-          "description": "Double the hands, double the trouble."
+          "display_name": "Spada a due mani",
+          "description": "Raddoppia le mani, raddoppia il problema."
         }
       },
       "wooden_sword": {
-        "display_name": "Wooden Sword",
-        "description": "Thacks thine enemies with oaken might",
+        "display_name": "Spada di legno",
+        "description": "Scuote i tuoi nemici con la forza della quercia",
         "wooden_sword_iconic": {
-          "display_name": "Wooden Sword",
-          "description": "Basic wooden sword."
+          "display_name": "Spada di legno",
+          "description": "Spada di legno di base."
         },
         "wooden_sword_talisman": {
-          "display_name": "Wooden Sword",
-          "description": "Required to promote a hearthling into a Footman."
+          "display_name": "Spada di legno",
+          "description": "Richiesto per promuovere un cittadino in un combattente."
         }
       },
       "scythe": {
-        "display_name": "Scythe",
-        "description": "Preferred weapon for reaping"
+        "display_name": "Falce",
+        "description": "Arma preferita per la mietitura"
       },
       "bow": {
-        "display_name": "Bow",
-        "description": "Used by an archer for shooting arrows",
+        "display_name": "Arco",
+        "description": "Utilizzato da un arciere per sparare frecce",
         "bow_talisman": {
-          "display_name": "Archer's Bow",
-          "description": "Required to promote a Footman to an Archer"
+          "display_name": "Arco di arciere",
+          "description": "Richiesto per promuovere un combattente a un arciere"
         }
       },
       "arrow": {
-        "display_name": "Slowing Arrow",
-        "description": "Slows targets that it hits"
+        "display_name": "Frecce rallentate",
+        "description": "Rallenta i bersagli che colpisce"
       },
       "recurve_bow": {
-        "display_name": "Recurve Bow",
-        "description": "Curved for faster and stronger shots"
+        "display_name": "Arco ricurvo",
+        "description": "Curvo per colpi più veloci e più forti"
       },
       "crude_metal_axe": {
-        "display_name": "Crude Metal Axe",
-        "description": "Simple but effective."
+        "display_name": "Ascia di metallo grezzo",
+        "description": "Semplice ma efficace."
       },
       "crude_wooden_club": {
-        "display_name": "Crude Wooden Club",
-        "description": "Pointy branch wrapped in cloth"
+        "display_name": "Randello di legno grezzo",
+        "description": "Ramo appuntito avvolto in un panno"
       },
       "ogos_bone_mace": {
-        "display_name": "The Bonker",
-        "description": "Designed by Ogo Skullbonker. (Two-handed)",
+        "display_name": "La mazza matta",
+        "description": "Progettato da Ogo Skullbonker. (A due mani)",
         "ogos_bone_mace_iconic": {
-          "display_name": "The Bonker",
-          "description": "Ex-property of Ogo Skullbonker"
+          "display_name": "La mazza matta",
+          "description": "Ex proprietà di Ogo Skullbonker"
         }
       },
       "bullet": {
-        "display_name": "Bullet",
-        "description": "Metal shelled projectile"
+        "display_name": "Proiettile",
+        "description": "Proiettile conchiglia metallica"
       },
       "turnip_bullet": {
-        "display_name": "Turnip",
-        "description": "Weaponized vegetable."
+        "display_name": "Rapa",
+        "description": "Un vegetale armato."
       },
       "bolt": {
-        "display_name": "Bolt",
-        "description": "Bolt"
+        "display_name": "Bullone",
+        "description": "Bullone"
       },
       "fire_arrow": {
-        "display_name": "Fire Arrow",
-        "description": "An arrow imbued with flames"
+        "display_name": "Freccia di fuoco",
+        "description": "Una freccia intrisa di fiamme"
       },
       "two_handed_sword_valor": {
-        "display_name": "Emblazoned Sword",
-        "description": "Finest blade in the Ascendancy",
+        "display_name": "Spada incisa",
+        "description": "La lama più fine dell'Ascendenza",
         "two_handed_sword_valor_iconic": {
-          "display_name": "Emblazoned Sword",
-          "description": "Finest blade in the Ascendancy."
+          "display_name": "Spada incisa",
+          "description": "La lama più fine dell'Ascendenza"
         }
       },
       "bow_valor": {
-        "display_name": "Empire Bow",
-        "description": "Swiftest bow in the Ascendancy"
+        "display_name": "Arco dell'Impero",
+        "description": "Arco più veloce nell'Ascendenza"
       },
       "corruption_beam": {
-        "display_name": "Corruption Beam",
-        "description": "An invisible weapon to spawn into hands of corrupted"
+        "display_name": "Fascio di corruzione",
+        "description": "Un'arma invisibile da deporre nelle mani di corrotti"
       },
       "maul_lantern": {
         "maul_lantern_iconic": {
-          "display_name": "Lantern Mace",
-          "description": "Wield the HolyLlight of Hestia in defence of your town."
+          "display_name": "Mazza Lanterna",
+          "description": "Impugna la Santa Luce di Estia in difesa della tua città."
         }
       }
     },
     "consumables": {
       "healing_tonic": {
         "small_healing_tonic": {
-          "display_name": "Small Healing Tonic",
-          "description": "Used by the herbalist to heal small wounds"
+          "display_name": "Piccolo tonico curativo",
+          "description": "Utilizzato dall'erborista per curare piccole ferite"
         }
       },
       "stamina_tonic": {
-        "display_name": "Stamina Tonic",
-        "description": "Temporarily buffs Stamina"
+        "display_name": "Tonico di resistenza",
+        "description": "Potenzia temporaneamente la resistenza"
       },
       "strength_tonic": {
-        "display_name": "Strength Tonic",
-        "description": "Temporarily buffs Muscle"
+        "display_name": "Tonico di forza",
+        "description": "Potenzia temporaneamente i muscoli"
       },
       "coarse_bandage": {
-        "display_name": "Coarse Bandage",
-        "description": "Used by the herbalist to heal for a small amount"
+        "display_name": "Fasciatura grossolana",
+        "description": "Utilizzato dall'erborista per curare una piccola quantità"
       },
       "heavy_bandage": {
-        "display_name": "Heavy Bandage",
-        "description": "Used by the herbalist to provide a lot of healing."
+        "display_name": "Fasciatura pesante",
+        "description": "Utilizzato dall'erborista per fornire molte cure."
       },
       "light_bandage": {
-        "description": "Used by the herbalist to heal a moderate amount",
-        "display_name": "Light Bandage"
+        "description": "Utilizzato dall'erborista per curare una quantità moderata",
+        "display_name": "Benda leggera"
       },
       "courage_tonic": {
-        "display_name": "Courage Tonic",
-        "description": "Temporarily buffs Courage"
+        "display_name": "Tonico per il coraggio",
+        "description": "Appassionato temporaneo di coraggio"
       },
       "energy_tonic": {
-        "display_name": "Energy Tonic",
-        "description": "Temporarily buffs energy"
+        "display_name": "Tonico energetico",
+        "description": "Potenzia temporaneamente l'energia"
       },
       "seeds": {
         "turnip_seeds": {
-          "display_name": "Turnip Seeds",
-          "description": "Learn to grow the mighty turnip."
+          "display_name": "Semi di rapa",
+          "description": "Impara a far crescere la potente rapa."
         },
         "carrot_seeds": {
-          "display_name": "Carrot Seeds",
-          "description": "Learn to grow carrots."
+          "display_name": "Semi di carota",
+          "description": "Impara a coltivare le carote."
         },
         "pumpkin_seeds": {
-          "display_name": "Pumpkin Seeds",
-          "description": "Learn to grow pumpkins."
+          "display_name": "Semi di zucca",
+          "description": "Impara a coltivare zucche."
         },
         "golden_gourd_seeds": {
-          "display_name": "Golden Gourd Seeds",
-          "description": "Learn to grow golden gourds."
+          "display_name": "Semi di zucca d'oro",
+          "description": "Impara a coltivare zucche d'oro."
         },
         "watermelon_seeds": {
-          "display_name": "Watermelon Seeds",
-          "description": "Learn to grow delicious melons."
+          "display_name": "Semi di anguria",
+          "description": "Impara a coltivare deliziose angurie."
         },
         "cactus_flower_seeds": {
-          "display_name": "Cactus Flower Seeds",
-          "description": "Learn to grow delicious prickly flowers."
+          "display_name": "Semi di fiori di cactus",
+          "description": "Impara a coltivare deliziosi fiori spinosi."
         },
         "acacia_tree_seeds": {
-          "display_name": "Acacia Seeds",
-          "description": "Learn to grow acacia trees."
+          "display_name": "Semi di acacia",
+          "description": "Impara a coltivare alberi di acacia."
         },
         "oak_tree_seeds": {
-          "display_name": "Acorns",
-          "description": "Learn to grow oak trees."
+          "display_name": "Ghiande",
+          "description": "Impara a coltivare querce."
         },
         "brightbell_seeds": {
-          "display_name": "Brightbell Seeds",
-          "description": "Learn to grow brightbells."
+          "display_name": "Semi di Brightbell",
+          "description": "Impara a far crescere le brightbells."
         },
         "frostsnap_seeds": {
-          "display_name": "Frostsnap Seeds",
-          "description": "Learn to grow frostsnaps."
+          "display_name": "Semi di Frostsnap",
+          "description": "Impara a far crescere i frostsnaps."
         },
         "wheat_seeds": {
-          "display_name": "Wheat Grain",
-          "description": "Learn to grow wheat."
+          "display_name": "Grano",
+          "description": "Impara a coltivare grano."
         },
         "silkweed_seeds": {
-          "display_name": "Silkweed Seeds",
-          "description": "Learn to grow silkweed."
+          "display_name": "Semi di bachi da seta",
+          "description": "Impara a coltivare la seta."
         },
         "cactus_tree_seeds": {
           "cactus_tree_seeds_ghost": {
-            "display_name": "Cactus Seeds",
-            "description": "Learn to grow cactus trees."
+            "display_name": "Semi di cactus",
+            "description": "Impara a coltivare alberi di cactus."
           },
-          "display_name": "Cactus Seeds",
-          "description": "Learn to grow giant cactus."
+          "display_name": "Semi di cactus",
+          "description": "Impara a coltivare cactus giganti."
         },
         "juniper_tree_seeds": {
-          "display_name": "Dried Juniper Berries",
-          "description": "Learn to grow juniper trees.",
+          "display_name": "Bacche di ginepro secche",
+          "description": "Impara a coltivare alberi di ginepro.",
           "juniper_tree_seeds_ghost": {
-            "display_name": "Dried Juniper Berries",
-            "description": "Learn to grow juniper trees."
+            "display_name": "Bacche di ginepro secche",
+            "description": "Impara a coltivare alberi di ginepro."
           }
         },
         "heirbloom_seeds": {
-          "display_name": "Heirbloom Seeds",
-          "description": "Learn to grow heirblooms",
+          "display_name": "Semi di heirbloom",
+          "description": "Impara a far crescere le heirbloom",
           "heirbloom_seeds_ghost": {
-            "display_name": "Heirbloom Seeds",
-            "description": "Learn to grow heirblooms"
+            "display_name": "Semi di heirbloom",
+            "description": "Impara a far crescere le heirbloom"
           }
         }
       }
     },
     "outfits": {
       "trader_outfit": {
-        "display_name": "Trader Outfit",
-        "description": "Clothing of choice for traders"
+        "display_name": "Vestito da commerciante",
+        "description": "Abbigliamento di scelta per i commercianti"
       }
     },
     "constructillon": {
       "wooden_door_2_fine": {
         "wooden_door_2_fine_ghost": {
-          "description": "Sturdier than your average door, and more polished too."
+          "description": "Più robusto della porta media e anche più lucido."
         }
       }
     },
     "ephemera": {
       "ball_of_wax": {
-        "display_name": "Ball of Ear Wax",
-        "description": "Gross, isn't it?"
+        "display_name": "Palla di cerume",
+        "description": "Fa schifo, non è vero?"
       }
     },
     "manipulation": {
       "summon_stone": {
         "bounds": {
           "bounds_ghost": {
-            "display_name": "Bounds Summon Stone",
-            "description": "This stone is ready to encase the world!"
+            "display_name": "Lega il richiamo della pietra",
+            "description": "Questa pietra è pronta per avvolgere il mondo!"
           }
         },
         "test_small": {
           "test_small_ghost": {
-            "display_name": "Test Small Stone",
-            "description": "This stone encases a test, you know, for testing!"
+            "display_name": "Prova la piccola pietra",
+            "description": "Questa pietra racchiude un test, sai, per i test!"
           }
         },
         "chair": {
           "chair_ghost": {
-            "display_name": "Chair Stone",
-            "description": "This stone encases an ENOURMOUS CHAIR OF CHAIRS ready to burst out!"
+            "display_name": "Sedia di pietra",
+            "description": "Questa pietra racchiude una SEDIA ENORME DI SEDIE pronta a scoppiare!"
           }
         },
         "plains_grassy_01": {
           "plains_grassy_01_ghost": {
-            "display_name": "Plains Summon Stone",
-            "description": "This stone encases a beautiful grassy field."
+            "display_name": "Pietra di evocazione delle pianure",
+            "description": "Questa pietra racchiude un bellissimo campo erboso."
           }
         },
         "plains_grassy_02": {
           "plains_grassy_02_ghost": {
-            "display_name": "Plains Summon Stone",
-            "description": "This stone encases a beautiful grassy field."
+            "display_name": "Pietra di evocazione delle pianure",
+            "description": "Questa pietra racchiude un bellissimo campo erboso."
           }
         },
         "plains_stones": {
           "plains_stones_ghost": {
-            "display_name": "Plains Stones Summon Stone",
-            "description": "This stone encases a pile of stones."
+            "display_name": "Le pietre delle pianure evocano la pietra",
+            "description": "Questa pietra racchiude un mucchio di pietre."
           }
         },
         "plains_spring_hill": {
           "plains_spring_hill_ghost": {
-            "display_name": "Plains Hill Spring Summon Stone",
-            "description": "This stone encases a cute little spring!"
+            "display_name": "Pietra di evocazione della molla della collina delle pianure",
+            "description": "Questa pietra racchiude una piccola sorgente carina!"
           }
         }
       },
       "dry_stone_greater": {
         "dry_stone_greater_ghost": {
-          "display_name": "Greater Dry Stone",
-          "description": "Four times as dry as a regular dry stone."
+          "display_name": "Maggiore pietra a secco",
+          "description": "Quattro volte più secco di un normale sasso secco."
         }
       },
       "wet_stone_greater": {
         "wet_stone_greater_ghost": {
-          "display_name": "Greater Wet Stone",
-          "description": "Four times more moist than a regular wet stone."
+          "display_name": "Pietra bagnata più grande",
+          "description": "Quattro volte più umido di una normale pietra bagnata."
         }
       }
     },
     "valor_statue": {
       "war_horn": {
         "war_horn_ghost": {
-          "display_name": "Giant Warhorn",
-          "description": "Reminiscent of days gone past."
+          "display_name": "Corno da guerra gigante",
+          "description": "Ricorda i giorni passati."
         }
       }
     },
@@ -15770,239 +15770,239 @@
         "female": {
           "herald_female": {
             "display_name": "Heraldine Rigby",
-            "description": "This is a Herald of the Ascendancy."
+            "description": "Questo è un annunciatrice dell'Ascendente."
           },
           "herald_isabelle": {
             "display_name": "Isabelle Swift",
-            "description": "Herald of the Ascendancy."
+            "description": "Annunciatrice dell'ascendente."
           },
           "herald_ember": {
             "display_name": "Ember Minton",
-            "description": "Missionary of the Church of Plenty."
+            "description": "Missionaria della Chiesa dell'Abbondanza."
           },
           "herald_anwyn": {
             "display_name": "Anwyn Torresi",
-            "description": "Captain of the guard."
+            "description": "Capitano della guardia."
           },
           "herald_erdene": {
             "display_name": "Erdene Jemkrushr",
-            "description": "Speaker for the Red Kiln."
+            "description": "Annunciatrice per il Red Kiln."
           }
         },
         "male": {
           "herald_male": {
             "display_name": "Herald B. Good",
-            "description": "This is a Herald of the Ascendancy."
+            "description": "Questo è un annunciatore dell'Ascendente."
           },
           "herald_mer": {
             "display_name": "Mer Burlyhands",
-            "description": "Capital Fellow."
+            "description": "Compagno capitale."
           },
           "herald_marak": {
             "display_name": "Marak Azael",
-            "description": "Guildmaster of the Ascendancy."
+            "description": "Capomastro dell'Ascendenza."
           },
           "herald_untz": {
             "display_name": "Untz the Excellent",
-            "description": "Party Goblin."
+            "description": "Partito Goblin."
           },
           "herald_harold": {
             "display_name": "Harold",
-            "description": "Special delivery duck-duck."
+            "description": "Consegna speciale anatra."
           },
           "herald_sasha": {
             "display_name": "Sasha Lightfoot",
-            "description": "Herald of Clan Amberstone"
+            "description": "Annunciatore del clan Amberstone"
           }
         }
       },
       "dragonborn": {
         "dragonborn_king": {
           "display_name": "Flox Icedragon",
-          "description": "Dragonborn King"
+          "description": "Re Dragonborn"
         }
       },
       "hestia": {
         "hestia_dylan": {
-          "display_name": "Prince Dylan",
-          "description": "Amiable Hestian Royal"
+          "display_name": "Principe Dylan",
+          "description": "Amabile reale di Estian"
         },
         "hestia_lily": {
-          "display_name": "Princess Lily",
-          "description": "Mysterious Hestian Royal"
+          "display_name": "Principessa Lily",
+          "description": "Misterioso reale di Estian"
         },
         "hestia_emma": {
-          "display_name": "Princess Emma",
-          "description": "Inscrutable Hestian Royal"
+          "display_name": "Principessa Emma",
+          "description": "Imperscrutabile reale di Estian"
         }
       }
     },
     "titan": {
       "corrupt_squid": {
-        "description": "Doesn't like you. Or anyone else for that matter."
+        "description": "Non gli piaci. O chiunque altro per quella materia."
       }
     },
     "corruption": {
       "corrupt_tentacle_notification": {
         "tentacle_notification": {
-          "display_name": "Warning Tentacle",
-          "description": "Signifies the presence of something evil."
+          "display_name": "Tentacolo di avvertimento",
+          "description": "Indica la presenza di qualcosa di malvagio."
         }
       },
       "corrupt_beetle": {
-        "display_name": "Corrupt Crawler",
-        "description": "Small, but ravenous."
+        "display_name": "Crawler corrotto",
+        "description": "Piccolo, ma famelico."
       },
       "corrupt_tentacle_dark": {
         "tentacle_dark": {
-          "display_name": "Warning Tentacle",
-          "description": "Signifies the presence of something evil."
+          "display_name": "Tentacolo di avvertimento",
+          "description": "Indica la presenza di qualcosa di malvagio."
         }
       },
       "orc_friendship_gong": {
         "orc_friendship_gong_ghost": {
-          "display_name": "Gong of Orc Respect",
-          "description": "Made of smooth, pleasing stone, cleansed of anything sinister."
+          "display_name": "Gong del rispetto degli orchi",
+          "description": "Realizzato in pietra liscia, gradevole, pulita da qualsiasi cosa sinistra."
         }
       }
     },
     "landmark": {
       "summon_stone_block_dirt": {
         "summon_stone_block_dirt_ghost": {
-          "display_name": "Dirt Terrain Block Stone",
-          "description": "Summons an 8x5x8 block of dirt terrain."
+          "display_name": "Blocco di terriccio",
+          "description": "Evoca un blocco 8x5x8 di terreno di terriccio."
         }
       },
       "summon_stone_block_mimic": {
         "summon_stone_block_mimic_ghost": {
-          "display_name": "Mimic Terrain Block Stone",
-          "description": "Summons an 8x5x8 block of terrain that mimics whatever terrain it is placed on."
+          "display_name": "Pietra mimica in blocco",
+          "description": "Evoca un blocco 8x5x8 di terreno che imita qualsiasi terreno su cui è posizionato."
         }
       },
       "summon_stone_block_rock": {
         "summon_stone_block_rock_ghost": {
-          "display_name": "Rock Terrain Block Stone",
-          "description": "Summons an 8x5x8 block of rocky terrain."
+          "display_name": "Blocco di roccia",
+          "description": "Evoca un blocco 8x5x8 di terreno roccioso."
         }
       },
       "summon_stone_block_surface": {
         "summon_stone_block_surface_ghost": {
-          "display_name": "Surface Terrain Block Stone",
-          "description": "Summons an 8x5x8 block of surface terrain, such as grass or sand."
+          "display_name": "Blocco di terra di superficie",
+          "description": "Evoca un blocco 8x5x8 di terreno di superficie, come erba o sabbia."
         }
       },
       "summon_stone_geyser": {
         "summon_stone_geyser_ghost": {
-          "display_name": "Geyser Stone",
-          "description": "Summons a mountain geyser."
+          "display_name": "Pietra vulcanica",
+          "description": "Evoca pietra vulcanica di montagna"
         }
       },
       "summon_stone_rune_site": {
         "summon_stone_rune_site_ghost": {
-          "display_name": "Rune Site Stone",
-          "description": "Summons a clearing with a holy rune symbol."
+          "display_name": "Pietra del sito delle rune",
+          "description": "Evoca una radura con il simbolo di una runa sacra."
         }
       },
       "summon_stone_stump": {
         "summon_stone_stump_ghost": {
-          "display_name": "Giant Stump Stone",
-          "description": "Summons a giant stump."
+          "display_name": "Ceppo di pietra gigante",
+          "description": "Evoca un moncone gigante."
         }
       },
       "summon_stone_rabbit_statue": {
         "summon_stone_rabbit_statue_ghost": {
-          "display_name": "Rabbit Statue Stone",
-          "description": "Summons an ancient rabbit statue."
+          "display_name": "Statua di coniglio in pietra",
+          "description": "Evoca un'antica statua di coniglio."
         }
       },
       "summon_stone_rock_field": {
         "summon_stone_rock_field_ghost": {
-          "display_name": "Rock Field Stone",
-          "description": "Summons a pleasant field of rocks."
+          "display_name": "Pietra del campo di roccia",
+          "description": "Evoca un piacevole campo di rocce."
         }
       },
       "summon_stone_patch_dirt": {
         "summon_stone_patch_dirt_ghost": {
-          "display_name": "Dirt Terrain Patch Stone",
-          "description": "Grows into a patch of dirt terrain, up to 12x12 units in size."
+          "display_name": "Pietrisco di terra",
+          "description": "Cresce in una zona di terreno sterrato, con dimensioni fino a 12x12 unità."
         }
       },
       "summon_stone_patch_mimic": {
         "summon_stone_patch_mimic_ghost": {
-          "display_name": "Mimic Terrain Patch Stone",
-          "description": "Grows into a patch of terrain, up to 12x12 units in size, that mimics the terrain it's placed on."
+          "display_name": "Pietra mimica del terreno",
+          "description": "Cresce in una parte di terreno, fino a 12x12 unità di dimensioni, che imita il terreno su cui è posizionato."
         }
       },
       "summon_stone_patch_rock": {
         "summon_stone_patch_rock_ghost": {
-          "display_name": "Rock Terrain Patch Stone",
-          "description": "Grows into a patch of rocky terrain, up to 12x12 units in size."
+          "display_name": "Pietra del terreno roccioso",
+          "description": "Cresce in una zona di terreno roccioso, con dimensioni fino a 12x12 unità."
         }
       },
       "summon_stone_patch_surface": {
         "summon_stone_patch_surface_ghost": {
-          "display_name": "Surface Terrain Patch Stone",
-          "description": "Grows into a patch of surface terrain, such as grass or sand, up to 12x12 units in size."
+          "display_name": "Pietra di superficie del terreno",
+          "description": "Cresce in una zona di terreno, come erba o sabbia, di dimensioni fino a 12x12 unità."
         }
       },
       "summon_stone_vein_coal": {
         "summon_stone_vein_coal_ghost": {
-          "display_name": "Coal Vein Stone",
-          "description": "Grows into a vein of coal."
+          "display_name": "Pietra di vena di carbone",
+          "description": "Cresce in una vena di carbone."
         }
       },
       "summon_stone_vein_copper": {
         "summon_stone_vein_copper_ghost": {
-          "display_name": "Copper Vein Stone",
-          "description": "Grows into a vein of copper ore."
+          "display_name": "Pietra di vena di rame",
+          "description": "Cresce in una vena di minerale di rame."
         }
       },
       "summon_stone_vein_gold": {
         "summon_stone_vein_gold_ghost": {
-          "display_name": "Gold Vein Stone",
-          "description": "Grows into a vein of gold ore."
+          "display_name": "Pietra di vena d'oro",
+          "description": "Cresce in una vena di minerale d'oro."
         }
       },
       "summon_stone_vein_iron": {
         "summon_stone_vein_iron_ghost": {
-          "display_name": "Iron Vein Stone",
-          "description": "Grows into a vein of iron ore."
+          "display_name": "Pietra di vena di ferro",
+          "description": "Cresce in una vena di minerale di ferro."
         }
       },
       "summon_stone_vein_silver": {
         "summon_stone_vein_silver_ghost": {
-          "display_name": "Silver Vein Stone",
-          "description": "Grows into a vein of silver ore."
+          "display_name": "Pietra di vena d'argento",
+          "description": "Cresce in una vena di minerale d'argento."
         }
       },
       "summon_stone_vein_tin": {
         "summon_stone_vein_tin_ghost": {
-          "display_name": "Tin Vein Stone",
-          "description": "Grows into a vein of tin ore."
+          "display_name": "Pietra di vena di stagno",
+          "description": "Cresce in una vena di minerale di stagno."
         }
       },
       "summon_stone_riverbed_dry": {
         "summon_stone_riverbed_dry_ghost": {
-          "display_name": "Dry Riverbed Stone",
-          "description": "Summons the memory of an ancient river."
+          "display_name": "Pietra asciutta del letto del fiume",
+          "description": "Evoca il ricordo di un antico fiume."
         }
       },
       "summon_stone_sun": {
         "summon_stone_sun_ghost": {
-          "display_name": "Sun Stone",
-          "description": "Summons a pattern of a cute Sun."
+          "display_name": "Pietra del sole",
+          "description": "Evoca uno schema di un simpatico Sole."
         }
       },
       "summon_stone_moon": {
         "summon_stone_moon_ghost": {
-          "display_name": "Moon Stone",
-          "description": "Summons a pattern of a cute Moon."
+          "display_name": "Pietra di luna",
+          "description": "Evoca uno schema di una luna carina."
         }
       },
       "summon_stone_sleeping_giant": {
         "summon_stone_sleeping_giant_ghost": {
-          "display_name": "Sleeping Stone",
-          "description": "Summons the memory of an ancient slumbering worker."
+          "display_name": "Pietra per dormire",
+          "description": "Evoca il ricordo di un antico lavoratore addormentato."
         }
       }
     }
@@ -16010,7 +16010,7 @@
   "jobs": {
     "common": {
       "recipes": {
-        "legendary_name": "Legendary"
+        "legendary_name": "Leggendario"
       }
     },
     "animal_trainer": {
@@ -16022,69 +16022,69 @@
     },
     "archer": {
       "archer_outfit": {
-        "display_name": "Archer's Padded Vest",
-        "description": "Offers light protection",
+        "display_name": "Gilet imbottito per arcere",
+        "description": "Offre protezione leggera",
         "archer_hood": {
-          "display_name": "Archer's Cloak",
-          "description": "Hooded protection for one's head"
+          "display_name": "Mantello dell'Arciere",
+          "description": "Protezione con cappuccio per la testa"
         }
       },
       "archer_description": {
-        "display_name": "Archer",
-        "description": "A ranged combat unit that shoots foes with arrows",
-        "requirements": "Crafted by Carpenter",
+        "display_name": "Arciere",
+        "description": "Un'unità da combattimento a distanza che spara ai nemici con le frecce",
+        "requirements": "Realizzato da falegname",
         "level_1_data": {
-          "perk_000_name": "Bow Proficiency",
-          "perk_001_name": "Increased Draw Strength",
-          "perk_000_description": "The archer is able to use a bow to shoot arrows at enemies",
-          "perk_001_description": "The archer's damage is increased"
+          "perk_000_name": "Competenza dell'arco",
+          "perk_001_name": "Maggiore forza di trazione",
+          "perk_000_description": "L'arciere è in grado di usare un arco per scoccare frecce ai nemici",
+          "perk_001_description": "Il danno dell'arciere aumenta"
         },
         "level_2_data": {
-          "perk_000_name": "Armor Piercing Arrows",
-          "perk_000_description": "The archer's shots ignore 50% of the target's armor"
+          "perk_000_name": "Frecce perforanti per armature",
+          "perk_000_description": "I colpi dell'arciere ignorano il 50% dell'armatura del bersaglio"
         },
         "level_3_data": {
-          "perk_000_name": "Range Increase",
-          "perk_000_description": "The Archer can attack enemies from further away"
+          "perk_000_name": "Aumento della portata",
+          "perk_000_description": "L'arciere non può attaccare i nemici da più lontano"
         },
         "level_5_data": {
-          "perk_000_name": "Range Increase (Rank 2)",
-          "perk_000_description": "The Archer can attack enemies from very far away"
+          "perk_000_name": "Aumento della portata (grado 2)",
+          "perk_000_description": "L'arciere non può attaccare i nemici da molto lontano"
         },
         "level_4_data": {
-          "perk_000_name": "Draw Speed Up",
-          "perk_000_description": "The archer shoots arrows with greater speed"
+          "perk_000_name": "Accelerare",
+          "perk_000_description": "L'arciere lancia frecce con maggiore velocità"
         },
         "level_6_data": {
-          "perk_000_name": "Double Shot",
-          "perk_000_description": "The archer learns the ancient art of quick shots, allowing rapid firing of two arrows in rapid succession"
+          "perk_000_name": "Colpo doppio",
+          "perk_000_description": "L'arciere apprende l'antica arte dei tiri veloci, permettendo il tiro rapido di due frecce in rapida successione"
         }
       },
       "archer_buffs": {
         "damage_1_buff": {
-          "display_name": "Damage +20%",
-          "description": "The archer's damage is increased."
+          "display_name": "Danno +20%",
+          "description": "Il danno dell'arciere aumenta."
         },
         "slowing_arrow": {
-          "display_name": "Slowed",
-          "description": "Movement speed slowed by Spikey Arrows"
+          "display_name": "Rallentato",
+          "description": "Velocità di movimento rallentata da frecce appuntite"
         },
         "fire_arrow": {
-          "display_name": "On Fire",
-          "description": "Set aflame! Taking fire damage every 5 minutes for 15 minutes"
+          "display_name": "A fuoco",
+          "description": "Fiamma! Subire danni da fuoco ogni 5 minuti per 15 minuti"
         }
       }
     },
     "architect": {
       "architect_description": {
-        "display_name": "Architect",
+        "display_name": "Architetto",
         "description": "???",
         "requirements": "???",
         "level_1_data": {
-          "perk_000_name": "Fast Construction",
-          "perk_001_name": "Conservation of Materials",
-          "perk_000_description": "Build faster!",
-          "perk_001_description": "Have a chance every fabrication to not consume a stack of building material."
+          "perk_000_name": "Costruzione veloce",
+          "perk_001_name": "Conservazione dei materiali",
+          "perk_000_description": "Costruisci più velocemente!",
+          "perk_001_description": "Avere la possibilità che ogni fabbricazione non consumi una pila di materiale da costruzione."
         }
       }
     },
@@ -16104,83 +16104,83 @@
     },
     "blacksmith": {
       "blacksmith_description": {
-        "display_name": "Blacksmith",
-        "description": "The Blacksmith refines raw ore into metal bars, then uses those bars to craft weapons, armor, and building parts like gates.",
-        "requirements": "Crafted by Mason",
+        "display_name": "Fabbro",
+        "description": "Il fabbro raffina il minerale grezzo in barre di metallo, quindi usa quelle barre per fabbricare armi, armature e parti di costruzione come cancelli.",
+        "requirements": "Realizzato da muratore",
         "level_6_data": {
-          "title": "Master Blacksmith",
-          "perk_000_name": "The Armory",
-          "perk_000_description": "The Blacksmith's mastery of their trade allows them to create the finest weapons and armors seen since the forgotten Phoenix Empire."
+          "title": "Maestro fabbro",
+          "perk_000_name": "L'Armeria",
+          "perk_000_description": "La padronanza del loro mestiere da parte del fabbro consente loro di creare le migliori armi e armature viste dall'impero della Fenice dimenticato."
         },
         "level_2_data": {
-          "perk_000_name": "Iron Age!",
-          "perk_000_description": "The Blacksmith is now skilled enough to forge heavy items made of iron."
+          "perk_000_name": "Età del ferro!",
+          "perk_000_description": "Ora il fabbro è abbastanza abile da forgiare oggetti pesanti di ferro."
         },
         "level_4_data": {
-          "perk_000_name": "Cold Steel",
-          "perk_000_description": "Long hours at the forge have unlocked the secret of steel: sharper weapons and lighter armor."
+          "perk_000_name": "Acciaio freddo",
+          "perk_000_description": "Lunghe ore nella fucina hanno svelato il segreto dell'acciaio: armi più affilate e armature più leggere."
         },
         "level_1_data": {
-          "perk_000_name": "Bronze Age!",
-          "perk_000_description": "The secrets of bronze are now available to the Blacksmith."
+          "perk_000_name": "Età del bronzo!",
+          "perk_000_description": "I segreti del bronzo sono ora disponibili per il fabbro."
         },
         "level_3_data": {
-          "perk_000_name": "Journeyman's Knowledge",
-          "perk_000_description": "When inspiration strikes, the Blacksmith may now craft an especially Fine quality of placeable item."
+          "perk_000_name": "Viaggia nella conoscenza dell'uomo",
+          "perk_000_description": "Quando l'ispirazione colpisce, il fabbro ora può creare una qualità particolarmente fine di oggetti posizionabili."
         },
         "level_5_data": {
-          "perk_000_name": "Master's Insight",
-          "perk_000_description": "The Blacksmith can now create items of Excellent quality, and will make Fine quality items more often."
+          "perk_000_name": "Intuizione del maestro",
+          "perk_000_description": "Ora il fabbro è in grado di creare oggetti di qualità eccellente e renderà più spesso oggetti di qualità pregiata."
         }
       },
       "blacksmith_forge": {
         "blacksmith_forge_ghost": {
-          "display_name": "Forge",
-          "description": "A stone oven for heating metal"
+          "display_name": "Fucina",
+          "description": "Un forno in pietra per il riscaldamento del metallo"
         }
       },
       "blacksmith_hammer": {
-        "display_name": "Blacksmith's Hammer",
-        "description": "Tools of the trade for a blacksmith.",
+        "display_name": "Martello da fabbro",
+        "description": "Strumenti del mestiere per un fabbro.",
         "blacksmith_hammer_iconic": {
-          "display_name": "Blacksmith's Hammer",
-          "description": "Tools of the trade for a blacksmith."
+          "display_name": "Martello da fabbro",
+          "description": "Strumenti del mestiere per un fabbro."
         },
         "blacksmith_hammer_talisman": {
-          "display_name": "Blacksmith's Hammer",
-          "description": "Required to promote a hearthling to a blacksmith."
+          "display_name": "Martello da fabbro",
+          "description": "Richiesto per promuovere un cittadino a un fabbro."
         }
       },
       "blacksmith_outfit": {
-        "display_name": "Blacksmith Overalls",
-        "description": "Uniform for all blacksmiths"
+        "display_name": "Tuta da fabbro",
+        "description": "Uniforme per tutti i fabbri"
       },
       "blacksmith_workbench": {
         "blacksmith_workbench_ghost": {
-          "display_name": "Blacksmith Anvil",
-          "description": "Used by the Blacksmith for crafting."
+          "display_name": "Incudine del fabbro",
+          "description": "Utilizzato dal fabbro per la lavorazione."
         }
       },
       "recipes": {
         "iron_shield_recipe": {
-          "description": "Heavy, but effective.",
-          "flavor": "'Buck up, recruit! Better the shield dent than you!' -Thredd, Man at Arms",
-          "recipe_name": "Iron Shield"
+          "description": "Pesante, ma efficace.",
+          "flavor": "'Recluta! Meglio l'ammaccatura dello scudo di te! -stanco, uomo d'armi",
+          "recipe_name": "Scudo di ferro"
         },
         "bronze_breastplate_recipe": {
-          "description": "Partial but sturdy coverage against blunt and edged weapons.",
-          "recipe_name": "Bronze Breastplate",
-          "flavor": "Design reminiscent of the Phoenix's Legions."
+          "description": "Copertura parziale ma robusta contro le armi contundenti e affilate.",
+          "recipe_name": "Pettorale in bronzo",
+          "flavor": "Design che ricorda le legioni della fenice."
         },
         "bronze_ingot_recipe": {
-          "description": "Two bars of pure bronze. A suitable material for crafted goods.",
-          "recipe_name": "Bronze Ingot (x2)",
-          "flavor": "The masters of old considered its production, evidence of our triumph over the earth."
+          "description": "Due barre di bronzo puro. Un materiale adatto per prodotti artigianali.",
+          "recipe_name": "Lingotto di bronzo (x2)",
+          "flavor": "I vecchi maestri consideravano la sua produzione, la prova del nostro trionfo sulla terra."
         },
         "bronze_mace_recipe": {
-          "description": "Heavy, it packs a wallop.",
-          "recipe_name": "Bronze Mace",
-          "flavor": "The good news: there is no pointy end."
+          "description": "Pesante, racchiude un tonfo.",
+          "recipe_name": "Mazza di bronzo",
+          "flavor": "La buona notizia: non c'è una fine appuntita."
         },
         "bronze_sword_recipe": {
           "description": "Basic, but better than fighting with a sharpened stick!",
