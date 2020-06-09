@@ -13661,7 +13661,7 @@
     },
     "peoples": {
       "hearthling": {
-        "species": "Hearthling"
+        "species": "Cittadini"
       }
     },
     "pets": {
@@ -16183,217 +16183,217 @@
           "flavor": "La buona notizia: non c'è una fine appuntita."
         },
         "bronze_sword_recipe": {
-          "description": "Basic, but better than fighting with a sharpened stick!",
-          "recipe_name": "Bronze Sword",
-          "flavor": "Made in the shape of Braun's own blade."
+          "description": "Di base, ma meglio che combattere con un bastone affilato!",
+          "recipe_name": "Spada di bronzo",
+          "flavor": "Realizzato a forma di lama di Braun."
         },
         "carpenter_saw_recipe": {
-          "description": "Required to promote a hearthling into a Carpenter.",
-          "recipe_name": "Carpenter's Saw",
-          "flavor": "Now the circle can begin anew."
+          "description": "Richiesto per promuovere un cittadino in un carpentiere.",
+          "recipe_name": "La sega da carpentiere",
+          "flavor": "Ora il cerchio può ricominciare."
         },
         "copper_ingot_recipe": {
-          "description": "A bar of pure copper. A suitable material for crafted goods.",
-          "recipe_name": "Copper Ingot",
-          "flavor": "Smooth and silky to the touch"
+          "description": "Una barra di rame puro. Un materiale adatto per prodotti artigianali.",
+          "recipe_name": "Lingotto di rame",
+          "flavor": "Morbido e setoso al tatto"
         },
         "gold_ingot_recipe": {
-          "description": "A bar of pure gold. A suitable material for crafted goods.",
-          "recipe_name": "Gold Ingot",
-          "flavor": "The most expensive bludgeon ever."
+          "description": "Una barra d'oro puro. Un materiale adatto per prodotti artigianali.",
+          "recipe_name": "Lingotto d'oro",
+          "flavor": "La mazza ferrata più costosa di sempre."
         },
         "iron_ingot_recipe": {
-          "description": "A bar of pure Iron. A suitable material for crafted goods.",
-          "recipe_name": "Iron Ingot",
-          "flavor": "To both swords and plowshares, what an egg is to a chicken."
+          "description": "Una barra di ferro puro. Un materiale adatto per prodotti artigianali.",
+          "recipe_name": "Lingotto di ferro",
+          "flavor": "Sia per le spade che per i vomeri, cos'è un uovo per un pollo."
         },
         "iron_mace_recipe": {
-          "description": "Heavy, it packs a wallop.",
-          "recipe_name": "Iron Mace",
-          "flavor": "And Erin rested her forehead upon it, and the iron stole away enchantment and memory, together."
+          "description": "Pesante, racchiude un colpo.",
+          "recipe_name": "Mazza di ferro",
+          "flavor": "Ed Erin vi posò la fronte, e il ferro rubò incanto e memoria, insieme."
         },
         "iron_mail_recipe": {
-          "description": "A full suit of heavy, durable iron armor.",
-          "recipe_name": "Iron Mail",
-          "flavor": "But he'd hidden his heart in an iron fortress, and no fey could touch it. --Songs of Evermarth"
+          "description": "Una tuta completa di armatura di ferro pesante e resistente.",
+          "recipe_name": "Maglia di ferro",
+          "flavor": "Ma aveva nascosto il suo cuore in una fortezza di ferro e nessuno poteva toccarlo. --Canti di Evermarth"
         },
         "iron_pike_recipe": {
-          "description": "Sharp. Long. Pointy.",
-          "recipe_name": "Iron pike",
-          "flavor": "'Coward,' Elden spat. 'Face me blade to blade, or no knight be you.'"
+          "description": "Acuto. Lungo. A punta.",
+          "recipe_name": "Luccio di ferro",
+          "flavor": "\"Vigliacco\", sputò Elden. \"Affrontami lama a lama, o nessun cavaliere sei tu.\""
         },
         "long_sword_recipe": {
-          "description": "Sharp, with extra reach. A faithful weapon.",
-          "recipe_name": "Long Sword",
-          "flavor": "'Hah! The only weapon worthy of specialization. --Lady Giest"
+          "description": "Nitido, con portata extra. Un'arma fedele.",
+          "recipe_name": "Spada lunga",
+          "flavor": "'Hah! L'unica arma degna di specializzazione. --Lady Guest"
         },
-        "weapons_name": "Weapons",
-        "smelt_name": "Smelting",
-        "armor_name": "Armor",
-        "tools_name": "Tools",
+        "weapons_name": "Armi",
+        "smelt_name": "Fusione",
+        "armor_name": "Armatura",
+        "tools_name": "Utensili",
         "short_sword_recipe": {
-          "description": "Stubby, but its steel blade keeps an edge.",
-          "recipe_name": "Steel Short Sword",
-          "flavor": "But, does it glow when orcs are near?"
+          "description": "Robusto, ma la sua lama d'acciaio mantiene un vantaggio.",
+          "recipe_name": "Spada corta d'acciaio",
+          "flavor": "Ma si illumina quando gli orchi sono vicini?"
         },
         "silver_ingot_recipe": {
-          "description": "A bar of pure silver. A suitable material for crafted goods.",
-          "recipe_name": "Silver Ingot",
-          "flavor": "A pair of silver shoes once started a Phoenix war over currency."
+          "description": "Una barra di argento puro. Un materiale adatto per prodotti artigianali.",
+          "recipe_name": "Lingotto d'argento",
+          "flavor": "Un paio di scarpe d'argento hanno iniziato una guerra fenice contro la valuta."
         },
         "steel_ingot_recipe": {
-          "description": "A bar of pure steel. A suitable material for crafted goods.",
-          "recipe_name": "Steel Ingot",
-          "flavor": "The beginning of the modern age."
+          "description": "Una barra di acciaio puro. Un materiale adatto per prodotti artigianali.",
+          "recipe_name": "Lingotto d'acciaio",
+          "flavor": "L'inizio dell'età moderna."
         },
         "steel_mail_recipe": {
-          "description": "A full suit of heavy, durable steel armor.",
-          "recipe_name": "Full Platemail",
-          "flavor": "Full Metal Jacket"
+          "description": "Una tuta completa di armatura d'acciaio pesante e resistente.",
+          "recipe_name": "Piastre di maglia piene",
+          "flavor": "Giacca in metallo pieno"
         },
         "tin_ingot_recipe": {
-          "description": "A bar of pure tin. A suitable material for crafted goods.",
-          "recipe_name": "Tin Ingot",
-          "flavor": "Step 1: Beat thin. Step 2: Use to cover roof of town hall."
+          "description": "Una barra di puro stagno. Un materiale adatto per prodotti artigianali.",
+          "recipe_name": "Lingotto di stagno",
+          "flavor": "Passaggio 1: battere leggermente. Passaggio 2: utilizzare per coprire il tetto del municipio."
         },
         "trapper_knife_recipe": {
-          "description": "Required to promote a hearthling into a Trapper.",
-          "recipe_name": "Trapper's Knife",
-          "flavor": "Keep your edge whisker sharp, boy, and cut quick. --Willard Foxghost"
+          "description": "Richiesto per promuovere un cittadino in un cacciatore.",
+          "recipe_name": "Coltello da cacciatore",
+          "flavor": "Mantieni il tuo bordo affilato, ragazzo, e taglia velocemente. --Will Foxghost"
         },
         "two_handed_sword_recipe": {
-          "description": "Double the hands, double the trouble.",
-          "recipe_name": "Two Handed Sword"
+          "description": "Raddoppia le mani, raddoppia il problema.",
+          "recipe_name": "Spada a due mani"
         },
         "blacksmith_forge_recipe": {
-          "description": "Smelt metals into ingots.",
-          "recipe_name": "Blacksmith's Forge",
-          "flavor": "In flame, purity, in purity, strength. -Lucan Varius, Artifex Ignis"
+          "description": "Fusione di metalli in lingotti.",
+          "recipe_name": "Forgia del fabbro",
+          "flavor": "In fiamma, purezza, in purezza, forza. -Lucan Varius, Artifex Ignis"
         },
         "blacksmith_workbench_recipe": {
-          "description": "Used to create weapons and armor out of ingots.",
-          "recipe_name": "Blacksmith's Anvil",
-          "flavor": "It is no coincidence that the metaphors of good character descend from work of the smith. -Lucan Varius, Artifex Ignis"
+          "description": "Utilizzato per creare armi e armature dai lingotti.",
+          "recipe_name": "Incudine del fabbro",
+          "flavor": "Non è un caso che le metafore di buon carattere discendano dal lavoro del fabbro. -Lucan Varius, Artifex Ignis"
         },
-        "workbenches_name": "Workbenches",
-        "storage_name": "Storage",
+        "workbenches_name": "Banchi di lavoro",
+        "storage_name": "Conservazione",
         "vault_recipe": {
-          "description": "Massive storage for 256 items!",
-          "recipe_name": "Vault",
-          "flavor": "Conceived by the brilliant Arci, Survivor of Chaat"
+          "description": "Ampia memoria per 256 articoli!",
+          "recipe_name": "Tomba",
+          "flavor": "Concepito dal geniale Arci, Sopravvissuto di Chaat"
         },
         "iron_coif_recipe": {
-          "description": "Protection for your head",
-          "recipe_name": "Iron Coif"
+          "description": "Protezione per la testa",
+          "recipe_name": "Cuffia di ferro"
         },
         "steel_helmet_recipe": {
-          "description": "Extra protection for your noggin!",
-          "recipe_name": "Plate Helm",
-          "flavor": "Long considered the epitome of headgear; doubles as a fine soup pot - Roke Tastybakes II"
+          "description": "Protezione extra per il tuo amico!",
+          "recipe_name": "Elmo a piastre",
+          "flavor": "A lungo considerato l'epitome di copricapo; funge anche da fine zuppa --Roke Tastybakes II"
         },
         "bronze_circlet_recipe": {
-          "description": "Protection for your head!",
-          "recipe_name": "Bronze Circlet",
-          "flavor": "So regal. So stylish!"
+          "description": "Protezione per la tua testa!",
+          "recipe_name": "Cerchietto di bronzo",
+          "flavor": "Così regale. Così alla moda!"
         },
         "bronze_shield_recipe": {
-          "description": "Increase armor and blocks attacks!",
-          "recipe_name": "Bronze Shield"
+          "description": "Aumenta le armature e blocca gli attacchi!",
+          "recipe_name": "Scudo di bronzo"
         },
-        "furniture_name": "Furniture",
-        "decoration_name": "Decorations",
+        "furniture_name": "Mobili",
+        "decoration_name": "Decorazioni",
         "steel_shield_recipe": {
-          "recipe_name": "Steel Shield",
-          "description": "Grants the ability to completely block attacks.",
-          "flavor": "Incredibly protective. Small children play turtle underneath."
+          "recipe_name": "Scudo d'acciaio",
+          "description": "Offre la possibilità di bloccare completamente gli attacchi.",
+          "flavor": "Incredibilmente protettivo. I bambini piccoli giocano sotto la tartaruga."
         },
         "knights_shield_recipe": {
-          "recipe_name": "Knight's Shield",
-          "description": "Required to promote a hearthling into a Knight"
+          "recipe_name": "Scudo del cavaliere",
+          "description": "Richiesto per promuovere un cittadino in un cavaliere"
         },
         "iron_helm_recipe": {
-          "recipe_name": "Iron Helm",
-          "description": "Protection for one's head"
+          "recipe_name": "Elmo di ferro",
+          "description": "Protezione per la testa"
         },
         "iron_circlet_recipe": {
-          "recipe_name": "Iron Circlet",
-          "description": "It's quite heavy, but protects one's head"
+          "recipe_name": "Cerchietto di ferro",
+          "description": "È abbastanza pesante, ma protegge la testa"
         },
         "steel_circlet_recipe": {
-          "recipe_name": "Steel Circlet",
-          "description": "Light weight and strong head protection"
+          "recipe_name": "Cerchietto d'acciaio",
+          "description": "Leggera e resistente protezione per la testa"
         },
         "decorative_elite_gong_recipe": {
-          "description": "Inspired by the Elite Kobold Menace",
-          "recipe_name": "Decorative Elite Gong",
-          "flavor": "As it turns out, their hats were very dense"
+          "description": "Ispirato dalla minaccia dell'élite Kobold",
+          "recipe_name": "Gong d'élite decorativo",
+          "flavor": "A quanto pare, i loro cappelli erano molto densi"
         },
         "decorative_generals_gong_recipe": {
-          "description": "Enormous and decorative!",
-          "recipe_name": "General's Golden Gong",
-          "flavor": "The generals hat, when melted down, could have filled a lake with gold"
+          "description": "Enorme e decorativo!",
+          "recipe_name": "Gong d'oro del generale",
+          "flavor": "Il cappello dei generali, una volta sciolto, avrebbe potuto riempire un lago d'oro"
         },
         "decorative_master_gong_recipe": {
-          "description": "Inspired by the Master Kobold Archer",
-          "recipe_name": "Decorative Master Gong",
-          "flavor": "Great for taunting master kobolds"
+          "description": "Ispirato dal maestro arciere Kobold",
+          "recipe_name": "Gong decorativo del maestro",
+          "flavor": "Ottimo per schernire i maestri kobold"
         },
         "decorative_scout_gong_recipe": {
-          "description": "Inspired by the Kobold Scout",
-          "recipe_name": "Decorative Scout Gong",
-          "flavor": "Even scouts are adorned with gold"
+          "description": "Ispirato all'esploratore Kobold",
+          "recipe_name": "Gong decorativo dell'esploratore",
+          "flavor": "Perfino gli esploratori sono decorati con l'oro"
         },
         "silver_mail_recipe": {
-          "recipe_name": "Silver Mail",
-          "description": "The best armor... for now.",
-          "flavor": "Cid loved the color of strawberries"
+          "recipe_name": "Maglia d'argento",
+          "description": "La migliore armatura... per ora.",
+          "flavor": "Cid adorava il colore delle fragole"
         },
         "silver_helmet_recipe": {
-          "recipe_name": "Silver Helmet",
-          "description": "Quintessentially heroic",
-          "flavor": "Inspired by the plumes of the Phoenix"
+          "recipe_name": "Elmetto d'argento",
+          "description": "Quintessenzialmente eroico",
+          "flavor": "Ispirato ai pennacchi della Fenice"
         },
         "bronze_helm_recipe": {
-          "recipe_name": "Bronze Helmet",
-          "description": "Pretty and protective",
-          "flavor": "The iron workers insisted they had perfected the art, but the bronze workers argued their's was prettier."
+          "recipe_name": "Elmo di bronzo",
+          "description": "Grazioso e protettivo",
+          "flavor": "Gli operai del ferro insistevano che avevano perfezionato l'arte, ma gli operai del bronzo sostenevano che il loro era più bello."
         },
         "engineer_wrench_recipe": {
-          "description": "Required to promote a hearthling into an Engineer",
-          "recipe_name": "Engineer's Wrench"
+          "description": "Richiesto per promuovere un cittadino in un ingegnere",
+          "recipe_name": "Chiave da ingegnere"
         },
         "input_bin_iron_recipe": {
-          "recipe_name": "Iron-Banded Supply Bin",
-          "description": "A versatile container for any resource, to help keep crafters supplied.",
-          "flavor": "Think of what we can achieve when Hearthlings work together!"
+          "recipe_name": "Bidone per rifornimento legato con ferro",
+          "description": "Un contenitore versatile per qualsiasi risorsa, per aiutare a fornire artigiani.",
+          "flavor": "Pensa a cosa possiamo ottenere quando i cittadini lavorano insieme!"
         },
         "input_table_ground_iron_recipe": {
-          "recipe_name": "Iron-Studded Supply Table",
-          "description": "A versatile container for any resource, to help keep crafters supplied.",
-          "flavor": "Think of what we can achieve when Hearthlings work together!"
+          "recipe_name": "Tavolo di alimentazione con borchie di ferro",
+          "description": "Un contenitore versatile per qualsiasi risorsa, per aiutare a fornire artigiani.",
+          "flavor": "Pensa a cosa possiamo ottenere quando i cittadini lavorano insieme!"
         },
         "input_corner_ground_iron_recipe": {
-          "recipe_name": "Iron-Framed Corner Supply Shelf",
-          "description": "A versatile container for any resource, to help keep crafters supplied.",
-          "flavor": "Think of what we can achieve when Hearthlings work together!"
+          "recipe_name": "Ripiano angolare con telaio in ferro",
+          "description": "Un contenitore versatile per qualsiasi risorsa, per aiutare a fornire artigiani.",
+          "flavor": "Pensa a cosa possiamo ottenere quando i cittadini lavorano insieme!"
         },
         "sign_blacksmith_recipe": {
-          "description": "An iron-forged sign, to be displayed outside a blacksmith's workshop",
-          "recipe_name": "Blacksmith's Shop Sign",
-          "flavor": "Its chains rattle and sing brightly with every hammer strike"
+          "description": "Un cartello forgiato in ferro, da esporre all'esterno di un'officina da fabbro",
+          "recipe_name": "Insegna del negozio del fabbro",
+          "flavor": "Le sue catene vibrano e cantano vivacemente ad ogni colpo di martello"
         },
         "lantern_iron_recipe": {
-          "description": "Glows like the heart of the forge",
-          "recipe_name": "Iron Wall-mounted Lantern",
-          "flavor": "Reinforced, but still relaxing"
+          "description": "Si illumina come il cuore della fucina",
+          "recipe_name": "Lanterna a parete in ferro",
+          "flavor": "Rinforzato, ma ancora rilassante"
         },
         "lamppost_rustic_recipe": {
-          "description": "Humbly illuminates any pathway or patio",
-          "recipe_name": "Rustic Lamppost",
-          "flavor": "Chase away the night"
+          "description": "Illumina umilmente qualsiasi via o patio",
+          "recipe_name": "Lampione rustico",
+          "flavor": "Scaccia la notte"
         },
         "lamppost_rustic_double_recipe": {
-          "description": "More boldly lights the way",
+          "description": "Più audacemente illumina la strada",
           "recipe_name": "Twin Rustic Lamppost",
           "flavor": "Two heads are better than one"
         },
