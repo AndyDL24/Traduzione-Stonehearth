@@ -16394,80 +16394,80 @@
         },
         "lamppost_rustic_double_recipe": {
           "description": "Più audacemente illumina la strada",
-          "recipe_name": "Twin Rustic Lamppost",
-          "flavor": "Two heads are better than one"
+          "recipe_name": "Lampione doppio rustico",
+          "flavor": "Due teste sono meglio di una"
         },
         "gate_iron_recipe": {
-          "description": "Almost too heavy to move",
-          "recipe_name": "Wrought-Iron gate",
-          "flavor": "Luckily, if you can't swing the doors open, you can just squeeze through them"
+          "description": "Quasi troppo pesante per muoversi",
+          "recipe_name": "Cancello in ferro battuto",
+          "flavor": "Fortunatamente, se non riesci ad aprire le porte, puoi semplicemente spingerle attraverso"
         },
         "candle_iron_recipe": {
-          "description": "Let there be light!",
-          "recipe_name": "Iron Candle-holder",
-          "flavor": "Never light and leave unattended"
+          "description": "Sia la luce!",
+          "recipe_name": "Portacandele in ferro",
+          "flavor": "Non accendere mai e lasciare incustodito"
         },
         "candle_iron_double_recipe": {
-          "description": "Let there be more light!",
-          "recipe_name": "Iron Candelabra",
-          "flavor": "A stately fixture that belongs wherever Hearthlings gather"
+          "description": "Lascia che ci sia più luce!",
+          "recipe_name": "Candelabri di ferro",
+          "flavor": "Un apparecchio signorile che appartiene ovunque i cittadini si riuniscono"
         },
-        "construction_name": "Construction",
+        "construction_name": "Costruzione",
         "door_blacksmith_recipe": {
-          "description": "Fit for a master blacksmith's workshop",
-          "recipe_name": "Blacksmith's Door",
-          "flavor": "You can feel the heat coming through the door"
+          "description": "Adatto per un laboratorio di fabbro",
+          "recipe_name": "Porta del fabbro",
+          "flavor": "Puoi sentire il calore entrare dalla porta"
         },
         "lamppost_upscale_double_recipe": {
-          "description": "Lovely lighting for any pathway or promenade",
-          "recipe_name": "Twin Iron Lamp Post",
-          "flavor": "More light probably means more style. Probably"
+          "description": "Illuminazione incantevole per qualsiasi percorso o passeggiata",
+          "recipe_name": "Lampione in ferro gemellato",
+          "flavor": "Più luce probabilmente significa più stile. Probabilmente"
         },
         "lamppost_upscale_recipe": {
-          "description": "Lovely lighting for any pathway or promenade",
-          "recipe_name": "Iron Lamp Post",
-          "flavor": "Stylish enough to make even the most stubborn poyo think twice about roosting on it"
+          "description": "Illuminazione incantevole per qualsiasi percorso o passeggiata",
+          "recipe_name": "Lampione in ferro",
+          "flavor": "Abbastanza elegante da far riflettere due volte anche il pollo più testardo sul posarlo su di esso"
         },
         "lantern_poyo_recipe": {
-          "description": "Happy bronze lightbirb",
-          "recipe_name": "Poyo Lantern",
-          "flavor": "Light as soft and warm as a poyo feather blanket"
+          "description": "Luce divertente a forma di uccello",
+          "recipe_name": "Lanterna di pollo",
+          "flavor": "Leggero, morbido e caldo come una coperta di piume di pollo"
         },
         "weathervane_poyo_recipe": {
-          "description": "A weathervane resembling a poyo",
-          "recipe_name": "Twirlybird",
-          "flavor": "Spins in the winds and never ever gets dizzy"
+          "description": "Una banderuola che ricorda un pollo",
+          "recipe_name": "Roteare",
+          "flavor": "Gira nei venti e non ha mai le vertigini"
         },
         "valor_torch_recipe": {
-          "description": "Its flame brings a warm feeling of pride in all we have accomplished.",
-          "recipe_name": "Wooden Torch"
+          "description": "La sua fiamma porta una calda sensazione di orgoglio in tutto ciò che abbiamo realizzato.",
+          "recipe_name": "Torcia di legno"
         },
         "valor_wall_hanging_plaque_recipe": {
-          "description": "Just like Granddads sword looked!",
-          "recipe_name": "Sword and Shield Plaque"
+          "description": "Proprio come la spada del nonno sembrava!",
+          "recipe_name": "Placca di spada e scudo"
         },
         "valor_war_horn_recipe": {
-          "description": "Reminiscent of days gone past.",
-          "recipe_name": "Giant Warhorn",
-          "flavor": "The sound of a great horn like this should never be taken lightly... thankfully one hasn't sounded in Darkmoor for many years. -- Cid, Knight of the Old Ways"
+          "description": "Ricorda i giorni passati.",
+          "recipe_name": "Corno da guerra gigante",
+          "flavor": "Il suono di un grande corno come questo non dovrebbe mai essere preso alla leggera ... per fortuna uno non suona in Darkmoor da molti anni. - Cid, Cavaliere dei vecchi modi"
         },
         "steel_frame_recipe": {
-          "description": "Reinforces the Giant's Shield.",
-          "recipe_name": "Giant's Frame",
-          "flavor": "The bones of the Giant"
+          "description": "Rinforza lo scudo del gigante.",
+          "recipe_name": "Cornice del gigante",
+          "flavor": "Le ossa del gigante"
         },
         "two_handed_sword_valor_recipe": {
-          "description": "Finest blade in the Ascendancy",
-          "recipe_name": "Emblazoned Sword",
-          "flavor": "Perfectly balanced for its size, and equal to any challenge its wielder takes on"
+          "description": "La lama più fine dell'Ascendenza",
+          "recipe_name": "Spada incisa",
+          "flavor": "Perfettamente bilanciato per le sue dimensioni e uguale a qualsiasi sfida che il suo possessore affronta"
         },
         "circlet_valor_recipe": {
-          "description": "Squarest circlet in the Ascendancy",
-          "recipe_name": "Shining Circlet",
-          "flavor": "Channels the very heart and soul into healing light"
+          "description": "Cerchio quadrato in ascesa",
+          "recipe_name": "Cerchietto splendente",
+          "flavor": "Canali il cuore e l'anima nella luce curativa"
         },
         "golem_pick_recipe": {
-          "description": "Used by the Geomancer to craft Mole Golems",
+          "description": "Utilizzato dal geomante per creare golem talpa",
           "recipe_name": "Golem Pick"
         }
       }
