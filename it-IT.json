@@ -12039,7 +12039,7 @@
         "fence_frostsnap": {
           "fence_frostsnap_ghost": {
             "display_name": "Recinzione fiorita blu",
-            "description": "Una recinzione sormontata da frostsnap"
+            "description": "Una recinzione sormontata da frostsnaps"
           }
         },
         "fountain": {
@@ -16468,717 +16468,717 @@
         },
         "golem_pick_recipe": {
           "description": "Utilizzato dal geomante per creare golem talpa",
-          "recipe_name": "Golem Pick"
+          "recipe_name": "Golem Raccoglitore"
         }
       }
     },
     "carpenter": {
       "carpenter_description": {
-        "display_name": "Carpenter",
-        "description": "The Carpenter crafts tools and furniture from wood. The tools he makes unlocks several other jobs.",
-        "requirements": "Crafted by Blacksmith",
+        "display_name": "Falegname",
+        "description": "Il carpentiere crea strumenti e mobili in legno. Gli strumenti che crea sblocca molti altri lavori.",
+        "requirements": "Realizzato da Fabbro",
         "level_6_data": {
-          "title": "Master Carpenter",
-          "perk_000_name": "10,000 Hours",
-          "perk_000_description": "The Carpenter's mastery of his trade allows them access to recipes that expand your town's opportunities."
+          "title": "Maestro carpentiere",
+          "perk_000_name": "10.000 ore",
+          "perk_000_description": "La padronanza del suo mestiere da carpentiere consente loro di accedere a ricette che ampliano le opportunità della tua città."
         },
         "level_2_data": {
-          "perk_000_name": "Collaborative Insight",
-          "perk_000_description": "The Carpenter is now skillful enough to use materials created by other crafters."
+          "perk_000_name": "Analisi collaborativa",
+          "perk_000_description": "Il carpentiere ora è abbastanza abile da usare materiali creati da altri artigiani."
         },
         "level_4_data": {
-          "perk_000_name": "Extended Catalog",
-          "perk_000_description": "The Carpenter now has the courage to try more elaborate projects."
+          "perk_000_name": "Catalogo esteso",
+          "perk_000_description": "Il carpentiere ora ha il coraggio di provare progetti più elaborati."
         },
         "level_1_data": {
-          "perk_000_name": "Standard Catalog",
-          "perk_000_description": "The Carpenter can now make a solid array of basic furniture."
+          "perk_000_name": "Catalogo standard",
+          "perk_000_description": "Il carpentiere può ora realizzare una solida gamma di mobili di base."
         },
         "level_3_data": {
-          "perk_000_name": "Journeyman's Knowledge",
-          "perk_000_description": "When inspiration strikes, the Carpenter may now craft an especially Fine quality of item."
+          "perk_000_name": "Conoscenza dell'operaio qualificato",
+          "perk_000_description": "Quando l'ispirazione colpisce, il falegname ora può creare un oggetto particolarmente pregiato."
         },
         "level_5_data": {
-          "perk_000_name": "Master's Insight",
-          "perk_000_description": "The Carpenter can now create items of Excellent quality, and will make Fine quality items more often."
+          "perk_000_name": "Intuito del Maestro",
+          "perk_000_description": "Il carpentiere ora può creare oggetti di qualità eccellente e produrrà oggetti di qualità pregiata più spesso."
         }
       },
       "carpenter_outfit": {
-        "display_name": "Carpenter Overalls",
-        "description": "Uniform for all carpenters"
+        "display_name": "Tuta da carpentiere",
+        "description": "Uniforme per tutti i carpentieri"
       },
       "carpenter_saw": {
-        "display_name": "Carpenter's Saw",
-        "description": "Tools of the trade for a Carpenter.",
+        "display_name": "La sega da carpentiere",
+        "description": "Strumenti del mestiere per un carpentiere.",
         "carpenter_saw_iconic": {
-          "display_name": "Carpenter's Saw",
-          "description": "Basic level carpenter's saw."
+          "display_name": "La sega da carpentiere",
+          "description": "Sega da carpentiere di livello base."
         },
         "carpenter_saw_talisman": {
-          "display_name": "Carpenter's Saw",
-          "description": "Required to promote a hearthling into a Carpenter."
+          "display_name": "La sega da carpentiere",
+          "description": "Richiesto per promuovere un cittadino in un carpentiere."
         }
       },
       "carpenter_workbench": {
         "carpenter_workbench_ghost": {
-          "display_name": "Carpenter Workbench",
-          "description": "Used by the Carpenter for crafting."
+          "display_name": "Banco da lavoro per carpentiere",
+          "description": "Utilizzato dal carpentiere per la fabbricazione."
         }
       },
       "carpenter_toolbench": {
         "carpenter_toolbench_ghost": {
-          "display_name": "Carpenter Toolbench",
-          "description": "Used to make fancier kinds of furniture."
+          "display_name": "Banco attrezzi per carpentiere",
+          "description": "Utilizzato per creare tipi di mobili più fantasiosi."
         }
       },
       "recipes": {
         "arch_backed_chair_recipe": {
-          "description": "Just like a normal chair, except it impresses your neighbors. When sitting, food is 20% more satisfying.",
-          "recipe_name": "Cathedral-Arch Chair",
-          "flavor": "Design favored by the Church of Plenty."
+          "description": "Proprio come una sedia normale, tranne che colpisce i tuoi vicini. Quando si è seduti, il cibo è più soddisfacente del 20%.",
+          "recipe_name": "Sedia ad arco cattedrale",
+          "flavor": "Design preferito dalla chiesa dell'abbondanza."
         },
         "comfy_bed_recipe": {
-          "description": "Eight hours will leave you as refreshed as the day you were born.",
-          "recipe_name": "Comfy Bed",
-          "flavor": "Nobody ever wants to get out. It makes emergency evacuations awkward."
+          "description": "Otto ore ti lasceranno riposato come il giorno in cui sei nato.",
+          "recipe_name": "Letto comodo",
+          "flavor": "Nessuno vuole mai uscire. Rende imbarazzante l'evacuazione di emergenza."
         },
         "comfy_chair_recipe": {
-          "description": "Its padded seat guarantees a 98% reduction in awkward splinters!",
-          "recipe_name": "Comfy Chair",
-          "flavor": "If pillows are good for the head, surely they're even better for the butt and back!"
+          "description": "La sua seduta imbottita garantisce una riduzione del 98% delle schegge scomode!",
+          "recipe_name": "Sedia comoda",
+          "flavor": "Se i cuscini fanno bene alla testa, sicuramente sono anche meglio per il sedere e la schiena!"
         },
         "dining_table_recipe": {
-          "description": "Allows a group of people to all eat together. Like grown-ups.",
-          "recipe_name": "Dining Table",
-          "flavor": "Sitting down to eat is a sign of civilization."
+          "description": "Consente a un gruppo di persone di mangiare tutti insieme. Come gli adulti.",
+          "recipe_name": "Tavolo da pranzo",
+          "flavor": "Sedersi per mangiare è un segno di civiltà."
         },
         "dresser_recipe": {
-          "description": "A chest of drawers for storing clothing and personal possessions.",
-          "recipe_name": "Wooden Dresser",
-          "flavor": "Step 2: acquire personal possessions..."
+          "description": "Una cassettiera per riporre abiti e oggetti personali.",
+          "recipe_name": "Comò in legno",
+          "flavor": "Passaggio 2: acquisire beni personali..."
         },
         "hoe_recipe": {
-          "description": "Required to promote a hearthling into a Farmer.",
-          "recipe_name": "Farmer's Hoe",
-          "flavor": "Hoedown time!!!!"
+          "description": "Richiesto per promuovere un cittadino in un contadino.",
+          "recipe_name": "Zappa del contadino",
+          "flavor": "Tempo di zappare!!!"
         },
         "large_crate_recipe": {
-          "description": "For compactly storing up to 32 items",
-          "recipe_name": "Large Crate",
-          "flavor": "Does the crate that stores all the things that do not store themselves, store itself?"
+          "description": "Per conservare in modo compatto fino a 32 articoli",
+          "recipe_name": "Cassa grande",
+          "flavor": "La cassa che immagazzina tutte le cose che non si immagazzinano da sole?"
         },
         "leather_bound_chest_recipe": {
-          "description": "Stylishly stores up to 64 items.",
-          "recipe_name": "Leather Bound Chest",
-          "flavor": "Like the one my granda had!"
+          "description": "Memorizza con stile fino a 64 articoli.",
+          "recipe_name": "Pettorale rilegato in pelle",
+          "flavor": "Come quello che aveva mia nonna!"
         },
         "mason_chisel_recipe": {
-          "description": "Required to promote a hearthling into a Mason.",
-          "recipe_name": "Mason's Hammer & Chisel"
+          "description": "Richiesto per promuovere un cittadino in un muratore.",
+          "recipe_name": "Martello e scalpello per muratore"
         },
         "not_much_of_a_bed_recipe": {
-          "description": "Slightly more comfortable than sleeping on a board.",
-          "recipe_name": "Mean Bed",
-          "flavor": "Mean as in poor, not cruel. Though it's that too."
+          "description": "Leggermente più comodo di dormire su una tavola.",
+          "recipe_name": "Letto medio",
+          "flavor": "Nel senso di povero, non crudele. Anche se è anche questo."
         },
         "park_bench_recipe": {
-          "description": "Outdoor seating for moments of relaxation.",
-          "recipe_name": "Wooden Park Bench",
-          "flavor": "Life is like a plate of berries."
+          "description": "Posti a sedere all'aperto per momenti di relax.",
+          "recipe_name": "Panchina in legno",
+          "flavor": "La vita è come un piatto di bacche."
         },
         "picket_fence_gate_recipe": {
-          "description": "Lets people through your picket fence.",
-          "recipe_name": "Picket Fence Gate",
-          "flavor": "Hope you like your neighbors!"
+          "description": "Permette alle persone di attraversare la staccionata.",
+          "recipe_name": "Cancello della staccionata",
+          "flavor": "Spero che ti piacciano i tuoi vicini!"
         },
         "picket_fence_recipe": {
-          "description": "Keeps people off your property.",
-          "recipe_name": "Picket Fence",
-          "flavor": "If it's not white, is our life unfulfilled?"
+          "description": "Tiene la gente fuori dalla tua proprietà.",
+          "recipe_name": "Staccionata",
+          "flavor": "Se non è bianco, la nostra vita è insoddisfatta?"
         },
-        "tools_weapons_name": "Tools",
-        "storage_name": "Storage",
-        "building_parts_name": "Building Parts",
-        "armor_name": "Weapons and Armor",
-        "furniture_name": "Furniture",
-        "workbench_name": "Workbenches",
-        "utility_name": "Utility",
+        "tools_weapons_name": "Utensili",
+        "storage_name": "Conservazione",
+        "building_parts_name": "Parti di costruzione",
+        "armor_name": "Armi e armature",
+        "furniture_name": "Arredamento",
+        "workbench_name": "Banchi di lavoro",
+        "utility_name": "Utilità",
         "shepherds_crook_recipe": {
-          "description": "Required to promote a hearthling into a Shepherd.",
-          "recipe_name": "Shepherd's Crook",
-          "flavor": "Can you tell me another story about The Shepard?"
+          "description": "Richiesto per promuovere un cittadino in un pastore.",
+          "recipe_name": "Bastone da pastore",
+          "flavor": "Puoi raccontarmi un'altra storia sul pastore?"
         },
         "simple_wooden_chair_recipe": {
-          "description": "When sitting, food is 20% more satisfying.",
-          "recipe_name": "Simple Wooden Chair",
-          "flavor": "Ten thousand years of research culminated in this four-legged design."
+          "description": "Quando si è seduti, il cibo è più soddisfacente del 20%.",
+          "recipe_name": "Sedia in legno semplice",
+          "flavor": "Diecimila anni di ricerca culminarono in questo disegno a quattro zampe."
         },
         "small_crate_recipe": {
-          "description": "For compactly storing up to 8 items",
-          "recipe_name": "Small Crate",
-          "flavor": "Does the crate that stores all the things that do not store themselves, store itself?"
+          "description": "Per conservare in modo compatto fino a 8 articoli",
+          "recipe_name": "Piccola cassa",
+          "flavor": "La cassa che immagazzina tutte le cose che non si immagazzinano da sole?"
         },
         "table_for_one_recipe": {
-          "description": "Better than eating standing up. Unless you're watching your weight.",
-          "recipe_name": "Table for One",
-          "flavor": "Dining furniture for introverts."
+          "description": "Meglio che mangiare in piedi. A meno che tu non stia attento al tuo peso.",
+          "recipe_name": "Tavolo per uno",
+          "flavor": "Mobili da pranzo per introversi."
         },
         "weaver_spindle_recipe": {
-          "description": "Required to promote a hearthling into a Weaver.",
-          "recipe_name": "Weaver's Spindle",
-          "flavor": "From fiber, thread, from thread, fabric, from fabric, civilization."
+          "description": "Richiesto per promuovere un cittadino in un tessitore.",
+          "recipe_name": "Mandrino del tessitore",
+          "flavor": "Da fibra, filo, da filo, tessuto, da tessuto, civiltà."
         },
         "window_box_brightbell_recipe": {
-          "description": "A planter box full of brightbell flowers, built to be placed below window frames.",
-          "recipe_name": "Brightbell Window Box",
-          "flavor": "A brightbell a day keeps the Ogres away!"
+          "description": "Una fioriera piena di fiori luminosi, costruita per essere posizionata sotto i telai delle finestre.",
+          "recipe_name": "Scatola della finestra di Brightbell",
+          "flavor": "Una brightbell al giorno toglie gli orchi!"
         },
         "window_box_frostsnap_recipe": {
-          "description": "A planter box full of Frostsnap flowers, built to be placed below window frames.",
-          "recipe_name": "Frostsnap Window Box",
-          "flavor": "The capstone of a civilized dwelling."
+          "description": "Una fioriera piena di fiori Frostsnap, costruita per essere posizionata sotto i telai delle finestre.",
+          "recipe_name": "Scatola della finestra di Frostsnap",
+          "flavor": "Il capovolgimento di una dimora civilizzata."
         },
         "wooden_buckler_recipe": {
-          "description": "Toughen up your foot soldiers...!",
-          "recipe_name": "Wooden Buckler"
+          "description": "Tempra i tuoi soldati a piedi...!",
+          "recipe_name": "Scudo di legno"
         },
         "wooden_diamond_window_recipe": {
-          "description": "A more stylish window.",
-          "recipe_name": "Wooden Diamond Window",
-          "flavor": "The 45 degree turn adds sophistication."
+          "description": "Una finestra più elegante.",
+          "recipe_name": "Finestra diamantata in legno",
+          "flavor": "La curva a 45 gradi aggiunge raffinatezza."
         },
         "wooden_door_2_recipe": {
-          "description": "Stronger than your average door.",
-          "recipe_name": "Reinforced Wooden Door",
-          "flavor": "This here pattern, I learned from the Squarefolk."
+          "description": "Più forte della tua porta media.",
+          "recipe_name": "Porta in legno rinforzata",
+          "flavor": "Questo modello qui, l'ho imparato dalla gente quadrata."
         },
         "wooden_door_recipe": {
-          "description": "Minor obstacle for intruders.",
-          "recipe_name": "Wooden Door",
-          "flavor": "Privacy at last!"
+          "description": "Minimo ostacolo per gli intrusi.",
+          "recipe_name": "Porta di legno",
+          "flavor": "Finalmente la privacy!"
         },
         "wooden_double_door_recipe": {
-          "description": "Two doors are better than one",
-          "recipe_name": "Wooden Double Door",
-          "flavor": "Some people want to make an entrance... every day."
+          "description": "Due porte sono meglio di una",
+          "recipe_name": "Doppia porta di legno",
+          "flavor": "Alcune persone vogliono fare un ingresso... ogni giorno."
         },
         "wooden_garden_lantern_recipe": {
-          "description": "A small lantern that's placed on the ground. Suitable for lighting paths or small gardens.",
-          "recipe_name": "Wooden Garden Lantern",
-          "flavor": "Practical and romantic!"
+          "description": "Una piccola lanterna che è stata messa a terra. Adatto a percorsi di illuminazione o piccoli giardini.",
+          "recipe_name": "Lanterna da giardino in legno",
+          "flavor": "Pratico e romantico!"
         },
         "wooden_shield_recipe": {
-          "description": "Crude and basic, but allows the holder to occasionally block attacks.",
-          "recipe_name": "Rough Wooden Shield",
-          "flavor": "Better than an improvized wooden branch!"
+          "description": "Crudo e di base, ma consente al titolare di bloccare occasionalmente gli attacchi.",
+          "recipe_name": "Scudo di legno grezzo",
+          "flavor": "Meglio di un ramo di legno improvvisato!"
         },
         "wooden_sign_blacksmith_recipe": {
-          "description": "A sign with the mark of the blacksmith, to be placed on buildings.",
-          "recipe_name": "Blacksmith's Wall-Mounted Sign",
-          "flavor": "Specializing in heavy, pointy, dense things!"
+          "description": "Un cartello con il marchio del fabbro, da apporre sugli edifici.",
+          "recipe_name": "Insegna a parete per fabbro",
+          "flavor": "Specializzato in cose pesanti, appuntite e dense!"
         },
         "wooden_sign_carpenter_recipe": {
-          "description": "A sign with the mark of the Carpenter, to be placed on buildings.",
-          "recipe_name": "Carpenter's Wall-Mounted Sign",
-          "flavor": "Get your wooden things right here!"
+          "description": "Un cartello con il marchio del carpentiere, da apporre sugli edifici.",
+          "recipe_name": "Insegna a parete per carpentiere",
+          "flavor": "Prendi le tue cose in legno proprio qui!"
         },
         "wooden_sign_mason_recipe": {
-          "description": "A sign with the mark of the Mason, to be placed on buildings.",
-          "recipe_name": "Mason's Wall-Mounted Sign",
-          "flavor": "Dense beautiful things that sometimes contain things that burn."
+          "description": "Un cartello con il marchio del muratore, da apporre sugli edifici.",
+          "recipe_name": "Insegna a parete per muratore",
+          "flavor": "Cose belle e dense che a volte contengono cose che bruciano."
         },
         "wooden_sign_recipe": {
-          "description": "A generic sign, to identify your buildings",
-          "recipe_name": "Wooden Wall-Mounted Sign",
-          "flavor": "But if it's *generic*, how will it...? Oh, nevermind."
+          "description": "Un cartello generico, per identificare i tuoi edifici",
+          "recipe_name": "Cartello in legno a parete",
+          "flavor": "Ma se è *generico*, come farà...? Oh non importa."
         },
         "wooden_sign_weaver_recipe": {
-          "description": "A sign with the mark of the Weaver, to be placed on buildings.",
-          "recipe_name": "Weaver's Wall-Mounted Sign",
-          "flavor": "Artisinally crafted fabrics and plushies!"
+          "description": "Un cartello con il marchio del tessitore, da posizionare sugli edifici.",
+          "recipe_name": "Insegna a parete del tessitore",
+          "flavor": "Tessuti e peluche realizzati artigianalmente!"
         },
         "wooden_sword_recipe": {
-          "description": "Required to promote a hearthling into a Footman.",
-          "recipe_name": "Wooden Practice Sword",
-          "flavor": "Just pointy enough to get the job done."
+          "description": "Deve promuovere un cittadino come combattente.",
+          "recipe_name": "Spada pratica in legno",
+          "flavor": "Solo abbastanza appuntito per portare a termine il lavoro."
         },
         "wooden_wall_lantern_recipe": {
-          "description": "A simple lantern. Place on buildings to provide light at night.",
-          "recipe_name": "Wooden Wall-Mounted Lantern",
-          "flavor": "So comfortinzzzzzzzz..."
+          "description": "Una semplice lanterna. Posizionare sugli edifici per fornire luce di notte.",
+          "recipe_name": "Lanterna a parete in legno",
+          "flavor": "Così confortante zzzzzzzz..."
         },
         "wooden_window_frame_recipe": {
-          "description": "Lets light into the room.",
-          "recipe_name": "Wooden Window Frame",
-          "flavor": "So much for privacy..."
+          "description": "Consente alla luce di entrare nella stanza.",
+          "recipe_name": "Cornice della finestra in legno",
+          "flavor": "Tanto per la privacy..."
         },
         "writing_desk_recipe": {
-          "description": "Not at all like a raven.",
-          "recipe_name": "Writing Desk",
-          "flavor": "...Except it can produce a few notes, tho they are very flat."
+          "description": "Per niente come un corvo.",
+          "recipe_name": "Scrivania",
+          "flavor": "...Tranne che può produrre alcune note, anche se sono molto piatte."
         },
         "carpenter_workbench_recipe": {
-          "description": "Required to produce most of the Carpenter's recipes.",
-          "recipe_name": "Carpenter Workbench",
-          "flavor": "A sturdy, well-organized place for tools and crafts."
+          "description": "Richiesto per produrre la maggior parte delle ricette del carpentiere.",
+          "recipe_name": "Banco da lavoro per carpentiere",
+          "flavor": "Un luogo robusto, ben organizzato per strumenti e artigianato."
         },
         "carpenter_toolbench_recipe": {
-          "description": "Fancier tools allow the carpenter to work with cloth and other civilized ingredients.",
-          "recipe_name": "Carpenter Toolbench",
-          "flavor": "A more elegant workstation, modeled on a more civilized time."
+          "description": "Gli strumenti più elaborati consentono al falegname di lavorare con tessuti e altri ingredienti civili.",
+          "recipe_name": "Banco attrezzi per carpentieri",
+          "flavor": "Una stazione di lavoro più elegante, modellata su un tempo più civilizzato."
         },
         "wooden_window_frame_tall_recipe": {
-          "description": "Extra height adds an air of elegance.",
-          "recipe_name": "Tall Wooden Window Frame"
+          "description": "L'altezza extra aggiunge un'aria di eleganza.",
+          "recipe_name": "Cornice per finestra in legno alta"
         },
         "wooden_window_frame_wide_recipe": {
-          "description": "It's got a panoramic view!",
-          "recipe_name": "Wide Wooden Window Frame"
+          "description": "Ha una vista panoramica!",
+          "recipe_name": "Ampia cornice della finestra in legno"
         },
         "herbalist_staff_recipe": {
-          "description": "Required to promote a hearthling to an herbalist, who creates healing tonics and bandages.",
-          "recipe_name": "Herbalist's Staff"
+          "description": "Richiesto per promuovere un cittadino a un erborista, che crea tonici e bende curative.",
+          "recipe_name": "Bastone dell'erborista"
         },
         "safety_standard_recipe": {
-          "description": "Use to designate a safety point.",
-          "recipe_name": "Wooden Safety Standard"
+          "description": "Utilizzare per designare un punto di sicurezza.",
+          "recipe_name": "Standard di sicurezza in legno"
         },
         "wooden_tunnel_door_recipe": {
-          "recipe_name": "Wooden Tunnel Door",
-          "description": "Useful for blocking off tunnels."
+          "recipe_name": "Porta del tunnel in legno",
+          "description": "Utile per bloccare i tunnel."
         },
         "wooden_sign_cook_recipe": {
-          "description": "A sign with the mark of the Cook.",
-          "recipe_name": "Cook's Wall-Mounted Sign"
+          "description": "Un cartello con il marchio del cuoco.",
+          "recipe_name": "Cartello del cuoco fissato al muro"
         },
         "wooden_sign_herbalist_recipe": {
-          "description": "A sign with the mark of the Herbalist.",
-          "recipe_name": "Herbalist's Wall-Mounted Sign"
+          "description": "Un cartello con il marchio dell'erborista.",
+          "recipe_name": "Insegna da parete per erboristeria"
         },
         "wooden_sign_inn_recipe": {
-          "description": "A sign marking a place for rest and revelry.",
-          "recipe_name": "Inn Wall-Mounted Sign"
+          "description": "Un cartello che segna un posto per il riposo e baldoria.",
+          "recipe_name": "Cartello a parete della locanda"
         },
         "wooden_sign_potter_recipe": {
-          "description": "A sign with the mark of the Potter.",
-          "recipe_name": "Potter's Wall-Mounted Sign"
+          "description": "Un cartello con il marchio del vasaio.",
+          "recipe_name": "Insegna a parete del vasaio"
         },
         "log_pile_recipe": {
-          "recipe_name": "Log Pile",
-          "description": "A pile of logs stacked together. An excellent way to store lots of wood for later use."
+          "recipe_name": "Cumulo di legna",
+          "description": "Un mucchio di tronchi accatastati insieme. Un modo eccellente per conservare molto legno per un uso successivo."
         },
         "wheat_pile_recipe": {
-          "recipe_name": "Large Wheat Bundle",
-          "description": "For when normal wheat bales are just too small. Good for efficiently storing a large amount of wheat"
+          "recipe_name": "Fascio di grano grande",
+          "description": "Per quando le normali balle di grano sono troppo piccole. Buono per conservare in modo efficiente una grande quantità di grano"
         },
         "blue_market_stall_recipe": {
-          "description": "Merchants can visit this stall to buy and sell goods",
-          "recipe_name": "Blue Market Stall",
-          "flavor": "But who are these people? And where are they coming from?"
+          "description": "I commercianti possono visitare questa bancarella per acquistare e vendere beni",
+          "recipe_name": "Bancarella del mercato blu",
+          "flavor": "Ma chi sono queste persone? E da dove vengono?"
         },
         "market_shelf_tall_ground_wood_recipe": {
-          "description": "Other players and Travellers can buy goods stocked on these shelves.",
-          "recipe_name": "Market Trading Shelf",
-          "flavor": "One Hearthling's trash is another's treasure... right?"
+          "description": "Altri giocatori e viaggiatori possono acquistare merci immagazzinate su questi scaffali.",
+          "recipe_name": "Scaffale di mercato",
+          "flavor": "La spazzatura di un cittadino è il tesoro di un altro... giusto?"
         },
         "archer_bow_recipe": {
-          "recipe_name": "Archer's Bow",
-          "description": "Required to promote a hearthling into an archer"
+          "recipe_name": "Arco per arciere",
+          "description": "Richiesto per promuovere un cittadino in un arciere"
         },
         "recurve_bow_recipe": {
-          "recipe_name": "Recurve Bow",
-          "description": "A bow that curves away from the wielder, allowing for stronger and faster arrow attacks"
+          "recipe_name": "Arco ricurvo",
+          "description": "Un arco che si incurva lontano dall'impugnatore, consentendo attacchi più forti e veloci"
         },
         "mountains_windchime_recipe": {
-          "description": "Place to deter Mountain, Ogo's trained ogre",
-          "recipe_name": "Mountain's Windchime",
-          "flavor": "The melody evokes the stolen ogre's long-ago lullabye"
+          "description": "Posto per scoraggiare la montagna, l'orco addestrato di Ogo",
+          "recipe_name": "Il suono del vento della montagna",
+          "flavor": "La melodia evoca l'orco rubato molto tempo fa"
         },
         "statue_of_cid_wanderer_recipe": {
-          "recipe_name": "Statue of Cid Wanderer",
-          "description": "Shows Cid in later life",
-          "flavor": "And where Cid wandered, the Church rose up in his footsteps..."
+          "recipe_name": "Statua di Cid Wanderer",
+          "description": "Mostra Cid in età avanzata",
+          "flavor": "E dove vagava Cid, la chiesa si alzò sulle sue orme..."
         },
         "poyo_weathervane_recipe": {
-          "recipe_name": "Poyo Weathervane",
-          "description": "A weathervane in the image of a friendly yardbird",
+          "recipe_name": "Banderuola di pollo",
+          "description": "Una banderuola a immagine di un simpatico uccellino",
           "flavor": "TODO"
         },
         "ornate_leather_bound_chest_recipe": {
-          "recipe_name": "Ornate Leather Bound Chest",
-          "description": "Stylishly stores up to 64 items.",
-          "flavor": "Like the one my granda had!"
+          "recipe_name": "Pettorale rilegato in pelle e ornato",
+          "description": "Memorizza con stile fino a 64 articoli.",
+          "flavor": "Come quello che aveva mia nonna!"
         },
         "ornate_table_for_one_recipe": {
-          "recipe_name": "Ornate Table for One",
-          "description": "Better than eating standing up. Unless you're watching your weight.",
-          "flavor": "Dining furniture for introverts."
+          "recipe_name": "Tavolo ornato per uno",
+          "description": "Meglio che mangiare in piedi. A meno che tu non stia attento al tuo peso.",
+          "flavor": "Mobili da pranzo per introversi."
         },
         "ornate_dining_table_recipe": {
-          "recipe_name": "Ornate Dining Table",
-          "description": "Allows a group of people to all eat together. Like grown-ups.",
-          "flavor": "Sitting down to eat is a sign of civilization."
+          "recipe_name": "Tavolo da pranzo decorato",
+          "description": "Consente a un gruppo di persone di mangiare tutti insieme. Come gli adulti.",
+          "flavor": "Sedersi per mangiare è un segno di civiltà."
         },
         "ornate_comfy_bed_recipe": {
-          "recipe_name": "Ornate Comfy Bed",
-          "description": "Eight hours will leave you as refreshed as the day you were born.",
-          "flavor": "Nobody ever wants to get out. It makes emergency evacuations awkward."
+          "recipe_name": "Comodo letto decorato",
+          "description": "Otto ore ti lasceranno riposato come il giorno in cui sei nato.",
+          "flavor": "Nessuno vuole mai uscire. Rende imbarazzante l'evacuazione di emergenza."
         },
         "ornate_dresser_recipe": {
-          "recipe_name": "Ornate Wooden Dresser",
-          "description": "A chest of drawers for storing clothing and personal possessions.",
-          "flavor": "Step 2: acquire personal possessions..."
+          "recipe_name": "Comò in legno decorato",
+          "description": "Una cassettiera per riporre abiti e oggetti personali.",
+          "flavor": "Passaggio 2: acquisire beni personali..."
         },
         "bench_recipe": {
-          "recipe_name": "Wooden Park Bench",
-          "description": "Outdoor seating for moments of relaxation.",
-          "flavor": "Life is like a plate of berries."
+          "recipe_name": "Panchina in legno",
+          "description": "Posti a sedere all'aperto per momenti di relax.",
+          "flavor": "La vita è come un piatto di bacche."
         },
         "ornate_bench_recipe": {
-          "recipe_name": "Ornate Wooden Park Bench",
-          "description": "Outdoor seating for moments of relaxation.",
-          "flavor": "Life is like a plate of berries."
+          "recipe_name": "Panchina in legno decorato",
+          "description": "Posti a sedere all'aperto per momenti di relax.",
+          "flavor": "La vita è come un piatto di bacche."
         },
         "ornate_writing_desk_recipe": {
-          "recipe_name": "Ornate Writing Desk",
-          "description": "Not at all like a raven.",
-          "flavor": "...Except it can produce a few notes, tho they are very flat."
+          "recipe_name": "Scrivania decorata",
+          "description": "Per niente come un corvo.",
+          "flavor": "...Tranne che può produrre alcune note, anche se sono molto piatte."
         },
         "ornate_comfy_chair_recipe": {
-          "recipe_name": "Ornate Comfy Chair",
-          "description": "Its padded seat guarantees a 98% reduction in awkward splinters!",
-          "flavor": "If pillows are good for the head, surely they're even better for the butt and back!"
+          "recipe_name": "Comoda sedia decorata",
+          "description": "La sua seduta imbottita garantisce una riduzione del 98% delle schegge scomode!",
+          "flavor": "Se i cuscini fanno bene alla testa, sicuramente sono anche meglio per il sedere e la schiena!"
         },
         "ornate_wooden_tunnel_door_recipe": {
-          "recipe_name": "Ornate Wooden Tunnel Door",
-          "description": "Useful for blocking off tunnels in style."
+          "recipe_name": "Porta del tunnel in legno decorato",
+          "description": "Utile per bloccare i tunnel con stile."
         },
         "ornate_picket_fence_gate_recipe": {
-          "recipe_name": "Ornate Picket Fence Gate",
-          "description": "Lets people through your picket fence.",
-          "flavor": "Hope you like your neighbors!"
+          "recipe_name": "Porta della recinzione ornata",
+          "description": "Permette alle persone di attraversare la staccionata.",
+          "flavor": "Spero ti piacciano i tuoi vicini!"
         },
         "ornate_picket_fence_recipe": {
-          "recipe_name": "Ornate Picket Fence",
-          "description": "Keeps people off your property.",
-          "flavor": "If it's not white, is our life unfulfilled?"
+          "recipe_name": "Staccionata ornata",
+          "description": "Mantiene le persone lontano dalla tua proprietà.",
+          "flavor": "Se non è bianco, la nostra vita è insoddisfatta?"
         },
         "ornate_wooden_garden_lantern_recipe": {
-          "recipe_name": "Ornate Wooden Garden Lantern",
-          "description": "A small lantern that's placed on the ground. Suitable for lighting paths or small gardens.",
-          "flavor": "Practical and romantic!"
+          "recipe_name": "Lanterna da giardino in legno decorato",
+          "description": "Una piccola lanterna che è stata messa a terra. Adatto a percorsi di illuminazione o piccoli giardini.",
+          "flavor": "Pratico e romantico!"
         },
         "ornate_wooden_wall_lantern_recipe": {
-          "flavor": "So comfortinzzzzzzzz...",
-          "recipe_name": "Wooden Wall-Mounted Lantern",
-          "description": "A simple lantern. Place on buildings to provide light at night."
+          "flavor": "Così confortante zzzzzzzz...",
+          "recipe_name": "Lanterna a parete in legno",
+          "description": "Una semplice lanterna. Posizionare sugli edifici per fornire luce di notte."
         },
         "ornate_wooden_double_door_recipe": {
-          "recipe_name": "Ornate Wooden Double Door",
-          "description": "Two doors are better than one.",
-          "flavor": "Some people want to make an entrance... every day."
+          "recipe_name": "Doppia porta di legno decorata",
+          "description": "Due porte sono meglio di una.",
+          "flavor": "Alcune persone vogliono fare un ingresso... ogni giorno."
         },
         "ornate_wooden_door_recipe": {
-          "recipe_name": "Ornate Reinforced Wooden Door",
-          "description": "Stronger than your average door.",
-          "flavor": "This here pattern, I learned from the Squarefolk."
+          "recipe_name": "Porta in legno rinforzato decorato",
+          "description": "Più forte della tua porta media.",
+          "flavor": "Questo modello qui, l'ho imparato dalla gente quadrata."
         },
         "wooden_chair_recipe": {
-          "description": "When sitting, food is 20% more satisfying.",
-          "flavor": "Ten thousand years of research culminated in this four-legged design.",
-          "recipe_name": "Wooden Chair"
+          "description": "Quando si è seduti, il cibo è più soddisfacente del 20%.",
+          "flavor": "Diecimila anni di ricerca culminarono in questo disegno a quattro zampe.",
+          "recipe_name": "Sedia di legno"
         },
         "ornate_wooden_chair_recipe": {
-          "description": "When sitting, food is 20% more satisfying.",
-          "flavor": "Ten thousand years of research culminated in this four-legged design.",
-          "recipe_name": "Ornate Wooden Chair"
+          "description": "Quando si è seduti, il cibo è più soddisfacente del 20%.",
+          "flavor": "Diecimila anni di ricerca culminarono in questo disegno a quattro zampe.",
+          "recipe_name": "Sedia in legno decorato"
         },
         "output_box_wood_recipe": {
-          "recipe_name": "Wood Finished Work Shelf",
-          "description": "Temporary storage for freshly-crafted items.",
-          "flavor": "Crafters love to show off their work!"
+          "recipe_name": "Ripiano da lavoro rifinito in legno",
+          "description": "Deposito temporaneo per oggetti appena realizzati.",
+          "flavor": "Gli artigiani amano mostrare il loro lavoro!"
         },
         "input_bin_wood_recipe": {
-          "recipe_name": "Wooden Supply Crate",
-          "description": "A versatile container for any resource, to help keep crafters supplied.",
-          "flavor": "Think of what we can achieve when Hearthlings work together!"
+          "recipe_name": "Cassa di rifornimento in legno",
+          "description": "Un contenitore versatile per qualsiasi risorsa, per aiutare a fornire artigiani.",
+          "flavor": "Pensa a cosa possiamo ottenere quando i cittadini lavorano insieme!"
         },
         "input_shelf_ground_wood_recipe": {
-          "recipe_name": "Wooden Supply Rack",
-          "description": "A versatile container for any resource, to help keep crafters supplied.",
-          "flavor": "Think of what we can achieve when Hearthlings work together!"
+          "recipe_name": "Portabiti in legno",
+          "description": "Un contenitore versatile per qualsiasi risorsa, per aiutare a fornire artigiani.",
+          "flavor": "Pensa a cosa possiamo ottenere quando i cittadini lavorano insieme!"
         },
         "input_shelf_wall_wood_recipe": {
-          "recipe_name": "Wooden Wall Supply Shelf",
-          "description": "A versatile container for any resource, to help keep crafters supplied.",
-          "flavor": "Think of what we can achieve when Hearthlings work together!"
+          "recipe_name": "Scaffale per forniture da parete in legno",
+          "description": "Un contenitore versatile per qualsiasi risorsa, per aiutare a fornire artigiani.",
+          "flavor": "Pensa a cosa possiamo ottenere quando i cittadini lavorano insieme!"
         },
         "input_corner_ground_wood_recipe": {
-          "recipe_name": "Wooden Corner Supply Rack",
-          "description": "A versatile container for any resource, to help keep crafters supplied.",
-          "flavor": "Think of what we can achieve when Hearthlings work together!"
+          "recipe_name": "Scaffale angolare in legno",
+          "description": "Un contenitore versatile per qualsiasi risorsa, per aiutare a fornire artigiani.",
+          "flavor": "Pensa a cosa possiamo ottenere quando i cittadini lavorano insieme!"
         },
         "input_table_ground_wood_recipe": {
-          "recipe_name": "Wooden Supply Table",
-          "description": "A versatile container for any resource, to help keep crafters supplied.",
-          "flavor": "Think of what we can achieve when Hearthlings work together!"
+          "recipe_name": "Tavolo di rifornimento in legno",
+          "description": "Un contenitore versatile per qualsiasi risorsa, per aiutare a fornire artigiani.",
+          "flavor": "Pensa a cosa possiamo ottenere quando i cittadini lavorano insieme!"
         },
         "door_carpenter_recipe": {
-          "description": "Fit for a master carpenter's woodshop",
-          "recipe_name": "Carpenter's door",
-          "flavor": "There's somehow always a little sawdust on it"
+          "description": "Adatto per una falegnameria di un maestro falegname",
+          "recipe_name": "La porta del carpentiere",
+          "flavor": "C'è in qualche modo sempre un po' di segatura"
         },
         "sign_carpenter_recipe": {
-          "description": "An expertly carved sign, to be displayed outside a carpenter's workshop",
-          "recipe_name": "Carpenter's Shop Sign",
-          "flavor": "Sways like rustling oak branches in the wind"
+          "description": "Un cartello sapientemente scolpito, da esporre all'esterno di un laboratorio di falegnameria",
+          "recipe_name": "Insegna del negozio del falegname",
+          "flavor": "Ondeggia come fruscii rami di quercia nel vento"
         },
         "fence_frostsnap_recipe": {
-          "description": "A fence overtaken by frostsnaps",
-          "recipe_name": "Blue Flowering Fence",
-          "flavor": "No amount of pulling seems to put a dent in these flowers. It's best to accept and enjoy them."
+          "description": "Una recinzione sormontata da frostsnaps",
+          "recipe_name": "Recinto di fioritura blu",
+          "flavor": "Nessuna quantità di trazione sembra mettere un'ammaccatura in questi fiori. È meglio accettarli e goderseli."
         },
         "fence_brightbell_recipe": {
-          "description": "A fence overtaken by brightbells",
-          "recipe_name": "Pink Flowering Fence",
-          "flavor": "Farmer Peggy wouldn't suffer a weed on her watch. Either she had a soft spot for the flowering kind, or they just grew back too fast."
+          "description": "Una recinzione sormontata da brightbells",
+          "recipe_name": "Recinto di fioritura rosa",
+          "flavor": "L'agricoltore Peggy non soffrirebbe di un'erbaccia sul suo orologio. O aveva un debole per il tipo di fioritura, o sono semplicemente ricresciuti troppo in fretta."
         },
         "giants_face_recipe": {
-          "description": "Protects the Giant's shield",
-          "recipe_name": "Giant's face",
-          "flavor": "Steel plated and solid as the mountainside"
+          "description": "Protegge lo scudo del Gigante",
+          "recipe_name": "La faccia del gigante",
+          "flavor": "Placcato in acciaio e solido come il fianco di una montagna"
         },
         "bow_valor_recipe": {
-          "description": "Swiftest bow in the Ascendancy",
-          "recipe_name": "Empire Bow",
-          "flavor": "Grants its wielder the mechanical edge to fire arrows in blinding flights"
+          "description": "Arco più veloce nell'Ascendenza",
+          "recipe_name": "Arco dell'Impero",
+          "flavor": "Concede al suo possessore il bordo meccanico per sparare frecce in voli accecanti"
         },
         "anti_titan_ward_recipe": {
-          "description": "Hurts anything nearby that smells like titan.",
-          "recipe_name": "Anti-Titan Ward",
-          "flavor": "Baby don't hurt me! Don't hurt me no more!"
+          "description": "Fa male a qualsiasi cosa vicino che puzza di titano.",
+          "recipe_name": "Reparto anti-titano",
+          "flavor": "Piccolo non farmi del male! Non farmi più del male!"
         },
         "ornate_picket_fence_bar_double_recipe": {
-          "description": "Keeps people off your property.",
-          "recipe_name": "Ornate Picket Fence Long",
-          "flavor": "A little gold leaf goes a long way!"
+          "description": "Mantiene le persone lontano dalla tua proprietà.",
+          "recipe_name": "Staccionata ornato lungo",
+          "flavor": "Una piccola foglia d'oro fa molta strada!"
         },
         "ornate_picket_fence_bar_single_recipe": {
-          "description": "Keeps people off your property.",
-          "recipe_name": "Ornate Picket Fence Short",
-          "flavor": "A little gold leaf goes a long way!"
+          "description": "Mantiene le persone lontano dalla tua proprietà.",
+          "recipe_name": "Staccionata ornato corto",
+          "flavor": "Una piccola foglia d'oro fa molta strada!"
         },
         "ornate_picket_fence_end_recipe": {
-          "description": "Keeps people off your property.",
-          "recipe_name": "Ornate Picket Fence Post",
-          "flavor": "A little gold leaf goes a long way!"
+          "description": "Mantiene le persone lontano dalla tua proprietà.",
+          "recipe_name": "Staccionata ornata",
+          "flavor": "Una piccola foglia d'oro fa molta strada!"
         },
         "picket_fence_end_recipe": {
-          "description": "Keeps people off your property.",
-          "recipe_name": "Picket Fence Post",
-          "flavor": "If it's not white, is our life unfulfilled?"
+          "description": "Mantiene le persone lontano dalla tua proprietà.",
+          "recipe_name": "Staccionata",
+          "flavor": "Se non è bianco, la nostra vita è insoddisfatta?"
         },
         "picket_fence_bar_single_recipe": {
-          "description": "Keeps people off your property.",
-          "recipe_name": "Picket Fence Short",
-          "flavor": "If it's not white, is our life unfulfilled?"
+          "description": "Mantiene le persone lontano dalla tua proprietà.",
+          "recipe_name": "Staccionata corta",
+          "flavor": "Se non è bianco, la nostra vita è insoddisfatta?"
         },
         "picket_fence_bar_double_recipe": {
-          "description": "Keeps people off your property.",
-          "recipe_name": "Picket Fence Long",
-          "flavor": "If it's not white, is our life unfulfilled?"
+          "description": "Mantiene le persone lontano dalla tua proprietà.",
+          "recipe_name": "Staccionata lunga",
+          "flavor": "Se non è bianco, la nostra vita è insoddisfatta?"
         },
         "picket_fence_combo_recipe": {
-          "description": "Keeps people off your property.",
-          "recipe_name": "Picket Fence Combo",
-          "flavor": "If it's not white, is our life unfulfilled?"
+          "description": "Mantiene le persone lontano dalla tua proprietà.",
+          "recipe_name": "Staccionata combinata",
+          "flavor": "Se non è bianco, la nostra vita è insoddisfatta?"
         },
         "ornate_picket_fence_combo_recipe": {
-          "description": "Keeps people off your property.",
-          "recipe_name": "Ornate Picket Fence Combo",
-          "flavor": "A little gold leaf goes a long way!"
+          "description": "Mantiene le persone lontano dalla tua proprietà.",
+          "recipe_name": "Staccionata ornata combinata",
+          "flavor": "Una piccola foglia d'oro fa molta strada!"
         }
       }
     },
     "cook": {
       "cook_description": {
-        "display_name": "Cook",
-        "description": "The Cook makes delicious, hearty meals from base vegetables and meats.",
-        "requirements": "Crafted by Mason",
+        "display_name": "Cuoco",
+        "description": "Il cuoco prepara deliziosi e sostanziosi pasti a base di verdure e carni.",
+        "requirements": "Realizzato da muratore",
         "workshop": {
-          "name": "Stone Cauldron",
-          "long_description": "Humongous, heavy pot, suitable for cooking up a feast at a time!"
+          "name": "Calderone di pietra",
+          "long_description": "Vaso enorme, pesante, adatto per cucinare una festa alla volta!"
         },
         "level_2_data": {
-          "perk_000_name": "Kitchen Chemistry",
-          "perk_000_description": "The Cook has learned to make slightly fancier recipes."
+          "perk_000_name": "Chimica della cucina",
+          "perk_000_description": "Il cuoco ha imparato a fare ricette leggermente più elaborate."
         },
         "level_1_data": {
-          "perk_000_name": "Camp Cooking",
-          "perk_000_description": "The Cook can make basic, nutritious recipes."
+          "perk_000_name": "Cucina da campo",
+          "perk_000_description": "Il cuoco può preparare ricette base e nutrienti."
         },
         "level_3_data": {
-          "perk_000_name": "Meats 'n Pies",
-          "perk_000_description": "The cook can now make more big, satisfying meat dishes, along with a crusty, savory pot pie.",
-          "perk_001_name": "Journeyman's Knowledge",
-          "perk_001_description": "When inspiration strikes, the Cook may now prepare an especially Fine quality of meal.<br><br>(Fine meals give an extra happy thought, are scarfed down more quickly, and sell for more!)"
+          "perk_000_name": "Carni e torte",
+          "perk_000_description": "Il cuoco può ora preparare piatti di carne più grandi e soddisfacenti, insieme a una crostata croccante e salata.",
+          "perk_001_name": "Conoscenza dell'operaio qualificato",
+          "perk_001_description": "Quando l'ispirazione colpisce, il cuoco può ora preparare una qualità del pasto particolarmente raffinata.<br><br>(I pasti raffinati danno un pensiero molto più felice, vengono abbattuti più rapidamente e venduti per altro!)"
         },
         "level_4_data": {
-          "perk_000_name": "Sweet Tooth",
-          "perk_000_description": "The Cook can now make and work with Sugar."
+          "perk_000_name": "Goloso",
+          "perk_000_description": "Il cuoco ora può fare e lavorare con lo zucchero."
         },
         "level_5_data": {
-          "perk_000_name": "Master's Insight",
-          "perk_000_description": "The Cook can now prepare meals of Excellent quality, and will make Fine quality meals more often.<br><br>(Excellent meals are eaten even more quickly, give another happy thought, and sell for even more!!)"
+          "perk_000_name": "Intuito del maestro",
+          "perk_000_description": "Il cuoco ora può preparare pasti di qualità eccellente e farà pasti di qualità eccellente più spesso.<br><br>(I pasti eccellenti vengono consumati ancora più rapidamente, danno un altro pensiero felice e vendono ancora di più !!)"
         },
         "level_6_data": {
-          "title": "Master Cook"
+          "title": "Maestro di cucina"
         }
       },
       "cook_outfit": {
-        "display_name": "Cook Outfit",
-        "description": "Uniform for all cooks"
+        "display_name": "Abito da cuoco",
+        "description": "Uniforme per tutti i cuochi"
       },
       "cook_spoon": {
-        "display_name": "Cook's Spoon",
-        "description": "Used by the cook",
+        "display_name": "Cucchiaio da cuoco",
+        "description": "Usata dal cuoco",
         "cook_spoon_iconic": {
-          "display_name": "Cook's Spoon",
-          "description": "Required to promote a hearthling into a Cook."
+          "display_name": "Cucchiaio da cuoco",
+          "description": "Richiesto per promuovere un cittadino in un cuoco."
         },
         "cook_spoon_talisman": {
-          "display_name": "Cook's Spoon",
-          "description": "Required to promote a hearthling into a Cook."
+          "display_name": "Cucchiaio da cuoco",
+          "description": "Richiesto per promuovere un cittadino in un cuoco."
         }
       },
       "cook_workbench": {
         "cook_workbench_ghost": {
-          "display_name": "Stone Cauldron",
-          "description": "Used by the Cook for delicious recipes."
+          "display_name": "Calderone di pietra",
+          "description": "Utilizzato dal cuoco per deliziose ricette."
         }
       },
       "recipes": {
         "flour_recipe": {
-          "description": "A necessary ingredient for all kinds of bread.",
-          "recipe_name": "Sack of Flour"
+          "description": "Un ingrediente necessario per tutti i tipi di pane.",
+          "recipe_name": "Sacco di farina"
         },
         "meat_stew_recipe": {
-          "description": "Hearty, satisfying, and perfect to ease the passing of a cold night.",
-          "recipe_name": "Savory Meat Stew",
-          "flavor": "Before you ask, it's an assortment of meats."
+          "description": "Sostanzioso, appagante e perfetto per facilitare il trascorrere di una notte fredda.",
+          "recipe_name": "Stufato di carne salata",
+          "flavor": "Prima che tu lo chieda, è un assortimento di carne."
         },
         "peasant_bread_recipe": {
-          "description": "A crusty, basic bread.",
-          "recipe_name": "Peasant Bread"
+          "description": "Un pane croccante e semplice.",
+          "recipe_name": "Pane contadino"
         },
-        "food_name": "Every Day Meals",
-        "ingredients_name": "Ingredient Refinement",
+        "food_name": "Pasti giornalieri",
+        "ingredients_name": "Affinamento degli ingredienti",
         "veggie_stew_recipe": {
-          "description": "A warm, savory broth, fortified with braised pumpkin!",
-          "recipe_name": "Tasty Vegetable Stew",
-          "flavor": "Afterwards, you feel satisfied, but not heavy."
+          "description": "Un brodo caldo e sapido, arricchito con zucca brasata!",
+          "recipe_name": "Gustoso stufato di verdure",
+          "flavor": "Successivamente, ti senti soddisfatto, ma non pesante."
         },
         "corn_bread_recipe": {
-          "description": "A bread made from cornmeal.",
-          "recipe_name": "Corn Bread",
-          "flavor": "Like Ma used to make."
+          "description": "Un pane a base di farina di mais.",
+          "recipe_name": "Pane di mais",
+          "flavor": "Come faceva la mamma."
         },
         "poyo_pot_pie_recipe": {
-          "description": "A tasty meat and veggie pie.",
-          "recipe_name": "Poyo Pot Pie",
-          "flavor": "Pie is always good."
+          "description": "Una gustosa torta di carne e verdure.",
+          "recipe_name": "Tortino di pollo",
+          "flavor": "La torta è sempre buona."
         },
         "omelette_recipe": {
-          "description": "Veggies and meat wrapped in egg.",
-          "recipe_name": "Omelette",
-          "flavor": "Part of a hearty breakfast"
+          "description": "Verdure e carne avvolte nell'uovo.",
+          "recipe_name": "Frittata",
+          "flavor": "Parte di una ricca colazione"
         },
         "roast_poyo_recipe": {
-          "description": "Slow roasted poyo meat",
-          "recipe_name": "Roast Poyo",
-          "flavor": "Put 'nother poyo on the barby."
+          "description": "Carne di pollo arrostita lentamente",
+          "recipe_name": "Pollo arrosto",
+          "flavor": "Metti altro pollo sul barbecue."
         },
         "fried_eggs_recipe": {
-          "description": "Eggs fried to order.",
-          "recipe_name": "Fried Eggs",
-          "flavor": "Do you like yours sunnyside up?"
+          "description": "Uova fritte su ordinazione.",
+          "recipe_name": "Uova fritte",
+          "flavor": "Ti piace il tuo lato soleggiato?"
         },
-        "animal_feed_name": "Animal Feed",
+        "animal_feed_name": "Cibo per animali",
         "sheep_feed_recipe": {
-          "description": "A supplement for a healthy sheep diet",
-          "recipe_name": "Sheep Feed"
+          "description": "Un integratore per una dieta sana delle pecore",
+          "recipe_name": "Mangime per pecore"
         },
         "poyo_feed_recipe": {
-          "description": "For feeding one's poyos",
-          "recipe_name": "Poyo Feed",
+          "description": "Per nutrire le proprie galline",
+          "recipe_name": "Mangime per polli",
           "flavor": "Cluck cluck!"
         },
         "rabbit_feed_recipe": {
-          "description": "Food for rabbits",
-          "recipe_name": "Rabbit Feed"
+          "description": "Cibo per conigli",
+          "recipe_name": "Mangime per coniglio"
         },
-        "workbenches_name": "Workbenches",
+        "workbenches_name": "Banchi di lavoro",
         "cook_workbench_recipe": {
-          "description": "Use to cook nutritions soups and stews.",
-          "recipe_name": "Stone Cauldron",
-          "flavor": "Stone, to keep the food hot for a long time."
+          "description": "Usalo per cucinare minestre e stufati nutrizionali.",
+          "recipe_name": "Calderone di pietra",
+          "flavor": "Pietra, per mantenere il cibo caldo per lungo tempo."
         },
         "cook_mill_recipe": {
-          "description": "For grinding grains into flour",
-          "recipe_name": "Stone Mill Grinder"
+          "description": "Per macinare i cereali in farina",
+          "recipe_name": "Smerigliatrice in pietra"
         },
         "cook_oven_recipe": {
-          "description": "Great for roasting",
-          "recipe_name": "Stone Oven"
+          "description": "Ottimo per arrostire",
+          "recipe_name": "Forno in pietra"
         },
         "corn_meal_recipe": {
-          "description": "Corn ground into a fine powder",
-          "recipe_name": "Corn Meal"
+          "description": "Mais macinato in una polvere fine",
+          "recipe_name": "Farina di mais"
         },
-        "decoration_name": "Decorations",
+        "decoration_name": "Decorazioni",
         "roast_mutton_recipe": {
-          "recipe_name": "Roasted Rack of Mutton",
-          "description": "Nutritious and delicious",
-          "flavor": "The traditional meal, excellent with berry sauce!"
+          "recipe_name": "Montone arrosto",
+          "description": "Nutriente e delizioso",
+          "flavor": "Il pasto tradizionale, eccellente con salsa ai frutti di bosco!"
         },
         "donation_box_recipe": {
-          "recipe_name": "Donation to the Church of Plenty",
-          "description": "Care-package for those in greater need than you",
-          "flavor": "To the hungry, bread, to the driven, faith. --Cid the Wanderer"
+          "recipe_name": "Donazione alla Chiesa dell'Abbondanza",
+          "description": "Pacchetto di assistenza per chi ha più bisogno di te",
+          "flavor": "A chi ha fame, a pane, a chi è guidato, alla fede. --Cid il Vagabondo"
         },
         "kibble_recipe": {
-          "recipe_name": "Kibble Recipe",
-          "description": "For attracting furry friends",
-          "flavor": "There is a hole in my heart the shape of a kitten. "
+          "recipe_name": "Ricetta delle crocchette",
+          "description": "Per attirare amici a quattro zampe",
+          "flavor": "C'è un buco nel mio cuore a forma di gattino."
         },
         "roast_pork_recipe": {
-          "description": "Carefully created Roasted Boar",
-          "recipe_name": "Leg of Roast Pork",
-          "flavor": "Glazed and roasted"
+          "description": "Maiale arrosto creato con cura",
+          "recipe_name": "Cosciotto di maiale arrosto",
+          "flavor": "Smaltato e arrostito"
         },
         "bacon_and_eggs_recipe": {
-          "description": "Pork and eggs just like you like 'em.",
-          "recipe_name": "Bacon and Eggs",
-          "flavor": "The grease just gets into the eggs and tastes so good!"
+          "description": "Maiale e uova, proprio come piacciono a te.",
+          "recipe_name": "Pancetta e uova",
+          "flavor": "Il grasso penetra nelle uova e ha un sapore così buono!"
         },
         "fried_eggs_large_recipe": {
-          "description": "One HUGE egg fried to order.",
-          "recipe_name": "Large Fried Egg",
-          "flavor": "Better like yours sunnyside up!"
+          "description": "Un enorme uovo fritto su ordinazione.",
+          "recipe_name": "Grande uovo fritto",
+          "flavor": "Meglio come il tuo lato soleggiato!"
         },
         "bug_meat_stew_recipe": {
-          "description": "Stringy, spicy, and perfect to eat on a hot day.",
-          "recipe_name": "Tasty Bug Stew",
-          "flavor": "Just don't ask, you know it's made of bugs."
+          "description": "Filante, speziato e perfetto da mangiare in una giornata calda.",
+          "recipe_name": "Gustoso stufato di insetti",
+          "flavor": "Basta non chiedere, sai che è fatto di insetti."
         },
         "roast_varanus_recipe": {
-          "description": "Spit roasted lizard meat",
-          "recipe_name": "Slab of Roast Varanus",
-          "flavor": "What a tasty slice of lizard tail!"
+          "description": "Carne di lucertola allo spiedo",
+          "recipe_name": "Pezzo di varano arrosto",
+          "flavor": "Che gustosa fetta di coda di lucertola!"
         },
         "roast_poultry_large_recipe": {
-          "description": "Giant flightless bird leg",
-          "recipe_name": "Poultry Drumstick",
+          "description": "Gamba di uccello gigante incapace di volare",
+          "recipe_name": "Coscia di pollame",
           "flavor": "Those legs are good for running.. and eating!"
         },
         "roast_venison_recipe": {
