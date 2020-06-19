@@ -17179,385 +17179,385 @@
         "roast_poultry_large_recipe": {
           "description": "Gamba di uccello gigante incapace di volare",
           "recipe_name": "Coscia di pollame",
-          "flavor": "Those legs are good for running.. and eating!"
+          "flavor": "Quelle gambe sono buone per correre.. e mangiare!"
         },
         "roast_venison_recipe": {
-          "description": "Gamey and greasy.",
-          "recipe_name": "Roasted Portion of Venison",
-          "flavor": "Not a common meal, but tasty when you can find it."
+          "description": "Selvaggio e grasso.",
+          "recipe_name": "Porzione di cervo arrosto",
+          "flavor": "Non è un pasto comune, ma gustoso quando lo puoi trovare."
         },
         "sugar_recipe": {
-          "description": "A necessary ingredient for all kinds of sweets.",
-          "recipe_name": "Sack of Sugar"
+          "description": "Un ingrediente necessario per tutti i tipi di dolci.",
+          "recipe_name": "Sacco di zucchero"
         },
         "cake_recipe": {
-          "description": "A tasty Cake made from wheat and sugar.",
-          "recipe_name": "Berry Simple Cake",
-          "flavor": "So delicious with a berry on top!"
+          "description": "Una gustosa torta a base di grano e zucchero.",
+          "recipe_name": "Torta semplice ai frutti di bosco",
+          "flavor": "Così delizioso con una bacca in cima!"
         },
-        "chefs_specials_name": "Chef's Specials",
+        "chefs_specials_name": "Specialità dello chef",
         "bug_meat_kabob_recipe": {
-          "description": "Bug meat on a stick! Has an interesting texture",
-          "recipe_name": "Bug Meat Kabob",
-          "flavor": "For the daring food enthusiast"
+          "description": "Insetto di carne su un bastone! Ha una trama interessante",
+          "recipe_name": "Carne di insetto Kabob",
+          "flavor": "Per gli entusiasti appassionati di cibo"
         },
         "roasted_sweet_potato_recipe": {
-          "description": "A slow roasted sweet potato.",
-          "recipe_name": "Roasted Sweet Potato",
-          "flavor": "Warms your hands and your heart."
+          "description": "Una patata dolce arrostita lentamente.",
+          "recipe_name": "Patata Dolce Arrosto",
+          "flavor": "Riscalda le mani e il cuore."
         },
         "sausage_recipe": {
-          "description": "Shred up the meat, mix in some spice, stick it in a wrap, and it's good to go!",
-          "recipe_name": "Raw Sausage",
-          "flavor": "It's a good way to stretch out your food reserves a bit."
+          "description": "Distruggere la carne, mescolare un po 'di spezie, metterlo in un impacco ed è bello andare!",
+          "recipe_name": "Salsiccia cruda",
+          "flavor": "È un buon modo per allungare un po' le tue riserve di cibo."
         },
         "roast_sausage_recipe": {
-          "description": "Tantalisingly roasted to perfection, made from any kind of meat!",
-          "recipe_name": "Roast Sausage",
-          "flavor": "It's some kind of meat, not sure which it was though..."
+          "description": "Fantasticamente arrostito alla perfezione, fatto con qualsiasi tipo di carne!",
+          "recipe_name": "Salsiccia Arrosto",
+          "flavor": "È una specie di carne, non so quale fosse ..."
         },
         "feed_fodder_recipe": {
-          "description": "For feeding any vegetarian animals.",
-          "recipe_name": "Animal Fodder",
-          "flavor": "What a great use of excess seeds!"
+          "description": "Per nutrire eventuali animali vegetariani.",
+          "recipe_name": "Mangime per animali",
+          "flavor": "Che grande uso di semi in eccesso!"
         },
         "pie_berry_recipe": {
-          "description": "A scrumptious pie that is very complicated to make.",
-          "recipe_name": "Sweet Berry Pie",
-          "flavor": "The crust and the berries go so well together."
+          "description": "Una deliziosa torta che è molto complicata da realizzare.",
+          "recipe_name": "Torta ai frutti di bosco",
+          "flavor": "La crosta e le bacche vanno così bene insieme."
         },
         "pie_pear_recipe": {
-          "description": "A scrumptious pie that is very complicated to make.",
-          "recipe_name": "Prickly Pear Pie",
-          "flavor": "It's called 'Prickly Pear' but all the prickles have been removed."
+          "description": "Una deliziosa torta che è molto complicata da realizzare.",
+          "recipe_name": "Torta di fichi d'india",
+          "flavor": "Si chiama \"Fico d'India\" ma tutti gli aculei sono stati rimossi."
         },
         "cake_layered_recipe": {
-          "description": "An extremely involved recipe but so good, and so filling...",
-          "recipe_name": "Layered Cake",
-          "flavor": "It's so beautiful!  And just covered in tasties!"
+          "description": "Una ricetta estremamente impegnativa ma così buona e così abbondante...",
+          "recipe_name": "Torta a strati",
+          "flavor": "È così bello! E appena coperto di compiti!"
         },
         "dumpling_meat_recipe": {
-          "description": "A little bread pocket with meat and spices stuffed inside.",
-          "recipe_name": "Meat Dumpling",
-          "flavor": "A little complicated to make, but fill you up pretty well."
+          "description": "Pane tagliato a metà con dentro carne e spezie ripiene.",
+          "recipe_name": "Gnocchi Di Carne",
+          "flavor": "Un po 'complicato da realizzare, ma riempirti abbastanza bene."
         },
         "dumpling_vegetarian_recipe": {
-          "description": "A little bread pocket with veggies and spices stuffed inside.",
-          "recipe_name": "Veggie Dumpling",
-          "flavor": "A little complicated to make, but fill you up pretty well."
+          "description": "Pane tagliato a metà con verdure e spezie ripiene all'interno.",
+          "recipe_name": "Gnocchi Vegetariani",
+          "flavor": "Un po' complicato da realizzare, ma riempirti abbastanza bene."
         },
-        "chefs_desserts_name": "Specialty Desserts"
+        "chefs_desserts_name": "Dessert speciali"
       },
       "cook_mill": {
         "cook_mill_ghost": {
-          "display_name": "Stone Mill Grinder",
-          "description": "Used by the cook to grind grains into flour."
+          "display_name": "Smerigliatrice in pietra",
+          "description": "Utilizzato dal cuoco per macinare i cereali in farina."
         }
       },
       "cook_oven": {
         "cook_oven_ghost": {
-          "display_name": "Stone Oven",
-          "description": "Great for roasting"
+          "display_name": "Forno in pietra",
+          "description": "Ottimo per arrostire"
         }
       }
     },
     "engineer": {
       "engineer_description": {
-        "display_name": "Engineer",
-        "description": "The Engineer creates advanced contraptions and defensive weaponry.",
-        "requirements": "Crafted by Blacksmith",
+        "display_name": "Ingegnere",
+        "description": "L'ingegnere crea aggeggi avanzati e armi difensive.",
+        "requirements": "Realizzato dal fabbro",
         "level_6_data": {
-          "title": "Master Engineer",
-          "perk_000_name": "General of Defense",
-          "perk_000_description": "This Engineer can place up to twelve traps and eight turrets"
+          "title": "Ingegnere capo",
+          "perk_000_name": "Generale della difesa",
+          "perk_000_description": "Questo ingegnere può piazzare fino a dodici trappole e otto torrette"
         },
         "level_2_data": {
-          "perk_000_name": "Improved Diligence",
-          "perk_000_description": "The Engineer can repair broken doors and gates more efficiently"
+          "perk_000_name": "Diligenza migliorata",
+          "perk_000_description": "L'ingegnere può riparare porte e cancelli rotti in modo più efficiente"
         },
         "level_1_data": {
-          "perk_000_name": "Standard Catalog",
-          "perk_001_name": "Junior Defender",
-          "perk_002_name": "Handyman",
-          "perk_000_description": "The Engineer can now make basic gadgets and decorations.",
-          "perk_001_description": "This Engineer can place up to four traps and two turrets",
-          "perk_002_description": "The Engineer can repair broken doors, gates and other fixable structures."
+          "perk_000_name": "Catalogo standard",
+          "perk_001_name": "Difensore minore",
+          "perk_002_name": "Tuttofare",
+          "perk_000_description": "L'ingegnere può ora realizzare gadget e decorazioni di base.",
+          "perk_001_description": "Questo ingegnere può posizionare fino a quattro trappole e due torrette",
+          "perk_002_description": "L'ingegnere può riparare porte rotte, cancelli e altre strutture fissabili."
         },
         "level_3_data": {
-          "perk_000_name": "Town Defender",
-          "perk_000_description": "This Engineer can place up to eight traps and four turrets. ",
-          "perk_001_name": "Journeyman's Knowledge",
-          "perk_001_description": "When inspiration strikes, the Engineer may now craft an especially Fine quality of item."
+          "perk_000_name": "Difensore della città",
+          "perk_000_description": "Questo ingegnere può posizionare fino a otto trappole e quattro torrette.",
+          "perk_001_name": "Conoscenza del viaggiatore",
+          "perk_001_description": "Quando l'ispirazione colpisce, l'Ingegnere ora può creare un oggetto particolarmente pregiato."
         },
         "level_5_data": {
-          "perk_000_name": "Master's Insight",
-          "perk_000_description": "The Engineer can now create items of Excellent quality, and will make Fine quality items more often."
+          "perk_000_name": "Intuito del maestro",
+          "perk_000_description": "L'ingegnere può ora creare oggetti di qualità eccellente e produrrà oggetti di qualità raffinata più spesso."
         }
       },
       "engineer_wrench": {
         "engineer_wrench_talisman": {
-          "display_name": "Engineer's Wrench",
-          "description": "Required to promote a hearthling into an Engineer"
+          "display_name": "Chiave da ingegnere",
+          "description": "Richiesto per promuovere un cittadino in un ingegnere"
         },
-        "display_name": "Engineer's Wrench",
-        "description": "Tools of the trade for an Engineer"
+        "display_name": "Chiave da ingegnere",
+        "description": "Strumenti del mestiere per un ingegnere"
       },
       "engineer_workbench": {
         "engineer_workbench_ghost": {
-          "display_name": "Engineer's Workshop",
-          "description": "Used by engineers to create gadgets"
+          "display_name": "Officina dell'ingegnere",
+          "description": "Utilizzato dagli ingegneri per creare gadget"
         }
       },
       "engineer_outfit": {
-        "display_name": "Engineer Outfit",
-        "description": "Uniform for all engineers"
+        "display_name": "Vestito da ingegnere",
+        "description": "Uniforme per tutti gli ingegneri"
       },
       "recipes": {
         "engineer_workbench_recipe": {
-          "description": "Allows engineers to craft various gadgets and contraptions",
-          "recipe_name": "Engineer's Toolbench"
+          "description": "Consente agli ingegneri di realizzare vari gadget e aggeggi",
+          "recipe_name": "Banco degli strumenti degli ingegneri"
         },
-        "workbenches_name": "Workbenches",
+        "workbenches_name": "Banchi di lavoro",
         "bronze_gear_recipe": {
-          "description": "Used to craft basic gadgets",
-          "recipe_name": "Bronze Gear",
-          "flavor": "Luckily have teeth that don't requiring brushing"
+          "description": "Utilizzato per creare gadget di base",
+          "recipe_name": "Ingranaggio di bronzo",
+          "flavor": "Fortunatamente hai denti che non richiedono spazzolatura"
         },
-        "gadget_parts_name": "Gears and Parts",
+        "gadget_parts_name": "Ingranaggi e parti",
         "small_turret_recipe": {
-          "description": "After placed, shoots at enemies from a distance. Must be repaired after 20 uses.",
-          "recipe_name": "Turret"
+          "description": "Dopo averlo piazzato, spara ai nemici a distanza. Deve essere riparato dopo 20 utilizzi.",
+          "recipe_name": "Torretta"
         },
         "iron_gear_recipe": {
-          "description": "Used to craft intermediate gadgets",
-          "recipe_name": "Iron Gear",
-          "flavor": "Not for use as a throwing star"
+          "description": "Utilizzato per creare gadget intermedi",
+          "recipe_name": "Ingranaggio di ferro",
+          "flavor": "Non da usare come stella da lancio"
         },
         "clamp_trap_recipe": {
-          "description": "Damages and shortly stuns enemies that step near it",
-          "recipe_name": "Clamp Trap"
+          "description": "Danneggia e stordisce poco i nemici che gli si avvicinano",
+          "recipe_name": "Trappola a pinza"
         },
-        "ranged_weapons_name": "Ranged Weapons",
-        "traps_name": "Defensive Traps",
+        "ranged_weapons_name": "Armi a distanza",
+        "traps_name": "Trappole difensive",
         "turnip_shooter_recipe": {
-          "description": "Shoots turnips at enemies from a small distance. Must be repaired after 15 uses.",
-          "recipe_name": "Turnip Shooter",
-          "flavor": "Don't like the taste of turnips? Don't worry, they're multi-functional."
+          "description": "Spara rape ai nemici da una piccola distanza. Deve essere riparato dopo 15 utilizzi.",
+          "recipe_name": "Sparatutto di rapa",
+          "flavor": "Non ti piace il gusto delle rape? Non preoccuparti, sono multifunzionali."
         },
         "critter_trap_recipe": {
-          "description": "Deals a small amount of damage and shortly stuns enemies.",
-          "recipe_name": "Critter Trap",
-          "flavor": "A slight annoyance for ogres. A death wish for mice."
+          "description": "Infligge una piccola quantità di danni e stordisce poco i nemici.",
+          "recipe_name": "Trappola per animaletti",
+          "flavor": "Un leggero fastidio per gli orchi. Un desiderio di morte per i topi."
         },
         "iron_door_recipe": {
-          "description": "Thick, sturdy iron door. Also comes with a thick, sturdy lock.",
-          "recipe_name": "Ironclad Door"
+          "description": "Spesso, porta in ferro robusto. Viene fornito anche con una serratura spessa e robusta.",
+          "recipe_name": "Porta corazzata"
         },
-        "decorations_name": "Decorations",
+        "decorations_name": "Decorazioni",
         "wooden_sign_engineer_recipe": {
-          "description": "A sign with the mark of the Engineer.",
-          "recipe_name": "Engineer's Wall-Mounted Sign"
+          "description": "Un cartello con il marchio dell'ingegnere.",
+          "recipe_name": "Cartello a parete dell'ingegnere"
         },
-        "building_parts_name": "Building Parts",
+        "building_parts_name": "Parti di costruzione",
         "bronze_portcullis_recipe": {
-          "description": "Useful for fortifying town entrypoints.",
-          "recipe_name": "Bronze Portcullis"
+          "description": "Utile per fortificare gli ingressi della città.",
+          "recipe_name": "Saracinesca di bronzo"
         },
         "mechanism_recipe": {
-          "description": "The wheels of the Empire Bow",
-          "recipe_name": "Phoenix Mechanism",
-          "flavor": "A clever rotational mechanism that adds speed, power, and precision"
+          "description": "Le ruote dell'arco dell'impero",
+          "recipe_name": "Meccanismo della fenice",
+          "flavor": "Un meccanismo di rotazione intelligente che aggiunge velocità, potenza e precisione"
         }
       },
       "engineer_buffs": {
         "diligence_2_buff": {
-          "display_name": "Diligence +50",
-          "description": "The engineer can repair doors more efficiently"
+          "display_name": "Diligenza +50",
+          "description": "L'ingegnere può riparare le porte in modo più efficiente"
         }
       },
       "engineer_helm": {
-        "display_name": "Safety Goggles",
-        "description": "Extra protection for expert eyes"
+        "display_name": "Occhiali di sicurezza",
+        "description": "Protezione extra per occhi esperti"
       }
     },
     "farmer": {
       "farmer_description": {
-        "display_name": "Farmer",
-        "description": "Farmers till fields and harvest crops, providing a consistent food supply and raw materials for baked goods.",
-        "requirements": "Crafted by Carpenter",
+        "display_name": "Contadino",
+        "description": "Gli agricoltori coltivano i campi e raccolgono le colture, fornendo un approvvigionamento alimentare costante e materie prime per i prodotti da forno.",
+        "requirements": "Realizzato dal falegname",
         "level_6_data": {
-          "title": "Master Farmer"
+          "title": "Maestro contadino"
         },
         "level_5_data": {
-          "perk_000_name": "Trees for the Forest",
-          "perk_000_description": "The farmer can perform amazing acts of arboreal advancement! (They can grow trees.)"
+          "perk_000_name": "Alberi per la foresta",
+          "perk_000_description": "Il contadino può compiere incredibili atti di avanzamento arboreo! (Possono coltivare alberi.)"
         },
         "level_1_data": {
-          "perk_000_name": "Speed Up",
-          "perk_000_description": "Running fresh food from field to table has increased the farmer's footspeed."
+          "perk_000_name": "Accelerare",
+          "perk_000_description": "Correre cibo fresco dal campo alla tavola ha aumentato il passo del contadino."
         },
         "level_2_data": {
-          "perk_000_name": "Job Opportunities",
-          "perk_000_description": "Exposure to fresh food has given the farmer ideas about cooked food. See the promotion menu for details."
+          "perk_000_name": "Opportunità di lavoro",
+          "perk_000_description": "L'esposizione al cibo fresco ha dato agli agricoltori idee sul cibo cotto. Vedi il menu promozione per i dettagli."
         },
         "level_3_data": {
-          "perk_000_name": "Bountiful Harvest",
-          "perk_000_description": "The farmer coaxes greater yield from each plant."
+          "perk_000_name": "Vendemmia abbondante",
+          "perk_000_description": "L'agricoltore persuade una maggiore resa di ogni pianta."
         }
       },
       "farmer_buffs": {
         "speed_1_buff": {
-          "description": "Running fresh food from field to table has increased the farmer's footspeed.",
-          "display_name": "Farmer Speed Increase +10"
+          "description": "Correre cibo fresco dal campo alla tavola ha aumentato il passo del contadino.",
+          "display_name": "Aumento della velocità dell'agricoltore +10"
         }
       },
       "farmer_hoe": {
-        "display_name": "Farmer's Hoe",
-        "description": "Used to till fields.",
+        "display_name": "Zappa del contadino",
+        "description": "Usato per coltivare campi.",
         "farmer_hoe_iconic": {
-          "display_name": "Farmer's Hoe",
-          "description": "Required to promote a hearthling into a Farmer."
+          "display_name": "Zappa del contadino",
+          "description": "Richiesto per promuovere un cittadino in un contadino."
         },
         "farmer_hoe_talisman": {
-          "display_name": "Farmer's Hoe",
-          "description": "Required to promote a hearthling into a Farmer."
+          "display_name": "Zappa del contadino",
+          "description": "Richiesto per promuovere un cittadino in un contadino."
         }
       },
       "farmer_outfit": {
-        "display_name": "Farmer Smock",
-        "description": "Standard dress for all farmers"
+        "display_name": "Camice da contadino",
+        "description": "Abito standard per tutti gli agricoltori"
       },
       "field": {
-        "display_name": "Farm plot",
-        "description": "For growing crops"
+        "display_name": "Terreno agricolo",
+        "description": "Per piante in crescita"
       }
     },
     "footman": {
       "footman_description": {
-        "display_name": "Footman",
-        "description": "The Footman is a melee fighter. A good choice for the backbone of your town's defense.",
-        "requirements": "Crafted by Carpenter",
+        "display_name": "Combattente",
+        "description": "Il combattente è un combattente corpo a corpo. Una buona scelta per la spina dorsale della difesa della tua città.",
+        "requirements": "Realizzato dal falegname",
         "level_4_data": {
-          "perk_000_name": "Damage Up 40%",
-          "perk_000_description": "The footman is now practiced at optimizing the effect of each blow."
+          "perk_000_name": "Danni aumentati del 40%",
+          "perk_000_description": "Il combattente è ora abituato a ottimizzare l'effetto di ogni colpo."
         },
         "level_1_data": {
-          "perk_000_name": "Damage Up 20%",
-          "perk_000_description": "The footman knows that all combats may have mortal consequences, and attacks with renewed determination."
+          "perk_000_name": "Danni aumentati del 20%",
+          "perk_000_description": "Il combattente sa che tutti i combattimenti possono avere conseguenze mortali e attacca con rinnovata determinazione."
         },
         "level_3_data": {
-          "perk_000_name": "Power Spike",
-          "perk_000_description": "This powerful, overhead swing deals double damage."
+          "perk_000_name": "Picco di potenza",
+          "perk_000_description": "Questa potente oscillazione ambientale infligge doppio danno."
         },
         "level_6_data": {
-          "perk_000_name": "Damage Up 60%",
-          "perk_000_description": "Maxiumum damage!"
+          "perk_000_name": "Danni aumentati del 60%",
+          "perk_000_description": "Danno massimo!"
         },
         "level_2_data": {
-          "perk_000_name": "First Responder",
-          "perk_000_description": "The footman charges into battle with speed"
+          "perk_000_name": "Primo soccorritore",
+          "perk_000_description": "Il combattente si lancia in battaglia con velocità"
         },
         "level_5_data": {
-          "perk_000_name": "Cleave",
-          "perk_000_description": "A slashing strike that deals damage to up to 4 enemies around the footman's target"
+          "perk_000_name": "fendere",
+          "perk_000_description": "Un colpo tagliente che infligge danni a un massimo di 4 nemici attorno al bersaglio del combattente"
         }
       },
       "footman_buffs": {
         "damage_1_buff": {
-          "description": "At Level 1, the footman attacks with increased ferocity",
-          "display_name": "Damage +20%"
+          "description": "Al livello 1, il combattente attacca con maggiore ferocia",
+          "display_name": "Danno + 20%"
         },
         "damage_2_buff": {
-          "description": "The footman attacks with increased ferocity",
-          "display_name": "Damage +40%"
+          "description": "Il combattente attacca con maggiore ferocia",
+          "display_name": "Danno + 40%"
         },
         "damage_3_buff": {
-          "description": "At Level 6, the footman's attacks are unstoppable!",
-          "display_name": "Damage +60%"
+          "description": "Al livello 6, gli attacchi del combattente sono inarrestabili!",
+          "display_name": "Danno + 60%"
         },
         "speed_buff": {
-          "display_name": "First Responder",
-          "description": "The footman moves faster"
+          "display_name": "Primo soccorritore",
+          "description": "Il combattente si muove più velocemente"
         },
         "shield_hare_buff": {
-          "display_name": "Hunter's Stalwart",
-          "description": "Increases Courage by 20%"
+          "display_name": "Il prode cacciatore",
+          "description": "Aumenta il coraggio del 20%"
         },
         "spear_horn_buff": {
-          "display_name": "Hunter's Will",
-          "description": "Increases Willpower by 20%"
+          "display_name": "La volontà del cacciatore",
+          "description": "Aumenta la forza di volontà del 20%"
         },
         "maul_lantern_buff": {
-          "display_name": "Hestia's Gift",
-          "description": "Increases Courage and Regenerates Health"
+          "display_name": "Il dono di Estia",
+          "description": "Aumenta il coraggio e rigenera la salute"
         },
         "lonelyness_buff": {
-          "display_name": "Loneliness Increase",
-          "description": "Increases Loneliness"
+          "display_name": "Aumento della solitudine",
+          "description": "Aumenta la solitudine"
         },
         "hestia_greetings_buff": {
-          "display_name": "Hestia Speaking",
-          "description": "Hestia Speaking"
+          "display_name": "Estia sta parlando",
+          "description": "Estia sta parlando"
         }
       },
       "footman_outfit": {
-        "display_name": "Military Uniform",
-        "description": "Standard issue gear for all soldiers"
+        "display_name": "Uniforme militare",
+        "description": "Equipaggiamento di serie per tutti i soldati"
       }
     },
     "geomancer": {
       "geomancer_description": {
-        "display_name": "Geomancer",
-        "description": "Terraforms and crafts golems.",
-        "requirements": "A talisman from Clan Amberstone and trust in Hearth.",
+        "display_name": "Geomante",
+        "description": "Forma la terra e crea golem.",
+        "requirements": "Un talismano del clan Amberstone e fiducia nella terra.",
         "level_2_data": {
-          "perk_000_name": "Matter Manipulation",
-          "perk_000_description": "The Geomancer can now craft stones that manipulate water and summon large terrain layers."
+          "perk_000_name": "Manipolazione della materia",
+          "perk_000_description": "Il Geomante ora può fabbricare pietre che manipolano l'acqua ed evocano ampi strati di terreno."
         },
         "level_6_data": {
-          "perk_000_name": "Earth's Might",
-          "perk_000_description": "The Geomancer can now craft all golems, and keep up to 10 of them active simulataneously."
+          "perk_000_name": "La forza della Terra",
+          "perk_000_description": "Il Geomante ora può creare tutti i golem e mantenerne attivi simultaneamente fino a 10."
         },
         "level_1_data": {
-          "perk_000_name": "Summoning",
-          "perk_000_description": "The Geomancer can now craft stones that summon terrain chunks and basic features."
+          "perk_000_name": "Evocare",
+          "perk_000_description": "Il geomante ora può fabbricare pietre che evocano blocchi di terreno e caratteristiche di base."
         },
         "level_4_data": {
-          "perk_001_name": "Summoned Wonder",
-          "perk_000_name": "Jewels of the Earth",
-          "perk_001_description": "The Geomancer can now craft stones that summon landmarks.",
-          "perk_000_description": "The Geomancer can now craft stones that summon ore veins."
+          "perk_001_name": "Meraviglia evocata",
+          "perk_000_name": "I gioielli della terra",
+          "perk_001_description": "Il geomante ora può fabbricare pietre che evocano punti di riferimento.",
+          "perk_000_description": "Il geomante ora può fabbricare pietre che evocano vene minerali."
         },
         "level_5_data": {
-          "perk_000_name": "Golem Craftsmanship",
-          "perk_000_description": "The Geomancer can now craft advanced golems, and keep up to 6 of them active simulataneously."
+          "perk_000_name": "Golem artigianali",
+          "perk_000_description": "Il Geomante ora può creare golem avanzati e mantenerne attivi fino a 6 simultaneamente."
         },
         "level_3_data": {
-          "perk_000_name": "Breath of Life",
-          "perk_000_description": "The Geomancer can now craft basic golems, and keep up to 3 of them active simulataneously."
+          "perk_000_name": "Soffio di vita",
+          "perk_000_description": "Il Geomante ora può creare golem di base e mantenerne attivi 3 contemporaneamente."
         }
       },
       "geomancer_outfit": {
-        "display_name": "Geomancer's Robes",
-        "description": "The gem-studded robes of a geomancer."
+        "display_name": "Abiti da geomante",
+        "description": "Le vesti tempestate di gemme di un geomante."
       },
       "geomancer_workbench": {
         "geomancer_workbench_ghost": {
-          "display_name": "Geomancer Workbench",
-          "description": "Used by the Geomancer to craft summoning stones."
+          "display_name": "Banco da lavoro del geomante",
+          "description": "Utilizzato dal geomante per fabbricare pietre di evocazione."
         }
       },
       "geomancer_starter_kit": {
-        "display_name": "Geomancer Starter Kit",
-        "description": "Loot for items needed to start up a geomancer"
+        "display_name": "Kit iniziale per geomante",
+        "description": "Fai bottino per gli oggetti necessari per avviare un geomante"
       },
       "geomancer_talisman": {
         "geomancer_talisman_iconic": {
-          "display_name": "Geomancer Staff",
-          "description": "Intensifies the bearer's ability to interact with the powers of Hearth."
+          "display_name": "Staff di geomante",
+          "description": "Intensifica la capacità del portatore di interagire con i poteri della terra."
         },
-        "display_name": "Geomancer Talisman",
-        "description": "Intensifies the bearer's ability to interact with the powers of Hearth."
+        "display_name": "Talismano geomante",
+        "description": "Intensifica la capacità del portatore di interagire con i poteri della terra."
       },
       "geomancer_golem_workbench": {
         "geomancer_golem_workbench_ghost": {
