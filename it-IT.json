@@ -17561,152 +17561,152 @@
       },
       "geomancer_golem_workbench": {
         "geomancer_golem_workbench_ghost": {
-          "display_name": "Golem Workbench",
-          "description": "Used by the Geomancer to craft golems."
+          "display_name": "Banco da lavoro per Golem",
+          "description": "Utilizzato dal geomante per creare golem."
         }
       },
       "recipes": {
         "categories": {
-          "workbenches": "Workbenches",
-          "resources": "Resources",
-          "terrain": "Terrain",
-          "landmarks": "Landmarks",
-          "water": "Water Manipulation",
-          "golems": "Golems"
+          "workbenches": "Banchi di lavoro",
+          "resources": "Risorse",
+          "terrain": "Terreno",
+          "landmarks": "Luoghi di interesse",
+          "water": "Manipolazione dell'acqua",
+          "golems": "Golem"
         },
         "golem_restocking_recipe": {
-          "description": "Performs restocking tasks.",
-          "recipe_name": "Cricket Golem",
-          "flavor": "As they go about their tasks, you can hear their cute little calls."
+          "description": "Esegue attività di riassortimento.",
+          "recipe_name": "Golem trasportatore",
+          "flavor": "Mentre svolgono i loro compiti, puoi ascoltare le loro piccole chiamate carine."
         },
         "golem_mining_recipe": {
-          "description": "Performs mining tasks.",
-          "recipe_name": "Mole Golem",
-          "flavor": "No mountain can withstand the Mole's pick."
+          "description": "Esegue attività di estrazione mineraria.",
+          "recipe_name": "Golem talpa",
+          "flavor": "Nessuna montagna può resistere alla scelta della talpa."
         },
         "golem_harvesting_recipe": {
-          "description": "Performs harvesting tasks.",
-          "recipe_name": "Ox Golem",
-          "flavor": "Gentle enough to pick a flower without disturbing the ground."
+          "description": "Esegue attività di raccolta.",
+          "recipe_name": "Golem di bue",
+          "flavor": "Abbastanza delicato da raccogliere un fiore senza disturbare il terreno."
         },
         "geomancer_workbench_recipe": {
-          "description": "Required to craft summoning stones.",
-          "recipe_name": "Geomancer Workbench",
-          "flavor": "A workbench made to honor the ancient powers."
+          "description": "Richiesto per fabbricare pietre di evocazione.",
+          "recipe_name": "Banco da lavoro del geomante",
+          "flavor": "Un banco di lavoro fatto per onorare gli antichi poteri."
         },
         "geomancer_golem_workbench_recipe": {
-          "description": "Required to craft golems.",
-          "recipe_name": "Geomancer Golem Workbench",
-          "flavor": "Though grown from a smaller tree, this workbench allows access to much deeper powers."
+          "description": "Richiesto per creare golem.",
+          "recipe_name": "Banco da lavoro del golem del geomante",
+          "flavor": "Sebbene cresciuto da un albero più piccolo, questo banco da lavoro consente l'accesso a poteri molto più profondi."
         },
         "dry_stone_recipe": {
-          "flavor": "Its thirst is unquenchable."
+          "flavor": "La sua sete è inestinguibile."
         },
         "dry_stone_greater_recipe": {
-          "description": "Four time as dry as a regular dry stone.",
-          "recipe_name": "Greater Dry Stone",
-          "flavor": "Its thirst is even more unquenchable."
+          "description": "Quattro volte asciutto come un normale sasso secco.",
+          "recipe_name": "Maggiore pietra a secco",
+          "flavor": "La sua sete è ancora più inestinguibile."
         },
         "rabbit_statue_recipe": {
-          "description": "Summons an ancient rabbit statue",
-          "recipe_name": "Rabbit Statue Stone"
+          "description": "Evoca un'antica statua di coniglio",
+          "recipe_name": "Statua di coniglio in pietra"
         },
         "summon_stone_block_dirt_recipe": {
-          "description": "Summons an 8x5x8 block of dirt terrain.",
-          "recipe_name": "Dirt Terrain Block Stone"
+          "description": "Evoca un blocco 8x5x8 di terreno fertile.",
+          "recipe_name": "Blocco di pietra con terreno fertile"
         },
         "summon_stone_block_mimic_recipe": {
-          "description": "Summons an 8x5x8 block of terrain that mimics whatever terrain it is placed on.",
-          "recipe_name": "Mimic Terrain Block Stone"
+          "description": "Evoca un blocco di terreno 8x5x8 che imita il terreno su cui è posizionato.",
+          "recipe_name": "Pietra mimica del blocco del terreno"
         },
         "summon_stone_block_rock_recipe": {
-          "description": "Summons an 8x5x8 block of rock terrain.",
-          "recipe_name": "Rock Terrain Block Stone"
+          "description": "Evoca un blocco 8x5x8 di terreno roccioso.",
+          "recipe_name": "Blocco di pietra con terreno roccioso"
         },
         "summon_stone_block_surface_recipe": {
-          "description": "Summons an 8x5x8 block of surface terrain, such as grass or sand.",
-          "recipe_name": "Surface Terrain Block Stone"
+          "description": "Evoca un blocco 8x5x8 di terreno, come erba o sabbia.",
+          "recipe_name": "Blocco di pietra con terreno da superficie"
         },
         "summon_stone_geyser_recipe": {
-          "description": "Summons a mountain geyser.",
-          "recipe_name": "Geyser Stone"
+          "description": "Evoca un geyser di montagna.",
+          "recipe_name": "Pietra geyser"
         },
         "summon_stone_patch_dirt_recipe": {
-          "description": "Grows into a patch of dirt terrain, up to 12x12 units in size",
-          "recipe_name": "Dirt Terrain Patch Stone"
+          "description": "Cresce in una zona di terreno sterrato, con dimensioni fino a 12x12 unità",
+          "recipe_name": "Pietra della zona del terreno fertile"
         },
         "summon_stone_patch_rock_recipe": {
-          "description": "Grows into a patch of rocky terrain, up to 12x12 units in size",
-          "recipe_name": "Rock Terrain Patch Stone"
+          "description": "Cresce in una zona di terreno roccioso, con dimensioni fino a 12x12 unità",
+          "recipe_name": "Pietra del terreno roccioso"
         },
         "summon_stone_patch_mimic_recipe": {
-          "description": "Grows into a patch of terrain, up to 12x12 units in size, that mimics the terrain it's placed on.",
-          "recipe_name": "Mimic Terrain Patch Stone"
+          "description": "Cresce in una zona di terreno, di dimensioni fino a 12x12 unità, che imita il terreno su cui è posizionato.",
+          "recipe_name": "Pietra mimica del terreno"
         },
         "summon_stone_patch_surface_recipe": {
-          "description": "Grows into a patch of surface terrain, such as grass or sand, up to 12x12 units in size.",
-          "recipe_name": "Surface Terrain Patch Stone"
+          "description": "Cresce in una zona di terreno, come erba o sabbia, di dimensioni fino a 12x12 unità.",
+          "recipe_name": "Pietra di superficie del terreno"
         },
         "summon_stone_rock_field_recipe": {
-          "description": "Summons a pleasant field of rocks.",
-          "recipe_name": "Rock Field Stone"
+          "description": "Evoca un piacevole campo di rocce.",
+          "recipe_name": "Pietra del campo di roccia"
         },
         "summon_stone_rune_site_recipe": {
-          "description": "Summons a clearing with a holy rune symbol.",
-          "recipe_name": "Rune Site Stone"
+          "description": "Evoca una radura con un simbolo di runa sacra.",
+          "recipe_name": "Pietra del sito delle rune"
         },
         "summon_stone_vein_coal_recipe": {
-          "description": "Grows into a vein of coal",
-          "recipe_name": "Coal Vein Stone"
+          "description": "Cresce in una vena di carbone",
+          "recipe_name": "Pietra della vena di carbone"
         },
         "summon_stone_vein_copper_recipe": {
-          "description": "Grows into a vein of copper ore",
-          "recipe_name": "Copper Vein Stone"
+          "description": "Cresce in una vena di minerale di rame",
+          "recipe_name": "Pietra della vena di rame"
         },
         "summon_stone_vein_gold_recipe": {
-          "description": "Grows into a vein of gold ore",
-          "recipe_name": "Gold Vein Stone"
+          "description": "Cresce in una vena di minerale d'oro",
+          "recipe_name": "Pietra della vena d'oro"
         },
         "summon_stone_vein_iron_recipe": {
-          "description": "Grows into a vein of iron ore",
-          "recipe_name": "Iron Vein Stone"
+          "description": "Cresce in una vena di minerale di ferro",
+          "recipe_name": "Pietra della vena di ferro"
         },
         "summon_stone_vein_silver_recipe": {
-          "description": "Grows into a vein of silver ore",
-          "recipe_name": "Silver Vein Stone"
+          "description": "Cresce in una vena di minerale d'argento",
+          "recipe_name": "Pietra della vena d'argento"
         },
         "summon_stone_vein_tin_recipe": {
-          "description": "Grows into a vein of tin ore",
-          "recipe_name": "Tin Vein Stone"
+          "description": "Cresce in una vena di minerale di stagno",
+          "recipe_name": "Pietra della vena di stagno"
         },
         "wet_stone_greater_recipe": {
-          "description": "Four times more moist than a regular wet stone.",
-          "recipe_name": "Greater Wet Stone",
-          "flavor": "The tears... they are tears of happiness."
+          "description": "Quattro volte più umido di una normale pietra bagnata.",
+          "recipe_name": "Pietra bagnata maggiore",
+          "flavor": "Le lacrime... sono lacrime di felicità."
         },
         "wet_stone_recipe": {
-          "flavor": "It weeps for the Hearth."
+          "flavor": "Piange per la terra."
         },
         "earthbud_seeds_recipe": {
-          "description": "Separate the seeds from the buds",
-          "recipe_name": "Earthbud Seeds (x3)",
-          "flavor": "Deseeded buds hold no magical power, but the seeds can be planted to grow anew."
+          "description": "Separare i semi dalle gemme",
+          "recipe_name": "Semi legati alla Terra (x3)",
+          "flavor": "I germogli senza semi non hanno potere magico, ma i semi possono essere piantati per crescere di nuovo."
         },
         "summon_stone_sleeping_giant_recipe": {
-          "description": "Summons the memory of an ancient slumbering worker.",
-          "recipe_name": "Sleeping Stone"
+          "description": "Evoca il ricordo di un antico lavoratore addormentato.",
+          "recipe_name": "Pietra per dormire"
         },
         "summon_stone_riverbed_dry_recipe": {
-          "description": "Summons the memory of an ancient river.",
-          "recipe_name": "Dry Riverbed Stone"
+          "description": "Evoca il ricordo di un antico fiume.",
+          "recipe_name": "Pietra asciutta del letto del fiume"
         },
         "summon_stone_moon_recipe": {
-          "description": "Summons a pattern of a cute Moon.",
-          "recipe_name": "Moon Stone"
+          "description": "Evoca uno schema di una luna carina.",
+          "recipe_name": "Pietra di luna"
         },
         "summon_stone_sun_recipe": {
-          "description": "Summons a pattern of a cute Sun.",
-          "recipe_name": "Sun Stone"
+          "description": "Evoca uno schema di un simpatico sole.",
+          "recipe_name": "Pietra del sole"
         }
       }
     },
@@ -17718,108 +17718,108 @@
     },
     "mason": {
       "mason_description": {
-        "display_name": "Mason",
-        "description": "The Mason crafts building materials and decorative items from stone.",
-        "requirements": "Crafted by Carpenter",
+        "display_name": "Muratore",
+        "description": "Il muratore realizza materiali da costruzione e oggetti decorativi in pietra.",
+        "requirements": "Realizzato da falegname",
         "workshop": {
-          "name": "Mason's Workshop",
-          "description": "insert description here",
-          "long_description": "The Mason crafts building materials and decorative items from stone."
+          "name": "Bottega del muratore",
+          "description": "inserisci la descrizione qui",
+          "long_description": "Il muratore realizza materiali da costruzione e oggetti decorativi in pietra."
         },
         "level_6_data": {
-          "title": "Master Mason"
+          "title": "Maestro muratore"
         },
         "level_2_data": {
-          "perk_000_name": "Fancy Rocks",
-          "perk_000_description": "The Mason can now make more elaborate items from stone."
+          "perk_000_name": "Rocce fantasiose",
+          "perk_000_description": "Il massone può ora realizzare oggetti più elaborati dalla pietra."
         },
         "level_4_data": {
-          "perk_000_name": "Extended Catalog",
-          "perk_000_description": "The Mason ventures from the realm of the functional into... art."
+          "perk_000_name": "Catalogo esteso",
+          "perk_000_description": "Il muratore si avventura dal regno del funzionale in... arte."
         },
         "level_1_data": {
-          "perk_000_name": "Standard Catalog",
-          "perk_000_description": "The Mason can now make a solid array of basic furniture."
+          "perk_000_name": "Catalogo standard",
+          "perk_000_description": "Il muratore ora può realizzare una solida gamma di mobili di base."
         },
         "level_3_data": {
-          "perk_000_name": "Journeyman's Knowledge",
-          "perk_000_description": "When inspiration strikes, the Mason may now craft an especially Fine quality of item."
+          "perk_000_name": "Conoscenza del viaggiatore",
+          "perk_000_description": "Quando l'ispirazione colpisce, il muratore ora può creare un oggetto particolarmente pregiato."
         },
         "level_5_data": {
-          "perk_000_name": "Master's Insight",
-          "perk_000_description": "The Mason can now create items of Excellent quality, and will make Fine quality items more often."
+          "perk_000_name": "Intuizione del maestro",
+          "perk_000_description": "Il muratore ora può creare oggetti di qualità eccellente e renderà più spesso oggetti di qualità fine."
         }
       },
       "mason_chisel": {
-        "display_name": "Mason's Chisel",
-        "description": "Tools of the trade for a mason.",
+        "display_name": "Scalpello per muratore",
+        "description": "Strumenti del mestiere per un muratore.",
         "mason_chisel_talisman": {
-          "display_name": "Mason's Chisel",
-          "description": "Required to promote a hearthling into a mason."
+          "display_name": "Scalpello per muratore",
+          "description": "Richiesto per promuovere un cittadino in un muratore."
         }
       },
       "mason_hammer": {
-        "display_name": "Mason's Hammer",
-        "description": "Tools of the trade for a mason."
+        "display_name": "Martello da muratore",
+        "description": "Strumenti del mestiere per un muratore."
       },
       "mason_outfit": {
-        "display_name": "Mason Smock",
-        "description": "Uniform for all masons"
+        "display_name": "Camice da muratore",
+        "description": "Uniforme per tutti i muratori"
       },
       "mason_workbench": {
         "mason_workbench_ghost": {
-          "display_name": "Mason Workbench",
-          "description": "Used by the Mason for crafting."
+          "display_name": "Banco da lavoro per muratori",
+          "description": "Utilizzato dal muratore per la fabbricazione."
         }
       },
       "mason_pedestal_amberstone": {
         "mason_pedestal_amberstone_ghost": {
-          "display_name": "Amberstone Mason Pedestal",
-          "description": "Rabbit Mason approved"
+          "display_name": "Piedistallo in muratura di Amberstone",
+          "description": "Approvato dal muratore coniglio"
         }
       },
       "mason_pedestal": {
         "mason_pedestal_ghost": {
-          "display_name": "Mason Pedestal",
-          "description": "Craft in a well-lit space."
+          "display_name": "Piedistallo di muratore",
+          "description": "Crea in uno spazio ben illuminato."
         }
       },
       "recipes": {
-        "tools_name": "Tools",
-        "storage_name": "Storage",
-        "signage_decoration_name": "Signage & Decoration",
-        "building_parts_name": "Building Parts",
-        "weapons_name": "Weapons",
-        "furniture_name": "Furniture",
-        "refined_name": "Refinement",
+        "tools_name": "Utensili",
+        "storage_name": "Conservazione",
+        "signage_decoration_name": "Segnaletica e decorazione",
+        "building_parts_name": "Parti di costruzione",
+        "weapons_name": "Armi",
+        "furniture_name": "Arredamento",
+        "refined_name": "Raffinatezza",
         "bird_bath_recipe": {
-          "description": "A decorative stone vase with water for the birdies.",
-          "recipe_name": "Bird Bath",
-          "flavor": "Not a chair."
+          "description": "Un vaso decorativo in pietra con acqua per gli uccellini.",
+          "recipe_name": "Vaschetta per uccellini",
+          "flavor": "Non una sedia."
         },
         "amberstone_lantern_recipe": {
-          "description": "A warm little light",
-          "recipe_name": "Stone-cut Lantern",
-          "flavor": "Their thick walls blocked too much of their precious light underground, and so this style had all but vanished until now"
+          "description": "Una piccola luce calda",
+          "recipe_name": "Lanterna tagliata a pietra",
+          "flavor": "Le loro spesse mura bloccavano troppo la loro preziosa luce sotterranea, e quindi questo stile era quasi svanito fino ad ora"
         },
         "amberstone_teapot_recipe": {
-          "description": "A rabbit's cherished teapot",
-          "recipe_name": "Stone-cut Teapot",
-          "flavor": "They are always rough at first, as if broken from the stone rather than carved. They are gradually worn smooth through generations of use."
+          "description": "Una teiera di coniglio",
+          "recipe_name": "Teiera tagliata a pietra",
+          "flavor": "All'inizio sono sempre ruvidi, come se fossero rotti dalla pietra piuttosto che scolpiti. Vengono gradualmente indossati morbidi attraverso generazioni di utilizzo."
         },
         "amberstone_table_recipe": {
-          "description": "Chiseled in the style of clan Amberstone",
-          "recipe_name": "Polished Stone Table",
-          "flavor": "Rabbit masons will only part with work if they are proud of it"
+          "description": "Cesellato nello stile del clan Amberstone",
+          "recipe_name": "Tavolo in pietra lucidata",
+          "flavor": "I muratori di conigli si separeranno dal lavoro solo se ne saranno orgogliosi"
         },
         "amberstone_tunnel_door_recipe": {
-          "description": "Seals and protects underground dwellings",
-          "recipe_name": "Burrow Door",
-          "flavor": "One could shove with all their might and these doors would never budge, but the rabbits could open them with barely a touch"
+          "description": "Sigilla e protegge le abitazioni sotterranee",
+          "recipe_name": "Porta della tana",
+          "flavor": "Si poteva spingere con tutte le loro forze e queste porte non si sarebbero mai mosse, ma i conigli potevano aprirli con un tocco"
         },
         "amberstone_window_recipe": {
-          "description": "Lets the fresh air in",
-          "recipe_name": "Burrow Window",
+          "description": "Lascia entrare l'aria fresca",
+          "recipe_name": "Finestra della tana",
           "flavor": "Living underground would be unbearable without excellent ventilation"
         },
         "blacksmith_hammer_recipe": {
