@@ -17820,261 +17820,261 @@
         "amberstone_window_recipe": {
           "description": "Lascia entrare l'aria fresca",
           "recipe_name": "Finestra della tana",
-          "flavor": "Living underground would be unbearable without excellent ventilation"
+          "flavor": "Vivere sottoterra sarebbe insopportabile senza un'eccellente ventilazione"
         },
         "blacksmith_hammer_recipe": {
-          "description": "Required to promote a hearthling into a Blacksmith.",
-          "recipe_name": "Blacksmith's Hammer",
-          "flavor": "From the dragon that lives in the forge, weapons and armor, defense and conquest."
+          "description": "Richiesto per promuovere un cittadino in un fabbro.",
+          "recipe_name": "Martello da fabbro",
+          "flavor": "Dal drago che vive nella fucina, armi e armature, difesa e conquista."
         },
         "potter_cutter_recipe": {
-          "description": "Allows a hearthling to make tools and goods from clay.",
-          "recipe_name": "Potter's Cutter",
-          "flavor": "And Monkey struck the earth with his staff. 'For you are my children, he said, and you shall want for nothing.'"
+          "description": "Consente a un cittadino di fabbricare strumenti e merci dall'argilla.",
+          "recipe_name": "Fresa del vasaio",
+          "flavor": "E la scimmia ha colpito la terra con il suo bastone. \"Perché tu sei i miei figli, disse, e non vorrai per niente.\""
         },
         "cobblestone_fence_gate_recipe": {
-          "description": "Its thick stone walls grant a sense of security.",
-          "recipe_name": "Cobblestone Fence Gate",
-          "flavor": "Sheep go in, but can't get out!"
+          "description": "I suoi spessi muri in pietra garantiscono un senso di sicurezza.",
+          "recipe_name": "Cancello di ciottoli per staccionata",
+          "flavor": "Le pecore entrano, ma non possono uscire!"
         },
         "cobblestone_fence_recipe": {
-          "description": "A rustic, sturdy wall segment.",
-          "recipe_name": "Cobblestone Fence",
-          "flavor": "Use the earth itself to form the walls of the pasture? Genius!"
+          "description": "Un segmento di parete rustico e robusto.",
+          "recipe_name": "Staccionata in ciottoli",
+          "flavor": "Utilizzare la terra stessa per formare le pareti del pascolo? Genio!"
         },
         "cook_spoon_recipe": {
-          "description": "Required to promote a hearthling into a Cook.",
-          "recipe_name": "Cook's Spoon",
-          "flavor": "COOKED FOOOOOOOOD!!!!!! --Alton The Bard"
+          "description": "Richiesto per promuovere un cittadino in un cuoco.",
+          "recipe_name": "Cucchiaio da cuoco",
+          "flavor": "CIBO COTTO !!!!!! - Alton Il bardo"
         },
         "gargoyle_recipe": {
-          "description": "Gothic-style carving to decorate your walls.",
-          "recipe_name": "Wall-Mounted Decorative Gargoyle",
-          "flavor": "Remnants of the servants of Brelor, Crownless King."
+          "description": "Scultura in stile gotico per decorare le pareti.",
+          "recipe_name": "Doccione decorativo da parete",
+          "flavor": "Resti dei servi di Brelor, Re senza corona."
         },
         "stone_bench_recipe": {
-          "description": "Outdoor seating for moments of relaxation.",
-          "recipe_name": "Stone Bench",
-          "flavor": "Pretty and functional. Matches the tombstones."
+          "description": "Posti a sedere all'aperto per momenti di relax.",
+          "recipe_name": "Panchina di pietra",
+          "flavor": "Grazioso e funzionale. Abbina le pietre tombali."
         },
         "stone_brazier_recipe": {
-          "description": "A small firepit that provides comfort and warmth at night.",
-          "recipe_name": "Stone Brazier",
-          "flavor": "Warning: Do not drop anything in while it's lit."
+          "description": "Una piccola buca per il fuoco che offre comfort e calore durante la notte.",
+          "recipe_name": "Braciere di pietra",
+          "flavor": "Avvertenza: non far cadere nulla mentre è acceso."
         },
         "stone_bricks_recipe": {
-          "description": "A key component of stone structures like castles and roads.",
-          "recipe_name": "Stack of Stone Bricks",
-          "flavor": "Tis a lucky thing, boy, that the square is the natural shape within most rocks. --Garen Knapper"
+          "description": "Un componente chiave di strutture in pietra come castelli e strade.",
+          "recipe_name": "Pila di mattoni di pietra",
+          "flavor": "È una cosa fortunata, ragazzo, che la piazza sia la forma naturale all'interno della maggior parte delle rocce. --Garen Knapper"
         },
         "stone_chair_recipe": {
-          "description": "Not horribly comfortable, but a symbol of status.",
-          "recipe_name": "Stone Chair",
-          "flavor": "Outdoorsy!"
+          "description": "Non orribilmente comodo, ma un simbolo di status.",
+          "recipe_name": "Sedia di pietra",
+          "flavor": "Campestre!"
         },
         "stone_chest_recipe": {
-          "description": "Imposing place to put up to 64 things.",
-          "recipe_name": "Stone Chest",
-          "flavor": "'Listen up, kid. All the chests in Hemgorir-Under-Mountain looked like this.'--Edolf, Wandering Bard"
+          "description": "Posto imponente per mettere fino a 64 cose.",
+          "recipe_name": "Cassa di pietra",
+          "flavor": "'Ascolta, ragazzo. Tutti i forzieri di Hemgorir-Under-Mountain sembravano così.'' --Edolf, bardo errante"
         },
         "stone_garden_lantern_recipe": {
-          "description": "An ancient-looking lantern with great ambiance.",
-          "recipe_name": "Stone Garden Lantern",
-          "flavor": "Only slightly ominous looking."
+          "description": "Una lanterna dall'aspetto antico con grande atmosfera.",
+          "recipe_name": "Lanterna da giardino in pietra",
+          "flavor": "Solo un aspetto un po' inquietante."
         },
         "stone_maul_recipe": {
-          "description": "The perfect tool for bludgeoning",
-          "recipe_name": "Stone Maul",
-          "flavor": "A modern adaptation of an ancient weapon."
+          "description": "Lo strumento perfetto per l'esecuzione di randellature",
+          "recipe_name": "Randello di pietra",
+          "flavor": "Un adattamento moderno di un'arma antica."
         },
         "stone_table_recipe": {
-          "description": "Its considerable weight gives it a sense of gravitas. For serious business only.",
-          "recipe_name": "Stone Table",
-          "flavor": "No lions were harmed in its construction."
+          "description": "Il suo peso considerevole gli conferisce un senso di gravità. Solo per affari seri.",
+          "recipe_name": "Tavolo di pietra",
+          "flavor": "Nessun leone è stato danneggiato nella sua costruzione."
         },
         "stone_wall_lantern_recipe": {
-          "description": "Attaches to the walls of buildings, providing light",
-          "recipe_name": "Stone Wall-Mounted Lantern",
-          "flavor": "Cons: Heavy. Pros: Unlikely to burn itself down."
+          "description": "Si attacca alle pareti degli edifici, fornendo luce",
+          "recipe_name": "Lanterna a parete in pietra",
+          "flavor": "Contro: pesante. Pro: è improbabile che si bruci da solo."
         },
         "tower_brazier_recipe": {
-          "description": "Fashioned after a castle tower, it provides a strong beacon at night.",
-          "recipe_name": "Tower Brazier",
-          "flavor": "Great for lining garden paths and intimidating guests."
+          "description": "Realizzato dopo una torre del castello, fornisce un forte faro di notte.",
+          "recipe_name": "Braciere a torre",
+          "flavor": "Ottimo per rivestire percorsi da giardino e intimidire gli ospiti."
         },
         "mason_workbench_recipe": {
-          "description": "Required to produce most of the Mason's recipes.",
-          "recipe_name": "Mason Workbench",
-          "flavor": "Tappety-tap; Make the earth sing, Raise Brelor's ghost, Watch the mountain take wing."
+          "description": "Richiesto per produrre la maggior parte delle ricette del muratore.",
+          "recipe_name": "Banco da lavoro per muratori",
+          "flavor": "Tap Tap; Fai cantare la terra, solleva il fantasma di Brelor, guarda la montagna prendere il volo."
         },
         "mason_pedestal_amberstone_recipe": {
-          "description": "Rabbit mason approved",
-          "recipe_name": "Amberstone Mason's Pedestal",
-          "flavor": "The skill of the mason can be read from the quality of their worktable"
+          "description": "Muratore approvato dal coniglio",
+          "recipe_name": "Piedistallo da muratore di Amberstone",
+          "flavor": "L'abilità del muratore può essere letta dalla qualità del loro piano di lavoro"
         },
         "mason_pedestal_recipe": {
-          "description": "A well lit place for creating stone artwork.",
-          "recipe_name": "Mason's Pedestal",
-          "flavor": "Snap and spark, hiss of coal, light the way, transmute the earth whole."
+          "description": "Un luogo ben illuminato per la creazione di opere d'arte in pietra.",
+          "recipe_name": "Piedistallo di muratore",
+          "flavor": "Scatta e scintilla, sibilo di carbone, illumina la strada, trasmuta la terra intera."
         },
-        "workbenches_name": "Workbenches",
+        "workbenches_name": "Banchi di lavoro",
         "stone_pile_recipe": {
-          "recipe_name": "Stone Pile",
-          "description": "A pile of rocks stacked together. An excellent way to store lots of stone for later use."
+          "recipe_name": "Mucchio di pietra",
+          "description": "Un mucchio di rocce accatastate insieme. Un modo eccellente per conservare molta pietra per un uso successivo."
         },
         "stone_tunnel_door_recipe": {
-          "description": "Useful for sealing off mine tunnels.",
-          "recipe_name": "Stone Tunnel Door"
+          "description": "Utile per sigillare i tunnel della miniera.",
+          "recipe_name": "Porta del tunnel di pietra"
         },
         "firepit_recipe": {
-          "recipe_name": "Stone Firepit",
-          "description": "The heart of your town",
-          "flavor": "Fire is life, ashes are death, in these stones, the story of our people. -- Cid"
+          "recipe_name": "Pozzo del fuoco di pietra",
+          "description": "Il cuore della tua città",
+          "flavor": "Il fuoco è vita, le ceneri sono morte, in queste pietre, la storia della nostra gente. - Cid"
         },
         "valor_statue_recipe": {
-          "description": "A monument to your town's military might",
-          "recipe_name": "The Valor of Cid",
-          "flavor": "The shield for resilience, and the sword for strength. -- Cid, Knight of the Old Ways"
+          "description": "Un monumento alla potenza militare della tua città",
+          "recipe_name": "Il valore di Cid",
+          "flavor": "Lo scudo per la resilienza e la spada per la forza. -Cid, Cavaliere dei vecchi modi"
         },
         "roadside_shrine_recipe": {
-          "recipe_name": "Fountain of Plenty",
-          "description": "Place to show generosity and faith",
-          "flavor": "Cid fashioned his breastplate into a basket and brought the wealth of the rich to the bedsides of the poor --Edison Arn, Church of Plenty"
+          "recipe_name": "Fontana dell'Abbondanza",
+          "description": "Luogo in cui mostrare generosità e fede",
+          "flavor": "Cid modellò il pettorale in un cestino e portò la ricchezza dei ricchi ai capezzali dei poveri: Edison Arn, Chiesa dell'abbondanza"
         },
         "craftsman_statue_recipe": {
-          "recipe_name": "The Guildmaster's Skill",
-          "description": "Shows each craftsman at their best",
-          "flavor": "A good crafter never blames his tools, only the people who make his tools. --Otto Crankfrown, Guildmaster Emeritus"
+          "recipe_name": "L'abilità del maestro di corporazione",
+          "description": "Mostra al meglio ogni artigiano",
+          "flavor": "Un buon artigiano non incolpa mai i suoi strumenti, solo le persone che fabbricano i suoi strumenti. --Otto Crankfrown, maestro della corporazione emerito"
         },
         "gold_flakes_recipe": {
-          "recipe_name": "Gold Flakes",
-          "description": "Used when crafting furniture to make it really pretty!",
-          "flavor": "So Shine!"
+          "recipe_name": "Scaglie d'oro",
+          "description": "Utilizzato durante la fabbricazione di mobili per renderlo davvero carino!",
+          "flavor": "Così splendente!"
         },
         "gold_flakes_times_three_recipe": {
-          "recipe_name": "Gold Flakes (x3)",
-          "description": "Smash up a Gold Bar to get the Flakes back out of it!",
-          "flavor": "So many Shine!"
+          "recipe_name": "Scaglie d'oro (x3)",
+          "description": "Distruggi un lingotto d'oro per toglierti i fiocchi!",
+          "flavor": "Così tanti brillano!"
         },
         "wet_stone_recipe": {
-          "recipe_name": "Wet Stone",
-          "flavor": "This stone has been blessed with the tears of Rayya!",
-          "description": "This stone will shed water around itself."
+          "recipe_name": "Pietra bagnata",
+          "flavor": "Questa pietra è stata benedetta con le lacrime di Rayya!",
+          "description": "Questa pietra getterà acqua attorno a se stessa."
         },
         "output_box_amberstone_recipe": {
-          "recipe_name": "Rabbit-carved display Shelf",
-          "description": "Temporarily displays a crafter's hard work",
-          "flavor": "These shelves are quite sturdy. You could jump on them if you wanted. ...please do not."
+          "recipe_name": "Scaffale espositore intagliato a coniglio",
+          "description": "Mostra temporaneamente il duro lavoro di un artigiano",
+          "flavor": "Questi ripiani sono abbastanza robusti. Potresti saltarci addosso se volessi. ...per favore non farlo."
         },
         "output_box_stone_recipe": {
-          "recipe_name": "Stone Finished Work Shelf",
-          "description": "Temporary storage for freshly-crafted items.",
-          "flavor": "Crafters love to show off their work!"
+          "recipe_name": "Mensola da lavoro con finitura in pietra",
+          "description": "Deposito temporaneo per oggetti appena realizzati.",
+          "flavor": "I artigiani amano mostrare il loro lavoro!"
         },
         "input_bin_stone_recipe": {
-          "recipe_name": "Stonework Supply Bin",
-          "description": "A versatile container for any resource, to help keep crafters supplied.",
-          "flavor": "Think of what we can achieve when Hearthlings work together!"
+          "recipe_name": "Contenitore per la lavorazione della pietra",
+          "description": "Un contenitore versatile per qualsiasi risorsa, per aiutare a fornire artigiani.",
+          "flavor": "Pensa a cosa possiamo ottenere quando i cittadini lavorano insieme!"
         },
         "input_shelf_wall_stone_recipe": {
-          "recipe_name": "Stonework Wall Supply Shelf",
-          "description": "A versatile container for any resource, to help keep crafters supplied.",
-          "flavor": "Think of what we can achieve when Hearthlings work together!"
+          "recipe_name": "Scaffale del rifornimento della parete del lavoro in pietra",
+          "description": "Un contenitore versatile per qualsiasi risorsa, per aiutare a fornire artigiani.",
+          "flavor": "Pensa a cosa possiamo ottenere quando i cittadini lavorano insieme!"
         },
         "input_shelf_ground_stone_recipe": {
-          "recipe_name": "Stonework Supply Rack",
-          "description": "A versatile container for any resource, to help keep crafters supplied.",
-          "flavor": "Think of what we can achieve when Hearthlings work together!"
+          "recipe_name": "Scaffale per forniture in pietra",
+          "description": "Un contenitore versatile per qualsiasi risorsa, per aiutare a fornire artigiani.",
+          "flavor": "Pensa a cosa possiamo ottenere quando i cittadini lavorano insieme!"
         },
         "input_corner_ground_stone_recipe": {
-          "recipe_name": "Stonework Corner Supply Rack",
-          "description": "A versatile container for any resource, to help keep crafters supplied.",
-          "flavor": "Think of what we can achieve when Hearthlings work together!"
+          "recipe_name": "Scaffale di rifornimento dell'angolo del lavoro in pietra",
+          "description": "Un contenitore versatile per qualsiasi risorsa, per aiutare a fornire artigiani.",
+          "flavor": "Pensa a cosa possiamo ottenere quando i cittadini lavorano insieme!"
         },
         "input_table_ground_stone_recipe": {
-          "recipe_name": "Stonework Supply Table",
-          "description": "A versatile container for any resource, to help keep crafters supplied.",
-          "flavor": "Think of what we can achieve when Hearthlings work together!"
+          "recipe_name": "Tavolo per forniture in pietra",
+          "description": "Un contenitore versatile per qualsiasi risorsa, per aiutare a fornire artigiani.",
+          "flavor": "Pensa a cosa possiamo ottenere quando i cittadini lavorano insieme!"
         },
         "sign_mason_recipe": {
-          "description": "A heavy stone sign, to be displayed outside a mason's workshop",
-          "recipe_name": "Mason's Shop Sign",
-          "flavor": "Probably wouldn't even swing in a hurricane"
+          "description": "Un pesante cartello in pietra, da esporre fuori da un'officina per muratori",
+          "recipe_name": "Insegna del negozio di muratore",
+          "flavor": "Probabilmente non avrebbe nemmeno oscillato in un uragano"
         },
         "statue_rabbit_flat_recipe": {
-          "description": "Ears down!!",
-          "recipe_name": "Flat Stone Rabbit",
-          "flavor": "It's considered lucky to stack a vegetable from each harvest on these statues' backs - lucky for the real rabbits, anyway."
+          "description": "Orecchie in giù!!",
+          "recipe_name": "Coniglio di pietra piatta",
+          "flavor": "È considerato fortunato impilare un ortaggio di ogni raccolto sul dorso di queste statue - comunque fortunato per i veri conigli."
         },
         "statue_rabbit_recipe": {
-          "description": "Ears up!!",
-          "recipe_name": "Wee Stone Rabbit",
-          "flavor": "Just like the huge stone guardian rabbits, except wee."
+          "description": "Orecchie in su!!",
+          "recipe_name": "Minuscolo coniglio di pietra",
+          "flavor": "Proprio come gli enormi conigli custodi di pietra, tranne che per la piccola."
         },
         "fountain_tiered_recipe": {
-          "description": "A miniature cascade",
-          "recipe_name": "Waterfall Basin",
-          "flavor": "It's fun to watch leaves race down the falls. It's less fun to scoop them all out later."
+          "description": "Una cascata in miniatura",
+          "recipe_name": "Bacino della cascata",
+          "flavor": "È divertente vedere le foglie correre giù per le cascate. È meno divertente raccoglierli tutti più tardi."
         },
         "fountain_recipe": {
-          "description": "Simple, lively and bubbly",
-          "recipe_name": "Stone Fountain",
-          "flavor": "Tastefully tiered, and remarkably free of algae"
+          "description": "Semplice, vivace e frizzante",
+          "recipe_name": "Fontana di pietra",
+          "flavor": "Gradevolmente a più livelli e straordinariamente privo di alghe"
         },
         "fountain_garden_recipe": {
-          "description": "A tiny, floating garden for a quiet corner",
-          "recipe_name": "Lilypad Basin",
-          "flavor": "To be small enough to hide away in its blossoms for an afternoon..."
+          "description": "Un minuscolo giardino galleggiante per un angolo tranquillo",
+          "recipe_name": "Bacino del giglio",
+          "flavor": "Per essere abbastanza piccolo da nascondersi tra i suoi fiori per un pomeriggio..."
         },
         "door_mason_recipe": {
-          "description": "Fit for a master mason's workshop",
-          "recipe_name": "Mason's door",
-          "flavor": "Feels like knocking on a mountainside"
+          "description": "Adatto per un'officina di un maestro muratore",
+          "recipe_name": "La porta del muratore",
+          "flavor": "Sembra di bussare a una montagna"
         },
         "fountain_wishing_recipe": {
-          "description": "Exchanges gold for wishes",
-          "recipe_name": "Glittering Basin",
-          "flavor": "The exact rate of exchange has never been clear, but who cares it's fun"
+          "description": "Scambia l'oro per i desideri",
+          "recipe_name": "Bacino scintillante",
+          "flavor": "L'esatto tasso di cambio non è mai stato chiaro, ma chi se ne frega è divertente"
         },
         "statue_knight_recipe": {
-          "description": "Noble knight of stone",
-          "recipe_name": "Stone Guard",
-          "flavor": "\"...Now quietly the land they keep<br>amid the brightbells echoing.\""
+          "description": "Nobile cavaliere di pietra",
+          "recipe_name": "Guardia di pietra",
+          "flavor": "\"...Ora tranquillamente la terra che mantengono <br>  tra le brightbells che echeggiano.\""
         },
         "statue_knight_male_recipe": {
-          "description": "Noble knight of stone",
-          "recipe_name": "Stone Guard",
-          "flavor": "\"Holding back the darkness deep;<br> shaking iron, steel blades ring...\""
+          "description": "Nobile cavaliere di pietra",
+          "recipe_name": "Guardia di pietra",
+          "flavor": "\"Trattenendo l'oscurità in profondità; <br> ferro tremante, anello di lame d'acciaio...\""
         },
         "portcullis_valor_recipe": {
-          "description": "For times when only the strongest door will do.",
-          "recipe_name": "Castle Portcullis",
-          "flavor": "Stone for strength, Iron for versatility, Coal to paint fear into our enemy's hearts."
+          "description": "Per i momenti in cui solo la porta più forte farà.",
+          "recipe_name": "Castello di Portcullis",
+          "flavor": "Pietra per forza, ferro per versatilità, carbone per dipingere la paura nei cuori dei nostri nemici."
         },
         "valor_window_arrow_short_recipe": {
-          "description": "For those who enjoy small compressed views.",
-          "recipe_name": "Short Stone Arrow Slit"
+          "description": "Per chi ama le piccole viste compresse.",
+          "recipe_name": "Piccola fessura per freccie di pietra"
         },
         "valor_window_arrow_tall_recipe": {
-          "description": "For those who enjoy small compressed views.",
-          "recipe_name": "Tall Stone Arrow Slit"
+          "description": "Per chi ama le piccole viste compresse.",
+          "recipe_name": "Spacco alto a forma di freccia in pietra"
         },
         "valor_window_frame_barred_recipe": {
-          "description": "For those who enjoy safe viewing from behind bars.",
-          "recipe_name": "Barred Stone Window Frame"
+          "description": "Per coloro che amano la visione sicura da dietro le sbarre.",
+          "recipe_name": "Cornice della finestra di pietra sbarrata"
         },
         "valor_window_frame_xlarge_recipe": {
-          "description": "For those who enjoy wide expansive views.",
-          "recipe_name": "Extra Large Stone Window Frame",
-          "flavor": "I'm not the sort of person who'd tell you what to do with your window, but when Riley stuck it on the first floor like a door, rabbits poured straight into his kitchen. -- Andie, Berry Farmer"
+          "description": "Per coloro che godono di ampie visioni espansive.",
+          "recipe_name": "Cornice per finestra in pietra extra large",
+          "flavor": "Non sono il tipo di persona che ti direbbe cosa fare della tua finestra, ma quando Riley l'ha bloccato al primo piano come una porta, i conigli si sono riversati direttamente nella sua cucina. - Andie, coltivatore di bacche"
         },
         "valor_brazier_large_recipe": {
-          "description": "A beacon of light to protect your town.",
-          "recipe_name": "Large Brazier",
-          "flavor": "From a tall mountaintop, you can see fires like these all across the Darkmoor."
+          "description": "Un faro di luce per proteggere la tua città.",
+          "recipe_name": "Grande braciere",
+          "flavor": "Da un'alta montagna, puoi vedere fuochi come questi in tutto il buio."
         },
         "lucid_gem_recipe": {
-          "description": "A spiritual focus, essential for the Shining Circlet",
+          "description": "Un focus spirituale, essenziale per il Cerchietto splendente",
           "recipe_name": "Lucid Gem",
           "flavor": "What mysteries hide inside its tranquil blue eye?"
         },
@@ -19368,13 +19368,13 @@
     },
     "knight": {
       "knight_outfit": {
-        "display_name": "Knight's Armor",
-        "description": "Metal armor worn by a knight"
+        "display_name": "Armatura del cavaliere",
+        "description": "Armatura di metallo indossata da un cavaliere"
       },
       "knight_description": {
-        "display_name": "Knight",
-        "description": "A defensive combatant focused on protecting allies from harm.",
-        "requirements": "Crafted by Blacksmith",
+        "display_name": "Cavaliere",
+        "description": "Un combattente difensivo focalizzato sulla protezione degli alleati dai pericoli.",
+        "requirements": "Realizzato dal fabbro",
         "level_1_data": {
           "perk_000_name": "Fortifica",
           "perk_001_name": "Riduzione del danno Grado 1",
