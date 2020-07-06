@@ -18075,128 +18075,128 @@
         },
         "lucid_gem_recipe": {
           "description": "Un focus spirituale, essenziale per il Cerchietto splendente",
-          "recipe_name": "Lucid Gem",
-          "flavor": "What mysteries hide inside its tranquil blue eye?"
+          "recipe_name": "Gemma lucida",
+          "flavor": "Quali misteri si nascondono nel suo tranquillo occhio azzurro?"
         },
         "giants_shield_recipe": {
-          "description": "Proudest shield in the Ascendancy",
-          "recipe_name": "Giant's Shield",
-          "flavor": "Against even the most terrible foes and impossible dangers, this shield will never break."
+          "description": "Orgoglioso scudo nell'Ascendenza",
+          "recipe_name": "Scudo del Gigante",
+          "flavor": "Anche contro i nemici più terribili e pericoli impossibili, questo scudo non si romperà mai."
         },
         "titan_ward_stone_recipe": {
-          "description": "Hurts anything nearby that smells like titan.",
-          "recipe_name": "Anti-Titan Ward",
-          "flavor": "Baby don't hurt me! Don't hurt me no more!"
+          "description": "Fa male qualsiasi cosa nelle vicinanze che profuma di titano.",
+          "recipe_name": "Reparto anti-titano",
+          "flavor": "Baby non farmi del male! Non farmi più del male!"
         },
         "cobblestone_fence_end_recipe": {
-          "description": "A rustic, sturdy wall segment.",
-          "recipe_name": "Cobblestone Fence Post",
-          "flavor": "Use the earth itself to form the walls of the pasture? Genius!"
+          "description": "Un segmento di parete rustico e robusto.",
+          "recipe_name": "Paletto di ciottoli",
+          "flavor": "Utilizzare la terra stessa per formare le pareti del pascolo? Genio!"
         },
         "cobblestone_fence_bar_single_recipe": {
-          "description": "A rustic, sturdy wall segment.",
-          "recipe_name": "Cobblestone Fence Short",
-          "flavor": "Use the earth itself to form the walls of the pasture? Genius!"
+          "description": "Un segmento di parete rustico e robusto.",
+          "recipe_name": "Staccionata in ciottoli corta",
+          "flavor": "Utilizzare la terra stessa per formare le pareti del pascolo? Genio!"
         },
         "cobblestone_fence_bar_double_recipe": {
-          "description": "A rustic, sturdy wall segment.",
-          "recipe_name": "Cobblestone Fence Long",
-          "flavor": "Use the earth itself to form the walls of the pasture? Genius!"
+          "description": "Un segmento di parete rustico e robusto.",
+          "recipe_name": "Staccionata in ciottoli lunga",
+          "flavor": "Utilizzare la terra stessa per formare le pareti del pascolo? Genio!"
         },
         "stone_bed_recipe": {
-          "recipe_name": "Stone Bed",
-          "description": "A bed to call your own after a hard day's work",
-          "flavor": "The decorative frame might distract you from the discomfort of sleeping on hard stone"
+          "recipe_name": "Letto di pietra",
+          "description": "Un letto da chiamare tuo dopo una dura giornata di lavoro",
+          "flavor": "La cornice decorativa potrebbe distrarti dal disagio di dormire su pietre dure"
         },
         "stone_door_recipe": {
-          "description": "Sturdy door built to last.",
-          "recipe_name": "Stone Door"
+          "description": "Porta robusta costruita per durare.",
+          "recipe_name": "Porta di pietra"
         },
         "stone_window_frame_recipe": {
-          "description": "A basic stone window.",
-          "recipe_name": "Stone Window Frame",
-          "flavor": "A little breezy, but fashionable!"
+          "description": "Una finestra di pietra di base.",
+          "recipe_name": "Cornice della finestra di pietra",
+          "flavor": "Un po' arioso, ma alla moda!"
         },
         "stone_window_frame_wide_recipe": {
-          "description": "It's got a panoramic view!",
-          "recipe_name": "Wide Stone Window Frame"
+          "description": "Ha una vista panoramica!",
+          "recipe_name": "Ha una vista panoramica!"
         },
         "stone_window_frame_wide_wood_recipe": {
-          "description": "Rustic and panoramic!",
-          "recipe_name": "Wide Wood and Stone Window Frame"
+          "description": "Rustico e panoramico!",
+          "recipe_name": "Ampia cornice della finestra in legno e pietra"
         },
         "stone_window_frame_wood_recipe": {
-          "description": "A basic window.",
-          "recipe_name": "Wood and Stone Window Frame",
-          "flavor": "Is this what they call a cross section?"
+          "description": "Una finestra di base.",
+          "recipe_name": "Cornice della finestra in legno e pietra",
+          "flavor": "È quello che chiamano una sezione trasversale?"
         },
         "stone_window_frame_tall_recipe": {
-          "description": "Extra height adds an air of elegance.",
-          "recipe_name": "Tall Stone Window Frame"
+          "description": "L'altezza extra aggiunge un'aria di eleganza.",
+          "recipe_name": "Cornice per finestra in pietra alta"
         },
         "stone_window_frame_short_recipe": {
-          "description": "Short can be elegant too.",
-          "recipe_name": "Short Stone Window Frame"
+          "description": "Anche i pantaloncini possono essere eleganti.",
+          "recipe_name": "Cornice per finestra in pietra corta"
         },
         "stone_lantern_simple_recipe": {
-          "description": "Nothing fancy. Attach to any wall.",
-          "recipe_name": "Simple Stone Lantern",
-          "flavor": "Cons: Heavy. Pros: Unlikely to burn itself down."
+          "description": "Nulla di bello. Attaccare a qualsiasi muro.",
+          "recipe_name": "Lanterna di pietra semplice",
+          "flavor": "Contro: pesante. Pro: è improbabile che si bruci."
         },
         "stone_garden_lantern_simple_recipe": {
-          "description": "It has a classic handle...mostly for decoration.",
-          "recipe_name": "Simple Stone Garden Lantern",
-          "flavor": "It's weight makes it useless to carrying around."
+          "description": "Ha una maniglia classica... principalmente per la decorazione.",
+          "recipe_name": "Lanterna da giardino in pietra semplice",
+          "flavor": "Il suo peso lo rende inutile da portare in giro."
         },
         "stone_torch_recipe": {
-          "description": "A wall-mounted torch with slowly burning oil.",
-          "recipe_name": "Stone Torch",
-          "flavor": "Makes it much easier to burn the midnight oil."
+          "description": "Una torcia a parete con olio a combustione lenta.",
+          "recipe_name": "Torcia Di Pietra",
+          "flavor": "Rende molto più facile bruciare l'olio di mezzanotte."
         },
         "stone_candle_holder_recipe": {
-          "description": "Lighting from a simplier time.",
-          "recipe_name": "Stone Candle Holder",
-          "flavor": "Romantic for some, annoying to read by for others."
+          "description": "Illuminazione da un momento più semplice.",
+          "recipe_name": "Portacandele in pietra",
+          "flavor": "Romantico per alcuni, fastidioso da leggere per altri."
         },
         "stone_door_2_recipe": {
-          "description": "Stronger than your average door.",
-          "recipe_name": "Reinforced Stone Door",
-          "flavor": "This here pattern, I learned from the Squarefolk."
+          "description": "Più forte della tua porta media.",
+          "recipe_name": "Porta in pietra rinforzata",
+          "flavor": "Questo modello qui, l'ho imparato dalla gente quadrata."
         },
         "stone_double_door_recipe": {
-          "description": "Two doors are better than one.",
-          "recipe_name": "Stone Double Door",
-          "flavor": "Some people want to make an entrance... every day."
+          "description": "Due porte sono meglio di una.",
+          "recipe_name": "Doppia porta di pietra",
+          "flavor": "Alcune persone vogliono fare un ingresso... ogni giorno."
         },
         "stone_window_frame_crossbeam_recipe": {
-          "description": "A more stylish window.",
-          "recipe_name": "Crossbeam Stone Window Frame",
-          "flavor": "Is this what they call a cross section?"
+          "description": "Una finestra più elegante.",
+          "recipe_name": "Cornice della finestra in pietra a travi",
+          "flavor": "È quello che chiamano una sezione trasversale?"
         },
         "cobblestone_fence_combo_recipe": {
-          "description": "A rustic, sturdy wall segment.",
-          "recipe_name": "Cobblestone Fence Combo",
-          "flavor": "Use the earth itself to form the walls of the pasture? Genius!"
+          "description": "Un segmento di parete rustico e robusto.",
+          "recipe_name": "Combinazione di recinzione in ciottoli",
+          "flavor": "Utilizzare la terra stessa per formare le pareti del pascolo? Genio!"
         },
         "stone_floor_candle_holder_recipe": {
-          "description": "Lighting from a simplier time.",
-          "recipe_name": "Stone Floor Candle Holder",
-          "flavor": "Romantic for some, spookily haunted for others."
+          "description": "Illuminazione da un momento più semplice.",
+          "recipe_name": "Portacandele da pavimento in pietra",
+          "flavor": "Romantico per alcuni, spaventosamente ossessionato per gli altri."
         },
         "golem_parts_recipe": {
-          "description": "Used by the Geomancer to craft golems",
-          "recipe_name": "Golem Parts",
-          "flavor": "Sturdy enough to hold an ox."
+          "description": "Utilizzato dal geomante per creare golem",
+          "recipe_name": "Parti del Golem",
+          "flavor": "Abbastanza robusto da contenere un bue."
         },
         "window_box_violet_recipe": {
-          "description": "A planter box full of Violet flowers, built to be placed below window frames.",
-          "recipe_name": "Violet Window Box",
-          "flavor": "The capstone of a civilized dwelling."
+          "description": "Una fioriera piena di fiori viola, costruita per essere posizionata sotto i telai delle finestre.",
+          "recipe_name": "Finestra viola",
+          "flavor": "La pietra miliare di un'abitazione civile."
         },
         "market_shelf_tall_ground_stone": {
-          "description": "Other players and Travellers can buy goods stocked on these shelves.",
-          "recipe_name": "Market Trading Shelf",
-          "flavor": "One Hearthling's trash is another's treasure... right?"
+          "description": "Altri giocatori e Viaggiatori possono acquistare merci immagazzinate su questi scaffali.",
+          "recipe_name": "Scaffale di mercato",
+          "flavor": "La spazzatura di un cittadino è il tesoro di un altro... giusto?"
         }
       }
     },
@@ -18209,16 +18209,16 @@
     },
     "potter": {
       "potter_description": {
-        "display_name": "Potter",
-        "description": "Makes useful goods from clay. Upgradeable to the Mason",
-        "requirements": "Crafted by Mason",
+        "display_name": "Vasaio",
+        "description": "Produce beni utili dall'argilla. Aggiornabile al muratore",
+        "requirements": "Realizzato da muratore",
         "workshop": {
-          "name": "Potter's Wheel",
-          "description": "insert description here",
-          "long_description": "The Potter crafts useful goods and decorative items from clay."
+          "name": "Tornio da vasaio",
+          "description": "inserisci la descrizione qui",
+          "long_description": "Il vasaio crea oggetti utili e oggetti decorativi in argilla."
         },
         "level_3_data": {
-          "perk_000_name": "Journeyman's Knowledge",
+          "perk_000_name": "Conoscenza del viaggiatore",
           "perk_000_description": "When inspiration strikes, the Potter may now craft an especially Fine quality of item."
         },
         "level_5_data": {
