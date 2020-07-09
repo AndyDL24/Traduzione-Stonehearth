@@ -275,7 +275,7 @@
         "level_abbreviation": "Lvl",
         "locked_status": " (Bloccato)",
         "apprentice": "Apprendista",
-        "journeyman": "Uomo di viaggio",
+        "journeyman": "Operaio qualificato",
         "master": "Maestro",
         "journal": "Diario",
         "thoughts": "Pensieri",
@@ -2260,7 +2260,7 @@
           "display_name": "Ispirazione",
           "description": "Un modificatore piatto per la possibilità del cittadino di creare oggetti con qualità raffinata ed eccellente.",
           "bullet_points": {
-            "000": "Un cittadino deve essere almeno un operaio per creare oggetti di alta qualità e un Maestro per creare oggetti eccellenti</br>",
+            "000": "Un cittadino deve essere almeno un operaio specializzato per creare oggetti di alta qualità e un Maestro per creare oggetti eccellenti</br>",
             "001": "Si basa sullo spirito dei cittadini"
           }
         },
@@ -16125,7 +16125,7 @@
           "perk_000_description": "I segreti del bronzo sono ora disponibili per il fabbro."
         },
         "level_3_data": {
-          "perk_000_name": "Viaggia nella conoscenza dell'uomo",
+          "perk_000_name": "Conoscenza dell'operaio qualificato",
           "perk_000_description": "Quando l'ispirazione colpisce, il fabbro ora può creare una qualità particolarmente fine di oggetti posizionabili."
         },
         "level_5_data": {
@@ -17286,7 +17286,7 @@
         "level_3_data": {
           "perk_000_name": "Difensore della città",
           "perk_000_description": "Questo ingegnere può posizionare fino a otto trappole e quattro torrette.",
-          "perk_001_name": "Conoscenza del viaggiatore",
+          "perk_001_name": "Conoscenza dell'operaio qualificato",
           "perk_001_description": "Quando l'ispirazione colpisce, l'Ingegnere ora può creare un oggetto particolarmente pregiato."
         },
         "level_5_data": {
@@ -17742,7 +17742,7 @@
           "perk_000_description": "Il muratore ora può realizzare una solida gamma di mobili di base."
         },
         "level_3_data": {
-          "perk_000_name": "Conoscenza del viaggiatore",
+          "perk_000_name": "Conoscenza dell'operaio qualificato",
           "perk_000_description": "Quando l'ispirazione colpisce, il muratore ora può creare un oggetto particolarmente pregiato."
         },
         "level_5_data": {
@@ -18218,382 +18218,382 @@
           "long_description": "Il vasaio crea oggetti utili e oggetti decorativi in argilla."
         },
         "level_3_data": {
-          "perk_000_name": "Conoscenza del viaggiatore",
-          "perk_000_description": "When inspiration strikes, the Potter may now craft an especially Fine quality of item."
+          "perk_000_name": "Conoscenza dell'operaio qualificato",
+          "perk_000_description": "Quando l'ispirazione colpisce, il vasaio ora può creare un oggetto di qualità particolarmente raffinata."
         },
         "level_5_data": {
-          "perk_000_name": "Master's Insight",
-          "perk_000_description": "The Potter can now create items of Excellent quality, and will make Fine quality items more often."
+          "perk_000_name": "Intuizione del maestro",
+          "perk_000_description": "Il vasaio ora può creare oggetti di eccellente qualità e renderà più spesso oggetti di ottima qualità."
         },
         "level_6_data": {
-          "title": "Master Potter",
-          "perk_000_name": "Master Potter",
-          "perk_000_description": "The Potter has rediscovered ancient secrets of the Phoenix..."
+          "title": "Maestro vasaio",
+          "perk_000_name": "Maestro vasaio",
+          "perk_000_description": "Il vasaio ha riscoperto antichi segreti della Fenice..."
         },
         "level_2_data": {
-          "perk_000_name": "Art for Sale",
-          "perk_000_description": "The Potter can now make decorative items to liven up the town or sell for money."
+          "perk_000_name": "Arte in vendita",
+          "perk_000_description": "Il vasaio ora può creare oggetti decorativi per ravvivare la città o vendere per soldi."
         },
         "level_4_data": {
-          "perk_000_name": "Collaborative Insight",
-          "perk_000_description": "The Potter can now add precious metals to vases and tiles."
+          "perk_000_name": "Informazioni collaborative",
+          "perk_000_description": "Il vasaio ora può aggiungere metalli preziosi a vasi e piastrelle."
         },
         "level_1_data": {
-          "perk_000_name": "Standard Catalog",
-          "perk_000_description": "The Potter can now make basic furniture and building adornments."
+          "perk_000_name": "Catalogo standard",
+          "perk_000_description": "Il vasaio ora può realizzare mobili di base e ornamenti per l'edilizia."
         }
       },
       "recipes": {
-        "workbench_name": "Workshops",
+        "workbench_name": "Laboratori",
         "small_urn_recipe": {
-          "description": "For compactly storing up to 8 items",
-          "recipe_name": "Small Urn",
-          "flavor": "Mischevious kids break these pots all the time, looking for treasure."
+          "description": "Per conservare in modo compatto fino a 8 articoli",
+          "recipe_name": "Piccola urna",
+          "flavor": "I bambini birichini rompono continuamente questi vasi, in cerca di tesori."
         },
-        "storage_name": "Storage",
+        "storage_name": "Conservazione",
         "large_urn_recipe": {
-          "description": "For compactly storing up to 32 items",
-          "recipe_name": "Large Urn",
-          "flavor": "Once we put things in, how will we get them out? Don't think about it too much"
+          "description": "Per conservare in modo compatto fino a 32 articoli",
+          "recipe_name": "Urna grande",
+          "flavor": "Una volta inserite le cose, come le tireremo fuori? Non pensarci troppo"
         },
         "clay_lamp_recipe": {
-          "description": "Its flame brings a warm glow at night.",
-          "recipe_name": "Clay Oil Lamp",
-          "flavor": "And the Djinni said to Rayya: 'I have but one last wish to grant. Word it well.'"
+          "description": "La sua fiamma porta un caldo bagliore di notte.",
+          "recipe_name": "Lampada a olio di argilla",
+          "flavor": "E il Djinni disse a Rayya: 'Ho solo un ultimo desiderio di concedere. Esprimilo bene'."
         },
         "clay_wall_lamp_recipe": {
-          "description": "Its flame brings a warm glow at night.",
-          "recipe_name": "Wall-Mounted Clay Oil Lamp",
-          "flavor": "'Close round us guard the spirits of night! As they dance and sway, free you'll be to dream the dark away.'"
+          "description": "La sua fiamma porta un caldo bagliore di notte.",
+          "recipe_name": "Lampada ad olio a parete in argilla",
+          "flavor": "'Intorno a noi custodisci gli spiriti della notte! Mentre ballano e ondeggiano, liberi di sognare l'oscurità.'"
         },
         "garden_gnome_recipe": {
-          "description": "Fashioned after mythical forest spirits.",
-          "recipe_name": "Tiny Garden Guardian",
-          "flavor": "Designed by Grandmaster crafter The_M"
+          "description": "Realizzato secondo i mitici spiriti della foresta.",
+          "recipe_name": "Piccolo guardiano del giardino",
+          "flavor": "Progettato da mastro artigiano The_M"
         },
-        "furniture_name": "Furniture and Decoration",
-        "decoration_name": "Decorations",
-        "utility_name": "Utility",
-        "refined_name": "Refinement",
+        "furniture_name": "Mobili e decorazioni",
+        "decoration_name": "Decorazioni",
+        "utility_name": "Utilità",
+        "refined_name": "Raffinatezza",
         "potter_workbench_recipe": {
-          "description": "Helps the potter create simple items from clay",
-          "recipe_name": "Potter's Wheel",
-          "flavor": "Where we've been before, we'll be again, round once more, for strength and then--"
+          "description": "Aiuta il vasaio a creare oggetti semplici dall'argilla",
+          "recipe_name": "Tornio da vasaio",
+          "flavor": "Dove siamo stati prima, saremo di nuovo, ancora una volta, per forza e poi--"
         },
         "potter_kiln_recipe": {
-          "description": "Hardens basic clay objects.",
-          "recipe_name": "Potter's Kiln",
-          "flavor": "'Through heat and hardship we realize our final selves.' -Silora, Acolyte of Rayya's Mystery "
+          "description": "Indurisce oggetti base di argilla.",
+          "recipe_name": "Forno da vasaio",
+          "flavor": "\"Attraverso il calore e le difficoltà realizziamo il nostro io finale.\" -Silora, Accolito del mistero di Rayya"
         },
         "clay_safety_standard_recipe": {
-          "description": "Use to designate a safety point",
-          "recipe_name": "Clay Safety Standard",
-          "flavor": "To achieve an ideal standard of living, find safety in numbers. --Mysteries and Proverbs, V"
+          "description": "Utilizzare per designare un punto di sicurezza",
+          "recipe_name": "Standard di sicurezza dell'argilla",
+          "flavor": "Per raggiungere uno standard di vita ideale, trova la sicurezza nei numeri. - Misterie e proverbi, V"
         },
-        "building_parts_name": "Building Parts",
+        "building_parts_name": "Parti di costruzione",
         "clay_bricks_recipe": {
-          "description": "A stack of bricks, used to make clay structures.",
-          "recipe_name": "Clay Bricks",
-          "flavor": "'And when Clay emerged from the Kiln, he had become Brick, and no matter how hard Sun blasted him, he remained cheerful.'"
+          "description": "Una pila di mattoni, utilizzata per realizzare strutture in argilla.",
+          "recipe_name": "Mattoni di argilla",
+          "flavor": "\"E quando l'argilla emerse dal forno, era diventato mattone, e non importava quanto il sole lo facesse esplodere, rimase allegro.\""
         },
         "red_clay_door_recipe": {
-          "description": "Matches red clay walls",
-          "recipe_name": "Red Clay Door",
-          "flavor": "\"The red hints at a mystery, allure. What lies beyond yon red door?\" -- Ember Iskender, Dept of Applied Poetry"
+          "description": "Abbina le pareti di argilla rossa",
+          "recipe_name": "Porta di argilla rossa",
+          "flavor": "\"Il rosso suggerisce un mistero, un fascino. Cosa c'è oltre la tua porta rossa?\" - Ember Iskender, dipartimento di poesia applicata"
         },
         "red_clay_window_frame_recipe": {
-          "description": "Matches red clay walls",
-          "recipe_name": "Red Clay Window",
-          "flavor": "\"Industry standard for a reason\" -- Jorya Iskender, Dyemaster"
+          "description": "Abbina le pareti di argilla rossa",
+          "recipe_name": "Finestra di argilla rossa",
+          "flavor": "\"Standard del settore per un motivo\" - Jorya Iskender, maestro di tintura"
         },
         "blue_clay_door_recipe": {
-          "description": "Blue like the dream of distant ocean.",
-          "recipe_name": "Blue Clay Door",
-          "flavor": "'It's a door. What more could we possibly say?' --Joni Iskender, Marketing Apprentice"
+          "description": "Blu come il sogno di un oceano lontano.",
+          "recipe_name": "Porta di argilla blu",
+          "flavor": "'È una porta. Cos'altro potremmo dire? --Joni Iskender, apprendista di marketing"
         },
         "green_clay_door_recipe": {
-          "description": "Green, like the few scrub in the desert.",
-          "recipe_name": "Green Clay Door",
-          "flavor": "'Can you make the hole a bit smaller? The point is to see who it is without giving away that I'm home.' --Vara Tenter, Irate Customer"
+          "description": "Verde, come i poche macchie nel deserto.",
+          "recipe_name": "Porta di argilla verde",
+          "flavor": "'Riesci a rendere il buco un po' più piccolo? Il punto è vedere chi è senza rivelare che sono a casa ». --Vara Tenter, cliente irato"
         },
         "blue_clay_window_frame_recipe": {
-          "description": "Lets in the bright desert air.",
-          "recipe_name": "Blue Clay Window Frame",
-          "flavor": "The dye is named Santori, for an acolyte who longed for the ocean."
+          "description": "Lascia nell'aria luminosa del deserto.",
+          "recipe_name": "Cornice della finestra di argilla blu",
+          "flavor": "Il colorante si chiama Santori, per un accolito che bramava l'oceano."
         },
         "green_clay_window_frame_recipe": {
-          "description": "Let's in the soft desert air.",
-          "recipe_name": "Green Clay Window Frame",
-          "flavor": "It's a window's dream of spring..."
+          "description": "Andiamo nella dolce aria del deserto.",
+          "recipe_name": "Cornice della finestra di argilla verde",
+          "flavor": "È il sogno di una finestra di primavera..."
         },
         "latticed_clay_window_frame_recipe": {
-          "description": "The lattice still lets the good air in.",
-          "recipe_name": "Latticed Clay Window Frame",
-          "flavor": "As the shadows move across the floor, child, see if you can find Monkey!"
+          "description": "Il reticolo lascia ancora entrare l'aria buona.",
+          "recipe_name": "Cornice della finestra di argilla reticolare",
+          "flavor": "Mentre le ombre si muovono sul pavimento, bambina, vedi se riesci a trovare la scimmia!"
         },
         "clay_bed_recipe": {
-          "description": "Uncomfortable, but it gets you off the ground",
-          "recipe_name": "Clay Bed",
-          "flavor": "\"It's like a pot, for sleeping!\" - Clarence, Temporary Salesperson"
+          "description": "A disagio, ma ti toglie da terra",
+          "recipe_name": "Letto di argilla",
+          "flavor": "\"È come una pentola, per dormire!\" - Clarence, commesso temporaneo"
         },
         "clay_dining_table_recipe": {
-          "description": "Gets your food off the ground!",
-          "recipe_name": "Clay Dining Table",
-          "flavor": "\"An elevated environment for elevated conversation\" "
+          "description": "Ti toglie il cibo da terra!",
+          "recipe_name": "Tavolo da pranzo in argilla",
+          "flavor": "\"Un ambiente elevato per conversazioni elevate\""
         },
         "simple_clay_chair_recipe": {
-          "description": "Somewhere to sit while eating",
-          "recipe_name": "Simple Clay Chair",
-          "flavor": "'Nests with the tables, ooo, symbolic!' --Nestor Adya, Acolyte"
+          "description": "Un posto dove sedersi mentre si mangia",
+          "recipe_name": "Sedia semplice in argilla",
+          "flavor": "\"Nidi con i tavoli, ooo, simbolici!\" -Nestor Adya, Accolito"
         },
         "decorative_teapot_recipe": {
-          "description": "Reminder of humble beginnings",
-          "recipe_name": "Decorative Teapot",
-          "flavor": "'Wherever she went, the teapot did too, and even when there was nothing but cold water to put in, always out poured steaming tea, redolent with the aroma of Elsewhere.'"
+          "description": "Promemoria di umili origini",
+          "recipe_name": "Teiera Decorativa",
+          "flavor": "\"Ovunque andasse, lo faceva anche la teiera, e anche quando non c'era altro che acqua fredda da mettere dentro, usciva sempre il tè fumante, redolente con l'aroma di Altrove.\""
         },
         "decorative_tray_recipe": {
-          "description": "Adds hospitality and flash",
-          "recipe_name": "Decorative Tray",
-          "flavor": "'Sugar, spice, and blood of the earth: it is the tray that brings them, and us, together' --Rayya"
+          "description": "Aggiunge ospitalità e flash",
+          "recipe_name": "Vassoio decorativo",
+          "flavor": "'Zucchero, spezie e sangue della terra: è il vassoio che unisce loro e noi, insieme' - Rayya"
         },
         "potted_cactus_recipe": {
-          "description": "Plant a cactus in a clay pot.",
-          "recipe_name": "Potted Cactus",
-          "flavor": "YOWCH! --Every cactus potter, ever."
+          "description": "Pianta un cactus in un vaso di terracotta.",
+          "recipe_name": "Cactus in vaso",
+          "flavor": "YOWCH! - Ogni vasaio di cactus, mai."
         },
         "blown_glass_vase_recipe": {
-          "description": "Miraculous",
-          "recipe_name": "Blown Glass Vase",
-          "flavor": "They say Monkey had one eye made of glass, and through it, he could see straight to the heart of things. --Master Orlen"
+          "description": "Miracoloso",
+          "recipe_name": "Vaso in vetro soffiato",
+          "flavor": "Dicono che la scimmia avesse un occhio fatto di vetro e, attraverso di esso, potesse vedere direttamente il cuore delle cose. --Maestro Orlen"
         },
         "decorative_vase_recipe": {
-          "description": "Transform metals into art",
-          "recipe_name": "Decorative Vase",
-          "flavor": "It is the riches of the earth reborn"
+          "description": "Trasforma i metalli in arte",
+          "recipe_name": "Vaso Decorativo",
+          "flavor": "È la ricchezza della terra rinata"
         },
         "sundial_recipe": {
-          "description": "Decorates gardens, marks time",
-          "recipe_name": "Clay Sundial",
-          "flavor": "The secret to immortality is to make best of days last forever --Rayya"
+          "description": "Decora i giardini, segna il tempo",
+          "recipe_name": "Meridiana di argilla",
+          "flavor": "Il segreto dell'immortalità è di far durare per sempre il meglio dei giorni --Rayya"
         },
         "tile_floor_mosaic_recipe": {
-          "description": "Decorates and cools the floor",
-          "recipe_name": "Tile Floor Mosaic",
-          "flavor": "Step over the painted flowers, and give thanks"
+          "description": "Decora e raffredda il pavimento",
+          "recipe_name": "Mosaico del pavimento piastrellato",
+          "flavor": "Oltrepassa i fiori dipinti e ringrazia"
         },
         "tile_wall_mosaic_recipe": {
-          "description": "Soothing decorative patterns",
-          "recipe_name": "Tile Wall Mosaic",
-          "flavor": "Tile cools inside and out"
+          "description": "Motivi decorativi rilassanti",
+          "recipe_name": "Mosaico da parete",
+          "flavor": "Le piastrelle si raffreddano dentro e fuori"
         },
         "golden_clay_wall_planter_recipe": {
-          "description": "Brightens up a wall",
-          "recipe_name": "Golden Clay Wall Planter",
-          "flavor": "Where do the flowers come from? From the planter, of course! --Acolyte of Rayya's Mystery"
+          "description": "Illumina un muro",
+          "recipe_name": "Fioriera da parete in argilla dorata",
+          "flavor": "Da dove vengono i fiori? Dalla piantatrice, ovviamente! --Accolito del mistero di Rayya"
         },
         "unfired_clay_vase_recipe": {
-          "description": "A simple vase made on the pottery wheel that is used for more complex recipes.",
-          "recipe_name": "Unfired Clay Vase",
-          "flavor": "'The First Pot was formed together by wind, earth, and fire, connecting the people to Hearth' --Master Orlen"
+          "description": "Un semplice vaso realizzato sul tornio che viene utilizzato per ricette più complesse.",
+          "recipe_name": "Vaso di argilla senza fuoco",
+          "flavor": "'Il primo vaso fu formato insieme da vento, terra e fuoco, collegando le persone alla terra' - Mastro Orlen"
         },
         "clay_pile_recipe": {
-          "recipe_name": "Clay Pile",
-          "description": "A pile of clay stacked together. An excellent way to store lots of clay for later use.",
-          "flavor": "Amazing, honestly, that it comes apart again."
+          "recipe_name": "Mucchio di argilla",
+          "description": "Un mucchio di argilla accatastati insieme. Un modo eccellente per conservare molta argilla per un uso successivo.",
+          "flavor": "Incredibile, onestamente, che si rompa di nuovo."
         },
         "clay_market_stall_recipe": {
-          "description": "Merchants can visit this stall to buy and sell goods",
-          "recipe_name": "Clay Market Stall",
-          "flavor": "'Cut off his hand? For theft? What would be the point?' --Talidor Roq, Knight of Mysteries "
+          "description": "I commercianti possono visitare questa bancarella per acquistare e vendere beni",
+          "recipe_name": "Bancarella del mercato di argilla",
+          "flavor": "'Tagliato la sua mano? Per furto? Quale sarebbe il punto? --Talidor Roq, cavaliere dei misteri"
         },
         "clay_tunnel_door_recipe": {
-          "description": "Useful for sealing off mine tunnels.",
-          "recipe_name": "Clay Tunnel Door",
-          "flavor": "Speak friend and enter.... oh no wait it's not locked. - Eber, Potter's Apprentice"
+          "description": "Utile per sigillare i tunnel delle miniere.",
+          "recipe_name": "Porta del tunnel di argilla",
+          "flavor": "Parla amico ed entra.... oh no aspetta non è bloccato. - Eber, apprendista vasaio"
         },
         "tan_latticed_window_recipe": {
-          "recipe_name": "Tan Latticed Window",
-          "description": "The latticed window you know and love, in tan",
-          "flavor": "\"Lets in the bugs, but at least not the really big ones!\" -- Drenkar Iskender, Ex-Marketing Associate"
+          "recipe_name": "Finestra reticolare marrone chiaro",
+          "description": "La finestra reticolare che conosci e ami, in abbronzatura",
+          "flavor": "\"Lascia entrare gli insetti , ma almeno non quelli veramente grandi!\" - Drenkar Iskender, ex associato di marketing"
         },
         "tall_clay_window_recipe": {
-          "recipe_name": "Tall Clay Window",
-          "description": "Still lets in the soft desert air",
-          "flavor": "\"Windowsill can cool a really tall pie\" -Aaryn, Pragmatist"
+          "recipe_name": "Finestra alta di argilla",
+          "description": "Fa ancora entrare la dolce aria del deserto",
+          "flavor": "\"Il davanzale può raffreddare una torta davvero alta\" -Aaryn, pragmatico"
         },
         "tan_clay_window_frame_recipe": {
-          "flavor": "\"No, I didn't forget the dye.\" -Isfan Dorret, Inventor of Achromatism",
-          "recipe_name": "Tan Clay Window Frame",
-          "description": "Lets the sun in"
+          "flavor": "\"No, non ho dimenticato la tintura.\" -Isfan Dorret, inventore di acromatismo",
+          "recipe_name": "Cornice della finestra in argilla marrone chiaro",
+          "description": "Fa entrare il sole"
         },
         "green_latticed_window_recipe": {
-          "recipe_name": "Green Latticed Window",
-          "flavor": "Reminicent of a vine-covered treehouse window, faded into memory",
-          "description": "The latticed window you know and love, now in green!"
+          "recipe_name": "Finestra reticolare verde",
+          "flavor": "Ricorda una finestra di una casa sull'albero coperta di vite, che svanisce nella memoria",
+          "description": "La finestra reticolare che conosci e ami, ora in verde!"
         },
         "blue_latticed_window_recipe": {
-          "recipe_name": "Blue Latticed Window",
-          "description": "A soothing blue latticed window",
-          "flavor": "\"No but really, where is this dye coming from?\" -- Farah, Professional Bugcatcher"
+          "recipe_name": "Finestra reticolare blu",
+          "description": "Una finestra reticolare blu rilassante",
+          "flavor": "\"No ma davvero, da dove viene questa tintura?\" - Farah, Bugcatcher professionale"
         },
         "wooden_sign_potter_recipe": {
-          "flavor": "Less fragile and easier than hanging a real pot!"
+          "flavor": "Meno fragile e più facile che appendere un vero vaso!"
         },
         "output_box_clay_recipe": {
-          "recipe_name": "Clay Finished Work Shelf",
-          "description": "Temporary storage for freshly-crafted items.",
-          "flavor": "Crafters love to show off their work!"
+          "recipe_name": "Ripiano da lavoro finito in argilla",
+          "description": "Deposito temporaneo per oggetti appena realizzati.",
+          "flavor": "Crafters ama mostrare il proprio lavoro!"
         },
         "input_bin_clay_recipe": {
-          "recipe_name": "Ceramic Supply Basin",
-          "description": "A versatile container for any resource, to help keep crafters supplied.",
-          "flavor": "Think of what we can achieve when Hearthlings work together!"
+          "recipe_name": "Bacino ceramico",
+          "description": "Un contenitore versatile per qualsiasi risorsa, per aiutare a fornire artigiani.",
+          "flavor": "Pensa a cosa possiamo ottenere quando i cittadini lavorano insieme!"
         },
         "input_shelf_ground_clay_recipe": {
-          "recipe_name": "Ceramic Supply Rack",
-          "description": "A versatile container for any resource, to help keep crafters supplied.",
-          "flavor": "Think of what we can achieve when Hearthlings work together!"
+          "recipe_name": "Cremagliera di ceramica",
+          "description": "Un contenitore versatile per qualsiasi risorsa, per aiutare a fornire artigiani.",
+          "flavor": "Pensa a cosa possiamo ottenere quando i cittadini lavorano insieme!"
         },
         "input_shelf_wall_clay_recipe": {
-          "recipe_name": "Ceramic Wall Supply Shelf",
-          "description": "A versatile container for any resource, to help keep crafters supplied.",
-          "flavor": "Think of what we can achieve when Hearthlings work together!"
+          "recipe_name": "Scaffale per forniture da parete in ceramica",
+          "description": "Un contenitore versatile per qualsiasi risorsa, per aiutare a fornire artigiani.",
+          "flavor": "Pensa a cosa possiamo ottenere quando i cittadini lavorano insieme!"
         },
         "input_table_ground_clay_recipe": {
-          "recipe_name": "Ceramic Supply Table",
-          "description": "A versatile container for any resource, to help keep crafters supplied.",
-          "flavor": "Think of what we can achieve when Hearthlings work together!"
+          "recipe_name": "Tabella di approvvigionamento di ceramica",
+          "description": "Un contenitore versatile per qualsiasi risorsa, per aiutare a fornire artigiani.",
+          "flavor": "Pensa a cosa possiamo ottenere quando i cittadini lavorano insieme!"
         },
         "input_bin_clay_blue_recipe": {
-          "recipe_name": "Blue Ceramic Supply Basin",
-          "description": "A versatile container for any resource, to help keep crafters supplied.",
-          "flavor": "Think of what we can achieve when Hearthlings work together!"
+          "recipe_name": "Bacino di rifornimento ceramico blu",
+          "description": "Un contenitore versatile per qualsiasi risorsa, per aiutare a fornire artigiani.",
+          "flavor": "Pensa a cosa possiamo ottenere quando i cittadini lavorano insieme!"
         },
         "input_bin_clay_red_recipe": {
-          "recipe_name": "Red Ceramic Supply Basin",
-          "description": "A versatile container for any resource, to help keep crafters supplied.",
-          "flavor": "Think of what we can achieve when Hearthlings work together!"
+          "recipe_name": "Bacino di rifornimento ceramico rosso",
+          "description": "Un contenitore versatile per qualsiasi risorsa, per aiutare a fornire artigiani.",
+          "flavor": "Pensa a cosa possiamo ottenere quando i cittadini lavorano insieme!"
         },
         "input_bin_clay_green_recipe": {
-          "recipe_name": "Green Ceramic Supply Basin",
-          "description": "A versatile container for any resource, to help keep crafters supplied.",
-          "flavor": "Think of what we can achieve when Hearthlings work together!"
+          "recipe_name": "Bacino di rifornimento ceramico verde",
+          "description": "Un contenitore versatile per qualsiasi risorsa, per aiutare a fornire artigiani.",
+          "flavor": "Pensa a cosa possiamo ottenere quando i cittadini lavorano insieme!"
         },
         "blazing_inlay_recipe": {
-          "description": "Radiant gilding for the Emblazoned Sword.",
-          "recipe_name": "Blazing Inlay",
-          "flavor": "Gleaming with hearthlight"
+          "description": "Doratura radiosa per la spada blasonata.",
+          "recipe_name": "Intarsio ardente",
+          "flavor": "Brillante con il cittadino"
         },
         "titan_ward_clay_recipe": {
-          "description": "Hurts anything nearby that smells like titan.",
-          "recipe_name": "Anti-Titan Ward",
-          "flavor": "Baby don't hurt me! Don't hurt me no more!"
+          "description": "Fa male qualsiasi cosa nelle vicinanze che profuma di titano.",
+          "recipe_name": "Reparto anti-titano",
+          "flavor": "Baby non farmi del male! Non farmi più del male!"
         },
         "golem_parts_recipe": {
-          "description": "Used by the Geomancer to craft golems",
-          "recipe_name": "Golem Parts",
-          "flavor": "Sturdy enough to hold an ox."
+          "description": "Utilizzato dal geomante per creare golem",
+          "recipe_name": "Parti del Golem",
+          "flavor": "Abbastanza robusto da contenere un bue."
         },
         "clay_fence_bar_double_recipe": {
-          "description": "Keeps people off your property.",
-          "recipe_name": "Clay Fence Long",
-          "flavor": "More decorative than protective."
+          "description": "Mantiene le persone lontano dalla tua proprietà.",
+          "recipe_name": "Recinzione in argilla lunga",
+          "flavor": "Più decorativo che protettivo."
         },
         "clay_fence_bar_single_recipe": {
-          "description": "Keeps people off your property.",
-          "recipe_name": "Clay Fence Short",
-          "flavor": "More decorative than protective."
+          "description": "Mantiene le persone lontano dalla tua proprietà.",
+          "recipe_name": "Recinzione in argilla corta",
+          "flavor": "Più decorativo che protettivo."
         },
         "clay_fence_end_recipe": {
-          "description": "Keeps people off your property.",
-          "recipe_name": "Clay Fence Post",
-          "flavor": "More decorative than protective."
+          "description": "Mantiene le persone lontano dalla tua proprietà.",
+          "recipe_name": "Paletto per recinzione in argilla",
+          "flavor": "Più decorativo che protettivo."
         },
         "clay_fence_gate_recipe": {
-          "description": "Lets people through your fence.",
-          "recipe_name": "Clay Fence Gate",
-          "flavor": "This decorative gate protects your fences from being broken."
+          "description": "Consente alle persone di attraversare il recinto.",
+          "recipe_name": "Cancello di recinzione in argilla",
+          "flavor": "Questo cancello decorativo protegge i tuoi recinti dalla rottura."
         },
         "clay_fence_combo_recipe": {
-          "description": "Keeps people off your property.",
-          "recipe_name": "Clay Fence Combo",
-          "flavor": "More decorative than protective."
+          "description": "Mantiene le persone lontano dalla tua proprietà.",
+          "recipe_name": "Composta da recinzione in argilla",
+          "flavor": "Più decorativo che protettivo."
         },
         "market_shelf_tall_ground_clay": {
-          "description": "Other players and Travellers can buy goods stocked on these shelves.",
-          "recipe_name": "Market Trading Shelf",
-          "flavor": "One Hearthling's trash is another's treasure... right?"
+          "description": "Altri giocatori e Viaggiatori possono acquistare merci immagazzinate su questi scaffali.",
+          "recipe_name": "Scaffale di mercato",
+          "flavor": "La spazzatura di un cittadino è il tesoro di un altro... giusto?"
         }
       },
       "potter_workbench": {
         "potter_workbench_ghost": {
-          "display_name": "Pottery Wheel",
-          "description": "For making symmetrical clay goods"
+          "display_name": "Tornio",
+          "description": "Per la fabbricazione di prodotti simmetrici in argilla"
         }
       },
       "potter_kiln": {
         "potter_kiln_ghost": {
-          "display_name": "Potter's Kiln",
-          "description": "Produces bricks and goods from clay."
+          "display_name": "Forno da vasaio",
+          "description": "Produce mattoni e merci dall'argilla."
         }
       },
       "potter_cutter": {
-        "display_name": "Potter's Cutter",
-        "description": "Used to form civilization from dirt!",
+        "display_name": "Fresa da vasaio",
+        "description": "Utilizzato per formare la civiltà dallo sporco!",
         "potter_cutter_talisman": {
-          "display_name": "Potter's Cutter",
-          "description": "Required to promote a hearthling into a Potter."
+          "display_name": "Fresa da vasaio",
+          "description": "Richiesto per promuovere un cittadino in un vasaio."
         }
       },
       "potter_outfit": {
-        "display_name": "Potter's Outfit",
-        "description": "Earth splotches are part of its intense style."
+        "display_name": "Vestito da vasaio",
+        "description": "Macchie di terra fanno parte del suo stile intenso."
       }
     },
     "shepherd": {
       "shepherd_description": {
-        "display_name": "Shepherd",
-        "description": "Domesticates wild animals and harvests them for food and materials.",
-        "requirements": "Crafted by Carpenter",
+        "display_name": "Pastore",
+        "description": "Domina gli animali selvatici e li raccoglie per cibo e materiali.",
+        "requirements": "Realizzato da falegname",
         "level_4_data": {
-          "perk_000_name": "Animal Magnetism",
-          "perk_000_description": "Wild animals are more likely to appear whenever the shepherd is looking for them."
+          "perk_000_name": "Magnetismo animale",
+          "perk_000_description": "Gli animali selvatici hanno maggiori probabilità di apparire ogni volta che il pastore li sta cercando."
         },
         "level_1_data": {
-          "perk_000_name": "Follow Me!",
-          "perk_000_description": "The shepherd is now more adept at getting the flock to walk a tiny bit faster."
+          "perk_000_name": "Seguimi!",
+          "perk_000_description": "Il pastore è ora più abile nel far camminare il gregge un po 'più velocemente."
         },
         "level_2_data": {
-          "perk_000_name": "Alone With Nature",
-          "perk_000_description": "The shepherd finds comfort in long walks and feeding the animals, making them less likely to stop and converse."
+          "perk_000_name": "Solo con la natura",
+          "perk_000_description": "Il pastore trova conforto nelle lunghe passeggiate e nutre gli animali, rendendoli meno propensi a fermarsi e conversare."
         },
         "level_3_data": {
-          "perk_000_name": "Shear Excellence",
-          "perk_000_description": "The shepherd's skill produces greater yields in animal products."
+          "perk_000_name": "Eccellenza nel taglio",
+          "perk_000_description": "L'abilità del pastore produce maggiori raccolti in prodotti animali."
         },
         "level_6_data": {
-          "title": "Master Shepherd"
+          "title": "Maestro Pastore"
         }
       },
       "shepherd_crook": {
-        "display_name": "Shepherd's Crook",
-        "description": "Used to corral the flock",
+        "display_name": "Bastone da pastore",
+        "description": "Utilizzato per recintare il gregge",
         "shepherd_crook_iconic": {
-          "display_name": "Shepherd's Crook",
-          "description": "Required to promote a hearthling into a Shepherd."
+          "display_name": "Bastone da pastore",
+          "description": "Richiesto per promuovere un cittadino in un pastore."
         },
         "shepherd_crook_talisman": {
-          "display_name": "Shepherd's Crook",
-          "description": "Required to promote a hearthling into a Shepherd."
+          "display_name": "Bastone da pastore",
+          "description": "Richiesto per promuovere un cittadino in un pastore."
         }
       },
       "shepherd_outfit": {
-        "display_name": "Shepherd Outfit",
-        "description": "Uniform for all shepherds"
+        "display_name": "Vestito da pastore",
+        "description": "Uniforme per tutti i pastori"
       },
       "shepherd_pasture": {
-        "display_name": "Animal Pasture",
-        "description": "Shepherds bring animals to these locations and tend to them here."
+        "display_name": "Pascolo animale",
+        "description": "I pastori portano animali in questi luoghi e li curano qui."
       }
     },
     "shield_bearer": {
@@ -18605,71 +18605,71 @@
     },
     "trapper": {
       "trapper_description": {
-        "display_name": "Trapper",
-        "description": "The Trapper's snares capture and (ahem) &quot;harvest&quot; small critters for a reliable source of food and supplies.",
-        "requirements": "Crafted by Mason",
+        "display_name": "Cacciatore",
+        "description": "Le trappole del cacciatore catturano e (ahem) &quot;raccolgono&quot; piccole creature per una fonte affidabile di cibo e forniture.",
+        "requirements": "Realizzato da muratore",
         "level_1_data": {
-          "perk_000_name": "Speed Up",
-          "perk_000_description": "Long walks have increased the trapper's foot speed."
+          "perk_000_name": "Accelerare",
+          "perk_000_description": "Le lunghe camminate hanno aumentato la velocità del piede del cacciatore."
         },
         "level_3_data": {
-          "perk_000_name": "Efficient Cuts",
-          "perk_000_description": "Long practice helps the trapper salvage more from each animal."
+          "perk_000_name": "Tagli efficienti",
+          "perk_000_description": "La lunga pratica aiuta il cacciatore a recuperare di più da ogni animale."
         },
         "level_2_data": {
-          "perk_000_name": "Charm Pet",
-          "perk_001_name": "Job Opportunities",
-          "perk_000_description": "The trapper will occasionally choose to turn a particularly fine animal into a pet!",
-          "perk_001_description": "The trapper now qualifies for advanced jobs. Click the promote command for details."
+          "perk_000_name": "Animale domestico di fascino",
+          "perk_001_name": "Opportunità di lavoro",
+          "perk_000_description": "Il cacciatore sceglie occasionalmente di trasformare un animale particolarmente fine in un animale domestico!",
+          "perk_001_description": "Il cacciatore ora si qualifica per lavori avanzati. Fai clic sul comando Promuovi per i dettagli."
         },
         "level_6_data": {
-          "title": "Master Trapper",
-          "perk_000_name": "Trap Expertise",
-          "perk_000_description": "The trapper has a thing or two to teach the Engineer about setting traps. Increases town trap limit by 6."
+          "title": "Maestro cacciatore",
+          "perk_000_name": "Competenza trappola",
+          "perk_000_description": "Il cacciatore ha una cosa o due per insegnare all'ingegnere sull'impostazione delle trappole. Aumenta il limite di trappole della città di 6."
         },
         "level_5_data": {
-          "perk_000_name": "Toothier Traps",
-          "perk_000_description": "Better trap arming skills increase the trapper's chance for capturing prey by 25%."
+          "perk_000_name": "Trappole più dentarie",
+          "perk_000_description": "Le migliori abilità di armamento delle trappole aumentano le possibilità del cacciatore di catturare le prede del 25%."
         },
         "level_4_data": {
-          "perk_000_name": "Backpack Size +2",
-          "perk_000_description": "The trapper has become more efficient at packing in the loot.",
-          "perk_001_name": "Master Survivalist",
-          "perk_001_description": "When downed, the trapper keeps themselves alive much longer while waiting for rescue"
+          "perk_000_name": "Dimensione zaino +2",
+          "perk_000_description": "Il cacciatore è diventato più efficiente nel confezionare il bottino.",
+          "perk_001_name": "Maestro Sopravvissuto",
+          "perk_001_description": "Quando viene abbattuto, il cacciatore si mantiene in vita molto più a lungo in attesa di salvataggio"
         }
       },
       "snare_trap": {
-        "display_name": "Snare Trap",
-        "description": "Safely immobilizes its prey"
+        "display_name": "Trappola per rullante",
+        "description": "Immobilizza in modo sicuro la sua preda"
       },
       "trapper_buffs": {
         "speed_1_buff": {
-          "description": "Long walks have increased the trapper's foot speed.",
-          "display_name": "Trapper Speed Increase +10"
+          "description": "Le lunghe camminate hanno aumentato la velocità del piede del cacciatore.",
+          "display_name": "Aumento della velocità del cacciatore +10"
         },
         "survivalist_1_buff": {
-          "display_name": "Trapper Incapacitate Time Up",
-          "description": "The trapper can stay downed for much longer than most before giving up the ghost."
+          "display_name": "Il tempo di inabilitazione del cacciatore è scaduto",
+          "description": "Il cacciatore può rimanere abbattuto per molto più tempo della maggior parte prima di rinunciare al fantasma."
         }
       },
       "trapper_knife": {
-        "display_name": "Trapper's Knife",
-        "description": "A trapper's knife",
+        "display_name": "Coltello da cacciatore",
+        "description": "Un coltello da cacciatore",
         "trapper_knife_iconic": {
-          "display_name": "Trapper's Knife",
-          "description": "Basic trapper's knife."
+          "display_name": "Coltello da cacciatore",
+          "description": "Coltello da cacciatore di base."
         },
         "trapper_knife_talisman": {
-          "display_name": "Trapper's Knife",
-          "description": "Required to promote a hearthling into a Trapper."
+          "display_name": "Coltello da cacciatore",
+          "description": "Richiesto per promuovere un cittadino in un cacciatore."
         }
       },
       "trapper_outfit": {
-        "display_name": "Trapper Oufit"
+        "display_name": "Uniforme per i cacciatori"
       },
       "trapping_grounds": {
-        "display_name": "Trapping Grounds",
-        "description": "Trappers catch critters for food and resources in this zone."
+        "display_name": "Motivi di cattura",
+        "description": "I cacciatori di trappole catturano creature per cibo e risorse in questa zona."
       }
     },
     "treasure_hunter": {
@@ -18687,683 +18687,683 @@
     },
     "weaver": {
       "weaver_description": {
-        "display_name": "Weaver",
-        "description": "The Weaver makes thread, fabrics and hangings from fiber and dye.",
-        "requirements": "Crafted by Carpenter",
+        "display_name": "Tessitore",
+        "description": "Il Tessitore realizza fili, tessuti e tendaggi in fibra e tintura.",
+        "requirements": "Realizzato da falegname",
         "level_6_data": {
-          "title": "Master Weaver"
+          "title": "Maestro Tessitore"
         },
         "level_2_data": {
-          "perk_000_name": "Collaborative Insight",
-          "perk_000_description": "The Weaver is now skillful enough to use materials created by other crafters."
+          "perk_000_name": "Informazioni collaborative",
+          "perk_000_description": "Il tessitore ora è abbastanza abile da usare materiali creati da altri artigiani."
         },
         "level_1_data": {
-          "perk_000_name": "Standard Catalog",
-          "perk_000_description": "The Weaver can now make basic hangings and decor."
+          "perk_000_name": "Catalogo standard",
+          "perk_000_description": "Il tessitore ora può realizzare arazzi e decorazioni di base."
         },
         "level_3_data": {
-          "perk_000_name": "Journeyman's Knowledge",
-          "perk_000_description": "When inspiration strikes, the Weaver may now craft an especially Fine quality of decoration."
+          "perk_000_name": "Conoscenza dell'operaio qualificato",
+          "perk_000_description": "Quando l'ispirazione colpisce, il Tessitore può ora realizzare una decorazione particolarmente pregiata."
         },
         "level_5_data": {
-          "perk_000_name": "Master's Insight",
-          "perk_000_description": "The Weaver can now create decorations of Excellent quality, and will make Fine quality decorations more often."
+          "perk_000_name": "Intuizione del maestro",
+          "perk_000_description": "Il tessitore ora può creare decorazioni di qualità eccellente e farà decorazioni di qualità fine più spesso."
         }
       },
       "recipes": {
         "amberstone_bed_recipe": {
-          "description": "So soft!!",
-          "recipe_name": "Woven Bed",
-          "flavor": "Why is it so soft?!??"
+          "description": "Così morbido!!",
+          "recipe_name": "Letto intessuto",
+          "flavor": "Perché è così morbido?! ??"
         },
         "amberstone_chair_recipe": {
-          "description": "Woven in the style of clan Amberstone",
-          "recipe_name": "Woven Seat",
-          "flavor": "Designed especially to keep fluffy bunny tails off of cold, stone floors"
+          "description": "Tessuto nello stile del clan Amberstone",
+          "recipe_name": "Seduta intessuta",
+          "flavor": "Progettato appositamente per tenere soffici le code dei coniglietti lontano dai freddi pavimenti in pietra"
         },
         "amberstone_chest_recipe": {
-          "description": "Stores up to 64 items",
-          "recipe_name": "Woven chest",
-          "flavor": "A tidy space is a happy space!"
+          "description": "Archivia fino a 64 articoli",
+          "recipe_name": "Cassa intrecciata",
+          "flavor": "Uno spazio ordinato è uno spazio felice!"
         },
         "amberstone_mat_recipe": {
-          "description": "Woven with the skill of the rabbits",
-          "recipe_name": "Woven throw",
-          "flavor": "The style of weave requires deep concentration and quick, quick little paws"
+          "description": "Tessuto con l'abilità dei conigli",
+          "recipe_name": "Lancio tessuto",
+          "flavor": "Lo stile della trama richiede profonda concentrazione veloce e zampe veloci"
         },
         "amberstone_painting_branch_recipe": {
-          "description": "Depicts a tree from cycles past",
-          "recipe_name": "Flowering Painting",
-          "flavor": "What they could not bring with them into exile, the rabbits found ways to preserve"
+          "description": "Raffigura un albero dai cicli passati",
+          "recipe_name": "Pittura Fiorita",
+          "flavor": "Ciò che non potevano portare in esilio, i conigli trovarono il modo di preservare"
         },
         "banner_wall_big_recipe": {
-          "description": "Show your town pride with this decorative banner.",
-          "recipe_name": "Big Wall-Mounted Banner",
-          "flavor": "Also a sign of affluence."
+          "description": "Mostra il tuo orgoglio per la città con questo stendardo decorativo.",
+          "recipe_name": "Grande striscione a parete",
+          "flavor": "Anche un segno di benessere."
         },
         "banner_wall_small_recipe": {
-          "description": "Show your town pride with this small banner.",
-          "recipe_name": "Small Wall-Mounted Banner",
-          "flavor": "Quality craftsmanship at fine resolutions."
+          "description": "Mostra il tuo orgoglio per la città con questo piccolo striscione.",
+          "recipe_name": "Striscione piccolo a parete",
+          "flavor": "Artigianato di qualità a risoluzioni eccellenti."
         },
         "bolt_of_cloth_recipe": {
-          "description": "Used to create more comfortable furniture.",
-          "recipe_name": "Basic Bolt of Cloth",
-          "flavor": "To make thicker by the width of one string: add string. Repeat 1,000,000 times."
+          "description": "Utilizzato per creare mobili più confortevoli.",
+          "recipe_name": "Rotolo di stoffa di base",
+          "flavor": "Per aumentare la densità di una stringa: aggiungi una stringa. Ripeti 1.000.000 di volte."
         },
         "cloth_bolt_recipe": {
-          "description": "Used to create more comfortable furniture.",
-          "recipe_name": "Bolt of Cloth",
-          "flavor": "To make thicker by the width of one string: add string. Repeat 1,000,000 times."
+          "description": "Utilizzato per creare mobili più confortevoli.",
+          "recipe_name": "Rotolo di stoffa",
+          "flavor": "Per aumentare la densità di una stringa: aggiungi una stringa. Ripeti 1.000.000 di volte."
         },
         "cloth_padded_vest_recipe": {
-          "description": "This triple-quilted vest provides more protection to your combat units than mere clothing. Not a lot more, but every little bit helps, right?",
-          "recipe_name": "Padded Vest",
-          "flavor": "Needs... thicker... padding!"
+          "description": "Questo gilet trapuntato offre una protezione maggiore alle tue unità di combattimento rispetto ai semplici indumenti. Non molto di più, ma ogni piccolo aiuto, giusto?",
+          "recipe_name": "Gilet imbottito",
+          "flavor": "Ha bisogno di... imbottitura più spessa!"
         },
         "curtains_recipe": {
-          "description": "Dresses up an otherwise ordinary window.",
-          "recipe_name": "Pretty Curtains",
-          "flavor": "Light-blocking technology encourages sleeping-in."
+          "description": "Veste una finestra altrimenti ordinaria.",
+          "recipe_name": "Tende graziose",
+          "flavor": "La tecnologia di blocco della luce incoraggia a dormire."
         },
         "fur_rug_recipe": {
-          "description": "A warm and cozy rug, sewn from various animal pelts.",
-          "recipe_name": "Fur Rug",
-          "flavor": "Perfect for an evening by the fire."
+          "description": "Un tappeto caldo e accogliente, cucito da varie pelli di animali.",
+          "recipe_name": "Tappeto di pelliccia",
+          "flavor": "Perfetto per una serata accanto al fuoco."
         },
         "leather_bolt_recipe": {
-          "description": "Prepared sheets of leather, ready to be put to good use.",
-          "recipe_name": "Bolt of Leather",
-          "flavor": "You can hardly see the individual sources."
+          "description": "Fogli di cuoio preparati, pronti per essere utilizzati.",
+          "recipe_name": "Rotolo di cuoio",
+          "flavor": "Riesci a malapena a vedere le singole fonti."
         },
         "leather_vest_recipe": {
-          "description": "Hardened leather provides study protection against light weapons.",
-          "recipe_name": "Thick Leather Vest",
-          "flavor": "Insults bounce right off too!"
+          "description": "La pelle indurita fornisce protezione da studio contro le armi leggere.",
+          "recipe_name": "Gilet in pelle spessa",
+          "flavor": "Anche gli insulti rimbalzano!"
         },
         "plushie_toy_rabbit_recipe": {
-          "description": "A toy... for children of course.",
-          "recipe_name": "Plushie Toy Rabbit",
-          "flavor": "She loves you!"
+          "description": "Un giocattolo... ovviamente per i bambini.",
+          "recipe_name": "Coniglio di peluche",
+          "flavor": "Lei ti ama!"
         },
-        "weapons_name": "Weapons",
-        "clothing_armor_name": "Clothing & Armor",
-        "toys_name": "Toys",
-        "storage_name": "Storage",
-        "decorations_name": "Decorations",
-        "furniture_name": "Furniture",
-        "crafting_materials_name": "Crafting Materials",
+        "weapons_name": "Armi",
+        "clothing_armor_name": "Abbigliamento e armature",
+        "toys_name": "Giocattoli",
+        "storage_name": "Stoccaggio",
+        "decorations_name": "Decorazioni",
+        "furniture_name": "Arredamento",
+        "crafting_materials_name": "Materiali di fabbricazione",
         "spool_of_thread_recipe": {
-          "description": "Needed for cloth. Warm and fluffy",
-          "recipe_name": "Spool of Thread",
-          "flavor": "Each gram of fiber yearns to become a sweater."
+          "description": "Necessario per il panno. Caldo e soffice",
+          "recipe_name": "Rocchetto di filo",
+          "flavor": "Ogni grammo di fibra desidera ardentemente diventare un maglione."
         },
         "tapestry_wall_recipe": {
-          "description": "A decorative scene, woven in colored thread and cord.",
-          "recipe_name": "Wall-Mounted Tapestry",
-          "flavor": "What you see in its knotted depths tells you something about yourself."
+          "description": "Una scena decorativa, intrecciata con fili e corde colorati.",
+          "recipe_name": "Tappezzeria montata a parete",
+          "flavor": "Quello che vedi nelle sue profondità annodate ti dice qualcosa di te."
         },
         "thread_recipe": {
-          "description": "Needed for cloth. Warm and fluffy",
-          "recipe_name": "Spool of Thread",
-          "flavor": "Each gram of fiber yearns to become a sweater."
+          "description": "Necessario per il panno. Caldo e soffice",
+          "recipe_name": "Rocchetto di filo",
+          "flavor": "Ogni grammo di fibra desidera ardentemente diventare un maglione."
         },
         "throw_rug_recipe": {
-          "description": "Brightens up that old dusty floor.",
-          "recipe_name": "Decorative Throw Rug",
-          "flavor": "Too beautiful to step on."
+          "description": "Illumina quel vecchio pavimento polveroso.",
+          "recipe_name": "Tappeto decorativo",
+          "flavor": "Troppo bello da calpestare."
         },
         "worker_outfit_2_recipe": {
-          "description": "Double stitching and strategically placed padding improves the worker's efficiency. The worker who dons this upgrade outfit will move faster.",
-          "recipe_name": "Upgraded Worker Outfit",
-          "flavor": "Your town loves you!"
+          "description": "Le doppie cuciture e l'imbottitura strategicamente posizionata migliorano l'efficienza del lavoratore. Il lavoratore che indossa questo vestito per l'aggiornamento si muoverà più velocemente.",
+          "recipe_name": "Equipaggiamento del lavoratore aggiornato",
+          "flavor": "La tua città ti ama!"
         },
         "worker_outfit_winter_recipe": {
-          "description": "A heavy wool coat, for cold winter nights. The worker who dons this upgrade outfit will move faster.",
-          "recipe_name": "Winter Worker Outfit",
-          "flavor": "Winter is coming!"
+          "description": "Un pesante cappotto di lana, per le fredde notti invernali. Il lavoratore che indossa questo vestito per l'aggiornamento si muoverà più velocemente.",
+          "recipe_name": "Abito da lavoro invernale",
+          "flavor": "L'inverno sta arrivando!"
         },
-        "workbenches_name": "Workbenches",
+        "workbenches_name": "Banchi di lavoro",
         "weaver_loom_recipe": {
-          "description": "Add thread to thread till cloth results.",
-          "recipe_name": "Loom",
-          "flavor": "Patient Spider, weaver, writer, draws the tapestry of fate tighter. --Rayya's Rhyme"
+          "description": "Aggiungi filo a filo fino a risultati di stoffa.",
+          "recipe_name": "Telaio",
+          "flavor": "Ragno paziente, tessitore, scrittore, disegna più strettamente il tessuto del destino. --Rayya's Rhyme"
         },
         "weaver_spinning_wheel_recipe": {
-          "description": "Spins prickly, scratchy, chaos into thread.",
-          "recipe_name": "Spinning Wheel",
-          "flavor": "Spider smiles; all eight eyes glitter, 'Something from nothing, some sweet and some bitter.'"
+          "description": "Gira pungente, graffiante, il caos nel filo.",
+          "recipe_name": "Ruota girevole",
+          "flavor": "Sorrisi di ragno; tutti e otto gli occhi brillano, \"Qualcosa dal nulla, un po' dolce e un po' amaro.\""
         },
         "weaver_workbench_recipe": {
-          "description": "Used to make complex crafts of thread and fabric.",
-          "recipe_name": "Weaver Workbench",
-          "flavor": "In the beginning there was nothing, and then there was Spider."
+          "description": "Utilizzato per realizzare mestieri complessi di filo e tessuto.",
+          "recipe_name": "Banco da lavoro del tessitore",
+          "flavor": "All'inizio non c'era nulla, e poi c'era il ragno."
         },
         "leather_helmet_recipe": {
-          "description": "Light-weight protection for your head!",
-          "recipe_name": "Leather Skull Cap"
+          "description": "Protezione leggera per la testa!",
+          "recipe_name": "Cappellino in pelle con teschio"
         },
         "simple_quiver_recipe": {
-          "recipe_name": "Spiky Quiver",
-          "description": "A quiver equippable by an archer. Stores freezing arrows that will slow enemies"
+          "recipe_name": "Faretra appuntita",
+          "description": "Una faretra equipaggiabile da un arciere. Memorizza le frecce di congelamento che rallentano i nemici"
         },
         "fire_quiver_recipe": {
-          "recipe_name": "Fire Quiver",
-          "description": "Gives an Archer access to fire arrows, which deal damage over time"
+          "recipe_name": "Faretra di fuoco",
+          "description": "Fornisce a un arciere l'accesso alle frecce di fuoco, che infliggono danni nel tempo"
         },
         "cloth_padded_helmet_recipe": {
-          "recipe_name": "Cloth Padded Helmet",
-          "description": "Extra padding for your noggin",
-          "flavor": "Were they phoenix wings, or serpent wings?"
+          "recipe_name": "Casco imbottito in tessuto",
+          "description": "Imbottitura extra per il tuo boccale",
+          "flavor": "Erano ali di fenice o ali di serpente?"
         },
         "input_bin_amberstone_recipe": {
-          "recipe_name": "Rabbit-woven Supply Basket",
-          "description": "Safely stores crafting supplies",
-          "flavor": "Would-be masons of clan amberstone must practice discerning quality stone for many years before they are allowed near a chisel. Many never are."
+          "recipe_name": "Cestino di alimentazione in tessuto del coniglio",
+          "description": "Conserva in sicurezza i materiali di consumo",
+          "flavor": "Gli aspiranti muratori dell'ambasciata del clan devono esercitarsi nella pietra di qualità per molti anni prima che possano essere ammessi vicino a uno scalpello. Molti non lo sono mai."
         },
         "input_bin_woven_recipe": {
-          "recipe_name": "Woven Supply Basket",
-          "description": "A versatile container that Hearthlings will try to keep full, so your crafters can keep on working!",
-          "flavor": "Nothing quite like a well-supplied workshop!"
+          "recipe_name": "Cesto di approvvigionamento in tessuto",
+          "description": "Un contenitore versatile che i cittadini cercheranno di mantenere pieno, in modo che i tuoi artigiani possano continuare a lavorare!",
+          "flavor": "Niente è come un'officina ben fornita!"
         },
         "input_bin_woven_blue_recipe": {
-          "flavor": "Nothing quite like a well-supplied workshop!",
-          "description": "A versatile container that Hearthlings will try to keep full, so your crafters can keep on working!",
-          "recipe_name": "Blue Woven Supply Basket"
+          "flavor": "Niente è come un'officina ben fornita!",
+          "description": "Un contenitore versatile che i cittadini cercheranno di mantenere pieno, in modo che i tuoi artigiani possano continuare a lavorare!",
+          "recipe_name": "Cestino di rifornimento in tessuto blu"
         },
         "input_bin_woven_green_recipe": {
-          "flavor": "Nothing quite like a well-supplied workshop!",
-          "description": "A versatile container that Hearthlings will try to keep full, so your crafters can keep on working!",
-          "recipe_name": "Green Woven Supply Basket"
+          "flavor": "Niente è come un'officina ben fornita!",
+          "description": "Un contenitore versatile che i cittadini cercheranno di mantenere pieno, in modo che i tuoi artigiani possano continuare a lavorare!",
+          "recipe_name": "Cestino di approvvigionamento in tessuto verde"
         },
         "input_bin_woven_red_recipe": {
-          "flavor": "Nothing quite like a well-supplied workshop!",
-          "description": "A versatile container that Hearthlings will try to keep full, so your crafters can keep on working!",
-          "recipe_name": "Red Woven Supply Basket"
+          "flavor": "Niente è come un'officina ben fornita!",
+          "description": "Un contenitore versatile che i cittadini cercheranno di mantenere pieno, in modo che i tuoi artigiani possano continuare a lavorare!",
+          "recipe_name": "Cestino di rifornimento in tessuto rosso"
         },
         "silver_bowstring_recipe": {
-          "description": "A spool of strong, spun silver cord",
-          "recipe_name": "Silver-Spun Bowstring",
-          "flavor": "Joins the ends of the Empire Bow"
+          "description": "Una bobina di filo d'argento forte e filato",
+          "recipe_name": "Corda argentata",
+          "flavor": "Unisce le estremità dell'arco impero"
         },
         "woven_grip_recipe": {
-          "description": "Tightly wrapped in cords of blue and gold",
-          "recipe_name": "Woven Grip",
-          "flavor": "Adorns the hilt of the Emblazoned Sword"
+          "description": "Strettamente avvolto in corde di blu e oro",
+          "recipe_name": "Impugnatura tessuta",
+          "flavor": "Adorna l'elsa della Spada incisa"
         },
         "golem_backpack_recipe": {
-          "description": "Used by the Geomancer to craft Ox Golems",
-          "recipe_name": "Golem Backpack"
+          "description": "Utilizzato dal Geomante per fabbricare Golem di bue",
+          "recipe_name": "Zaino Golem"
         }
       },
       "weaver_loom": {
         "weaver_loom_ghost": {
-          "display_name": "Loom",
-          "description": "Used to weave thread into cloth."
+          "display_name": "Telaio",
+          "description": "Utilizzato per tessere filo in stoffa."
         }
       },
       "weaver_outfit": {
-        "display_name": "Weaver Outfit",
-        "description": "Uniform for all weavers"
+        "display_name": "Abito tessitore",
+        "description": "Uniforme per tutti i tessitori"
       },
       "weaver_spindle": {
-        "display_name": "The Spindle",
-        "description": "For spinning fiber into thread",
+        "display_name": "Il mandrino",
+        "description": "Per filare la fibra nel filo",
         "weaver_spindle_iconic": {
-          "display_name": "The Spindle",
-          "description": "For spinning fiber into thread"
+          "display_name": "Il mandrino",
+          "description": "Per filare la fibra nel filo"
         },
         "weaver_spindle_talisman": {
-          "display_name": "Weaver's Spindle",
-          "description": "Required to promote a hearthling into a Weaver"
+          "display_name": "Mandrino del tessitore",
+          "description": "Richiesto per promuovere un cittadino in un tessitore"
         }
       },
       "weaver_spinning_wheel": {
         "weaver_spinning_wheel_ghost": {
-          "display_name": "Spinning Wheel",
-          "description": "Used to spin fiber into thread."
+          "display_name": "Ruota girevole",
+          "description": "Utilizzato per filare la fibra nel filo."
         }
       },
       "weaver_workbench": {
         "weaver_workbench_ghost": {
-          "display_name": "Weaver Workbench",
-          "description": "Used by the Weaver for crafting."
+          "display_name": "Banco da lavoro del tessitore",
+          "description": "Utilizzato dal tessitore per la fabbricazione."
         }
       }
     },
     "worker": {
       "worker_description": {
-        "display_name": "Worker",
-        "description": "Workers perform basic tasks like harvesting resources, hauling stuff around, and constructing buildings.",
-        "requirements": "None, just hard work and guts.",
+        "display_name": "Lavoratore",
+        "description": "I lavoratori svolgono attività di base come la raccolta di risorse, il trasporto di materiale in giro e la costruzione di edifici.",
+        "requirements": "Nessuno, solo duro lavoro e coraggio.",
         "level_0_data": {
-          "title": "Worker"
+          "title": "Lavoratore"
         }
       },
       "winter_worker_outfit": {
-        "display_name": "Winter Worker Outfit",
-        "description": "A heavy wool coat, for cold winter nights.  Improves speed.",
+        "display_name": "Abito da lavoro invernale",
+        "description": "Un pesante cappotto di lana, per le fredde notti invernali. Migliora la velocità.",
         "winter_worker_outfit_iconic": {
-          "display_name": "Winter Worker Outfit",
-          "description": "So warm..."
+          "display_name": "Abito da lavoro invernale",
+          "description": "Così caldo..."
         }
       },
       "worker_outfit": {
-        "display_name": "Worker Outfit",
-        "description": "Uniform for all workers"
+        "display_name": "Abito da lavoro",
+        "description": "Uniforme per tutti i lavoratori"
       },
       "worker_outfit_2": {
-        "display_name": "Upgraded Worker Outfit",
-        "description": "Reinforced construction improves worker efficiency!  Improves speed.",
+        "display_name": "Equipaggiamento del lavoratore aggiornato",
+        "description": "La costruzione rinforzata migliora l'efficienza dei lavoratori! Migliora la velocità.",
         "worker_outfit_2_iconic": {
-          "display_name": "Upgraded Worker Outfit",
-          "description": "Sturdy construction increases workers' productivity"
+          "display_name": "Equipaggiamento del lavoratore aggiornato",
+          "description": "La costruzione robusta aumenta la produttività dei lavoratori"
         }
       }
     },
     "herbalist": {
       "herbalist_description": {
-        "display_name": "Herbalist",
-        "description": "Heals units with crafted balms and bandages.",
-        "requirements": "Crafted by Carpenter",
+        "display_name": "Erborista",
+        "description": "Cura le unità con balsami e bende artigianali.",
+        "requirements": "Realizzato da falegname",
         "workshop": {
-          "name": "Herbalist Lab",
-          "description": "Allows the Herbalist to craft healing balms and bandages.",
-          "long_description": "Allows the Herbalist to craft healing balms and bandages."
+          "name": "Laboratorio erboristico",
+          "description": "Permette all'erborista di creare balsami e bende curative.",
+          "long_description": "Permette all'erborista di creare balsami e bende curative."
         },
         "level_1_data": {
-          "perk_000_name": "Junior Practitioner",
-          "perk_001_name": "Natural Regeneration",
-          "perk_000_description": "The Herbalist can attend to 2 hurt hearthlings at a time.",
-          "perk_001_description": "The Herbalist channels the spirits of the forest and gains natural regeneration. Willpower and Diligence increased."
+          "perk_000_name": "Praticante junior",
+          "perk_001_name": "Rigenerazione Naturale",
+          "perk_000_description": "L'erborista può occuparsi di 2 cittadini feriti alla volta.",
+          "perk_001_description": "L'erborista incanala gli spiriti della foresta e ottiene la rigenerazione naturale. Forza di volontà e diligenza aumentate."
         },
         "level_2_data": {
-          "perk_000_name": "Collaborative Insight",
-          "perk_000_description": "The Herbalist is now skillful enough to use materials created by the other crafters."
+          "perk_000_name": "Informazioni collaborative",
+          "perk_000_description": "L'erborista è ora abbastanza abile da usare i materiali creati dagli altri artigiani."
         },
         "level_4_data": {
-          "perk_000_name": "Power Medic",
-          "perk_000_description": "The Herbalist can now attend to up to 4 hearthlings at a time."
+          "perk_000_name": "Forza medica",
+          "perk_000_description": "L'erborista può ora assistere fino a 4 cittadini alla volta."
         },
         "level_3_data": {
-          "perk_000_name": "Item Proficiency",
-          "perk_000_description": "The Herbalist's medical prowess increases the effectiveness of healing items by 50%."
+          "perk_000_name": "Competenza dell'articolo",
+          "perk_000_description": "Il valore medico dell'erborista aumenta del 50% l'efficacia degli oggetti curativi."
         },
         "level_6_data": {
-          "title": "Master Herbalist"
+          "title": "Mastro Erborista"
         }
       },
       "herbalist_outfit": {
-        "display_name": "Herbalist Outfit",
-        "description": "Traditional robes of the Herbalist"
+        "display_name": "Vestito da erborista",
+        "description": "Abiti tradizionali del chierico"
       },
       "herbalist_staff": {
-        "display_name": "Herbalist Staff",
-        "description": "Required to promote a hearthling into an Herbalist",
+        "display_name": "Bastone dell'erborista",
+        "description": "Richiesto per promuovere un cittadino in un erborista",
         "herbalist_staff_iconic": {
-          "display_name": "Herbalist Staff",
-          "description": "Required to promote a hearthling into an Herbalist"
+          "display_name": "Bastone dell'erborista",
+          "description": "Richiesto per promuovere un cittadino in un erborista"
         },
         "herbalist_staff_talisman": {
-          "display_name": "Herbalist's Staff",
-          "description": "Required to promote a hearthling into an Herbalist"
+          "display_name": "Bastone dell'erborista",
+          "description": "Richiesto per promuovere un cittadino in un erborista"
         }
       },
       "herbalist_workbench": {
         "herbalist_workbench_ghost": {
-          "display_name": "Herbalist Lab",
-          "description": "Used to craft healing items"
+          "display_name": "Laboratorio erboristico",
+          "description": "Utilizzato per fabbricare oggetti curativi"
         }
       },
       "recipes": {
         "herbalist_workbench_recipe": {
-          "description": "Allows the Herbalist to craft healing balms and bandages.",
-          "recipe_name": "Herbalist Lab"
+          "description": "Permette all'erborista di creare balsami e bende curative.",
+          "recipe_name": "Laboratorio erboristico"
         },
-        "workbenches_name": "Workbenches",
-        "tonics_name": "Tonics",
+        "workbenches_name": "Banchi di lavoro",
+        "tonics_name": "Tonici",
         "small_healing_tonic_recipe": {
-          "description": "A medicinal drink that heals for a minuscule amount",
-          "recipe_name": "Small Healing Tonic"
+          "description": "Una bevanda medicinale che guarisce per un importo minuscolo",
+          "recipe_name": "Piccolo tonico curativo"
         },
         "stamina_tonic_recipe": {
-          "description": "Buffs stamina of all hearthlings for a short while",
-          "recipe_name": "Stamina Tonic"
+          "description": "Appassionati di resistenza di tutti i cittadini per un breve periodo",
+          "recipe_name": "Tonico di resistenza"
         },
         "strength_tonic_recipe": {
-          "description": "Buffs muscle of all hearthlings for a short while",
-          "recipe_name": "Strength Tonic"
+          "description": "Appassionati muscolari di tutti i cittadini per un breve periodo",
+          "recipe_name": "Tonico di forza"
         },
-        "bandages_name": "Bandages",
+        "bandages_name": "Bende",
         "coarse_bandage_recipe": {
-          "recipe_name": "Coarse Bandage",
-          "description": "Used by the herbalist to heal for a small amount"
+          "recipe_name": "Fasciatura grossolana",
+          "description": "Utilizzato dall'erborista per curare una piccola quantità"
         },
         "heavy_bandage_recipe": {
-          "recipe_name": "Heavy Bandage",
-          "description": "Used by the herbalist to provide a lot of healing. Good for heavy wounds."
+          "recipe_name": "Fasciatura pesante",
+          "description": "Utilizzato dall'erborista per fornire molte cure. Buono per ferite pesanti."
         },
         "light_bandage_recipe": {
-          "recipe_name": "Light Bandage",
-          "description": "Used by the herbalist to heal a moderate amount"
+          "recipe_name": "Benda leggera",
+          "description": "Utilizzato dall'erborista per curare una quantità moderata"
         },
         "courage_tonic_recipe": {
-          "description": "Increases the courage of all town citizens for a short while.",
-          "recipe_name": "Courage Tonic"
+          "description": "Aumenta il coraggio di tutti i cittadini per un breve periodo.",
+          "recipe_name": "Tonico per il coraggio"
         },
         "energy_tonic_recipe": {
-          "description": "This tonic will make your town citizens less sleepy and move faster for a short while.",
-          "recipe_name": "Energy Tonic"
+          "description": "Questo tonico renderà i tuoi cittadini meno assonnati e si muoverà più velocemente per un breve periodo.",
+          "recipe_name": "Tonico energetico"
         },
-        "decorations_name": "Decorations",
+        "decorations_name": "Decorazioni",
         "cleric_tome_recipe": {
-          "recipe_name": "Cleric's Tome",
-          "description": "Required to promote a hearthling to a cleric"
+          "recipe_name": "Tomo del Chierico",
+          "description": "Richiesto per promuovere un cittadino a un chierico"
         },
-        "tools_name": "Tools",
+        "tools_name": "Utensili",
         "frostsnap_transmute_recipe": {
-          "description": "Separate seeds from the herbs",
-          "recipe_name": "Frostsnap Seeds (x3)",
-          "flavor": "Only a skilled hand can harvest the weaker seeds, but the herbs are lost in the process."
+          "description": "Separare i semi dalle erbe",
+          "recipe_name": "Semi di Frostsnap (x3)",
+          "flavor": "Solo una mano esperta può raccogliere i semi più deboli, ma le erbe si perdono nel processo."
         },
         "cactus_transmute_recipe": {
-          "description": "Separate seeds from the herbs",
-          "recipe_name": "Wild Cactus Seeds (x3)",
-          "flavor": "Only a skilled hand can harvest the weaker seeds, but the herbs are lost in the process."
+          "description": "Separare i semi dalle erbe",
+          "recipe_name": "Semi di cactus selvatici (x3)",
+          "flavor": "Solo una mano esperta può raccogliere i semi più deboli, ma le erbe si perdono nel processo."
         },
         "brightbell_transmute_recipe": {
-          "description": "Separate seeds from the herbs",
-          "recipe_name": "Brightbell Seeds (x3)",
-          "flavor": "Only a skilled hand can harvest the weaker seeds, but the herbs are lost in the process."
+          "description": "Separare i semi dalle erbe",
+          "recipe_name": "Semi di Brightbell (x3)",
+          "flavor": "Solo una mano esperta può raccogliere i semi più deboli, ma le erbe si perdono nel processo."
         },
         "berry_bush_transmute_recipe": {
-          "description": "Separate seeds from the fruit",
-          "recipe_name": "Berry Bush Seeds (x3)",
-          "flavor": "Only a skilled hand can harvest the weaker seeds, but the fruit is lost in the process."
+          "description": "Separare i semi dalle erbe",
+          "recipe_name": "Semi di cespuglio di bacche (x3)",
+          "flavor": "Solo una mano esperta può raccogliere i semi più deboli, ma il frutto si perde nel processo."
         },
-        "refined_name": "Refinement",
+        "refined_name": "Raffinatezza",
         "cactus_tulip_blue_transmute_recipe": {
-          "description": "Separate seeds from the herbs",
-          "recipe_name": "Tulip Cactus Seeds (Blue x3)",
-          "flavor": "Only a skilled hand can harvest the weaker seeds, but the herbs are lost in the process."
+          "description": "Separare i semi dalle erbe",
+          "recipe_name": "Semi di tulipano cactus (Blu x3)",
+          "flavor": "Solo una mano esperta può raccogliere i semi più deboli, ma le erbe si perdono nel processo."
         },
         "cactus_tulip_red_transmute_recipe": {
-          "description": "Separate seeds from the herbs",
-          "recipe_name": "Tulip Cactus Seeds (Red x3)",
-          "flavor": "Only a skilled hand can harvest the weaker seeds, but the herbs are lost in the process."
+          "description": "Separare i semi dalle erbe",
+          "recipe_name": "Semi di cactus di tulipano (Rosso x3)",
+          "flavor": "Solo una mano esperta può raccogliere i semi più deboli, ma le erbe si perdono nel processo."
         },
         "cactus_tulip_yellow_transmute_recipe": {
-          "description": "Separate seeds from the herbs",
-          "recipe_name": "Tulip Cactus Seeds (Yellow x3)",
-          "flavor": "Only a skilled hand can harvest the weaker seeds, but the herbs are lost in the process."
+          "description": "Separare i semi dalle erbe",
+          "recipe_name": "Semi di cactus di tulipano (Giallo x3)",
+          "flavor": "Solo una mano esperta può raccogliere i semi più deboli, ma le erbe si perdono nel processo."
         },
         "tulip_cactus_red_transmute_recipe": {
-          "description": "Separate seeds from the herbs",
-          "recipe_name": "Tulip Cactus Red Seeds (x3)",
-          "flavor": "Only a skilled hand can harvest the weaker seeds, but the herbs are lost in the process."
+          "description": "Separare i semi dalle erbe",
+          "recipe_name": "Semi di tulipano cactus rosso (x3)",
+          "flavor": "Solo una mano esperta può raccogliere i semi più deboli, ma le erbe si perdono nel processo."
         },
         "tulip_cactus_blue_transmute_recipe": {
-          "description": "Separate seeds from the herbs",
-          "recipe_name": "Tulip Cactus Blue Seeds (x3)",
-          "flavor": "Only a skilled hand can harvest the weaker seeds, but the herbs are lost in the process."
+          "description": "Separare i semi dalle erbe",
+          "recipe_name": "Semi di tulipano cactus blu (x3)",
+          "flavor": "Solo una mano esperta può raccogliere i semi più deboli, ma le erbe si perdono nel processo."
         },
         "tulip_cactus_yellow_transmute_recipe": {
-          "description": "Separate seeds from the herbs",
-          "recipe_name": "Tulip Cactus Yellow Seeds (x3)",
-          "flavor": "Only a skilled hand can harvest the weaker seeds, but the herbs are lost in the process."
+          "description": "Separare i semi dalle erbe",
+          "recipe_name": "Semi di tulipano cactus giallo (x3)",
+          "flavor": "Solo una mano esperta può raccogliere i semi più deboli, ma le erbe si perdono nel processo."
         },
         "wax_plant_green_transmute_recipe": {
-          "description": "Separate seeds from the plant.",
-          "recipe_name": "Wax Plant Seeds (Green x3)",
-          "flavor": "Only a skilled hand can harvest the weaker seeds, but the plant is lost in the process."
+          "description": "Separare i semi dalla pianta.",
+          "recipe_name": "Semi di piante di cera (Verde x3)",
+          "flavor": "Solo una mano esperta può raccogliere i semi più deboli, ma la pianta si perde nel processo."
         },
         "wax_plant_purple_transmute_recipe": {
-          "description": "Separate seeds from the plant.",
-          "recipe_name": "Wax Plant Seeds (Purple x3)",
-          "flavor": "Only a skilled hand can harvest the weaker seeds, but the plant is lost in the process."
+          "description": "Separare i semi dalla pianta.",
+          "recipe_name": "Semi di piante di cera (Viola x3)",
+          "flavor": "Solo una mano esperta può raccogliere i semi più deboli, ma la pianta si perde nel processo."
         },
         "foxlily_transmute_recipe": {
-          "description": "Separate seeds from the plant",
-          "recipe_name": "Foxlily Seeds (x3)",
-          "flavor": "Only a skilled hand can harvest the weaker seeds, but the plant is lost in the process."
+          "description": "Separare i semi dalla pianta.",
+          "recipe_name": "Semi Foxlily (x3)",
+          "flavor": "Solo una mano esperta può raccogliere i semi più deboli, ma la pianta si perde nel processo."
         },
         "sunflower_transmute_recipe": {
-          "description": "Separate seeds from the plant",
-          "recipe_name": "Sunflower Seeds (x3)",
-          "flavor": "Only a skilled hand can harvest the weaker seeds, but the plant is lost in the process."
+          "description": "Separare i semi dalla pianta.",
+          "recipe_name": "Semi di girasole (x3)",
+          "flavor": "Solo una mano esperta può raccogliere i semi più deboli, ma la pianta si perde nel processo."
         },
         "pear_cactus_recipe": {
-          "description": "Separate seeds from the fruit",
-          "recipe_name": "Prickly Pear Seeds (x3)",
-          "flavor": "Only a skilled hand can harvest the weaker seeds, but the fruit is lost in the process."
+          "description": "Separare i semi dal frutto",
+          "recipe_name": "Semi di fico d'india (x3)",
+          "flavor": "Solo una mano esperta può raccogliere i semi più deboli, ma il frutto si perde nel processo."
         },
         "wall_hanging_berrywreath_recipe": {
-          "description": "Perfect for any occasion",
-          "recipe_name": "Berry Wreath",
-          "flavor": "You could eat the berries, but it'd ruin the wreath."
+          "description": "Perfetto per ogni occasione",
+          "recipe_name": "Ghirlanda di bacche",
+          "flavor": "Potresti mangiare le bacche, ma rovinerebbe la corona."
         },
         "topiary_rabbit_recipe": {
-          "description": "Fluffy wildlife topiary",
-          "recipe_name": "Berry Bun",
-          "flavor": "I know it grows back, but I hate to pick its tail..."
+          "description": "Arte topiaria soffice della fauna selvatica",
+          "recipe_name": "Panino ai frutti di bosco",
+          "flavor": "So che ricresce, ma odio sceglierne la coda..."
         },
         "topiary_mammoth_recipe": {
-          "description": "Massive topiary pachyderm",
-          "recipe_name": "Berry Mammoth",
-          "flavor": "I swear I just saw it blink"
+          "description": "Pachiderma topiario massiccio",
+          "recipe_name": "Mammut di bacche",
+          "flavor": "Giuro che l'ho appena visto battere le palpebre"
         },
         "topiary_fox_recipe": {
-          "description": "Much better for pie than jerky",
-          "recipe_name": "Berry Fox",
-          "flavor": "Don't plant it in your poyo coop"
+          "description": "Molto meglio per la torta che per la carne essiccata",
+          "recipe_name": "Volpe di bacche",
+          "flavor": "Non piantarlo nel tuo pollaio"
         },
         "pot_berry_bush_recipe": {
-          "description": "A carefully crated friend.",
-          "recipe_name": "Potted Berry Bush"
+          "description": "Un amico attentamente curato.",
+          "recipe_name": "Cespuglio di bacche in vaso"
         },
         "pot_goldrose_recipe": {
-          "description": "Hearty yellow blossoms",
-          "recipe_name": "Goldrose Bush",
-          "flavor": "Goldrose tea is an old-fashioned pick-me-up. It apparently tastes different for everyone."
+          "description": "Fiori gialli abbondanti",
+          "recipe_name": "Cespuglio di Goldrose",
+          "flavor": "Il tè Goldrose è un vecchio stile a prendermi. Apparentemente ha un sapore diverso per tutti."
         },
         "pot_moondrop_recipe": {
-          "description": "Silvery and serene",
-          "recipe_name": "Moondrop Bush",
-          "flavor": "Never press or dry the flowers. Enjoy them now, and look forward to the next ones."
+          "description": "Argenteo e sereno",
+          "recipe_name": "Cespuglio di Moondrop",
+          "flavor": "Non premere o asciugare mai i fiori. Divertiti ora e attendo con ansia i prossimi."
         },
         "pot_redbloom_recipe": {
-          "description": "A rosy shrub",
-          "recipe_name": "Redbloom Bush",
-          "flavor": "A Redbloom bouquet invites fortune, the nature of which depends on the number of flowers. Be very careful."
+          "description": "Un arbusto roseo",
+          "recipe_name": "Cespuglio di redbloom",
+          "flavor": "Un bouquet di Redbloom invita alla fortuna, la cui natura dipende dal numero di fiori. Essere molto attenti."
         },
         "tree_goldrose_recipe": {
-          "description": "Aglow with golden blossoms",
-          "recipe_name": "Goldrose Tree",
-          "flavor": "Favored among travelers, goldroses carry the warmth of hearth and home"
+          "description": "Brillante con fiori d'oro",
+          "recipe_name": "Albero di Goldrose",
+          "flavor": "Favorito tra i viaggiatori, i goldroses portano il calore del cittadino e della casa"
         },
         "tree_moondrop_recipe": {
-          "description": "Dazzling in the moment",
-          "recipe_name": "Moondrop Tree",
-          "flavor": "Moondrops symbolize a journey's close, and new beginnings. They bloom at the turn of the page"
+          "description": "Abbagliante nel momento",
+          "recipe_name": "Albero Di Moondrop",
+          "flavor": "I moondrops simboleggiano la chiusura di un viaggio e nuovi inizi. Fioriscono al volgere della pagina"
         },
         "tree_redbloom_recipe": {
-          "description": "Meticulously well tended",
-          "recipe_name": "Redbloom Tree",
-          "flavor": "Redblooms are for luck. An odd number of petals is especially lucky, though no one's ever seen such a blossom."
+          "description": "Meticolosamente ben curato",
+          "recipe_name": "Albero di redbloom",
+          "flavor": "Redblooms è per fortuna. Un numero dispari di petali è particolarmente fortunato, sebbene nessuno abbia mai visto un tale fiore."
         },
         "leaf_setting_recipe": {
-          "description": "Delicately frames and protects the Shining Circlet",
-          "recipe_name": "Silverleaf Setting",
-          "flavor": "Cast from actual leaves in layers of silver and gold, they're stronger than they look"
+          "description": "Incornicia delicatamente e protegge il cerchietto splendente",
+          "recipe_name": "Impostazione foglia d'argento",
+          "flavor": "Cast da foglie reali in strati di argento e oro, sono più forti di quanto sembri"
         },
         "violet_transmute_recipe": {
-          "description": "Pluck the seeds from the flower",
-          "recipe_name": "Violet Seeds (x3)",
-          "flavor": "Only a skilled hand can harvest the weaker seeds, but the herbs are lost in the process."
+          "description": "Prendi i semi dal fiore",
+          "recipe_name": "Semi viola (x3)",
+          "flavor": "Solo una mano esperta può raccogliere i semi più deboli, ma le erbe si perdono nel processo."
         },
         "tumbleweed_transmute_recipe": {
-          "description": "Pluck spare seeds from the fiber",
-          "recipe_name": "Tumbleweed Seeds (x3)",
-          "flavor": "Only a skilled hand can harvest the weaker seeds, but the fiber is destroyed in the process."
+          "description": "Raccogli i semi di ricambio dalla fibra",
+          "recipe_name": "Semi di Tumbleweed (x3)",
+          "flavor": "Solo una mano esperta può raccogliere i semi più deboli, ma la fibra viene distrutta nel processo."
         },
         "wintermoss_transmute_recipe": {
-          "description": "Pluck spare seeds from the fiber",
-          "recipe_name": "Wintermoss Seeds (x3)",
-          "flavor": "Only a skilled hand can harvest the weaker seeds, but the fiber is destroyed in the process."
+          "description": "Raccogli i semi di ricambio dalla fibra",
+          "recipe_name": "Semi di muschio invernale (x3)",
+          "flavor": "Solo una mano esperta può raccogliere i semi più deboli, ma la fibra viene distrutta nel processo."
         },
         "sweet_potato_transmute_recipe": {
-          "description": "Potatoes can be cut up and planted",
-          "recipe_name": "Sweet Potato Slips (x3)",
-          "flavor": "This doesn't require so much of a skilled hand as simply cutting the potatoes into wedges and sticking them into the ground."
+          "description": "Le patate possono essere tagliate e piantate",
+          "recipe_name": "Scivoli di patate dolci (x3)",
+          "flavor": "Ciò non richiede così tanto di una mano abile come tagliare semplicemente le patate a spicchi e infilarle nel terreno."
         },
         "snow_poppy_transmute_recipe": {
-          "description": "Pluck the seeds from the flower",
-          "recipe_name": "Snow Poppy Seeds (x3)",
-          "flavor": "Only a skilled hand can harvest the weaker seeds, but the herbs are lost in the process."
+          "description": "Prendi i semi dal fiore",
+          "recipe_name": "Semi di papavero delle nevi (x3)",
+          "flavor": "Solo una mano esperta può raccogliere i semi più deboli, ma le erbe si perdono nel processo."
         }
       },
       "herbalist_buffs": {
         "willpower_1_buff": {
-          "display_name": "Natural Regeneration",
-          "description": "The herbalist has improved health regeneration and diligence"
+          "display_name": "Rigenerazione Naturale",
+          "description": "L'erborista ha migliorato la rigenerazione e la diligenza della salute"
         }
       },
       "herbalist_pestle": {
-        "display_name": "Herbalist's Pestle",
-        "description": "Tools of the trade for an herbalist."
+        "display_name": "Pestello dell'erborista",
+        "description": "Strumenti del mestiere per un erborista."
       },
       "herbalist_mortar": {
-        "display_name": "Herbalist's Mortar",
-        "description": "Tools of the trade for an herbalist."
+        "display_name": "Mortaio dell'erborista",
+        "description": "Strumenti del mestiere per un erborista."
       }
     },
     "cleric": {
       "cleric_outfit": {
-        "display_name": "Cleric's Robes",
-        "description": "Holy garb worn by the devout few"
+        "display_name": "Abiti da chierico",
+        "description": "Abito sacro indossato da pochi devoti"
       },
       "cleric_description": {
-        "display_name": "Cleric",
-        "description": "A combat healer",
-        "requirements": "Crafted by Herbalist",
+        "display_name": "Chierico",
+        "description": "Un guaritore da combattimento",
+        "requirements": "Creato dall'erborista",
         "level_1_data": {
-          "perk_000_name": "Healing Aura",
-          "perk_001_name": "Minor Strength",
-          "perk_000_description": "The cleric's presence heals everyone around them periodically",
-          "perk_001_description": "The cleric's presence improves the muscle of those around them"
+          "perk_000_name": "Aura curativa",
+          "perk_001_name": "Forza minore",
+          "perk_000_description": "La presenza del chierico guarisce periodicamente tutti coloro che li circondano",
+          "perk_001_description": "La presenza del chierico migliora il muscolo di coloro che li circondano"
         },
         "level_2_data": {
-          "perk_000_name": "Compassion Up",
-          "perk_000_description": "Increased compassion for increased direct healing"
+          "perk_000_name": "Compassione",
+          "perk_000_description": "Maggiore compassione per una maggiore guarigione diretta"
         },
         "level_3_data": {
-          "perk_000_name": "Heal Aura (Rank 2)",
-          "perk_000_description": "Healing aura power and radius increased"
+          "perk_000_name": "Guarire aura (Grado 2)",
+          "perk_000_description": "Potere e raggio dell'aura curativa aumentati"
         },
         "level_6_data": {
-          "perk_000_name": "Healing Master",
-          "perk_000_description": "The cleric has mastered the art of healing. Compassion greatly increased."
+          "perk_000_name": "Maestro curativo",
+          "perk_000_description": "Il chierico ha imparato l'arte della guarigione. La compassione è notevolmente aumentata."
         },
         "level_4_data": {
-          "perk_000_name": "Heal Aura (Rank 3)",
-          "perk_000_description": "Healing Aura range increased"
+          "perk_000_name": "Guarire aura (Grado 3)",
+          "perk_000_description": "Gamma dell'aura curativa aumentata"
         },
         "level_5_data": {
-          "perk_000_name": "Major Strength",
-          "perk_000_description": "The cleric's presence greatly improves the muscle of those around them"
+          "perk_000_name": "Maggiore forza",
+          "perk_000_description": "La presenza del chierico migliora notevolmente il muscolo di coloro che li circondano"
         }
       },
       "cleric_tome": {
         "cleric_tome_talisman": {
-          "display_name": "Cleric's Tome",
-          "description": "Required to promote a hearthling to a Cleric"
+          "display_name": "Tomo di Chierico",
+          "description": "Richiesto per promuovere un cittadino a un chierico"
         },
-        "display_name": "Tome of Healing",
-        "description": "Contains sacred texts on the way of the cleric"
+        "display_name": "Tomo della Guarigione",
+        "description": "Contiene testi sacri sulla via del chierico"
       },
       "cleric_buffs": {
         "heal_aura_1_buff": {
-          "display_name": "Healing Aura",
-          "description": "The cleric's presence heals everyone around them periodically"
+          "display_name": "Aura curativa",
+          "description": "La presenza del chierico guarisce periodicamente tutti coloro che li circondano"
         },
         "add_health_small_buff": {
-          "display_name": "Small Heal",
-          "description": "From a healing aura!"
+          "display_name": "Piccola Guarigione",
+          "description": "Da un'aura di guarigione!"
         },
         "minor_muscle_aura_buff": {
-          "display_name": "Minor Strength Aura",
-          "description": "Increases strength of those around by a small amount"
+          "display_name": "Aura di forza minore",
+          "description": "Aumenta la forza di quelli in torno di una piccola quantità"
         },
         "minor_muscle_aura_effect_buff": {
-          "display_name": "Minor Strength",
-          "description": "Strength improved slightly from the presence of a cleric"
+          "display_name": "Forza minore",
+          "description": "La forza è leggermente migliorata dalla presenza di un chierico"
         },
         "compassion_1_buff": {
-          "display_name": "Compassion Up",
-          "description": "Compassion Increased by 20%"
+          "display_name": "Compassione",
+          "description": "Compassione aumentata del 20%"
         },
         "heal_aura_2_buff": {
-          "display_name": "Heal Aura (Rank 2)",
-          "description": "The cleric's presence heals everyone around them periodically."
+          "display_name": "Guarire aura (Grado 2)",
+          "description": "La presenza del chierico guarisce periodicamente tutti coloro che li circondano."
         },
         "add_health_medium_buff": {
-          "display_name": "Healing Medium",
-          "description": "Healing for a medium amount"
+          "display_name": "Mezzo curativo",
+          "description": "Guarigione per un importo medio"
         },
         "compassion_2_buff": {
-          "display_name": "Compassion Up",
-          "description": "Compassion Increased by 40%"
+          "display_name": "Compassione",
+          "description": "Compassione aumentata del 40%"
         },
         "major_muscle_aura_buff": {
-          "display_name": "Major Strength Aura",
-          "description": "Greatly increases the muscle of those around"
+          "display_name": "Aura di forza maggiore",
+          "description": "Aumenta notevolmente il muscolo di quelli intorno"
         },
         "major_muscle_aura_effect_buff": {
-          "display_name": "Major Strength",
-          "description": "Muscle improved greatly from the presence of a cleric"
+          "display_name": "Maggiore forza",
+          "description": "Il muscolo è migliorato notevolmente dalla presenza di un chierico"
         },
         "legendary_circlet_buff": {
-          "display_name": "Shining Circlet",
-          "description": "Increases Willpower, Courage, and Compassion by 10%"
+          "display_name": "Cerchietto splendente",
+          "description": "Aumenta la forza di volontà, il coraggio e la compassione del 10%"
         },
         "wolf_helmet_buff": {
-          "display_name": "Hunter's Awareness",
-          "description": "Increases Diligence by 20%"
+          "display_name": "Consapevolezza del cacciatore",
+          "description": "Aumenta la diligenza del 20%"
         }
       }
     },
     "magmasmith": {
       "magmasmith_outfit": {
-        "display_name": "Magmasmith Outfit",
-        "description": "Traditional uniform of the Magmasmith."
+        "display_name": "Abito da fabbro",
+        "description": "Uniforme tradizionale del fabbro."
       },
       "magmasmith_hammer": {
         "magmasmith_hammer_talisman": {
-          "display_name": "Magmasmith's Hammer",
-          "description": "Required to promote a hearthling to a Magmasmith"
+          "display_name": "Martello del fabbro",
+          "description": "Richiesto per promuovere un cittadino a un fabbro"
         },
-        "display_name": "Magmasmith's Hammer",
-        "description": "Lava to the face"
+        "display_name": "Martello del fabbro",
+        "description": "Lava in faccia"
       },
       "magmasmith_forge": {
         "magmasmith_forge_ghost": {
-          "display_name": "Magmasmith Forge",
-          "description": "Like a normal forge, except a lot hotter"
+          "display_name": "Forgia del fabbro",
+          "description": "Come una normale fucina, tranne che molto più calda"
         }
       },
       "magmasmith_workbench": {
         "magmasmith_workbench_ghost": {
-          "display_name": "Magmasmith Workbench",
-          "description": "Lava flows from within"
+          "display_name": "Banco da lavoro per fabbro",
+          "description": "La lava scorre dall'interno"
         }
       },
       "magmasmith_description": {
-        "display_name": "Magmasmith",
-        "description": "Crafts from magma",
-        "requirements": "Level 2 blacksmith and Magmasmith's hammer"
+        "display_name": "Fabbro",
+        "description": "Artigianato dal magma",
+        "requirements": "Fabbro di livello 2 e martello da fabbro"
       },
       "recipes": {
-        "workbenches_name": "Workbenches"
+        "workbenches_name": "Banchi di lavoro"
       }
     },
     "knight": {
