@@ -10,4 +10,4 @@ La frase da tradurre si trova all'interno delle virgolette "Frase in inglese", l
 Traduzione completa se ci sono errori potete scrivere qui su issues grazie
 
 # Come posso ringraziarti?
-Se vuoi ringraziarmi potresti fare una piccola donazione(anche un caffè) con paypall su questo sito: https://streamelements.com/andyd24/tip
+Se vuoi ringraziarmi potresti fare una piccola donazione(anche un caffè) con paypal su questo sito: https://streamelements.com/andyd24/tip
